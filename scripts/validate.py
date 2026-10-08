@@ -48,4 +48,17 @@ for path in paths:
         assert isinstance(item["features"], list)
         count += 1
 
-print(f"OK: {count} models, {len(seen)} unique IDs, {len(paths)} catalog files")
+# Scope is separate from source catalogs, with default-deny for unlisted IDs.
+scope = json.loads((data_dir / "download-scope.json").read_text(encoding="utf-8"))
+assert scope["schema_version"] == 1 and scope["policy"] == "default_deny"
+humanoid = scope["humanoid_candidates"]
+non_humanoid = scope["non_humanoid"]
+assert isinstance(humanoid, list) and isinstance(non_humanoid, list)
+assert all(isinstance(i, str) and i for i in [*humanoid, *non_humanoid])
+assert len(humanoid) == len(set(humanoid)), "duplicate humanoid ID"
+assert len(non_humanoid) == len(set(non_humanoid)), "duplicate nonhumanoid ID"
+assert not (set(humanoid) & set(non_humanoid)), "overlapping scope IDs"
+assert set(humanoid).issubset(seen), "unknown humanoid ID"
+assert set(non_humanoid).issubset(seen), "unknown nonhumanoid ID"
+pending = count - len(humanoid) - len(non_humanoid)
+print(f"OK: {count} models, {len(seen)} unique IDs, {len(paths)} catalog files; scope: {len(humanoid)} humanoid candidates, {len(non_humanoid)} nonhumanoid, {pending} pending")

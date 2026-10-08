@@ -6,6 +6,7 @@
 
 - [モデル一覧（JSON）](data/models.json)
 - [収録・検証方針](docs/collection-policy.md)
+- [追加調査・保留候補](docs/research-notes.md)
 
 VRM 0.x / 1.0のモデル、アバター型と機能検証用モデルを対象とします。無料の編集ソフトからVRMとして書き出せる公式サンプルも対象です。
 
@@ -14,6 +15,8 @@ VRM 0.x / 1.0のモデル、アバター型と機能検証用モデルを対象�
 | `direct_vrm` | 公式配布先からVRMファイルを直接取得 |
 | `vroid_hub_vrm` | VRoid Hubの公式モデルページからVRMを取得 |
 | `vroid_studio_export` | 無料のVRoid Studioでサンプルを読み込み、VRMとして書き出す |
+| `official_page_download` | 公式配布ページの手順・同意確認などを経て入手 |
+| `booth_free_download` | 権利者のBOOTHページにある0円配布物を入手 |
 
 **無料であればログイン、会員登録、年齢確認が必要でも収録します。** 各サービスの利用規約・年齢制限等に従って取得してください。料金が必要なモデルは対象外です。
 
@@ -24,8 +27,10 @@ VRM 0.x / 1.0のモデル、アバター型と機能検証用モデルを対象�
 - `official_repository_file_listed`: 公式リポジトリでVRMファイルの存在を確認
 - `official_hub_and_help_confirmed`: VRoid公式ヘルプと公式Hubモデルページで配布案内を確認
 - `official_help_confirmed_export_untested`: 公式ヘルプが無料モデルと書き出し方法を案内。個別エクスポートは未検証
+- `official_free_distribution_listed_download_untested`: 公式配布元に無料のVRM配布案内を確認。個別の実ダウンロードは未検証
 
-`vrm_version: null` は、実際に書き出したVRMの仕様バージョンが未確認であることを示します。
+`vrm_version: null` は、配布モデルの実ファイルに含まれるVRM仕様バージョンが未確認であることを示します。
+同じモデルに複数のVRM仕様版やLOW/HIGHなど異なる取得物がある場合は別レコードとします。
 
 ## 注意
 

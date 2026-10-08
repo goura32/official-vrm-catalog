@@ -6,14 +6,14 @@
 
 | ファイル | 収録範囲 | 件数 |
 | --- | --- | ---: |
-| [data/models.json](data/models.json) | 公式・作者配布モデル（過去の調査を含む） | 463 |
+| [data/models.json](data/models.json) | 公式・作者配布モデル（過去の調査を含む） | 487 |
 | [polygonalmind-001-050.json](data/collections/polygonalmind-001-050.json) | Polygonal Mind 001〜050・通常/Voxel | 100 |
 | [polygonalmind-051-100.json](data/collections/polygonalmind-051-100.json) | Polygonal Mind 051〜100・通常/Voxel | 100 |
 | [polygonalmind-101-150.json](data/collections/polygonalmind-101-150.json) | Polygonal Mind 101〜150・通常/Voxel | 100 |
 | [polygonalmind-151-200.json](data/collections/polygonalmind-151-200.json) | Polygonal Mind 151〜200・通常/Voxel | 100 |
 | [mjmoonbow-fantasy.json](data/collections/mjmoonbow-fantasy.json) | MJMoonbow原作者公開のCC0ファンタジー系VRM | 18 |
 | [polygonalmind-201-300.json](data/collections/polygonalmind-201-300.json) | 100Avatars R3・制作者公開のArweave VRM（201〜300） | 100 |
-| **合計** | **200キャラクター×2配布版を含む** | **981** |
+| **合計** | **200キャラクター×2配布版を含む** | **1,005** |
 
 [収録・検証方針](docs/collection-policy.md) ／ [追加調査・保留候補](docs/research-notes.md)
 
@@ -95,6 +95,10 @@ VRM 0.x / 1.0のモデル、アバター型と機能検証用モデルを対象�
 - [Avatar Shop](https://booth.pm/ja/items/8436605)・[四號](https://booth.pm/ja/items/5820982)・[ロイドちゃん](https://booth.pm/ja/items/8117808) — 作者本人による無料VRM
 - [CecyliaMun](https://booth.pm/ja/items/8944341) — ARVENDAL無料版、[Wolf Boy](https://booth.pm/ja/items/8949948)の2種類の無料VRM（有料の15種類パックを除外）
 - [仮想洋品](https://booth.pm/ja/items/8907607) — BREAK VENOM等の無料アバター5件、[ATOR工房](https://booth.pm/ja/items/8708753) — 無料のクローモンスター・コマンドーうさぎ
+- [hinzka PerfectSyncSample](https://github.com/hinzka/52blendshapes-for-VRoid-face) — 表情トラッキング用52 BlendShapes対応の男性・女性VRM 2件。作者の利用条件および元素材規約を参照
+- [Wanime](https://booth.pm/ja/items/8575773)・[moss](https://booth.pm/ja/items/8318734) — 作者自身が無料公開する衣装・素体違いのVRM計5件
+- [撫子](https://booth.pm/ja/items/3845065) — 本体と素体、[あいすくりーす](https://booth.pm/ja/items/4944771) — いちご・ナッツ・チョコミントの直接VRM
+- [あづはちゃん](https://booth.pm/ja/items/8947261)・[ミニあづはちゃん](https://booth.pm/ja/items/8947514)、[ぴよたそ](https://booth.pm/ja/items/6433350)、[Julius](https://booth.pm/ja/items/5380991) — クリエイター・キャラクター公式ショップによる無料VRM
 
 「無料版」以外の有料編集データや有料機能は、モデルの収録対象に含めません。
 

@@ -6,13 +6,13 @@
 
 | ファイル | 収録範囲 | 件数 |
 | --- | --- | ---: |
-| [data/models.json](data/models.json) | 公式・作者配布モデル（過去の調査を含む） | 268 |
+| [data/models.json](data/models.json) | 公式・作者配布モデル（過去の調査を含む） | 311 |
 | [polygonalmind-001-050.json](data/collections/polygonalmind-001-050.json) | Polygonal Mind 001〜050・通常/Voxel | 100 |
 | [polygonalmind-051-100.json](data/collections/polygonalmind-051-100.json) | Polygonal Mind 051〜100・通常/Voxel | 100 |
 | [polygonalmind-101-150.json](data/collections/polygonalmind-101-150.json) | Polygonal Mind 101〜150・通常/Voxel | 100 |
 | [polygonalmind-151-200.json](data/collections/polygonalmind-151-200.json) | Polygonal Mind 151〜200・通常/Voxel | 100 |
 | [mjmoonbow-fantasy.json](data/collections/mjmoonbow-fantasy.json) | MJMoonbow原作者公開のCC0ファンタジー系VRM | 18 |
-| **合計** | **200キャラクター×2配布版を含む** | **686** |
+| **合計** | **200キャラクター×2配布版を含む** | **729** |
 
 [収録・検証方針](docs/collection-policy.md) ／ [追加調査・保留候補](docs/research-notes.md)
 
@@ -77,6 +77,10 @@ VRM 0.x / 1.0のモデル、アバター型と機能検証用モデルを対象�
 - [Quanstella](https://booth.pm/ja/items/5922294)・[Lua](https://booth.pm/ja/items/7682427)・[桜夜](https://booth.pm/ja/items/5513788) — 作者配布の無料VRM、旧・新版は別件
 - [Hatsuka](https://booth.pm/ja/items/3871143) — PC用・Quest用VRM、[鳥アバター](https://booth.pm/ja/items/5444666) — 通常・テクスチャ改良版
 - [ほねまる家](https://booth.pm/ja/items/6530666)・[たぬきおにぎり](https://booth.pm/ja/items/7239598)・[こたつみかん](https://booth.pm/ja/items/6686224) — 無料マスコットVRM
+- [柊依屋の海羽・琴華・梓乃・杏澄](https://booth.pm/ja/items/6323296) — 無料VRM ZIPの通常・表情拡張版／更新版を区別して収録
+- [桜美堂の無料アバター](https://booth.pm/ja/items/6516048) — めいめい、かみや、みるっち、めぐみっち、まきのっち、ブルーベル
+- [ぴえんシリーズ](https://booth.pm/ja/items/5389330) — 無料ZIP内の7体、[バレンタインミミック](https://booth.pm/ja/items/5463323) — 4色のVRM
+- [くらんものクラゲ・エルフ](https://booth.pm/ja/items/4150979) — 無料版のみ、[JIMA_3D](https://booth.pm/ja/items/8737858) — マッスル鳩・カマキリ・マーモットの無料版
 
 「無料版」以外の有料編集データや有料機能は、モデルの収録対象に含めません。
 

@@ -100,3 +100,22 @@ BOOTHの商品ごとに「ダウンロード商品 ¥0」とVRM本体の配布�
 **引き続き保留**：[七百屋 vol.3](https://booth.pm/ja/items/4937868) は共通商品ページが0円と案内するもののショップ固有URLが「非公開中」と表示されるため、今回の追加対象外。VRMモデルの現物を明記していないアプリ、変換ツール、第三者IPのファンモデルも対象外。
 
 ファイル原本は収録拡充後、Hermes Agentによる実機確認時に `/mnt/hdd/vrm` へ保存する。
+
+## 新規CC0コレクションと作者BOOTH無料VRM（2026-10-08）
+
+616→659件（+43件）に拡充。原作者配布元を追加し、既存のPolygonal Mind 400件に偏らないようにした。
+
+### MJMoonbow（18件）
+
+- [VRMavatars](https://github.com/MJMoonbow/VRMavatars) の作者READMEとCC0 1.0 LICENSEを確認。GitHubツリーに `.vrm` 23パスがあるうち、**5ファイルは2バイトしかなくVRMとして成立しないため除外**。それ以外の18ファイルの正確なパスとGitHub上のバイト数を `data/collections/mjmoonbow-fantasy.json` に記録。
+- 原作者側がCC0と表明していることを根拠に採録。実ファイル内部・VRM仕様バージョン・レンダリングは未確認。
+
+### BOOTH（25件）
+
+- [Kado購買部フロウ](https://booth.pm/ja/items/8118323)：薄型、Ver.2の軽量・Perfect Sync、Ver.3通常・Perfect Sync・アウターなし2種、メモリアル版2種の9件。モデル単体と同じモデルを含むZIPは重複カウントせず、アウターなし版は「コンプリート版.zip」を配布元として記録。
+- [彩瞳 Ayame](https://booth.pm/ja/items/3126282)：VRMセットの新旧2件。商品名Ver.1/2はVRM規格の0.x/1.0を意味しないため `vrm_version=null`。
+- [ほしうさ](https://booth.pm/ja/items/2556708)：作者が2026年に無料再公開した旧アバター（くろ・ピンク）2件。[ぜろに](https://booth.pm/ja/items/6952609)：VRM 0.xの小型モデル。
+- [リウォレ](https://booth.pm/ja/items/4458219)：無料の同一ZIPに `Normal_01.vrm`、`Normal_02.vrm`、`Rop_01.vrm`、`Rop_02.vrm` を公式記載し4件。
+- [N](https://booth.pm/ja/items/6315693)、[△256穴子](https://booth.pm/ja/items/3983431)、[ぷち尚也／ぷち柚希](https://booth.pm/ja/items/6594471)、[紬たか](https://booth.pm/ja/items/3537750)、[PURIN／PURIN+](https://booth.pm/ja/items/5082441)も無償配布として登録。
+
+**保留**：配布名にVRMとある衣装・髪型のセットなど、モデル本体が含まれるか不明な商品は除外。第三者が制作したモデルの二次配布や非公開モデル、作者の許可が未確認な場合も保留する。購入不要であることは実ダウンロード成功と同義ではなく、後日のHermes実機確認で取得可否を確認し、原本を `/mnt/hdd/vrm` に保存する。

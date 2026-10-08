@@ -42,6 +42,29 @@ VRMバイナリを取得することなく、公開作者データから次の�
 
 各ギャラリーは静止画像のURLを参照するだけであり、VRM原本をダウンロード・解析したものではない。特にArweave/IPFSの画像URLは現在のHTTP応答を全件検証できていない。また静止プレビューが欠ける場合は非人型と決めつけず、保留にする。
 
+## NeonGlitch86 作者GitHubとの収録差分（2026-10-08）
+
+[作者のGitHubツリー（固定コミット）](https://github.com/neonglitch86/vrm/tree/667eb3164617106d4cc5c8a1ed94c9a88bff9ebe)にはVRMファイルが**46件**ある。既登録のGitHub由来34件は、全件ファイル名・公開ツリーのバイト数が一致した。別に作者登録索引由来のIPFS 2件が登録されており、NeonGlitch86としての登録は現状36件。
+
+作者GitHubに存在するが、現時点で**未登録の12ファイル**は以下。バイト数はGitHubツリーのメタデータであり、VRMの実取得・描画・形式検証を意味しない。
+
+| 未登録ファイル | GitHub上のサイズ（バイト） |
+| --- | ---: |
+| [`G_A.vrm`](https://github.com/neonglitch86/vrm/blob/667eb3164617106d4cc5c8a1ed94c9a88bff9ebe/G_A.vrm) | 4,186,576 |
+| [`G_B.vrm`](https://github.com/neonglitch86/vrm/blob/667eb3164617106d4cc5c8a1ed94c9a88bff9ebe/G_B.vrm) | 4,381,744 |
+| [`G_C.vrm`](https://github.com/neonglitch86/vrm/blob/667eb3164617106d4cc5c8a1ed94c9a88bff9ebe/G_C.vrm) | 5,909,304 |
+| [`GG_1.vrm`](https://github.com/neonglitch86/vrm/blob/667eb3164617106d4cc5c8a1ed94c9a88bff9ebe/GG_1.vrm) | 5,565,488 |
+| [`Hasbulla.vrm`](https://github.com/neonglitch86/vrm/blob/667eb3164617106d4cc5c8a1ed94c9a88bff9ebe/Hasbulla.vrm) | 3,443,756 |
+| [`MAXMCD.vrm`](https://github.com/neonglitch86/vrm/blob/667eb3164617106d4cc5c8a1ed94c9a88bff9ebe/MAXMCD.vrm) | 11,066,668 |
+| [`MEMEPOLICE.vrm`](https://github.com/neonglitch86/vrm/blob/667eb3164617106d4cc5c8a1ed94c9a88bff9ebe/MEMEPOLICE.vrm) | 6,332,468 |
+| [`Peepo_sm.vrm`](https://github.com/neonglitch86/vrm/blob/667eb3164617106d4cc5c8a1ed94c9a88bff9ebe/Peepo_sm.vrm) | 1,734,520 |
+| [`PEPECANDY_.vrm`](https://github.com/neonglitch86/vrm/blob/667eb3164617106d4cc5c8a1ed94c9a88bff9ebe/PEPECANDY_.vrm) | 5,324,348 |
+| [`SBW_86.vrm`](https://github.com/neonglitch86/vrm/blob/667eb3164617106d4cc5c8a1ed94c9a88bff9ebe/SBW_86.vrm) | 7,372,308 |
+| [`SBW_86v2.vrm`](https://github.com/neonglitch86/vrm/blob/667eb3164617106d4cc5c8a1ed94c9a88bff9ebe/SBW_86v2.vrm) | 8,266,048 |
+| [`Summer_pbr.vrm`](https://github.com/neonglitch86/vrm/blob/667eb3164617106d4cc5c8a1ed94c9a88bff9ebe/Summer_pbr.vrm) | 6,271,948 |
+
+**扱い**：大規模な登録追加は凍結中のため、この12件は監査上の未登録候補として記録する。作者GitHubでの公開だけから個別の使用許諾を推定できず、形状も未確認。どれも人型ダウンロード候補へ自動追加せず、**取得禁止**を維持する。将来追加する場合は個別の配布条件・重複・形状根拠を確認し、未判定として登録する。
+
 ## 重要な残課題と優先順位
 
 1. **形状判定**：Polygonal Mindの複数シリーズ計640件には人型と非人型が混在する可能性が高い。Halloween Rising、Xmas Chibis、R3はシリーズ名だけで一括採用しない。NeonGlitch86 36件・MJMoonbow 18件・その他の保留分も画像付きの制作者資料で分類する。

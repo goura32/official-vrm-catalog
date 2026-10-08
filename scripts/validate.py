@@ -21,6 +21,10 @@ for item in items:
         assert urlparse(item["download_url"]).scheme == "https"
         assert item["download_url"].endswith(".vrm")
     assert item["vrm_version"] in ("0.x", "1.0", None)
+    if "distribution_filename" in item:
+        assert isinstance(item["distribution_filename"], str)
+        assert "/" not in item["distribution_filename"]
+        assert item["distribution_filename"].lower().endswith((".vrm", ".zip"))
     assert item["kind"] in ("avatar", "feature-test")
     assert isinstance(item["features"], list)
 print(f"OK: {len(items)} models, {len(ids)} unique IDs")

@@ -15,7 +15,7 @@
 ```text
 /mnt/hdd/vrm/
 ├── models/
-│   ├── <catalog_id>.zip         # ZIPを採用した場合: 内部は <catalog_id>.vrm 1個
+│   ├── <catalog_id>.zip         # ZIPを採用した場合: 内部は model.vrm 1個
 │   └── <catalog_id>.vrm.zst     # zstd採用の場合（同じIDで両方は保存しない）
 ├── previews/
 │   ├── <catalog_id>-tpose.webp  # 全身正面Tポーズ、768 × 1024
@@ -42,7 +42,7 @@ python3 scripts/benchmark_vrm_compression.py /tmp/a.vrm /tmp/b.vrm /tmp/c.vrm
 
 測定するのはVRMの元サイズ・圧縮後サイズ・処理時間・**復元SHA-256一致**。ZIPの追加容量が、モデル元サイズ合計の**3%以内**なら互換性優先でZIP、それを超えればzstdを採用する。3件未満、またはzstdコマンドがない場合は結論を保留する。結果は実機検証記録に残す。どちらを採用しても**全モデルを同じ形式に統一**し、重複した別形式は常用保管しない。
 
-異なるカタログIDでVRM SHA-256が完全一致した場合、同一NASファイルシステムならハードリンクでの重複排除を**後続の最適化候補**とする（現行の保存スクリプトはまだ自動重複排除しない）。
+異なるカタログIDでVRM SHA-256が完全一致した場合、**保存スクリプトは同一NASファイルシステム上の圧縮ファイルをハードリンクで共有**する。同一データを異なる名前で登録でき、モデル名・出典等はIDごとの索引で保持する。ZIP内のVRM名はID共通の`model.vrm`とし、ZIP外側のファイル名と索引でIDを識別する。ハードリンクできない場合は個別に圧縮保存する。
 
 ## 自動プレビュー作成
 
@@ -56,7 +56,7 @@ node generate.mjs --vrm /tmp/sample.vrm --id <catalog_id> \
 cd ../..
 ```
 
-生成されるのは `<catalog_id>-tpose.webp`、`<catalog_id>-face.webp`、**`<catalog_id>-previews.json`**。最後のJSONに元VRMのSHA-256、画像名・画素サイズを含め、取り違えを防ぐ。正面はVRM座標系に準拠した標準カメラとする。
+生成されるのは `<catalog_id>-tpose.webp`、`<catalog_id>-face.webp`、**`<catalog_id>-previews.json`**。最後のJSONに元VRMのSHA-256、画像名・画素サイズ・**画像ごとのSHA-256**を含め、取り違えや生成後のすり替わりを検知する。正面はVRM座標系に準拠した標準カメラとする。
 
 **自動生成は必ずしも全モデルで成功しない。** 頭部ボーン欠損、特殊な骨格、髪やアクセサリーの遮蔽、顔の画角、WebGLソフトウェアレンダリングの互換性などは実機で確認する。表示不可のモデルはサムネイルの代用を捏造せず、要手動対応として記録する。VRMのTポーズ画像はモデルの姿勢を表示したもので、VRMバイナリそのものは編集しない。
 
@@ -77,15 +77,15 @@ python3 scripts/archive_vrm.py \
 保存処理は次の条件を満たした場合だけ索引を更新する。
 
 1. カタログIDが正本JSONに**一意に存在**する。元VRMは`inspect_vrm.py`でVRMとして認識できる。
-2. 画像2枚がWebPであり、プレビュー生成JSONの`catalog_id`、**元VRMのSHA-256**、画像名とサイズが一致する。
+2. 画像2枚がWebPであり、プレビュー生成JSONの`catalog_id`、**元VRMのSHA-256**、画像名・寸法情報・**画像のSHA-256**が一致する。
 3. ZIPまたはzstdから復元したVRMのSHA-256が元VRMと一致する。
-4. ID別の圧縮VRMとWebPを保存し、索引`index.jsonl`を原子的に更新する。既存の同一IDがあるときは黙って上書きせず停止する。
+4. ID別の圧縮VRMとWebPを保存し、**`.index.lock`による排他制御のもと**で索引`index.jsonl`を原子的に更新する。既存の同一IDがあるときは黙って上書きせず停止する。`.index.lock`は小さな管理用ファイルとして残す。
 
-索引には`catalog_id`、`name`、`publisher`、`stored_path`、`compression`、`vrm_sha256`、`archive_sha256`、`vrm_size_bytes`、`stored_size_bytes`、`vrm_version`、`source_url`、`license_url`、`distribution_filename`、`archive_member_path`、`retrieved_at`、`previews.tpose/face.path/sha256`を含める。
+索引は保存済みVRM1体につき1行。索引には`catalog_id`、`name`、`publisher`、`stored_path`、`compression`、`vrm_sha256`、`archive_sha256`、`vrm_size_bytes`、`stored_size_bytes`、`vrm_version`、`source_url`、`license_url`、`distribution_filename`、`archive_member_path`、`retrieved_at`、`previews.tpose/face.path/sha256`を含める。
 
 一時取得した元ZIP、VRM、PNG等の中間画像は**検証完了後に作業機から消去する運用**とする。現行保存スクリプトは取得・一時ファイルの自動消去までは担当せず、実機バッチ処理側が担う。モデル本体・画像・索引はNASに保持し、GitHubへモデル本体やサムネイルはコミットしない。
 
 ## 実行状況
 
-- **完了**：保存仕様、圧縮比較スクリプト、Tポーズ・顔WebP生成ツール、対応付けを検証する保存スクリプトのソースをリポジトリに追加。
+- **完了**：保存仕様、圧縮比較スクリプト、Tポーズ・顔WebP生成ツール、対応付け・画像ハッシュ・排他更新・同一VRMの圧縮ファイル共有を実装。これらはソースコード上の実装で、まだ実機動作保証ではない。
 - **未完了**：VRM実物を用いた圧縮率比較、npm依存の導入、WebGLによる画像生成の実機テスト、NASへの保存。GitHub ActionsやRDCは使わず、後日のHermes Agent実機検証で行う。

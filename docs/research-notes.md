@@ -132,3 +132,20 @@ BOOTHの商品ごとに「ダウンロード商品 ¥0」とVRM本体の配布�
 - [普通の女の子アバター](https://booth.pm/ja/items/7392963)、[刃切 切乃](https://booth.pm/ja/items/6100467)、[323](https://booth.pm/ja/items/4637936)、[ねこみみキャラ（白）](https://booth.pm/ja/items/5305879)、[熊野ゆちゃ](https://booth.pm/ja/items/7039529)、[鬼の子キリ](https://booth.pm/ja/items/5189443) の作者配布VRM（6件）。ねこみみキャラは期間限定無料として扱い、次回以降の公開継続を確認する。
 
 共通注意：**無料配布は商用利用・再配布の自由を保証しない**。商品本文以外の同梱利用規約が存在する場合は後日の原本確認で照合する。原本保存と描画テストは登録件数拡充後、Hermes Agentが `/mnt/hdd/vrm` で一括実施し、GitHubにVRM/ZIP原本をコミットしない。
+
+## 2026-10-08 無料VRM追加（686→729・43件）
+
+BOOTHの商品ページで作者自身の0円ダウンロード商品、配布ファイル名およびVRM形式を照合し、`data/models.json` に43件追加。ZIP内の実ファイル名・GLBヘッダー・使用許諾のメタデータ・正常な表示は未確認（`official_free_distribution_listed_download_untested`）。
+
+- [柊依屋](https://booth.pm/ja/items/6323296) **8件**：海羽Miu（通常/Perfect Sync）、[琴華Kotoha](https://booth.pm/ja/items/5943036)（通常/Perfect Sync）、[梓乃Shino](https://booth.pm/ja/items/5659808)（2配布ZIP）、[杏澄Asumi](https://booth.pm/ja/items/5776856)（2配布ZIP）。無料のVRM-only版のみ収録。有料のVRoid・VRChat同梱版は対象外。通常/PSの具体的な内部パスや各ZIP内の追加バリエーションは実取得時に要確認。
+- [桜美堂](https://booth.pm/ja/items/5375274) **6件**：ブルーベル、[めいめい](https://booth.pm/ja/items/6516048)、[かみや](https://booth.pm/ja/items/6046175)、[みるっち](https://booth.pm/ja/items/5715397)、[めぐみっち](https://booth.pm/ja/items/5689713)、[まきのっち](https://booth.pm/ja/items/5597575)。VRM入り無料ZIPを収録。モデル個別にVTuber利用・クレジット義務などの違いがあるため一律のライセンスとは扱わない。
+- [くらんも](https://booth.pm/ja/items/4150979) **4件**：クラゲ通常色の頭ゆれあり／なし2VRM、[弓使いエルフ](https://booth.pm/ja/items/5775364)と[魔法使いエルフ](https://booth.pm/ja/items/5775339)。無料クラゲの同一 `kurage-f.zip` が別商品ページにも掲載されているが重複登録しない。エルフのVTuber利用・改変制限に注意。
+- [Mujo Moroyuki ぴえんシリーズ](https://booth.pm/ja/items/5389330) **7件**：ぴえん、ぴえ子、トゥクン、ぐすん、しょぼん、ぎゃふん、どきん。作者説明は無料ZIP内の7 VRMと明記。ファイル名はZIPのみを記録。
+- [ペンギンのきゅうり屋さん バレンタインミミック](https://booth.pm/ja/items/5463323) **4件**：通常色・青・金・黒の直接配布 `.vrm`。無料の共通ZIPには同じモデルが入るため重複計上しない。
+- [たこやきちゃん／あかしやきくん](https://booth.pm/ja/items/5960078) **2件**：同じVRM.zipを共有。[はんぺん／樫豆腐](https://booth.pm/ja/items/4671530) **2件**：直接VRM 2ファイル。いずれも作者による0円商品。
+- [Renga Works Mira](https://booth.pm/ja/items/8684534)、[煌星](https://booth.pm/ja/items/4291108)、[ファラオ](https://booth.pm/ja/items/8629608) **3件**：MiraはVRM 1.0で、2026-08-11に不具合修正差し替えの説明がある。煌星はVRM 0.0で商用利用不可。
+- [JIMA_3D](https://booth.pm/ja/items/8737858) **3件**：マッスル鳩（VRM 0.x）、[中年太りマーモット](https://booth.pm/ja/items/8806174)（VRM 1.0）、[マッスルカマキリ](https://booth.pm/ja/items/8768066)（VRM 1.0）。同ショップの有料商品は対象外。作者説明のVRM内部ファイル名と配布ZIPの名前は分けて扱う。
+- [とりのともしび](https://booth.pm/ja/items/4226437) **3件**：赤・緑・青の3 VRM。改変元[たびマル倉庫「とり」](https://booth.pm/ja/items/3898075)の制作者から再配布許可を得た旨が商品説明にある。ただし許諾原文は未確認。今後の実機確認時に規約の現行性も検証。
+- [めいどちゃん](https://booth.pm/ja/items/2593934) **1件**：従来登録の通常／黒服以外に、作者説明に第三のVRM（素体・髪アクセ付き）が明記されているため追加。
+
+**残課題**：配布ZIPの正確なVRM数・内部ファイル名、変更された有料／無料の価格、表示・動作、各モデルの利用規約ファイル。無料公開の有無だけで検証済みとせず、増件終了後にHermes Agentで一括実取得・検証し、原本を `/mnt/hdd/vrm` に永続保存する。

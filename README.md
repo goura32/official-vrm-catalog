@@ -19,9 +19,9 @@
 | [neonglitch86-models.json](data/collections/neonglitch86-models.json) | NeonGlitch86制作者GitHub・作者登録コレクションの無料公開VRM | 36 |
 | **合計** | **200キャラクター×2配布版を含む** | **1,297** |
 
-[収録・検証方針](docs/collection-policy.md) ／ [追加調査・保留候補](docs/research-notes.md) ／ [全体監査・人型ダウンロード方針](docs/download-scope-review.md) ／ **[NAS保存方式](docs/nas-storage.md)** ／ **[Hermes Agent一括実機検証の指示](docs/hermes-bulk-run.md)** ／ [一括検証実績・再開チェックポイント](docs/hermes-bulk-run-results.md)
+[収録・検証方針](docs/collection-policy.md) ／ [追加調査・保留候補](docs/research-notes.md) ／ [全体監査・人型ダウンロード方針](docs/download-scope-review.md) ／ **[NAS保存方式](docs/nas-storage.md)** ／ **[Hermes Agent継続一括実行指示（R3以降）](docs/hermes-bulk-resume.md)** ／ [初回の指示書](docs/hermes-bulk-run.md) ／ [一括検証実績・再開チェックポイント](docs/hermes-bulk-run-results.md)
 
-**登録拡充はいったん1,297件で凍結しました。NASには人型VRMだけを個別に可逆圧縮して保存し、全身Tポーズ・顔のWebP画像をIDで対応付けます。ZIPとzstdは実VRMで比較し、差が小さければZIPを採用します。配布ZIP原本やその他同梱ファイルは残しません。** [選別IDリスト](data/download-scope.json)に人型候補302件、非人型候補93件を別管理し、その他902件は未判定です。予備分類は取得済み・外観確認済みを意味しません。**未判定は配布条件を確認したうえで検査目的の一時ダウンロードを認め、形状・VRM実体を確認後に永続保存の可否を判断**します。既知の非人型は取得せず、検査後に非人型と分かった一時ファイルも消去します。元のJSONは削除・移動しません。
+**登録拡充はいったん1,297件で凍結しました。NASには人型VRMだけを個別に可逆圧縮して保存し、全身Tポーズ・顔のWebP画像をIDで対応付けます。実VRMのZIPとzstd比較を完了し、圧縮形式はZIPに統一しました。配布ZIP原本やその他同梱ファイルは残しません。** [選別IDリスト](data/download-scope.json)に人型候補302件、非人型候補93件を別管理し、その他902件は未判定です。予備分類は取得済み・外観確認済みを意味しません。**未判定は配布条件を確認したうえで検査目的の一時ダウンロードを認め、形状・VRM実体を確認後に永続保存の可否を判断**します。既知の非人型は取得せず、検査後に非人型と分かった一時ファイルも消去します。元のJSONは削除・移動しません。
 
 **画像付き形状レビュー**： [R1/2 前半](docs/shape-review-100avatars-1-100.md) ／ [R1/2 後半](docs/shape-review-100avatars-101-200.md) ／ [R3](docs/shape-review-100avatars-r3.md) ／ [季節系・その他](docs/shape-review-indexed-other.md) ／ [MJMoonbow](docs/shape-review-mjmoonbow.md)。作者画像を671レコードに対応付けましたが、外観判定の確定やダウンロード許可を意味しません。
 

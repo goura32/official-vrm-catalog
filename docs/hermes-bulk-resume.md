@@ -1,6 +1,6 @@
 # Hermes Agent 継続一括実行指示（R1/R2・R3検証完了後）
 
-2026-10-09の今回実行はmain `2d45b3d3e5d84223fd2642f3158c03fdcbfa0bd1`から開始。実行後の最新状態は[結果レポート](hermes-bulk-run-results.md)が正本。次回はこの文書とレポートを読み、`main`最新とNAS実体を再確認してから継続する。
+2026-10-09の初回連続処理はmain `2d45b3d3e5d84223fd2642f3158c03fdcbfa0bd1`から開始し、結果更新をcommit `51a5d3451dfc0de5bfd68b9db73822d2fcebec99`に反映。今回の継続処理はその最新mainから開始した。実行後の最新状態は[結果レポート](hermes-bulk-run-results.md)が正本。次回はこの文書とレポートを読み、`main`最新とNAS実体を再確認してから継続する。
 
 ## 目標・完了済みの扱い
 
@@ -17,7 +17,7 @@
 - R1/R2の埋込権利・作者表示矛盾: `polygonalmind-100avatars-132-standard`、`polygonalmind-100avatars-196-standard`、`polygonalmind-100avatars-166-voxel`（3件）。
 - MJMoonbow:既存`mjmoonbow-skinnie1-5-41eb4fe`に加え、今回取得した16件の埋込`Redistribution_Prohibited`（全IDは結果レポート、NAS未保存）。
 - 今回追加の権利矛盾: `neonglitch86-shapey`（埋込`allowRedistribution=false`）、`numinia-starter-avatar-01`・`numinia-avatar-arla`（埋込`CC_BY`対公開CC0、NAS未保存）。
-- URL制約: `neonglitch86-index-1`・`neonglitch86-index-3`は別hostへのリダイレクトを2回とも拒否。ミラー/ゲートウェイへ迂回しない。Halloween Rising 001とXmas Chibis 001は元VRM URL各4回（初回+3回再試行）がHTTP 429。最新応答は2026-10-08 22:23:18/19 UTC、`Retry-After: 900`の期限は最遅22:38:19.249050 UTC（安全な再開は22:38:20 UTC以降）。残り138件およびToxSam `King Mutatio`はネットワーク未試行/延期。
+- URL制約: `neonglitch86-index-1`・`neonglitch86-index-3`は別hostへのリダイレクトを2回とも拒否。ミラー/ゲートウェイへ迂回しない。Halloween Rising 001とXmas Chibis 001は元VRM URL各5回（初回+4回再試行）がHTTP 429。最新応答は2026-10-08 22:41:05 UTC、`Retry-After: 900`の期限は最遅22:56:05.940088 UTC（安全な再開は22:56:06 UTC以降）。残り138件およびToxSam `King Mutatio`はネットワーク未試行/延期。
 - 今回の確定非人型は`toxsam-original-bffd07cc-601`、公式仕様サンプル3件、MJMoonbow Dragon 9（作者の実レンダー画像で四足を確認）。これらは人型保存キューへ戻さない。
 
 根拠とチェックポイントは`docs/hermes-bulk-run-results.md`にある。保留は次の一括処理の進捗を妨げない。根拠なしにライセンスを一括で`CC0`に置き換えない（R1/R2は作者README条件、R3は別条件）。
@@ -35,7 +35,7 @@
 ## 一括作業の順序
 
 1. `git fetch`・最新main・`docs/nas-storage.md`・`docs/hermes-bulk-run-results.md`・NAS索引・保存済みモデル/画像・チェックポイントの整合を確認。`python3 scripts/verify_nas.py --nas-root /mnt/hdd/vrm`を実行し、**338件/676枚の開始時監査**を確認。NASマウント未確認なら書込み作業はしない。
-2. 季節140 IDのうち未試行138件を正本からキュー化。Halloween/Xmasの作者公開索引・CC0適用範囲、元IPFS URLの到達と無料直接取得条件を確認。001の最新429は2026-10-08 22:23:18/19 UTCで、各URLの`Retry-After: 900`期限（最遅22:38:19.249050 UTC）を守る。期限前再試行・ゲートウェイ迂回・制限回避はしない。各IDの試行回数/負荷を制限し、権利や出所の矛盾は個別保留。
+2. 季節140 IDのうち未試行138件を正本からキュー化。Halloween/Xmasの作者公開索引・CC0適用範囲、元IPFS URLの到達と無料直接取得条件を確認。001の最新429は2026-10-08 22:41:05 UTCで、各URLの`Retry-After: 900`期限（最遅22:56:05.940088 UTC）を守る。期限前再試行・ゲートウェイ迂回・制限回避はしない。各IDの試行回数/負荷を制限し、権利や出所の矛盾は個別保留。
 3. 取得物ごとにGLB/VRM構造、実版、ライセンス/作者埋込情報、同一バイナリハッシュを検査。外形は作者プレビューまたは実VRM描画で人型/非人型/判定保留に分ける。人型はTポーズ・顔正面のWebPを生成し、実際に画像・画角を点検。NASに`scripts/archive_vrm.py --format zip --confirm-humanoid`で保存。元VRMと復元ZIPのSHA-256、プレビューID・画像SHAを照合。失敗IDを記録して進む。
 4. 季節キューの処理可能分が終わったら、**同じ一括実行中に**今回未試行の公式/作者公開VRMへ進む。今回直接取得・検査したToxSam 7件（6保存・1非人型）、Neon CC0 3件、MJ 16件、Numinia 2件、VRM仕様サンプル5件は再取得しない。ToxSam originalsのうち既判定非人型2件も除外し、`King Mutatio`はdweb.link待機のまま。累計結果は保存8、非人型4、権利矛盾19、リダイレクト拒否2。認証必要のBOOTH商品は`auth_required`として保留。既保存・非人型・権利保留は処理キューから除外。
 5. 最後に全件`python3 scripts/verify_nas.py --nas-root /mnt/hdd/vrm`で`ok:true`・`errors:[]`を確認し、**開始時338件の索引行・保存ファイルハッシュが変わっていないこと**を確認。実績レポート・正本の根拠つき更新・選別リストを必要最小限の差分で整備。`git diff --check`・`scripts/validate.py`（必要なら既存4単体テスト）後にcommit/push。処理待ち・保留を再開可能な状態で残す。

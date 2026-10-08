@@ -111,4 +111,4 @@ python3 scripts/verify_nas.py --nas-root /mnt/hdd/vrm
 
 - **完了**：ZIP Deflate level 6を統一採用。NASにはR3 87件、R1/R2 243件、ToxSam 6件、VRM公式サンプル2件、計338件のVRM ZIPとWebPプレビュー676枚を保存。最終`verify_nas.py`監査は`ok: true`、`errors: []`、形式はZIPのみ。開始時330件の索引行は不変。
 - **形状・プレビュー**：R3は88実VRM中87保存。R1/R2は400実VRM中397件を描画し、243人型保存、150非人型除外、4件形状保留。今回の追加描画12件は人型8、非人型4。各保存物の実サイズ、SHA-256、プレビュー監査は[実機検証レポート](hermes-bulk-run-results.md)を参照。
-- **保留・未完了**：R3-229のプレビュー品質保留、従来の権利保留に加えて、今回19件の埋込権利矛盾、NeonGlitch86のリダイレクト拒否2件、季節系のdweb.link 429がある。Halloween Rising/Xmas Chibisの140件は001を各4回試行しても429、最新`Retry-After: 900`期限は2026-10-08 22:38:20 UTC以降。残る138件は未試行。R1/R2/R3以外の797件のうち762件は今回、直接VRMを未試行。Actions/RDCは使用していない。
+- **保留・未完了**：R3-229のプレビュー品質保留、従来の権利保留に加えて、今回19件の埋込権利矛盾、NeonGlitch86のリダイレクト拒否2件、季節系のdweb.link 429がある。Halloween Rising/Xmas Chibisの140件は001を各5回試行しても429、最新`Retry-After: 900`期限は2026-10-08 22:56:06 UTC以降。残る138件は未試行。R1/R2/R3以外の797件のうち762件は今回、直接VRMを未試行。Actions/RDCは使用していない。

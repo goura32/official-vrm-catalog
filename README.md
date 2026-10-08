@@ -6,13 +6,13 @@
 
 | ファイル | 収録範囲 | 件数 |
 | --- | --- | ---: |
-| [data/models.json](data/models.json) | 公式・作者配布モデル（過去の調査を含む） | 241 |
+| [data/models.json](data/models.json) | 公式・作者配布モデル（過去の調査を含む） | 268 |
 | [polygonalmind-001-050.json](data/collections/polygonalmind-001-050.json) | Polygonal Mind 001〜050・通常/Voxel | 100 |
 | [polygonalmind-051-100.json](data/collections/polygonalmind-051-100.json) | Polygonal Mind 051〜100・通常/Voxel | 100 |
 | [polygonalmind-101-150.json](data/collections/polygonalmind-101-150.json) | Polygonal Mind 101〜150・通常/Voxel | 100 |
 | [polygonalmind-151-200.json](data/collections/polygonalmind-151-200.json) | Polygonal Mind 151〜200・通常/Voxel | 100 |
 | [mjmoonbow-fantasy.json](data/collections/mjmoonbow-fantasy.json) | MJMoonbow原作者公開のCC0ファンタジー系VRM | 18 |
-| **合計** | **200キャラクター×2配布版を含む** | **659** |
+| **合計** | **200キャラクター×2配布版を含む** | **686** |
 
 [収録・検証方針](docs/collection-policy.md) ／ [追加調査・保留候補](docs/research-notes.md)
 
@@ -74,10 +74,13 @@ VRM 0.x / 1.0のモデル、アバター型と機能検証用モデルを対象�
 - [彩瞳 Ayame](https://booth.pm/ja/items/3126282) — 新旧の無料VRMセット2件（商品版番号はVRM仕様版とは別）
 - [ほしうさ](https://booth.pm/ja/items/2556708)・[リウォレ](https://booth.pm/ja/items/4458219) — 配布ZIPに複数VRMを明記
 - [小型VRM](https://booth.pm/ja/items/6594471)・[PURIN](https://booth.pm/ja/items/5082441) — VRM単体・複数バリエーションの無料配布
+- [Quanstella](https://booth.pm/ja/items/5922294)・[Lua](https://booth.pm/ja/items/7682427)・[桜夜](https://booth.pm/ja/items/5513788) — 作者配布の無料VRM、旧・新版は別件
+- [Hatsuka](https://booth.pm/ja/items/3871143) — PC用・Quest用VRM、[鳥アバター](https://booth.pm/ja/items/5444666) — 通常・テクスチャ改良版
+- [ほねまる家](https://booth.pm/ja/items/6530666)・[たぬきおにぎり](https://booth.pm/ja/items/7239598)・[こたつみかん](https://booth.pm/ja/items/6686224) — 無料マスコットVRM
 
 「無料版」以外の有料編集データや有料機能は、モデルの収録対象に含めません。
 
-**データの正本は上記5つのJSONファイルです。** 200体×2バリエーションを含むため、収録件数は「独立したキャラクターの人数」ではなく「VRM配布物・バリエーションの件数」です。
+**データの正本は上記6つのJSONファイルです。** 200体×2バリエーションを含むため、収録件数は「独立したキャラクターの人数」ではなく「VRM配布物・バリエーションの件数」です。
 
 ## 確認レベル
 

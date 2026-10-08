@@ -1,0 +1,2005 @@
+{
+  "schema_version": 1,
+  "models": [
+    {
+      "id": "polygonalmind-100avatars-051-standard",
+      "name": "100Avatars 051 Polybot (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_051/100Avatars_051_Polybot.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_051/100Avatars_051_Polybot.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_051_Polybot.vrm",
+      "distribution_size_bytes": 997048,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-051-voxel",
+      "name": "100Avatars 051 Polybot (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_051/100Avatars_051_Voxel/051_Polybot.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_051/100Avatars_051_Voxel/051_Polybot.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "051_Polybot.vrm",
+      "distribution_size_bytes": 3781152,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-052-standard",
+      "name": "100Avatars 052 Jennifer (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_052/100Avatars_052_Jennifer.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_052/100Avatars_052_Jennifer.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_052_Jennifer.vrm",
+      "distribution_size_bytes": 2124360,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-052-voxel",
+      "name": "100Avatars 052 Jennifer (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_052/100Avatars_052_Voxel/052_Jennifer.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_052/100Avatars_052_Voxel/052_Jennifer.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "052_Jennifer.vrm",
+      "distribution_size_bytes": 4534764,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-053-standard",
+      "name": "100Avatars 053 Erika (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_053/100Avatars_053_Erika.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_053/100Avatars_053_Erika.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_053_Erika.vrm",
+      "distribution_size_bytes": 1548672,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-053-voxel",
+      "name": "100Avatars 053 Erika (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_053/100Avatars_053_Voxel/053_Erika.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_053/100Avatars_053_Voxel/053_Erika.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "053_Erika.vrm",
+      "distribution_size_bytes": 2163940,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-054-standard",
+      "name": "100Avatars 054 Lydia (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_054/100Avatars_054_Lydia.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_054/100Avatars_054_Lydia.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_054_Lydia.vrm",
+      "distribution_size_bytes": 1507976,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-054-voxel",
+      "name": "100Avatars 054 Lydia (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_054/100Avatars_054_Voxel/054_Lydia.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_054/100Avatars_054_Voxel/054_Lydia.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "054_Lydia.vrm",
+      "distribution_size_bytes": 1868256,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-055-standard",
+      "name": "100Avatars 055 Fungus (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_055/100Avatars_055_Fungus.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_055/100Avatars_055_Fungus.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_055_Fungus.vrm",
+      "distribution_size_bytes": 9139524,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-055-voxel",
+      "name": "100Avatars 055 Fungus (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_055/100Avatars_055_Voxel/055_Fungus.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_055/100Avatars_055_Voxel/055_Fungus.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "055_Fungus.vrm",
+      "distribution_size_bytes": 9215828,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-056-standard",
+      "name": "100Avatars 056 Olivia (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_056/100Avatars_056_Olivia.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_056/100Avatars_056_Olivia.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_056_Olivia.vrm",
+      "distribution_size_bytes": 1699736,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-056-voxel",
+      "name": "100Avatars 056 Olivia (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_056/100Avatars_056_Voxel/056_Olivia.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_056/100Avatars_056_Voxel/056_Olivia.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "056_Olivia.vrm",
+      "distribution_size_bytes": 5592660,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-057-standard",
+      "name": "100Avatars 057 Rose (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_057/100Avatars_057_Rose.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_057/100Avatars_057_Rose.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_057_Rose.vrm",
+      "distribution_size_bytes": 2400964,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-057-voxel",
+      "name": "100Avatars 057 Rose (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_057/100Avatars_057_Voxel/057_Rose.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_057/100Avatars_057_Voxel/057_Rose.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "057_Rose.vrm",
+      "distribution_size_bytes": 4596848,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-058-standard",
+      "name": "100Avatars 058 Shiro (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_058/100Avatars_058_Shiro.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_058/100Avatars_058_Shiro.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_058_Shiro.vrm",
+      "distribution_size_bytes": 1267416,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-058-voxel",
+      "name": "100Avatars 058 Shiro (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_058/100Avatars_058_Voxel/058_Shiro.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_058/100Avatars_058_Voxel/058_Shiro.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "058_Shiro.vrm",
+      "distribution_size_bytes": 3211152,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-059-standard",
+      "name": "100Avatars 059 Rabbit (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_059/100Avatars_059_Rabbit.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_059/100Avatars_059_Rabbit.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_059_Rabbit.vrm",
+      "distribution_size_bytes": 2633752,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-059-voxel",
+      "name": "100Avatars 059 Rabbit (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_059/100Avatars_059_Voxel/059_Rabbit.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_059/100Avatars_059_Voxel/059_Rabbit.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "059_Rabbit.vrm",
+      "distribution_size_bytes": 2842112,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-060-standard",
+      "name": "100Avatars 060 Angry (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_060/100Avatars_060_Angry.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_060/100Avatars_060_Angry.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_060_Angry.vrm",
+      "distribution_size_bytes": 1889732,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-060-voxel",
+      "name": "100Avatars 060 Angry (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_060/100Avatars_060_Voxel/060_Angry.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_060/100Avatars_060_Voxel/060_Angry.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "060_Angry.vrm",
+      "distribution_size_bytes": 4386608,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-061-standard",
+      "name": "100Avatars 061 Amazonas (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_061/100Avatars_061_Amazonas.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_061/100Avatars_061_Amazonas.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_061_Amazonas.vrm",
+      "distribution_size_bytes": 2839088,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-061-voxel",
+      "name": "100Avatars 061 Amazonas (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_061/100Avatars_061_Voxel/061_Amazonas.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_061/100Avatars_061_Voxel/061_Amazonas.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "061_Amazonas.vrm",
+      "distribution_size_bytes": 7915340,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-062-standard",
+      "name": "100Avatars 062 Aesthetica (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_062/100Avatars_062_Aesthetica.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_062/100Avatars_062_Aesthetica.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_062_Aesthetica.vrm",
+      "distribution_size_bytes": 1620240,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-062-voxel",
+      "name": "100Avatars 062 Aesthetica (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_062/100Avatars_062_Voxel/062_Aesthetica.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_062/100Avatars_062_Voxel/062_Aesthetica.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "062_Aesthetica.vrm",
+      "distribution_size_bytes": 5626768,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-063-standard",
+      "name": "100Avatars 063 Cubiq (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_063/100Avatars_063_Cubiq.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_063/100Avatars_063_Cubiq.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_063_Cubiq.vrm",
+      "distribution_size_bytes": 4964084,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-063-voxel",
+      "name": "100Avatars 063 Cubiq (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_063/100Avatars_063_Voxel/063_Cubiq.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_063/100Avatars_063_Voxel/063_Cubiq.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "063_Cubiq.vrm",
+      "distribution_size_bytes": 4235580,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-064-standard",
+      "name": "100Avatars 064 Confirmed (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_064/100Avatars_064_Confirmed.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_064/100Avatars_064_Confirmed.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_064_Confirmed.vrm",
+      "distribution_size_bytes": 4544888,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-064-voxel",
+      "name": "100Avatars 064 Confirmed (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_064/100Avatars_064_Voxel/064_Confirmed.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_064/100Avatars_064_Voxel/064_Confirmed.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "064_Confirmed.vrm",
+      "distribution_size_bytes": 3184464,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-065-standard",
+      "name": "100Avatars 065 DisturbingEyes (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_065/100Avatars_065_DisturbingEyes.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_065/100Avatars_065_DisturbingEyes.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_065_DisturbingEyes.vrm",
+      "distribution_size_bytes": 3350696,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-065-voxel",
+      "name": "100Avatars 065 Disturbing Eyes (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_065/100Avatars_065_Voxel/065_Disturbing_Eyes.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_065/100Avatars_065_Voxel/065_Disturbing_Eyes.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "065_Disturbing_Eyes.vrm",
+      "distribution_size_bytes": 6336560,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-066-standard",
+      "name": "100Avatars 066 Bacondude (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_066/100Avatars_066_Bacondude.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_066/100Avatars_066_Bacondude.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_066_Bacondude.vrm",
+      "distribution_size_bytes": 2124152,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-066-voxel",
+      "name": "100Avatars 066 BaconDude (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_066/100Avatars_066_Voxel/066_BaconDude.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_066/100Avatars_066_Voxel/066_BaconDude.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "066_BaconDude.vrm",
+      "distribution_size_bytes": 2544576,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-067-standard",
+      "name": "100Avatars 067 Ferk (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_067/100Avatars_067_Ferk.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_067/100Avatars_067_Ferk.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_067_Ferk.vrm",
+      "distribution_size_bytes": 1118772,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-067-voxel",
+      "name": "100Avatars 067 Ferk (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_067/100Avatars_067_Voxel/067_Ferk.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_067/100Avatars_067_Voxel/067_Ferk.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "067_Ferk.vrm",
+      "distribution_size_bytes": 2842480,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-068-standard",
+      "name": "100Avatars 068 AlwaysWatching (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_068/100Avatars_068_AlwaysWatching.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_068/100Avatars_068_AlwaysWatching.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_068_AlwaysWatching.vrm",
+      "distribution_size_bytes": 1996364,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-068-voxel",
+      "name": "100Avatars 068 AlwaysWatching (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_068/100Avatars_068_Voxel/068_AlwaysWatching.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_068/100Avatars_068_Voxel/068_AlwaysWatching.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "068_AlwaysWatching.vrm",
+      "distribution_size_bytes": 3252360,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-069-standard",
+      "name": "100Avatars 069 Kyle (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_069/100Avatars_069_Kyle.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_069/100Avatars_069_Kyle.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_069_Kyle.vrm",
+      "distribution_size_bytes": 1797644,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-069-voxel",
+      "name": "100Avatars 069 Kyle (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_069/100Avatars_069_Voxel/069_Kyle.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_069/100Avatars_069_Voxel/069_Kyle.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "069_Kyle.vrm",
+      "distribution_size_bytes": 3909604,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-070-standard",
+      "name": "100Avatars 070 Robert (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_070/100Avatars_070_Robert.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_070/100Avatars_070_Robert.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_070_Robert.vrm",
+      "distribution_size_bytes": 1656464,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-070-voxel",
+      "name": "100Avatars 070 Robert (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_070/100Avatars_070_Voxel/070_Robert.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_070/100Avatars_070_Voxel/070_Robert.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "070_Robert.vrm",
+      "distribution_size_bytes": 3471604,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-071-standard",
+      "name": "100Avatars 071 LilBro (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_071/100Avatars_071_LilBro.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_071/100Avatars_071_LilBro.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_071_LilBro.vrm",
+      "distribution_size_bytes": 1366204,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-071-voxel",
+      "name": "100Avatars 071 LilBro (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_071/100Avatars_071_Voxel/071_LilBro.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_071/100Avatars_071_Voxel/071_LilBro.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "071_LilBro.vrm",
+      "distribution_size_bytes": 3126244,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-072-standard",
+      "name": "100Avatars 072 Mikel (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_072/100Avatars_072_Mikel.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_072/100Avatars_072_Mikel.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_072_Mikel.vrm",
+      "distribution_size_bytes": 2026832,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-072-voxel",
+      "name": "100Avatars 072 Mikel (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_072/100Avatars_072_Voxel/072_Mikel.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_072/100Avatars_072_Voxel/072_Mikel.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "072_Mikel.vrm",
+      "distribution_size_bytes": 2764740,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-073-standard",
+      "name": "100Avatars 073 Pepo (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_073/100Avatars_073_Pepo.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_073/100Avatars_073_Pepo.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_073_Pepo.vrm",
+      "distribution_size_bytes": 2676436,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-073-voxel",
+      "name": "100Avatars 073 Pepo (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_073/100Avatars_073_Voxel/073_Pepo.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_073/100Avatars_073_Voxel/073_Pepo.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "073_Pepo.vrm",
+      "distribution_size_bytes": 2175772,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-074-standard",
+      "name": "100Avatars 074 Baldman (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_074/100Avatars_074_Baldman.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_074/100Avatars_074_Baldman.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_074_Baldman.vrm",
+      "distribution_size_bytes": 1746960,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-074-voxel",
+      "name": "100Avatars 074 Baldman (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_074/100Avatars_074_Voxel/074_Baldman.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_074/100Avatars_074_Voxel/074_Baldman.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "074_Baldman.vrm",
+      "distribution_size_bytes": 2889376,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-075-standard",
+      "name": "100Avatars 075 Expol (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_075/100Avatars_075_Expol.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_075/100Avatars_075_Expol.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_075_Expol.vrm",
+      "distribution_size_bytes": 1470908,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-075-voxel",
+      "name": "100Avatars 075 Expol (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_075/100Avatars_075_Voxel/075_Expol.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_075/100Avatars_075_Voxel/075_Expol.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "075_Expol.vrm",
+      "distribution_size_bytes": 3032272,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-076-standard",
+      "name": "100Avatars 076 Muscary (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_076/100Avatars_076_Muscary.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_076/100Avatars_076_Muscary.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_076_Muscary.vrm",
+      "distribution_size_bytes": 1116144,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-076-voxel",
+      "name": "100Avatars 076 Muscary (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_076/100Avatars_076_Voxel/076_Muscary.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_076/100Avatars_076_Voxel/076_Muscary.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "076_Muscary.vrm",
+      "distribution_size_bytes": 3188244,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-077-standard",
+      "name": "100Avatars 077 WeirdFlexButOk (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_077/100Avatars_077_WeirdFlexButOk.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_077/100Avatars_077_WeirdFlexButOk.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_077_WeirdFlexButOk.vrm",
+      "distribution_size_bytes": 1027928,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-077-voxel",
+      "name": "100Avatars 077 WeirdFlexButOk (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_077/100Avatars_077_Voxel/077_WeirdFlexButOk.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_077/100Avatars_077_Voxel/077_WeirdFlexButOk.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "077_WeirdFlexButOk.vrm",
+      "distribution_size_bytes": 2451948,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-078-standard",
+      "name": "100Avatars 078 Pipe (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_078/100Avatars_078_Pipe.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_078/100Avatars_078_Pipe.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_078_Pipe.vrm",
+      "distribution_size_bytes": 1446840,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-078-voxel",
+      "name": "100Avatars 078 Pipe (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_078/100Avatars_078_Voxel/078_Pipe.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_078/100Avatars_078_Voxel/078_Pipe.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "078_Pipe.vrm",
+      "distribution_size_bytes": 4972608,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-079-standard",
+      "name": "100Avatars 079 Chad (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_079/100Avatars_079_Chad.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_079/100Avatars_079_Chad.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_079_Chad.vrm",
+      "distribution_size_bytes": 1522236,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-079-voxel",
+      "name": "100Avatars 079 Chad (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_079/100Avatars_079_Voxel/079_Chad.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_079/100Avatars_079_Voxel/079_Chad.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "079_Chad.vrm",
+      "distribution_size_bytes": 3753868,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-080-standard",
+      "name": "100Avatars 080 Coffee (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_080/100Avatars_080_Coffee.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_080/100Avatars_080_Coffee.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_080_Coffee.vrm",
+      "distribution_size_bytes": 1172848,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-080-voxel",
+      "name": "100Avatars 080 Coffee (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_080/100Avatars_080_Voxel/080_Coffee.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_080/100Avatars_080_Voxel/080_Coffee.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "080_Coffee.vrm",
+      "distribution_size_bytes": 3535604,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-081-standard",
+      "name": "100Avatars 081 Toothpaste (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_081/100Avatars_081_Toothpaste.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_081/100Avatars_081_Toothpaste.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_081_Toothpaste.vrm",
+      "distribution_size_bytes": 1223740,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-081-voxel",
+      "name": "100Avatars 081 Toothpaste (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_081/100Avatars_081_Voxel/081_Toothpaste.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_081/100Avatars_081_Voxel/081_Toothpaste.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "081_Toothpaste.vrm",
+      "distribution_size_bytes": 3048208,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-082-standard",
+      "name": "100Avatars 082 GoodTomato (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_082/100Avatars_082_GoodTomato.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_082/100Avatars_082_GoodTomato.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_082_GoodTomato.vrm",
+      "distribution_size_bytes": 1317824,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-082-voxel",
+      "name": "100Avatars 082 GoodTomato (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_082/100Avatars_082_Voxel/082_GoodTomato.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_082/100Avatars_082_Voxel/082_GoodTomato.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "082_GoodTomato.vrm",
+      "distribution_size_bytes": 2659012,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-083-standard",
+      "name": "100Avatars 083 Butter (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_083/100Avatars_083_Butter.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_083/100Avatars_083_Butter.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_083_Butter.vrm",
+      "distribution_size_bytes": 1315808,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-083-voxel",
+      "name": "100Avatars 083 Butter (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_083/100Avatars_083_Voxel/083_Butter.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_083/100Avatars_083_Voxel/083_Butter.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "083_Butter.vrm",
+      "distribution_size_bytes": 1817600,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-084-standard",
+      "name": "100Avatars 084 Milk (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_084/100Avatars_084_Milk.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_084/100Avatars_084_Milk.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_084_Milk.vrm",
+      "distribution_size_bytes": 1338344,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-084-voxel",
+      "name": "100Avatars 084 Milk (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_084/100Avatars_084_Voxel/084_Milk.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_084/100Avatars_084_Voxel/084_Milk.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "084_Milk.vrm",
+      "distribution_size_bytes": 2192600,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-085-standard",
+      "name": "100Avatars 085 Cucumber (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_085/100Avatars_085_Cucumber.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_085/100Avatars_085_Cucumber.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_085_Cucumber.vrm",
+      "distribution_size_bytes": 1381528,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-085-voxel",
+      "name": "100Avatars 085 Cucumber (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_085/100Avatars_085_Voxel/085_Cucumber.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_085/100Avatars_085_Voxel/085_Cucumber.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "085_Cucumber.vrm",
+      "distribution_size_bytes": 3509916,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-086-standard",
+      "name": "100Avatars 086 ToiletPaper (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_086/100Avatars_086_ToiletPaper.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_086/100Avatars_086_ToiletPaper.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_086_ToiletPaper.vrm",
+      "distribution_size_bytes": 1691740,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-086-voxel",
+      "name": "100Avatars 086 ToiletPaper (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_086/100Avatars_086_Voxel/086_ToiletPaper.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_086/100Avatars_086_Voxel/086_ToiletPaper.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "086_ToiletPaper.vrm",
+      "distribution_size_bytes": 2420324,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-087-standard",
+      "name": "100Avatars 087 Hotdog (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_087/100Avatars_087_Hotdog.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_087/100Avatars_087_Hotdog.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_087_Hotdog.vrm",
+      "distribution_size_bytes": 1587540,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-087-voxel",
+      "name": "100Avatars 087 Hotdog (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_087/100Avatars_087_Voxel/087_Hotdog.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_087/100Avatars_087_Voxel/087_Hotdog.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "087_Hotdog.vrm",
+      "distribution_size_bytes": 2601056,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-088-standard",
+      "name": "100Avatars 088 Avocado (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_088/100Avatars_088_Avocado.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_088/100Avatars_088_Avocado.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_088_Avocado.vrm",
+      "distribution_size_bytes": 1253352,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-088-voxel",
+      "name": "100Avatars 088 Avocado (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_088/100Avatars_088_Voxel/088_Avocado.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_088/100Avatars_088_Voxel/088_Avocado.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "088_Avocado.vrm",
+      "distribution_size_bytes": 3122616,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-089-standard",
+      "name": "100Avatars 089 Watermelon (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_089/100Avatars_089_Watermelon.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_089/100Avatars_089_Watermelon.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_089_Watermelon.vrm",
+      "distribution_size_bytes": 2972172,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-089-voxel",
+      "name": "100Avatars 089 Watermelon (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_089/100Avatars_089_Voxel/089_Watermelon.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_089/100Avatars_089_Voxel/089_Watermelon.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "089_Watermelon.vrm",
+      "distribution_size_bytes": 2239468,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-090-standard",
+      "name": "100Avatars 090 Eggplant (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_090/100Avatars_090_Eggplant.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_090/100Avatars_090_Eggplant.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_090_Eggplant.vrm",
+      "distribution_size_bytes": 1724320,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-090-voxel",
+      "name": "100Avatars 090 Eggplant (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_090/100Avatars_090_Voxel/090_Eggplant.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_090/100Avatars_090_Voxel/090_Eggplant.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "090_Eggplant.vrm",
+      "distribution_size_bytes": 4170884,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-091-standard",
+      "name": "100Avatars 091 BigBro (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_091/100Avatars_091_BigBro.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_091/100Avatars_091_BigBro.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_091_BigBro.vrm",
+      "distribution_size_bytes": 1293092,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-091-voxel",
+      "name": "100Avatars 091 LilBroBigBro (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_091/100Avatars_091_Voxel/091_LilBroBigBro.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_091/100Avatars_091_Voxel/091_LilBroBigBro.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "091_LilBroBigBro.vrm",
+      "distribution_size_bytes": 3072332,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-092-standard",
+      "name": "100Avatars 092 Chilli (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_092/100Avatars_092_Chilli.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_092/100Avatars_092_Chilli.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_092_Chilli.vrm",
+      "distribution_size_bytes": 1142136,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-092-voxel",
+      "name": "100Avatars 092 Chili (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_092/100Avatars_092_Voxel/092_Chili.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_092/100Avatars_092_Voxel/092_Chili.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "092_Chili.vrm",
+      "distribution_size_bytes": 2953724,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-093-standard",
+      "name": "100Avatars 093 IceCream (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_093/100Avatars_093_IceCream.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_093/100Avatars_093_IceCream.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_093_IceCream.vrm",
+      "distribution_size_bytes": 1244096,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-093-voxel",
+      "name": "100Avatars 093 IceCream (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_093/100Avatars_093_Voxel/093_IceCream.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_093/100Avatars_093_Voxel/093_IceCream.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "093_IceCream.vrm",
+      "distribution_size_bytes": 3657052,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-094-standard",
+      "name": "100Avatars 094 CoolChoco (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_094/100Avatars_094_CoolChoco.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_094/100Avatars_094_CoolChoco.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_094_CoolChoco.vrm",
+      "distribution_size_bytes": 1288216,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-094-voxel",
+      "name": "100Avatars 094 CoolChoco (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_094/100Avatars_094_Voxel/094_CoolChoco.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_094/100Avatars_094_Voxel/094_CoolChoco.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "094_CoolChoco.vrm",
+      "distribution_size_bytes": 2286524,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-095-standard",
+      "name": "100Avatars 095 CandyCane (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_095/100Avatars_095_CandyCane.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_095/100Avatars_095_CandyCane.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_095_CandyCane.vrm",
+      "distribution_size_bytes": 1198872,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-095-voxel",
+      "name": "100Avatars 095 CandyCane (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_095/100Avatars_095_Voxel/095_CandyCane.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_095/100Avatars_095_Voxel/095_CandyCane.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "095_CandyCane.vrm",
+      "distribution_size_bytes": 3371644,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-096-standard",
+      "name": "100Avatars 096 XmasTree (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_096/100Avatars_096_XmasTree.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_096/100Avatars_096_XmasTree.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_096_XmasTree.vrm",
+      "distribution_size_bytes": 1763224,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-096-voxel",
+      "name": "100Avatars 096 XmasTree (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_096/100Avatars_096_Voxel/096_XmasTree.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_096/100Avatars_096_Voxel/096_XmasTree.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "096_XmasTree.vrm",
+      "distribution_size_bytes": 5430804,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-097-standard",
+      "name": "100Avatars 097 Snowy (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_097/100Avatars_097_Snowy.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_097/100Avatars_097_Snowy.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_097_Snowy.vrm",
+      "distribution_size_bytes": 1637264,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-097-voxel",
+      "name": "100Avatars 097 Snowy (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_097/100Avatars_097_Voxel/097_Snowy.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_097/100Avatars_097_Voxel/097_Snowy.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "097_Snowy.vrm",
+      "distribution_size_bytes": 5883180,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-098-standard",
+      "name": "100Avatars 098 Cookieman (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_098/100Avatars_098_Cookieman.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_098/100Avatars_098_Cookieman.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_098_Cookieman.vrm",
+      "distribution_size_bytes": 2740140,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-098-voxel",
+      "name": "100Avatars 098 Cookieman (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_098/100Avatars_098_Voxel/098_Cookieman.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_098/100Avatars_098_Voxel/098_Cookieman.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "098_Cookieman.vrm",
+      "distribution_size_bytes": 2487632,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-099-standard",
+      "name": "100Avatars 099 Present (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_099/100Avatars_099_Present.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_099/100Avatars_099_Present.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_099_Present.vrm",
+      "distribution_size_bytes": 1859880,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-099-voxel",
+      "name": "100Avatars 099 Present (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_099/100Avatars_099_Voxel/099_Present.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_099/100Avatars_099_Voxel/099_Present.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "099_Present.vrm",
+      "distribution_size_bytes": 2372096,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-100-standard",
+      "name": "100Avatars 100 SaintClaus (Standard)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "standard"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_100/100Avatars_100_SaintClaus.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_100/100Avatars_100_SaintClaus.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100Avatars_100_SaintClaus.vrm",
+      "distribution_size_bytes": 1728240,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "polygonalmind-100avatars-100-voxel",
+      "name": "100Avatars 100 SaintClaus (Voxel)",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "voxel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_100/100Avatars_100_Voxel/100_SaintClaus.vrm",
+      "download_url": "https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_100/100Avatars_100_Voxel/100_SaintClaus.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "100_SaintClaus.vrm",
+      "distribution_size_bytes": 4244096,
+      "license_name": "Polygonal Mind 100Avatars 作者公式README記載の利用条件",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/blob/master/README.md",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    }
+  ]
+}

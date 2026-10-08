@@ -10,16 +10,16 @@
         "avatar",
         "toxsam-originals"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/toxsam.json",
       "download_url": "https://gateway.pinata.cloud/ipfs/Qmed8jVF5FvBn6Jerxk8Wm5DwRjuAHRfBXgofTue37orBC/Avatar_Orion.vrm",
       "access_method": "direct_vrm",
       "distribution_filename": "Avatar_Orion.vrm",
       "license_name": "CC0 (creator's Open Source Avatars registry)",
       "license_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/projects.json",
-      "verification": "creator_index_direct_url_listed_download_untested",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
       "checked_at": "2026-10-08",
-      "notes": "作者ToxSam（Polygonal MindのDaniel Garcia）が自身の公開VRM索引でCC0作品として掲載。IPFS直リンクとNFT識別情報を持つが、VRMファイルURLの参照自体はNFT購入を要求する形ではない。実際のHTTP応答・ダウンロード可否・バイナリと表示は未検証。"
+      "notes": "作者ToxSamの公開索引でCC0作品として掲載。実取得し、GLB v2/VRM 0.x・埋込CC0、正面Tポーズ/顔を確認。元VRM SHA-256一致の個別ZIPとWebP2枚をNASに保存。"
     },
     {
       "id": "toxsam-original-c1def47c-1",
@@ -30,16 +30,16 @@
         "avatar",
         "toxsam-originals"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/toxsam.json",
       "download_url": "https://gateway.pinata.cloud/ipfs/QmVvfCcAKYozNQwwxPbHyNohLyBJbTrCBSM1Ycck3ouJSj/Avartar_Aurora.vrm",
       "access_method": "direct_vrm",
       "distribution_filename": "Avartar_Aurora.vrm",
       "license_name": "CC0 (creator's Open Source Avatars registry)",
       "license_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/projects.json",
-      "verification": "creator_index_direct_url_listed_download_untested",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
       "checked_at": "2026-10-08",
-      "notes": "作者ToxSam（Polygonal MindのDaniel Garcia）が自身の公開VRM索引でCC0作品として掲載。IPFS直リンクとNFT識別情報を持つが、VRMファイルURLの参照自体はNFT購入を要求する形ではない。実際のHTTP応答・ダウンロード可否・バイナリと表示は未検証。"
+      "notes": "作者ToxSamの公開索引でCC0作品として掲載。実取得し、GLB v2/VRM 0.x・埋込CC0、正面Tポーズ/顔を確認。元VRM SHA-256一致の個別ZIPとWebP2枚をNASに保存。"
     },
     {
       "id": "toxsam-original-bffd07cc-1101",
@@ -90,16 +90,16 @@
         "avatar",
         "toxsam-originals"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/toxsam.json",
       "download_url": "https://gateway.pinata.cloud/ipfs/QmYSHP8r4BKwyxMQwJMBWpJc1uE8EM7MDVXzNFhgFBesch/EyeZealot.vrm",
       "access_method": "direct_vrm",
       "distribution_filename": "EyeZealot.vrm",
       "license_name": "CC0 (creator's Open Source Avatars registry)",
       "license_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/projects.json",
-      "verification": "creator_index_direct_url_listed_download_untested",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
       "checked_at": "2026-10-08",
-      "notes": "作者ToxSam（Polygonal MindのDaniel Garcia）が自身の公開VRM索引でCC0作品として掲載。IPFS直リンクとNFT識別情報を持つが、VRMファイルURLの参照自体はNFT購入を要求する形ではない。実際のHTTP応答・ダウンロード可否・バイナリと表示は未検証。"
+      "notes": "作者ToxSamの公開索引でCC0作品として掲載。実取得し、GLB v2/VRM 0.x・埋込CC0と人型外形を確認。顔正面はface-height-frac=0.5で再生成して品質確認後、NAS ZIP保存。"
     },
     {
       "id": "toxsam-original-bffd07cc-501",
@@ -110,16 +110,16 @@
         "avatar",
         "toxsam-originals"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/toxsam.json",
       "download_url": "https://gateway.pinata.cloud/ipfs/QmbNqsuVYaVrYtC6ALeco3jogcSi4NbbzfrGJs5i7fjB26/FrostyBoogie.vrm",
       "access_method": "direct_vrm",
       "distribution_filename": "FrostyBoogie.vrm",
       "license_name": "CC0 (creator's Open Source Avatars registry)",
       "license_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/projects.json",
-      "verification": "creator_index_direct_url_listed_download_untested",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
       "checked_at": "2026-10-08",
-      "notes": "作者ToxSam（Polygonal MindのDaniel Garcia）が自身の公開VRM索引でCC0作品として掲載。IPFS直リンクとNFT識別情報を持つが、VRMファイルURLの参照自体はNFT購入を要求する形ではない。実際のHTTP応答・ダウンロード可否・バイナリと表示は未検証。"
+      "notes": "作者ToxSamの公開索引でCC0作品として掲載。実取得し、GLB v2/VRM 0.x・埋込CC0、人型外形を確認。顔正面はface-height-frac=0.5で再生成して品質確認後、NAS ZIP保存。"
     },
     {
       "id": "toxsam-original-bffd07cc-601",
@@ -130,16 +130,16 @@
         "avatar",
         "toxsam-originals"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/toxsam.json",
       "download_url": "https://gateway.pinata.cloud/ipfs/QmbSvK3s7QF8SvAhAzaurR2jo1HmRgzShyq6d8N6DqsQin/EyeDiviner.vrm",
       "access_method": "direct_vrm",
       "distribution_filename": "EyeDiviner.vrm",
       "license_name": "CC0 (creator's Open Source Avatars registry)",
       "license_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/projects.json",
-      "verification": "creator_index_direct_url_listed_download_untested",
+      "verification": "official_binary_inspected_non_humanoid_not_archived",
       "checked_at": "2026-10-08",
-      "notes": "作者ToxSam（Polygonal MindのDaniel Garcia）が自身の公開VRM索引でCC0作品として掲載。IPFS直リンクとNFT識別情報を持つが、VRMファイルURLの参照自体はNFT購入を要求する形ではない。実際のHTTP応答・ダウンロード可否・バイナリと表示は未検証。"
+      "notes": "作者ToxSamの公開索引でCC0作品として掲載。実取得し、GLB v2/VRM 0.x・埋込CC0を確認。描画では尾状の単一下半身で左右の脚がなく、非人型のためNAS未保存。"
     },
     {
       "id": "toxsam-original-bffd07cc-701",
@@ -150,16 +150,16 @@
         "avatar",
         "toxsam-originals"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/toxsam.json",
       "download_url": "https://gateway.pinata.cloud/ipfs/QmZ5FRKE3jEAwiV2ryatqmrzcwAEa5sZrU4qqkzP9dqu7x/MaxHax.vrm",
       "access_method": "direct_vrm",
       "distribution_filename": "MaxHax.vrm",
       "license_name": "CC0 (creator's Open Source Avatars registry)",
       "license_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/projects.json",
-      "verification": "creator_index_direct_url_listed_download_untested",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
       "checked_at": "2026-10-08",
-      "notes": "作者ToxSam（Polygonal MindのDaniel Garcia）が自身の公開VRM索引でCC0作品として掲載。IPFS直リンクとNFT識別情報を持つが、VRMファイルURLの参照自体はNFT購入を要求する形ではない。実際のHTTP応答・ダウンロード可否・バイナリと表示は未検証。"
+      "notes": "作者ToxSamの公開索引でCC0作品として掲載。実取得し、GLB v2/VRM 0.x・埋込CC0、人型外形を確認。顔正面はface-height-frac=0.5で再生成して品質確認後、NAS ZIP保存。"
     },
     {
       "id": "toxsam-original-bffd07cc-801",
@@ -170,16 +170,16 @@
         "avatar",
         "toxsam-originals"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/toxsam.json",
       "download_url": "https://gateway.pinata.cloud/ipfs/QmZan3z9nMTmEKSf99bPb8crKcYm4scMJd5YpCTN14B9mn/Crustybutt_da_gobblin_king.vrm",
       "access_method": "direct_vrm",
       "distribution_filename": "Crustybutt_da_gobblin_king.vrm",
       "license_name": "CC0 (creator's Open Source Avatars registry)",
       "license_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/projects.json",
-      "verification": "creator_index_direct_url_listed_download_untested",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
       "checked_at": "2026-10-08",
-      "notes": "作者ToxSam（Polygonal MindのDaniel Garcia）が自身の公開VRM索引でCC0作品として掲載。IPFS直リンクとNFT識別情報を持つが、VRMファイルURLの参照自体はNFT購入を要求する形ではない。実際のHTTP応答・ダウンロード可否・バイナリと表示は未検証。"
+      "notes": "作者ToxSamの公開索引でCC0作品として掲載。実取得し、GLB v2/VRM 0.x・埋込CC0、人型外形を確認。顔正面はface-height-frac=0.5で再生成して品質確認後、NAS ZIP保存。"
     },
     {
       "id": "toxsam-original-59202483-0",

@@ -546,7 +546,15 @@
     "polygonalmind-100avatars-198-standard",
     "polygonalmind-100avatars-198-voxel",
     "polygonalmind-100avatars-200-standard",
-    "polygonalmind-100avatars-200-voxel"
+    "polygonalmind-100avatars-200-voxel",
+    "toxsam-original-c1def47c-0",
+    "toxsam-original-bffd07cc-401",
+    "toxsam-original-bffd07cc-501",
+    "toxsam-original-bffd07cc-701",
+    "toxsam-original-bffd07cc-801",
+    "toxsam-original-c1def47c-1",
+    "vrm-spec-seed-san",
+    "vrm-spec-vrm1-constraint-twist-sample"
   ],
   "non_humanoid": [
     "kanonmk3d-bear",
@@ -791,6 +799,10 @@
     "polygonalmind-100avatars-197-standard",
     "polygonalmind-100avatars-197-voxel",
     "polygonalmind-100avatars-199-standard",
-    "polygonalmind-100avatars-199-voxel"
+    "polygonalmind-100avatars-199-voxel",
+    "toxsam-original-bffd07cc-601",
+    "vrm-spec-vrmc-materials-mtoon-uv-animation-test",
+    "vrm-spec-vrmc-vrm-expressions-isbinary-overridden",
+    "vrm-spec-vrmc-vrm-expressions-isbinary-overrides"
   ]
 }

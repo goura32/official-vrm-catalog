@@ -683,17 +683,17 @@
         "neonglitch86",
         "creator-cc0-index"
       ],
-      "vrm_version": null,
+      "vrm_version": "1.0",
       "source_url": "https://github.com/neonglitch86/vrm/blob/main/shapey.vrm",
       "download_url": "https://raw.githubusercontent.com/neonglitch86/vrm/main/shapey.vrm",
       "access_method": "direct_vrm",
       "distribution_filename": "shapey.vrm",
       "distribution_size_bytes": 1590520,
-      "license_name": "CC0（制作者登録のOpen Source Avatars索引）",
+      "license_name": "CC0索引表示と埋込VRM Public Licenseの矛盾（allowRedistribution=false）",
       "license_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/projects.json",
-      "verification": "official_repository_file_listed",
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
       "checked_at": "2026-10-08",
-      "notes": "制作者NeonGlitch86の公開GitHubで直接VRMファイルとサイズ1590520バイトを確認。制作者名を明示した公開CC0コレクションにもこのVRMを掲載。バイナリ本文・VRM規格版・描画・HTTP直接取得成功は未検証。"
+      "notes": "実VRM 1.0の埋込VRM Public LicenseはallowRedistribution=false、avatarPermission=onlyAuthor、modification=prohibited、creditNotation=required、commercialUsage=personalNonProfit。CC0索引表示と矛盾するため権利保留、NAS未保存。"
     },
     {
       "id": "neonglitch86-xbossm",
@@ -733,9 +733,9 @@
       "distribution_filename": "gothamYellowNycss.vrm",
       "license_name": "CC0（制作者登録のOpen Source Avatars索引）",
       "license_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/projects.json",
-      "verification": "creator_index_direct_url_listed_download_untested",
+      "verification": "creator_index_direct_download_redirect_blocked_pending",
       "checked_at": "2026-10-08",
-      "notes": "NeonGlitch86の公開コレクションにアーティストとして本人を明記し、CC0、公開VRMモデルURLを掲載。IPFS直リンクのHTTP応答・バイナリ・表示は未確認。"
+      "notes": "制作者索引にCC0・VRM直URLを掲載。元URLの取得は別hostへのリダイレクトとなり、ポリシーにより追跡せず失敗記録。代替ゲートウェイ/ミラーは未使用。"
     },
     {
       "id": "neonglitch86-index-3",
@@ -754,9 +754,9 @@
       "distribution_filename": "ROCKETMAN.vrm",
       "license_name": "CC0（制作者登録のOpen Source Avatars索引）",
       "license_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/projects.json",
-      "verification": "creator_index_direct_url_listed_download_untested",
+      "verification": "creator_index_direct_download_redirect_blocked_pending",
       "checked_at": "2026-10-08",
-      "notes": "NeonGlitch86の公開コレクションにアーティストとして本人を明記し、CC0、公開VRMモデルURLを掲載。IPFS直リンクのHTTP応答・バイナリ・表示は未確認。"
+      "notes": "制作者索引にCC0・VRM直URLを掲載。元URLの取得は別hostへのリダイレクトとなり、ポリシーにより追跡せず失敗記録。代替ゲートウェイ/ミラーは未使用。"
     }
   ]
 }

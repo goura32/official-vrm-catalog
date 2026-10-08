@@ -94,7 +94,7 @@
         "avatar",
         "fantasy"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/goblins/goblin%20elite%205.vrm",
       "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/goblins/goblin%20elite%205.vrm",
       "access_method": "direct_vrm",
@@ -102,9 +102,9 @@
       "distribution_size_bytes": 5967628,
       "license_name": "CC0 1.0 Universal",
       "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
-      "verification": "official_repository_file_listed",
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
       "checked_at": "2026-10-08",
-      "notes": "作者公式のCC0配布コレクション。GitHubファイル一覧で存在とサイズを確認。VRM実体の内部仕様版・正常表示は未検証。"
+      "notes": "実VRM 0.xを取得・検査したが、埋込licenseName=Redistribution_Prohibitedは配布元CC0表示と矛盾するため権利保留、NAS未保存。"
     },
     {
       "id": "mjmoonbow-goblin-elite-6-09083a0",
@@ -115,7 +115,7 @@
         "avatar",
         "fantasy"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/goblins/goblin%20elite%206.vrm",
       "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/goblins/goblin%20elite%206.vrm",
       "access_method": "direct_vrm",
@@ -123,9 +123,9 @@
       "distribution_size_bytes": 6263228,
       "license_name": "CC0 1.0 Universal",
       "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
-      "verification": "official_repository_file_listed",
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
       "checked_at": "2026-10-08",
-      "notes": "作者公式のCC0配布コレクション。GitHubファイル一覧で存在とサイズを確認。VRM実体の内部仕様版・正常表示は未検証。"
+      "notes": "実VRM 0.xを取得・検査したが、埋込licenseName=Redistribution_Prohibitedは配布元CC0表示と矛盾するため権利保留、NAS未保存。"
     },
     {
       "id": "mjmoonbow-kobold-2-1-deb8e71",
@@ -136,7 +136,7 @@
         "avatar",
         "fantasy"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/kobolds/kobold%202_1.vrm",
       "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/kobolds/kobold%202_1.vrm",
       "access_method": "direct_vrm",
@@ -144,9 +144,9 @@
       "distribution_size_bytes": 5150828,
       "license_name": "CC0 1.0 Universal",
       "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
-      "verification": "official_repository_file_listed",
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
       "checked_at": "2026-10-08",
-      "notes": "作者公式のCC0配布コレクション。GitHubファイル一覧で存在とサイズを確認。VRM実体の内部仕様版・正常表示は未検証。"
+      "notes": "実VRM 0.xを取得・検査したが、埋込licenseName=Redistribution_Prohibitedは配布元CC0表示と矛盾するため権利保留、NAS未保存。"
     },
     {
       "id": "mjmoonbow-kobold-3-1-4920055",
@@ -157,7 +157,7 @@
         "avatar",
         "fantasy"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/kobolds/kobold%203_1.vrm",
       "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/kobolds/kobold%203_1.vrm",
       "access_method": "direct_vrm",
@@ -165,9 +165,9 @@
       "distribution_size_bytes": 6013740,
       "license_name": "CC0 1.0 Universal",
       "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
-      "verification": "official_repository_file_listed",
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
       "checked_at": "2026-10-08",
-      "notes": "作者公式のCC0配布コレクション。GitHubファイル一覧で存在とサイズを確認。VRM実体の内部仕様版・正常表示は未検証。"
+      "notes": "実VRM 0.xを取得・検査したが、埋込licenseName=Redistribution_Prohibitedは配布元CC0表示と矛盾するため権利保留、NAS未保存。"
     },
     {
       "id": "mjmoonbow-kobold-4-adabccf",
@@ -178,7 +178,7 @@
         "avatar",
         "fantasy"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/kobolds/kobold%204.vrm",
       "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/kobolds/kobold%204.vrm",
       "access_method": "direct_vrm",
@@ -186,9 +186,9 @@
       "distribution_size_bytes": 5806884,
       "license_name": "CC0 1.0 Universal",
       "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
-      "verification": "official_repository_file_listed",
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
       "checked_at": "2026-10-08",
-      "notes": "作者公式のCC0配布コレクション。GitHubファイル一覧で存在とサイズを確認。VRM実体の内部仕様版・正常表示は未検証。"
+      "notes": "実VRM 0.xを取得・検査したが、埋込licenseName=Redistribution_Prohibitedは配布元CC0表示と矛盾するため権利保留、NAS未保存。"
     },
     {
       "id": "mjmoonbow-kobold-elite-0-c2e4251",
@@ -199,7 +199,7 @@
         "avatar",
         "fantasy"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/kobolds/Kobold%20Elite%200.vrm",
       "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/kobolds/Kobold%20Elite%200.vrm",
       "access_method": "direct_vrm",
@@ -207,9 +207,9 @@
       "distribution_size_bytes": 5452032,
       "license_name": "CC0 1.0 Universal",
       "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
-      "verification": "official_repository_file_listed",
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
       "checked_at": "2026-10-08",
-      "notes": "作者公式のCC0配布コレクション。GitHubファイル一覧で存在とサイズを確認。VRM実体の内部仕様版・正常表示は未検証。"
+      "notes": "実VRM 0.xを取得・検査したが、埋込licenseName=Redistribution_Prohibitedは配布元CC0表示と矛盾するため権利保留、NAS未保存。"
     },
     {
       "id": "mjmoonbow-minotaur-1-4-d310729",
@@ -220,7 +220,7 @@
         "avatar",
         "fantasy"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/minotaur%201_4.vrm",
       "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/minotaur%201_4.vrm",
       "access_method": "direct_vrm",
@@ -228,9 +228,9 @@
       "distribution_size_bytes": 5978724,
       "license_name": "CC0 1.0 Universal",
       "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
-      "verification": "official_repository_file_listed",
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
       "checked_at": "2026-10-08",
-      "notes": "作者公式のCC0配布コレクション。GitHubファイル一覧で存在とサイズを確認。VRM実体の内部仕様版・正常表示は未検証。"
+      "notes": "実VRM 0.xを取得・検査したが、埋込licenseName=Redistribution_Prohibitedは配布元CC0表示と矛盾するため権利保留、NAS未保存。"
     },
     {
       "id": "mjmoonbow-orc-0-1-cdf335c",
@@ -241,7 +241,7 @@
         "avatar",
         "fantasy"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/orcs/Orc%200_1.vrm",
       "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/orcs/Orc%200_1.vrm",
       "access_method": "direct_vrm",
@@ -249,9 +249,9 @@
       "distribution_size_bytes": 6000588,
       "license_name": "CC0 1.0 Universal",
       "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
-      "verification": "official_repository_file_listed",
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
       "checked_at": "2026-10-08",
-      "notes": "作者公式のCC0配布コレクション。GitHubファイル一覧で存在とサイズを確認。VRM実体の内部仕様版・正常表示は未検証。"
+      "notes": "実VRM 0.xを取得・検査したが、埋込licenseName=Redistribution_Prohibitedは配布元CC0表示と矛盾するため権利保留、NAS未保存。"
     },
     {
       "id": "mjmoonbow-orc-1-565b432",
@@ -262,7 +262,7 @@
         "avatar",
         "fantasy"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/orcs/Orc%201.vrm",
       "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/orcs/Orc%201.vrm",
       "access_method": "direct_vrm",
@@ -270,9 +270,9 @@
       "distribution_size_bytes": 5684644,
       "license_name": "CC0 1.0 Universal",
       "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
-      "verification": "official_repository_file_listed",
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
       "checked_at": "2026-10-08",
-      "notes": "作者公式のCC0配布コレクション。GitHubファイル一覧で存在とサイズを確認。VRM実体の内部仕様版・正常表示は未検証。"
+      "notes": "実VRM 0.xを取得・検査したが、埋込licenseName=Redistribution_Prohibitedは配布元CC0表示と矛盾するため権利保留、NAS未保存。"
     },
     {
       "id": "mjmoonbow-orc-2-04c4a67",
@@ -283,7 +283,7 @@
         "avatar",
         "fantasy"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/orcs/Orc%202.vrm",
       "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/orcs/Orc%202.vrm",
       "access_method": "direct_vrm",
@@ -291,9 +291,9 @@
       "distribution_size_bytes": 6667132,
       "license_name": "CC0 1.0 Universal",
       "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
-      "verification": "official_repository_file_listed",
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
       "checked_at": "2026-10-08",
-      "notes": "作者公式のCC0配布コレクション。GitHubファイル一覧で存在とサイズを確認。VRM実体の内部仕様版・正常表示は未検証。"
+      "notes": "実VRM 0.xを取得・検査したが、埋込licenseName=Redistribution_Prohibitedは配布元CC0表示と矛盾するため権利保留、NAS未保存。"
     },
     {
       "id": "mjmoonbow-wight-2-036d78f",
@@ -304,7 +304,7 @@
         "avatar",
         "fantasy"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/wight%202.vrm",
       "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/wight%202.vrm",
       "access_method": "direct_vrm",
@@ -312,9 +312,9 @@
       "distribution_size_bytes": 5823580,
       "license_name": "CC0 1.0 Universal",
       "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
-      "verification": "official_repository_file_listed",
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
       "checked_at": "2026-10-08",
-      "notes": "作者公式のCC0配布コレクション。GitHubファイル一覧で存在とサイズを確認。VRM実体の内部仕様版・正常表示は未検証。"
+      "notes": "実VRM 0.xを取得・検査したが、埋込licenseName=Redistribution_Prohibitedは配布元CC0表示と矛盾するため権利保留、NAS未保存。"
     },
     {
       "id": "mjmoonbow-skinnie1-5-41eb4fe",
@@ -344,7 +344,7 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/skinnie3_1.vrm",
       "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/skinnie3_1.vrm",
       "access_method": "direct_vrm",
@@ -352,9 +352,9 @@
       "distribution_size_bytes": 2020588,
       "license_name": "CC0 1.0 Universal",
       "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
-      "verification": "official_repository_file_listed",
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
       "checked_at": "2026-10-08",
-      "notes": "作者公式のCC0配布コレクション。GitHubファイル一覧で存在とサイズを確認。VRM実体の内部仕様版・正常表示は未検証。"
+      "notes": "実VRM 0.xを取得・検査したが、埋込licenseName=Redistribution_Prohibitedは配布元CC0表示と矛盾するため権利保留、NAS未保存。"
     },
     {
       "id": "mjmoonbow-skinnie4-09f04df",
@@ -364,7 +364,7 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/skinnie4.vrm",
       "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/skinnie4.vrm",
       "access_method": "direct_vrm",
@@ -372,9 +372,9 @@
       "distribution_size_bytes": 789936,
       "license_name": "CC0 1.0 Universal",
       "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
-      "verification": "official_repository_file_listed",
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
       "checked_at": "2026-10-08",
-      "notes": "作者公式のCC0配布コレクション。GitHubファイル一覧で存在とサイズを確認。VRM実体の内部仕様版・正常表示は未検証。"
+      "notes": "実VRM 0.xを取得・検査したが、埋込licenseName=Redistribution_Prohibitedは配布元CC0表示と矛盾するため権利保留、NAS未保存。"
     }
   ]
 }

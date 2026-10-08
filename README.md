@@ -21,7 +21,7 @@
 
 [収録・検証方針](docs/collection-policy.md) ／ [追加調査・保留候補](docs/research-notes.md) ／ [全体監査・人型ダウンロード方針](docs/download-scope-review.md) ／ **[NAS保存方式](docs/nas-storage.md)** ／ **[Hermes Agent継続一括実行指示（R1/R2・R3完了後）](docs/hermes-bulk-resume.md)** ／ [初回の指示書](docs/hermes-bulk-run.md) ／ [一括検証実績・再開チェックポイント](docs/hermes-bulk-run-results.md)
 
-**登録拡充はいったん1,297件で凍結しました。NASには人型VRMだけを個別に可逆圧縮して保存し、全身Tポーズ・顔のWebP画像をIDで対応付けます。実VRMのZIPとzstd比較を完了し、圧縮形式はZIPに統一しました。配布ZIP原本やその他同梱ファイルは残しません。** [選別IDリスト](data/download-scope.json)は人型候補545件、非人型候補243件、未判定509件です。R1/R2の400件は実VRMを個別確認し、人型243件（うち2件は先行保存済み）をNASへ保存、非人型150件を除外、形状保留4件・権利保留3件としました。NAS累計330件・WebP660枚で、最終監査は成功しています。次の実体検証対象は**R1/R2/R3以外の797件**で、優先はHalloween Rising 60件とXmas Chibis 80件（計140件）。**未判定509件とは集計の軸が異なり、重複して数えません。**予備分類と実証済みIDは区別し、既知の非人型は取得せず、取得後に非人型と分かった一時ファイルも永続保存しません。
+**登録拡充はいったん1,297件で凍結しています。** [選別IDリスト](data/download-scope.json)は人型候補553件、非人型候補247件、未判定497件です。R1/R2の400件は実VRMを個別確認し、人型243件（うち2件は先行保存済み）を保存、非人型150件を除外、形状保留4件・権利保留3件としました。今回の連続処理では新たに人型8件（ToxSam 6、VRM公式サンプル2）を保存し、非人型4件、埋込権利情報の矛盾16件、取得失敗2件を記録しました。Halloween Rising 60件・Xmas Chibis 80件は元のdweb.link URLを計2件だけ再試行しましたが、HTTP 429（`Retry-After: 900`）となり、残る138件を保留しています。別ゲートウェイへの切替はしていません。NASは累計338 ZIP・WebP 676枚、全件監査成功、開始時330件の索引行は不変です。R1/R2/R3以外797件は対象集合であり全件未検証を意味しません。この実行で32 IDを試行し、残る765件は未試行です。**未判定497件とは集計の軸が異なり、重複して数えません。**
 
 **画像・形状の根拠**： [R1/2 前半](docs/shape-review-100avatars-1-100.md) ／ [R1/2 後半](docs/shape-review-100avatars-101-200.md) ／ [R3](docs/shape-review-100avatars-r3.md) ／ [季節系・その他](docs/shape-review-indexed-other.md) ／ [MJMoonbow](docs/shape-review-mjmoonbow.md)。画像ファイル671件をIDに対応付けていますが、R1/R2のPNGはUVテクスチャで外形判定には使えません。画像対応付けは実VRMの形状確認やダウンロード許可を意味しません。
 
@@ -142,6 +142,8 @@ VRM 0.x / 1.0のモデル、アバター型と機能検証用モデルを対象�
 - `official_help_confirmed_export_untested`: 公式ヘルプが無料モデルと書き出し方法を案内。個別エクスポートは未検証
 - `official_free_distribution_listed_download_untested`: 公式配布元に無料のVRM配布案内を確認。個別の実ダウンロードは未検証
 - `creator_index_direct_url_listed_download_untested`: 制作者の公開モデル索引にVRM形式と直リンクを確認。リンク先バイナリは未取得
+- `creator_index_direct_url_rate_limited_pending`: 元の直接URLがHTTP 429を返し、`Retry-After`を記録。未取得のまま再開待ち
+- `creator_index_direct_download_redirect_blocked_pending`: 直接URLが別ホストへのリダイレクトを要求したため追跡せず保留（ミラー・別ゲートウェイへ切替えない）
 - `creator_index_direct_binary_render_humanoid_confirmed`: 制作者索引の直リンクから実VRMを取得し、バイナリメタデータ、ローカル描画、人型外形を確認（NAS保存・全件監査の完了は別途記録）
 - `official_binary_inspected_humanoid_render_confirmed_nas_zip_archived`: 実バイナリ・人型外形・Tポーズ/顔を確認し、NAS ZIP保存済み
 - `official_binary_inspected_non_humanoid_not_archived`: 実バイナリと描画を確認し、外形が非人型のため未保存

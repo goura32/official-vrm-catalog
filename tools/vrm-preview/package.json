@@ -1,0 +1,16 @@
+{
+  "name": "official-vrm-catalog-preview",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "node generate.mjs"
+  },
+  "dependencies": {
+    "@pixiv/three-vrm": "3.5.5",
+    "three": "0.180.0",
+    "vite": "6.3.5",
+    "playwright": "1.55.0",
+    "sharp": "0.34.3"
+  }
+}

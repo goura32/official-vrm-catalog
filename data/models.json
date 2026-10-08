@@ -1395,6 +1395,492 @@
       "verification": "official_hub_permission_and_format_confirmed",
       "checked_at": "2026-10-08",
       "notes": "VRoid Project公式アカウント公開。VRoid Hubで「他の人の利用: OK」（ダウンロードNGではない）およびFormat: VRM 0.0、再配布/改変可を確認。元のβサンプルと別バリエーション。ログイン・実ダウンロード未実施。"
+    },
+    {
+      "id": "laugh-diamond-hibiki",
+      "name": "篁 響季（LAUGH DiAMOND）",
+      "publisher": "KONAMI / LAUGH DiAMOND",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://www.konami.com/games/vp/guideline/img",
+      "download_url": null,
+      "access_method": "official_page_download",
+      "license_name": "LAUGH DiAMOND VR用モデル利用規約",
+      "license_url": "https://www.konami.com/games/vp/guideline/vrm",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "コナミ公式素材ページに個別のVRMダウンロードあり。VRM仕様版と実ファイル名は未確認。法人利用は規約に基づき事前相談が必要。"
+    },
+    {
+      "id": "laugh-diamond-asahi",
+      "name": "風祭 朝陽（LAUGH DiAMOND）",
+      "publisher": "KONAMI / LAUGH DiAMOND",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://www.konami.com/games/vp/guideline/img",
+      "download_url": null,
+      "access_method": "official_page_download",
+      "license_name": "LAUGH DiAMOND VR用モデル利用規約",
+      "license_url": "https://www.konami.com/games/vp/guideline/vrm",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "コナミ公式素材ページに個別のVRMダウンロードあり。VRM仕様版と実ファイル名は未確認。法人利用は規約に基づき事前相談が必要。"
+    },
+    {
+      "id": "laugh-diamond-momoka",
+      "name": "小紫 桃果（LAUGH DiAMOND）",
+      "publisher": "KONAMI / LAUGH DiAMOND",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://www.konami.com/games/vp/guideline/img",
+      "download_url": null,
+      "access_method": "official_page_download",
+      "license_name": "LAUGH DiAMOND VR用モデル利用規約",
+      "license_url": "https://www.konami.com/games/vp/guideline/vrm",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "コナミ公式素材ページに個別のVRMダウンロードあり。VRM仕様版と実ファイル名は未確認。法人利用は規約に基づき事前相談が必要。"
+    },
+    {
+      "id": "laugh-diamond-kanon",
+      "name": "山田 花音（LAUGH DiAMOND）",
+      "publisher": "KONAMI / LAUGH DiAMOND",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://www.konami.com/games/vp/guideline/img",
+      "download_url": null,
+      "access_method": "official_page_download",
+      "license_name": "LAUGH DiAMOND VR用モデル利用規約",
+      "license_url": "https://www.konami.com/games/vp/guideline/vrm",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "コナミ公式素材ページに個別のVRMダウンロードあり。VRM仕様版と実ファイル名は未確認。法人利用は規約に基づき事前相談が必要。"
+    },
+    {
+      "id": "tsukuyomichan-type-a-normal-outline",
+      "name": "つくよみちゃん タイプA 通常版（輪郭線あり）",
+      "publisher": "夢前黎 / つくよみちゃん公式",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "outline"
+      ],
+      "vrm_version": null,
+      "source_url": "https://tyc.rei-yumesaki.net/material/avatar/3d-a/",
+      "download_url": null,
+      "access_method": "official_page_download",
+      "license_name": "つくよみちゃん公式3Dモデル タイプA利用規約",
+      "license_url": "https://tyc.rei-yumesaki.net/material/avatar/3d-a/",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "公式説明に5つのVRMバリエーションと輪郭線あり／なしの各版を掲載。配布ファイル名・実ZIP内の対応は未検証。クレジット表記が必須。"
+    },
+    {
+      "id": "tsukuyomichan-type-a-normal-no-outline",
+      "name": "つくよみちゃん タイプA 通常版（輪郭線なし）",
+      "publisher": "夢前黎 / つくよみちゃん公式",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "no-outline"
+      ],
+      "vrm_version": null,
+      "source_url": "https://tyc.rei-yumesaki.net/material/avatar/3d-a/",
+      "download_url": null,
+      "access_method": "official_page_download",
+      "license_name": "つくよみちゃん公式3Dモデル タイプA利用規約",
+      "license_url": "https://tyc.rei-yumesaki.net/material/avatar/3d-a/",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "公式説明に5つのVRMバリエーションと輪郭線あり／なしの各版を掲載。配布ファイル名・実ZIP内の対応は未検証。クレジット表記が必須。"
+    },
+    {
+      "id": "tsukuyomichan-type-a-spats-outline",
+      "name": "つくよみちゃん タイプA スパッツ版（輪郭線あり）",
+      "publisher": "夢前黎 / つくよみちゃん公式",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "outline"
+      ],
+      "vrm_version": null,
+      "source_url": "https://tyc.rei-yumesaki.net/material/avatar/3d-a/",
+      "download_url": null,
+      "access_method": "official_page_download",
+      "license_name": "つくよみちゃん公式3Dモデル タイプA利用規約",
+      "license_url": "https://tyc.rei-yumesaki.net/material/avatar/3d-a/",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "公式説明に5つのVRMバリエーションと輪郭線あり／なしの各版を掲載。配布ファイル名・実ZIP内の対応は未検証。クレジット表記が必須。"
+    },
+    {
+      "id": "tsukuyomichan-type-a-spats-no-outline",
+      "name": "つくよみちゃん タイプA スパッツ版（輪郭線なし）",
+      "publisher": "夢前黎 / つくよみちゃん公式",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "no-outline"
+      ],
+      "vrm_version": null,
+      "source_url": "https://tyc.rei-yumesaki.net/material/avatar/3d-a/",
+      "download_url": null,
+      "access_method": "official_page_download",
+      "license_name": "つくよみちゃん公式3Dモデル タイプA利用規約",
+      "license_url": "https://tyc.rei-yumesaki.net/material/avatar/3d-a/",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "公式説明に5つのVRMバリエーションと輪郭線あり／なしの各版を掲載。配布ファイル名・実ZIP内の対応は未検証。クレジット表記が必須。"
+    },
+    {
+      "id": "tsukuyomichan-type-a-recotte-outline",
+      "name": "つくよみちゃん タイプA Recotte Studio用（輪郭線あり）",
+      "publisher": "夢前黎 / つくよみちゃん公式",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "recotte-studio",
+        "outline"
+      ],
+      "vrm_version": null,
+      "source_url": "https://tyc.rei-yumesaki.net/material/avatar/3d-a/",
+      "download_url": null,
+      "access_method": "official_page_download",
+      "license_name": "つくよみちゃん公式3Dモデル タイプA利用規約",
+      "license_url": "https://tyc.rei-yumesaki.net/material/avatar/3d-a/",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "公式説明に5つのVRMバリエーションと輪郭線あり／なしの各版を掲載。配布ファイル名・実ZIP内の対応は未検証。クレジット表記が必須。"
+    },
+    {
+      "id": "tsukuyomichan-type-a-recotte-no-outline",
+      "name": "つくよみちゃん タイプA Recotte Studio用（輪郭線なし）",
+      "publisher": "夢前黎 / つくよみちゃん公式",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "recotte-studio",
+        "no-outline"
+      ],
+      "vrm_version": null,
+      "source_url": "https://tyc.rei-yumesaki.net/material/avatar/3d-a/",
+      "download_url": null,
+      "access_method": "official_page_download",
+      "license_name": "つくよみちゃん公式3Dモデル タイプA利用規約",
+      "license_url": "https://tyc.rei-yumesaki.net/material/avatar/3d-a/",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "公式説明に5つのVRMバリエーションと輪郭線あり／なしの各版を掲載。配布ファイル名・実ZIP内の対応は未検証。クレジット表記が必須。"
+    },
+    {
+      "id": "tsukuyomichan-type-a-dress-up-outline",
+      "name": "つくよみちゃん タイプA 着せ替え用（輪郭線あり）",
+      "publisher": "夢前黎 / つくよみちゃん公式",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "dress-up",
+        "outline"
+      ],
+      "vrm_version": null,
+      "source_url": "https://tyc.rei-yumesaki.net/material/avatar/3d-a/",
+      "download_url": null,
+      "access_method": "official_page_download",
+      "license_name": "つくよみちゃん公式3Dモデル タイプA利用規約",
+      "license_url": "https://tyc.rei-yumesaki.net/material/avatar/3d-a/",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "公式説明に5つのVRMバリエーションと輪郭線あり／なしの各版を掲載。配布ファイル名・実ZIP内の対応は未検証。クレジット表記が必須。"
+    },
+    {
+      "id": "tsukuyomichan-type-a-dress-up-no-outline",
+      "name": "つくよみちゃん タイプA 着せ替え用（輪郭線なし）",
+      "publisher": "夢前黎 / つくよみちゃん公式",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "dress-up",
+        "no-outline"
+      ],
+      "vrm_version": null,
+      "source_url": "https://tyc.rei-yumesaki.net/material/avatar/3d-a/",
+      "download_url": null,
+      "access_method": "official_page_download",
+      "license_name": "つくよみちゃん公式3Dモデル タイプA利用規約",
+      "license_url": "https://tyc.rei-yumesaki.net/material/avatar/3d-a/",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "公式説明に5つのVRMバリエーションと輪郭線あり／なしの各版を掲載。配布ファイル名・実ZIP内の対応は未検証。クレジット表記が必須。"
+    },
+    {
+      "id": "tsukuyomichan-type-a-low-material-outline",
+      "name": "つくよみちゃん タイプA マテリアル削減版（18→7）（輪郭線あり）",
+      "publisher": "夢前黎 / つくよみちゃん公式",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "optimized",
+        "outline"
+      ],
+      "vrm_version": null,
+      "source_url": "https://tyc.rei-yumesaki.net/material/avatar/3d-a/",
+      "download_url": null,
+      "access_method": "official_page_download",
+      "license_name": "つくよみちゃん公式3Dモデル タイプA利用規約",
+      "license_url": "https://tyc.rei-yumesaki.net/material/avatar/3d-a/",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "公式説明に5つのVRMバリエーションと輪郭線あり／なしの各版を掲載。配布ファイル名・実ZIP内の対応は未検証。クレジット表記が必須。"
+    },
+    {
+      "id": "tsukuyomichan-type-a-low-material-no-outline",
+      "name": "つくよみちゃん タイプA マテリアル削減版（18→7）（輪郭線なし）",
+      "publisher": "夢前黎 / つくよみちゃん公式",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "optimized",
+        "no-outline"
+      ],
+      "vrm_version": null,
+      "source_url": "https://tyc.rei-yumesaki.net/material/avatar/3d-a/",
+      "download_url": null,
+      "access_method": "official_page_download",
+      "license_name": "つくよみちゃん公式3Dモデル タイプA利用規約",
+      "license_url": "https://tyc.rei-yumesaki.net/material/avatar/3d-a/",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "公式説明に5つのVRMバリエーションと輪郭線あり／なしの各版を掲載。配布ファイル名・実ZIP内の対応は未検証。クレジット表記が必須。"
+    },
+    {
+      "id": "sony-mocopi-raynos-original",
+      "name": "RAYNOSちゃん",
+      "publisher": "Sony Corporation / mocopi",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "perfect-sync"
+      ],
+      "vrm_version": null,
+      "source_url": "https://www.sony.co.jp/en/Products/mocopi-dev/jp/downloads/DownloadInfo.html",
+      "download_url": null,
+      "access_method": "official_page_download",
+      "license_name": "RAYNOSちゃん キャラクター使用許諾契約書（公式ページ）",
+      "license_url": "https://www.sony.co.jp/en/Products/mocopi-dev/jp/downloads/DownloadInfo.html",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "distribution_filename": "RAYNOS-chan-avatar_v1.0.8.zip",
+      "notes": "ソニー公式サイトの無償配布ZIP (v1.0.8)。VRMを用いる公式アバターとして外部ソフトの説明にも登場。VRM仕様版とZIP内のファイル名は未確認。UE専用・Live2D配布物とは区別。"
+    },
+    {
+      "id": "sony-mocopi-raynos-mini",
+      "name": "mini RAYNOSちゃん",
+      "publisher": "Sony Corporation / mocopi",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "perfect-sync",
+        "chibi"
+      ],
+      "vrm_version": null,
+      "source_url": "https://www.sony.co.jp/en/Products/mocopi-dev/jp/downloads/DownloadInfo.html",
+      "download_url": null,
+      "access_method": "official_page_download",
+      "license_name": "RAYNOSちゃん キャラクター使用許諾契約書（公式ページ）",
+      "license_url": "https://www.sony.co.jp/en/Products/mocopi-dev/jp/downloads/DownloadInfo.html",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "distribution_filename": "mini-RAYNOS-chan-avatar_v1.0.8.zip",
+      "notes": "ソニー公式サイトの無償配布ZIP (v1.0.8)。VRMを用いる公式アバターとして外部ソフトの説明にも登場。VRM仕様版とZIP内のファイル名は未確認。UE専用・Live2D配布物とは区別。"
+    },
+    {
+      "id": "sony-mocopi-raynos-sports",
+      "name": "Sports RAYNOSちゃん",
+      "publisher": "Sony Corporation / mocopi",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "perfect-sync"
+      ],
+      "vrm_version": null,
+      "source_url": "https://www.sony.co.jp/en/Products/mocopi-dev/jp/downloads/DownloadInfo.html",
+      "download_url": null,
+      "access_method": "official_page_download",
+      "license_name": "RAYNOSちゃん キャラクター使用許諾契約書（公式ページ）",
+      "license_url": "https://www.sony.co.jp/en/Products/mocopi-dev/jp/downloads/DownloadInfo.html",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "distribution_filename": "Sports-RAYNOS-chan-avatar_v1.0.8.zip",
+      "notes": "ソニー公式サイトの無償配布ZIP (v1.0.8)。VRMを用いる公式アバターとして外部ソフトの説明にも登場。VRM仕様版とZIP内のファイル名は未確認。UE専用・Live2D配布物とは区別。"
+    },
+    {
+      "id": "yumenokessho-popy",
+      "name": "夢ノ結唱 POPY",
+      "publisher": "夢ノ結唱 / BanG Dream!",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5322559",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "license_name": "夢ノ結唱 素材利用ガイドライン",
+      "license_url": "https://yumenokessho.bang-dream.com/guideline/guideline-material/",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "distribution_filename": "POPY.zip",
+      "notes": "夢ノ結唱公式ショップの0円配布ZIP。商品説明に .vrm を含むと明記。実ZIP未取得・VRM仕様版未確認。"
+    },
+    {
+      "id": "yumenokessho-rose",
+      "name": "夢ノ結唱 ROSE",
+      "publisher": "夢ノ結唱 / BanG Dream!",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5330712",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "license_name": "夢ノ結唱 素材利用ガイドライン",
+      "license_url": "https://yumenokessho.bang-dream.com/guideline/guideline-material/",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "distribution_filename": "ROSE.zip",
+      "notes": "夢ノ結唱公式ショップの0円配布ZIP。商品説明に .vrm を含むと明記。実ZIP未取得・VRM仕様版未確認。"
+    },
+    {
+      "id": "bandainamco-mirai-komachi",
+      "name": "ミライ小町 VRM ver 0.82",
+      "publisher": "Bandai Namco Research Inc.",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "spring-bone"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://github.com/Miraikomachi/MiraikomachiVRM/blob/master/Miraikomachi.vrm",
+      "download_url": "https://raw.githubusercontent.com/Miraikomachi/MiraikomachiVRM/master/Miraikomachi.vrm",
+      "access_method": "direct_vrm",
+      "license_name": "ミライ小町ライセンス",
+      "license_url": "https://github.com/Miraikomachi/MiraikomachiVRM/blob/master/LICENSE",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08",
+      "distribution_filename": "Miraikomachi.vrm",
+      "distribution_size_bytes": 7900248,
+      "notes": "公式READMEにVRMエクスポート版0.51とver 0.82、SpringBone修正履歴を記載。利用条件は研究・制作などに限定。VTuberやゲーム/SNSアバターとしての利用、商用利用、モデルの再配布は禁止。"
+    },
+    {
+      "id": "tegnike-nikechan-v1",
+      "name": "AIニケちゃん v1",
+      "publisher": "ニケ / AIニケちゃん",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/tegnike/nikechan-assets/blob/main/vrms/nikechan_v1.vrm",
+      "download_url": "https://raw.githubusercontent.com/tegnike/nikechan-assets/main/vrms/nikechan_v1.vrm",
+      "access_method": "direct_vrm",
+      "license_name": "AIニケちゃん公式二次創作・VRM配布利用条件",
+      "license_url": "https://nikechan.com/guidelines/derivative",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08",
+      "distribution_filename": "nikechan_v1.vrm",
+      "distribution_size_bytes": 19532128,
+      "notes": "権利者公式GitHubで配布。一般原則非営利・法人利用不可・再配布不可。作者はVRM内の旧メタデータを適用せず、公式サイトの現在のガイドラインを優先すると明記。バイナリ未解析。"
+    },
+    {
+      "id": "tegnike-nikechan-v2",
+      "name": "AIニケちゃん v2",
+      "publisher": "ニケ / AIニケちゃん",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/tegnike/nikechan-assets/blob/main/vrms/nikechan_v2.vrm",
+      "download_url": "https://raw.githubusercontent.com/tegnike/nikechan-assets/main/vrms/nikechan_v2.vrm",
+      "access_method": "direct_vrm",
+      "license_name": "AIニケちゃん公式二次創作・VRM配布利用条件",
+      "license_url": "https://nikechan.com/guidelines/derivative",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08",
+      "distribution_filename": "nikechan_v2.vrm",
+      "distribution_size_bytes": 41163416,
+      "notes": "権利者公式GitHubで配布。一般原則非営利・法人利用不可・再配布不可。作者はVRM内の旧メタデータを適用せず、公式サイトの現在のガイドラインを優先すると明記。バイナリ未解析。"
+    },
+    {
+      "id": "tegnike-nikechan-v2-outerwear",
+      "name": "AIニケちゃん v2（アウター着用）",
+      "publisher": "ニケ / AIニケちゃん",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/tegnike/nikechan-assets/blob/main/vrms/nikechan_v2_outerwear.vrm",
+      "download_url": "https://raw.githubusercontent.com/tegnike/nikechan-assets/main/vrms/nikechan_v2_outerwear.vrm",
+      "access_method": "direct_vrm",
+      "license_name": "AIニケちゃん公式二次創作・VRM配布利用条件",
+      "license_url": "https://nikechan.com/guidelines/derivative",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08",
+      "distribution_filename": "nikechan_v2_outerwear.vrm",
+      "distribution_size_bytes": 44187428,
+      "notes": "権利者公式GitHubで配布。一般原則非営利・法人利用不可・再配布不可。作者はVRM内の旧メタデータを適用せず、公式サイトの現在のガイドラインを優先すると明記。バイナリ未解析。"
+    },
+    {
+      "id": "vocalomakets-yuzuki-yukari-rei",
+      "name": "結月ゆかり 麗 公式3Dモデル",
+      "publisher": "VOCALOMAKETS / AHS",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/3965033",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "license_name": "VOCALOMAKETS 結月ゆかり 麗 公式3Dモデル使用ガイドライン",
+      "license_url": "https://booth.pm/ja/items/3965033",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "distribution_filename": "結月ゆかり麗_V1_0_s2k_19.zip",
+      "notes": "VOCALOMAKETS公式BOOTHが0円で配布。商品説明にVRM形式のアバターと明記。ZIP内のVRM仕様版・ファイル名は未確認。"
+    },
+    {
+      "id": "tamyuu-faafaa-free-vrm",
+      "name": "ふぁふぁ（無料VRM版）",
+      "publisher": "たみゅ屋(仮)",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5614226",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "license_name": "ふぁふぁ無料VRM版 利用規約（作者商品ページ）",
+      "license_url": "https://booth.pm/ja/items/5614226",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "distribution_filename": "faafaa-vrm_free.zip",
+      "notes": "作者BOOTHのVRMモデル(.vrm)無料版が0円。VRC用無料試用版とは別商品バリエーション。ZIPの内部VRMファイル・VRM仕様版は未確認。"
     }
   ]
 }

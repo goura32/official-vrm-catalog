@@ -6,12 +6,12 @@
 
 | ファイル | 収録範囲 | 件数 |
 | --- | --- | ---: |
-| [data/models.json](data/models.json) | 公式・作者配布モデル（過去の調査を含む） | 146 |
+| [data/models.json](data/models.json) | 公式・作者配布モデル（過去の調査を含む） | 181 |
 | [polygonalmind-001-050.json](data/collections/polygonalmind-001-050.json) | Polygonal Mind 001〜050・通常/Voxel | 100 |
 | [polygonalmind-051-100.json](data/collections/polygonalmind-051-100.json) | Polygonal Mind 051〜100・通常/Voxel | 100 |
 | [polygonalmind-101-150.json](data/collections/polygonalmind-101-150.json) | Polygonal Mind 101〜150・通常/Voxel | 100 |
 | [polygonalmind-151-200.json](data/collections/polygonalmind-151-200.json) | Polygonal Mind 151〜200・通常/Voxel | 100 |
-| **合計** | **200キャラクター×2配布版を含む** | **546** |
+| **合計** | **200キャラクター×2配布版を含む** | **581** |
 
 [収録・検証方針](docs/collection-policy.md) ／ [追加調査・保留候補](docs/research-notes.md)
 
@@ -56,6 +56,12 @@ VRM 0.x / 1.0のモデル、アバター型と機能検証用モデルを対象�
 - [そくかちゅう。「シロ」](https://booth.pm/ja/items/7234388) — VRM 1.0／0.xの両方
 - [オリジナルの無料VRM](https://booth.pm/ja/items/6018415) — 人物型・マスコット・練習用など作者本人の配布物
 
+- [shop-perchの無料VRM](https://booth.pm/ja/items/8580892)：コトハ・コハク・エレイン等、追加12件（有料VRoid編集データは除外）
+- [6666669 / ROLOCK](https://booth.pm/ja/items/6029627)：MIKKE・ペストマスクちゃん・黒曜（VRM 0.x/1.0）計4件
+- [RomanticSpica「りあん」](https://booth.pm/ja/items/8165924)：通常・素体×VRM 0.x/1.0の4件
+- [Doll me](https://booth.pm/ja/items/5173073)：作者の期間限定無料VRMを6件収録。無料期間は今後終了する可能性あり
+- [その他のオリジナルモデル](https://booth.pm/ja/items/8824510)：Ryuneru、ぷろふぁむ、SAKURAなど
+
 「無料版」以外の有料編集データや有料機能は、モデルの収録対象に含めません。
 
 **データの正本は上記5つのJSONファイルです。** 200体×2バリエーションを含むため、収録件数は「独立したキャラクターの人数」ではなく「VRM配布物・バリエーションの件数」です。
@@ -85,6 +91,7 @@ VRM 0.x / 1.0のモデル、アバター型と機能検証用モデルを対象�
 - 「公式配布」や「無料」は「無条件に商用利用・改変・再配布可能」という意味ではありません。**個別の利用条件を必ず確認**してください。
 - VRoid StudioのAvatarSample A〜Zは **CC0ではありません**（[公式条件](https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z)）。一方、旧ベータ版 AvatarSample_1〜4 は [CC0](https://vroid.pixiv.help/hc/ja/articles/4402614652569) です。両シリーズの利用条件を混同しないでください。
 - VRoid Hubでは**他の人の利用OK**と**他の人の利用OK（ダウンロードNG）**を区別します。後者しか確認できないモデルは、VRMファイルの取得元としては登録しません。公式Hubで「OK」と表示されてもログイン後の実ダウンロードは別途確認が必要です。
+- 一部のモデルは**期間限定無料**として公開されています。現在の0円掲載のみ確認しており、実ダウンロード成功や将来の無料継続は未確認です。
 - リンク先の条件・公開状況は変更される場合があります。BOOTHの無料ZIPにVRMが含まれる旨が公式説明に記載されていても、ZIP内部の解析まで完了しているとは限りません。**0円掲載はダウンロード成功の証明ではありません。** ショップ固有URLが非公開表示になる例があり、ログイン後の実際の取得可否は別途検証が必要です。
 - Polygonal Mind 100Avatarsの作者READMEには、無改変での再販売をしないよう求める記載があります。作者の公式配布条件を参照し、**CC0と断定しない**でください。
 - ミライ小町は**アバター用途と商用利用が禁止**されています。研究・教育等の利用範囲を公式ライセンスで確認してください。

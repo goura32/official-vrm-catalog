@@ -63,7 +63,7 @@ def check_webp(path):
         width = 1 + int.from_bytes(header[24:27], "little")
         height = 1 + int.from_bytes(header[27:30], "little")
     elif kind == b"VP8 ":
-        if header[23:26] != b"\\x9d\\x01\\x2a":
+        if header[23:26] != bytes((0x9d, 0x01, 0x2a)):
             raise ValueError(f"Invalid WebP VP8 frame: {path}")
         width = int.from_bytes(header[26:28], "little") & 0x3fff
         height = int.from_bytes(header[28:30], "little") & 0x3fff

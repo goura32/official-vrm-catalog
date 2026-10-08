@@ -77,7 +77,7 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - 季節URLとは独立した直接公開候補30件を試行（先行pilot 1件を含む）：28件は取得・バイナリ検査に成功、16件は埋込権利情報の矛盾で破棄・保留、12件はプレビュー生成後に目視、2件は取得段階で保留。ToxSam Pinata直リンクは7件取得し、6人型を保存、`toxsam-original-bffd07cc-601` は両脚のない尾状下半身のため非人型。NeonGlitch86のSHAPEYは埋込 `allowRedistribution=false` で権利保留、NOT NYC AVATARとROCKETMANは作者索引のW3S直URLが別hostへリダイレクトするため追跡せず失敗記録。MJMoonbow 13件は公開CC0表示と実VRMの `Redistribution_Prohibited`、Numinia 2件は公開CC0と埋込 `CC_BY` の矛盾で全件保留。矛盾モデルの一時VRMは削除し、NAS保存していない。
 - VRM仕様公式サンプル5件はVRM 1.0と埋込VRM Public Licenseを検査し、全件 `allowRedistribution=true`。Seed-sanとVRM1 Constraint Twistは人型・プレビュー合格として保存。Expressionsの2件はチェック模様、MToon UV Animation Testは記号画像の機能テストで非人型のため保存していない。今回の目視計12件（ToxSam 7体と公式サンプル5件）の分類は人型8・非人型4。ToxSam4件の顔画角は個別に `--face-height-frac 0.5` で再生成し、再目視で頭部切れを解消。
 - NASには今回**8件**（ToxSam 6、VRM公式サンプル2）の人型VRMを個別ZIPとTポーズ/顔WebPで追加。累計338 ZIP・WebP676枚。未圧縮1,235,912,821 bytes、ZIP596,275,978 bytes、削減639,636,843 bytes（51.7542%）、WebP8,409,792 bytes、`index.jsonl`392,854 bytes。最終 `verify_nas.py`: `ok:true`, `errors:[]`, formats `zip`。開始時の330索引行は完全一致し、R3 87件も維持。
-- 最終選別IDは人型候補553、非人型247、未判定497。R1/R2/R3以外の797件は対象集合の件数であり、全件の保存対象ではない。今回直接検証した30件と季節プローブ2件を除く765件は未試行。公開GitHub上のVRM本体/画像および一時ログはcommit対象外。GitHub Actions、RDC、外部AI API、別ホストへのリダイレクト追跡は使用していない。
+- 初回処理直後の選別IDは人型候補553、非人型247、未判定497。R1/R2/R3以外の797件は対象集合の件数であり、全件の保存対象ではない。初回時点で直接検証した30件と季節プローブ2件を除く765件は未試行だった。公開GitHub上のVRM本体/画像および一時ログはcommit対象外。GitHub Actions、RDC、外部AI API、別ホストへのリダイレクト追跡は使用していない。
 
 個別ID結果（チェックポイントと正本JSONにも反映）:
 
@@ -86,14 +86,27 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - 埋込権利矛盾16件（CC0索引/配布表示とVRM内部情報が不一致、全件NAS未保存）: `neonglitch86-shapey`; `numinia-starter-avatar-01`, `numinia-avatar-arla`; `mjmoonbow-goblin-elite-5-c01b977`, `mjmoonbow-goblin-elite-6-09083a0`, `mjmoonbow-kobold-2-1-deb8e71`, `mjmoonbow-kobold-3-1-4920055`, `mjmoonbow-kobold-4-adabccf`, `mjmoonbow-kobold-elite-0-c2e4251`, `mjmoonbow-minotaur-1-4-d310729`, `mjmoonbow-orc-0-1-cdf335c`, `mjmoonbow-orc-1-565b432`, `mjmoonbow-orc-2-04c4a67`, `mjmoonbow-skinnie3-1-f4b22ac`, `mjmoonbow-skinnie4-09f04df`, `mjmoonbow-wight-2-036d78f`。
 - 取得失敗2件（作者W3S URLが別hostへredirect、クロスhost追跡を拒否）: `neonglitch86-index-1`, `neonglitch86-index-3`。季節系の最新429は`polygonalmind-halloween-rising-001`と`polygonalmind-xmas-chibis-001`、どちらも元URLのVRMリクエスト。季節系の残りはHalloween `002–060`とXmas `002–080`の138件が未試行。`toxsam-original-59202483-0`（King Mutatio）は同じdweb.link hostのため試行延期。
 
+## Retry-After順守の再開とMJMoonbow追加候補（2026-10-09）
+
+- 前回の`Retry-After: 900`経過後、Halloween Rising 001とXmas Chibis 001の**元VRM URLのみ**を各1回再試行。`2026-10-08T21:58:16.105988Z`と`21:58:16.949763Z`に再度429。その期限後の追加試行も各1回だけ行い、`2026-10-08T22:23:18.252575Z`と`22:23:19.249050Z`に再度429。元VRM URLは初回を含め各4回失敗し、最新の最遅期限は`2026-10-08T22:38:19.249050Z`（安全な再開時刻は22:38:20 UTC以降）。同じhostの残り138件とToxSam King Mutatioはリクエストせず、別ゲートウェイへ迂回していない。
+- MJMoonbowの固定コミット`6af59479c61ab13b6caa96a9b915498489f2b9cd`にあるDragon画像4件を確認。Dragon 2/3は頭・胴・両腕・両脚のある人型候補、Dragon 8は翼以外の腕が画像で明瞭でないため保留、Dragon 9は四足の非人型として取得前に除外した。
+- `mjmoonbow-dragon-2-775e309`、`mjmoonbow-dragon-3-dbede1e`、`mjmoonbow-dragon-8-4-b210d8d`は固定コミットの元VRMを直接取得・検査した。全件VRM 0.xで、埋込`licenseName=Redistribution_Prohibited`が公開リポジトリのCC0表示と矛盾したため、3件とも権利保留・プレビュー生成なし・一時VRM破棄・NAS未保存。正確なSHA-256と取得バイト数はローカルの`holiday-batch-mj-extra-worker.log`に記録。`mjmoonbow-dragon-9-3f69838`のVRM本体は取得していない。
+- 累計の直接公開候補は33件（31件取得・検査、19件権利保留、12件描画レビュー、うち人型8/非人型4、別host redirect拒否2）。季節001を含む直接URL試行はユニーク35 ID、R1/R2/R3以外の797件中762件は直接VRM未リクエスト。選別数は人型555、非人型244、未判定498。NASへの追加はなく338 ZIP・676 WebPのまま。
+- 再開用ログ: `/home/ws2/.local/state/official-vrm-catalog/holiday-batch-resume-worker.log`、`holiday-batch-mj-extra-worker.log`、`holiday-batch-final-seasonal-worker.log`。統合checkpointは`holiday-batch-checkpoint.jsonl`、画面分類/固定commit根拠は`work/holiday-batch/source-validation.json`。次回の季節URL再試行は必ず`2026-10-08T22:38:20Z`以降に同じ元URLで行う。
+
 再開用チェックポイント（GitHubには含めない）:
 
 - `/home/ws2/.local/state/official-vrm-catalog/holiday-batch-checkpoint.jsonl`
 - `/home/ws2/.local/state/official-vrm-catalog/holiday-batch-visual-review.jsonl`
 - `/home/ws2/.local/state/official-vrm-catalog/holiday-batch-worker.log`
+- `/home/ws2/.local/state/official-vrm-catalog/holiday-batch-resume-worker.log`
+- `/home/ws2/.local/state/official-vrm-catalog/holiday-batch-mj-extra-worker.log`
+- `/home/ws2/.local/state/official-vrm-catalog/holiday-batch-final-seasonal-worker.log`
 - `/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/source-validation.json`
 - `/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/nas-baseline.json`
 - `/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/nas-baseline-before-final-archive.json`
 - `/home/ws2/.local/state/official-vrm-catalog/run_open_cc0_batch.py`
+- `/home/ws2/.local/state/official-vrm-catalog/run_mj_extra_batch.py`
+- `/home/ws2/.local/state/official-vrm-catalog/run_seasonal_retry.py`
 
-次回はdweb.linkの `Retry-After: 900` を尊重し、Halloween/Xmasの元URLだけを再確認する。ゲートウェイの切替えはしない。未試行の765 IDは権利と公式URLを確認した後、既保存・非人型・権利矛盾の保留IDを除外して継続する。
+次回は`2026-10-08T22:38:20Z`以降にdweb.linkのHalloween/Xmas元URLのみを再確認する。ゲートウェイの切替えはしない。直接VRM未試行の762 IDは権利と公式URLを確認した後、既保存・非人型・権利矛盾の保留IDを除外して継続する。

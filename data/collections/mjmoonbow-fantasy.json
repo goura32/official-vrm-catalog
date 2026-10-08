@@ -10,7 +10,7 @@
         "avatar",
         "fantasy"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/dragons/dragon%202.vrm",
       "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/dragons/dragon%202.vrm",
       "access_method": "direct_vrm",
@@ -18,9 +18,9 @@
       "distribution_size_bytes": 7468144,
       "license_name": "CC0 1.0 Universal",
       "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
-      "verification": "official_repository_file_listed",
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
       "checked_at": "2026-10-08",
-      "notes": "作者公式のCC0配布コレクション。GitHubファイル一覧で存在とサイズを確認。VRM実体の内部仕様版・正常表示は未検証。"
+      "notes": "実VRM 0.xを取得・検査したが、埋込licenseName=Redistribution_Prohibitedは配布元CC0表示と矛盾するため権利保留、NAS未保存。"
     },
     {
       "id": "mjmoonbow-dragon-3-dbede1e",
@@ -31,7 +31,7 @@
         "avatar",
         "fantasy"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/dragons/dragon%203.vrm",
       "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/dragons/dragon%203.vrm",
       "access_method": "direct_vrm",
@@ -39,9 +39,9 @@
       "distribution_size_bytes": 7497060,
       "license_name": "CC0 1.0 Universal",
       "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
-      "verification": "official_repository_file_listed",
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
       "checked_at": "2026-10-08",
-      "notes": "作者公式のCC0配布コレクション。GitHubファイル一覧で存在とサイズを確認。VRM実体の内部仕様版・正常表示は未検証。"
+      "notes": "実VRM 0.xを取得・検査したが、埋込licenseName=Redistribution_Prohibitedは配布元CC0表示と矛盾するため権利保留、NAS未保存。"
     },
     {
       "id": "mjmoonbow-dragon-8-4-b210d8d",
@@ -52,7 +52,7 @@
         "avatar",
         "fantasy"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/dragons/dragon%208_4.vrm",
       "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/dragons/dragon%208_4.vrm",
       "access_method": "direct_vrm",
@@ -60,9 +60,9 @@
       "distribution_size_bytes": 4846860,
       "license_name": "CC0 1.0 Universal",
       "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
-      "verification": "official_repository_file_listed",
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
       "checked_at": "2026-10-08",
-      "notes": "作者公式のCC0配布コレクション。GitHubファイル一覧で存在とサイズを確認。VRM実体の内部仕様版・正常表示は未検証。"
+      "notes": "実VRM 0.xを取得・検査したが、埋込licenseName=Redistribution_Prohibitedは配布元CC0表示と矛盾するため権利保留、NAS未保存。"
     },
     {
       "id": "mjmoonbow-dragon-9-3f69838",

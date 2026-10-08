@@ -1,6 +1,6 @@
 # MJMoonbow：公式PNGとVRM対応一覧
 
-制作者の[VRMavatarsリポジトリ](https://github.com/MJMoonbow/VRMavatars)内にあるPNGと、既登録18 VRMのファイル名を対応付けた。画像は閲覧用で、VRM本体は取得していない。画像だけで人型/非人型が確定したわけではない。
+制作者の[VRMavatarsリポジトリ](https://github.com/MJMoonbow/VRMavatars)内にあるPNGと、既登録18 VRMのファイル名を対応付けた。後続処理で固定コミット`6af59479c61ab13b6caa96a9b915498489f2b9cd`のDragon画像4件を確認し、2/3は人型候補、8は保留、9は非人型と分類した。また別途VRM実体16件を検査したが、全件で埋込`Redistribution_Prohibited`を確認してNAS未保存。作者PNGの画面分類は実VRMのTポーズ/顔プレビューや再配布許可を代替しない。詳細は[実機検証レポート](hermes-bulk-run-results.md)を参照。
 
 | 制作者の画像 | 既登録モデル |
 | --- | --- |

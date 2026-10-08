@@ -108,7 +108,7 @@ BOOTHの商品ごとに「ダウンロード商品 ¥0」とVRM本体の配布�
 ### MJMoonbow（18件）
 
 - [VRMavatars](https://github.com/MJMoonbow/VRMavatars) の作者READMEとCC0 1.0 LICENSEを確認。GitHubツリーに `.vrm` 23パスがあるうち、**5ファイルは2バイトしかなくVRMとして成立しないため除外**。それ以外の18ファイルの正確なパスとGitHub上のバイト数を `data/collections/mjmoonbow-fantasy.json` に記録。
-- 原作者側がCC0と表明していることを根拠に採録。実ファイル内部・VRM仕様バージョン・レンダリングは未確認。
+- 初回採録時は原作者側のCC0表示を根拠にし、実体未確認だった。後続処理では16件を実取得し、全件でVRM版0.xと埋込`Redistribution_Prohibited`を確認したため公開側CC0との矛盾で保留・非保存。固定コミット`6af59479c61ab13b6caa96a9b915498489f2b9cd`の作者レンダー画像4件も画面確認し、Dragon 2/3を人型候補、Dragon 8を保留、Dragon 9を明確な四足非人型とした。Dragon 9のVRM本体は取得していない。
 
 ### BOOTH（25件）
 

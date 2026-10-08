@@ -85,6 +85,9 @@ def archive_locked(args):
     if source.suffix.lower() != ".vrm" or not source.is_file():
         raise ValueError("Input must be a local .vrm")
     model = catalog_record(args.id)
+    scope = json.loads((REPO / "data/download-scope.json").read_text(encoding="utf-8"))
+    if args.id in scope.get("non_humanoid", []):
+        raise ValueError("Catalog scope explicitly excludes this non-humanoid ID")
     checked = inspect_file(source)
     if len(checked) != 1:
         raise ValueError("Expected one valid VRM")
@@ -185,7 +188,8 @@ def archive_locked(args):
             "source_url": model["source_url"], "license_url": model["license_url"],
             "distribution_filename": model.get("distribution_filename"),
             "archive_member_path": args.archive_member,
-            "retrieved_at": args.retrieved_at or datetime.now(timezone.utc).isoformat(),
+            "retrieved_at": args.retrieved_at,
+            "archived_at": datetime.now(timezone.utc).isoformat(),
             "previews": {
                 kind: {"path": relative_previews[kind], "sha256": digest(root / relative_previews[kind])}
                 for kind in pictures

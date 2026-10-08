@@ -11180,6 +11180,592 @@
       "verification": "official_repository_file_listed",
       "checked_at": "2026-10-08",
       "notes": "公開データのcreatorがPabloFMMである作者公開VRM。Numinia公式データでstatus=active・is_public=true・license=CC0を確認し、GitHub上の実ファイルパス・サイズを照合。配布アセットのversion=1.0.0はVRM仕様バージョンを意味しない。実取得・バイナリ解析・描画は未検証。"
+    },
+    {
+      "id": "bizava-toma-b",
+      "name": "とうまB（ビジネスアバター）",
+      "publisher": "ビジネスアバター工房",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/8061849",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "toma_b.vrm",
+      "license_name": "作者BOOTH掲載の利用条件（再配布・販売禁止）",
+      "license_url": "https://booth.pm/ja/items/8061849",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が無料配布物toma_b.vrmをVRM形式のモデルとして案内。0円の直接VRM。作者がVRM 0.0と記載。商用利用可と案内するがモデルの再配布・販売は禁止。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
+    },
+    {
+      "id": "bizava-toma-c",
+      "name": "とうまC（ビジネスアバター）",
+      "publisher": "ビジネスアバター工房",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/8061910",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "toma_c.vrm",
+      "license_name": "作者BOOTH掲載の利用条件（再配布・販売禁止）",
+      "license_url": "https://booth.pm/ja/items/8061910",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が無料配布物toma_c.vrmをVRM形式のモデルとして案内。0円の直接VRM。作者がVRM 0.0と記載。商用利用可と案内するがモデルの再配布・販売は禁止。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
+    },
+    {
+      "id": "bizava-toma-d",
+      "name": "とうまD（ビジネスアバター）",
+      "publisher": "ビジネスアバター工房",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/8061936",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "toma_d.vrm",
+      "license_name": "作者BOOTH掲載の利用条件（再配布・販売禁止）",
+      "license_url": "https://booth.pm/ja/items/8061936",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が無料配布物toma_d.vrmをVRM形式のモデルとして案内。0円の直接VRM。作者がVRM 0.0と記載。商用利用可と案内するがモデルの再配布・販売は禁止。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
+    },
+    {
+      "id": "bizava-keito-a",
+      "name": "けいとA（ビジネスアバター）",
+      "publisher": "ビジネスアバター工房",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/8062002",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "keito_a.vrm",
+      "license_name": "作者BOOTH掲載の利用条件（再配布・販売禁止）",
+      "license_url": "https://booth.pm/ja/items/8062002",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が無料配布物keito_a.vrmをVRM形式のモデルとして案内。0円の直接VRM。作者がVRM 0.0と記載。商用利用可と案内するがモデルの再配布・販売は禁止。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
+    },
+    {
+      "id": "bizava-keito-c",
+      "name": "けいとC（ビジネスアバター）",
+      "publisher": "ビジネスアバター工房",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/8061995",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "keito_c.vrm",
+      "license_name": "作者BOOTH掲載の利用条件（再配布・販売禁止）",
+      "license_url": "https://booth.pm/ja/items/8061995",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が無料配布物keito_c.vrmをVRM形式のモデルとして案内。0円の直接VRM。作者がVRM 0.0と記載。商用利用可と案内するがモデルの再配布・販売は禁止。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
+    },
+    {
+      "id": "bizava-keito-d",
+      "name": "けいとD（ビジネスアバター）",
+      "publisher": "ビジネスアバター工房",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/8061984",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "keito_d.vrm",
+      "license_name": "作者BOOTH掲載の利用条件（再配布・販売禁止）",
+      "license_url": "https://booth.pm/ja/items/8061984",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が無料配布物keito_d.vrmをVRM形式のモデルとして案内。0円の直接VRM。作者がVRM 0.0と記載。商用利用可と案内するがモデルの再配布・販売は禁止。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
+    },
+    {
+      "id": "neoneko-romuru",
+      "name": "ロムル",
+      "publisher": "ねおねこ商店",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/7933498",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ロムル.zip",
+      "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
+      "license_url": "https://booth.pm/ja/items/7933498",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が無料配布物ロムル.zipにロムル_v1.0.vrmを収録と説明。0円のZIPを作者が公開。商品ページにVRM 0.0と明記。商品版番号はVRM仕様版ではない。投げ銭版は別計上しない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
+    },
+    {
+      "id": "neoneko-nolt",
+      "name": "ノルト（Nolt）",
+      "publisher": "ねおねこ商店",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/7933453",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "Nolt_ノルト_.zip",
+      "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
+      "license_url": "https://booth.pm/ja/items/7933453",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が無料配布物Nolt_ノルト_.zipにノルト（Nolt）_1.3.vrmを収録と説明。0円のZIPを作者が公開。商品ページにVRM 0.0と明記。商品版番号はVRM仕様版ではない。投げ銭版は別計上しない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
+    },
+    {
+      "id": "neoneko-aorinu",
+      "name": "あおりーぬ",
+      "publisher": "ねおねこ商店",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/6525130",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "あおりーぬ.zip",
+      "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
+      "license_url": "https://booth.pm/ja/items/6525130",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が無料配布物あおりーぬ.zipにあおりーぬ_v1.03.vrmを収録と説明。0円のZIPを作者が公開。商品ページにVRM 0.0と明記。商品版番号はVRM仕様版ではない。投げ銭版は別計上しない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
+    },
+    {
+      "id": "neoneko-tsukiyomi-akane",
+      "name": "月詠赤音",
+      "publisher": "ねおねこ商店",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/5036417",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "月詠赤音.zip",
+      "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
+      "license_url": "https://booth.pm/ja/items/5036417",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が無料配布物月詠赤音.zipに月詠赤音_1.02.vrmを収録と説明。0円のZIPを作者が公開。商品ページにVRM 0.0と明記。商品版番号はVRM仕様版ではない。投げ銭版は別計上しない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
+    },
+    {
+      "id": "neoneko-shoki-avatar-2",
+      "name": "しょきあばたー2",
+      "publisher": "ねおねこ商店",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/8721870",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "さんぷるあばたー_2.zip",
+      "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
+      "license_url": "https://booth.pm/ja/items/8721870",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が無料配布物さんぷるあばたー_2.zipにしょきあばたー_2_v1.0.vrmを収録と説明。0円のZIPを作者が公開。商品ページにVRM 0.0と明記。商品版番号はVRM仕様版ではない。投げ銭版は別計上しない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
+    },
+    {
+      "id": "neoneko-ngii",
+      "name": "ンギィ",
+      "publisher": "ねおねこ商店",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/6254853",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ンギィ.zip",
+      "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
+      "license_url": "https://booth.pm/ja/items/6254853",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が無料配布物ンギィ.zipにンギィ_v1.06.vrmを収録と説明。0円のZIPを作者が公開。商品ページにVRM 0.0と明記。商品版番号はVRM仕様版ではない。投げ銭版は別計上しない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
+    },
+    {
+      "id": "neoneko-shitakee",
+      "name": "シタケェ",
+      "publisher": "ねおねこ商店",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/6254560",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "シタケェ.zip",
+      "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
+      "license_url": "https://booth.pm/ja/items/6254560",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が無料配布物シタケェ.zipにシタケェ2_v1.01.vrmを収録と説明。0円のZIPを作者が公開。商品ページにVRM 0.0と明記。商品版番号はVRM仕様版ではない。投げ銭版は別計上しない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
+    },
+    {
+      "id": "neoneko-roa",
+      "name": "ロア",
+      "publisher": "ねおねこ商店",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/5108925",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ロア.zip",
+      "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
+      "license_url": "https://booth.pm/ja/items/5108925",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が無料配布物ロア.zipにロア_1.01.vrmを収録と説明。0円のZIPを作者が公開。商品ページにVRM 0.0と明記。商品版番号はVRM仕様版ではない。投げ銭版は別計上しない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
+    },
+    {
+      "id": "neoneko-leo",
+      "name": "レオ",
+      "publisher": "ねおねこ商店",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/6505161",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "レオ.zip",
+      "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
+      "license_url": "https://booth.pm/ja/items/6505161",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が無料配布物レオ.zipにレオ_v1.09.vrmを収録と説明。0円のZIPを作者が公開。商品ページにVRM 0.0と明記。商品版番号はVRM仕様版ではない。投げ銭版は別計上しない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
+    },
+    {
+      "id": "neoneko-tofu-seijin",
+      "name": "とーふ星人",
+      "publisher": "ねおねこ商店",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/5101910",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "とーふ星人.zip",
+      "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
+      "license_url": "https://booth.pm/ja/items/5101910",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が無料配布物とーふ星人.zipにtofu_seijin.vrmを収録と説明。0円のZIPを作者が公開。商品ページにVRM 0.0と明記。商品版番号はVRM仕様版ではない。投げ銭版は別計上しない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
+    },
+    {
+      "id": "neoneko-junk-konojiblockun",
+      "name": "ジャンクアバター：コノジブロックン",
+      "publisher": "ねおねこ商店",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "test"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5421814",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ジャンクアバターコーナー1.zip",
+      "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
+      "license_url": "https://booth.pm/ja/items/5421814",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が無料配布物ジャンクアバターコーナー1.zipにkonojiblockun_1.03.vrmを収録と説明。無料ZIPに作者が異なるVRMを6ファイル明記。テクスチャ・シェイプキーが欠け、ボーン等に不備の可能性あり。johanshin 2ファイルは配布ファイル別バージョン。規格版は未確認。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
+    },
+    {
+      "id": "neoneko-junk-sumoutori",
+      "name": "ジャンクアバター：すもうとり",
+      "publisher": "ねおねこ商店",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "test"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5421814",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ジャンクアバターコーナー1.zip",
+      "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
+      "license_url": "https://booth.pm/ja/items/5421814",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が無料配布物ジャンクアバターコーナー1.zipにsumoutori_1.2.vrmを収録と説明。無料ZIPに作者が異なるVRMを6ファイル明記。テクスチャ・シェイプキーが欠け、ボーン等に不備の可能性あり。johanshin 2ファイルは配布ファイル別バージョン。規格版は未確認。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
+    },
+    {
+      "id": "neoneko-junk-johanshin",
+      "name": "ジャンクアバター：上半身",
+      "publisher": "ねおねこ商店",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "test"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5421814",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ジャンクアバターコーナー1.zip",
+      "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
+      "license_url": "https://booth.pm/ja/items/5421814",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が無料配布物ジャンクアバターコーナー1.zipにjohanshin.vrmを収録と説明。無料ZIPに作者が異なるVRMを6ファイル明記。テクスチャ・シェイプキーが欠け、ボーン等に不備の可能性あり。johanshin 2ファイルは配布ファイル別バージョン。規格版は未確認。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
+    },
+    {
+      "id": "neoneko-junk-johanshin-v091",
+      "name": "ジャンクアバター：上半身（ver0.91）",
+      "publisher": "ねおねこ商店",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "test"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5421814",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ジャンクアバターコーナー1.zip",
+      "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
+      "license_url": "https://booth.pm/ja/items/5421814",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が無料配布物ジャンクアバターコーナー1.zipにjohanshin_ver0.91.vrmを収録と説明。無料ZIPに作者が異なるVRMを6ファイル明記。テクスチャ・シェイプキーが欠け、ボーン等に不備の可能性あり。johanshin 2ファイルは配布ファイル別バージョン。規格版は未確認。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
+    },
+    {
+      "id": "neoneko-junk-bone-model",
+      "name": "ジャンクアバター：ボーンモデル",
+      "publisher": "ねおねこ商店",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "test"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5421814",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ジャンクアバターコーナー1.zip",
+      "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
+      "license_url": "https://booth.pm/ja/items/5421814",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が無料配布物ジャンクアバターコーナー1.zipにBone_model.vrmを収録と説明。無料ZIPに作者が異なるVRMを6ファイル明記。テクスチャ・シェイプキーが欠け、ボーン等に不備の可能性あり。johanshin 2ファイルは配布ファイル別バージョン。規格版は未確認。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
+    },
+    {
+      "id": "neoneko-junk-keisatsukan",
+      "name": "ジャンクアバター：警察官",
+      "publisher": "ねおねこ商店",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "test"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5421814",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ジャンクアバターコーナー1.zip",
+      "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
+      "license_url": "https://booth.pm/ja/items/5421814",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が無料配布物ジャンクアバターコーナー1.zipにkeisatsukan_1.5.vrmを収録と説明。無料ZIPに作者が異なるVRMを6ファイル明記。テクスチャ・シェイプキーが欠け、ボーン等に不備の可能性あり。johanshin 2ファイルは配布ファイル別バージョン。規格版は未確認。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
+    },
+    {
+      "id": "neoneko-affordable-dog-default",
+      "name": "お手頃いーぬ（標準）",
+      "publisher": "ねおねこ商店",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "animal",
+        "variant"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/7612513",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "お手頃いーぬ.zip",
+      "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
+      "license_url": "https://booth.pm/ja/items/7612513",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が無料配布物お手頃いーぬ.zipにお手頃いーぬ_v1.8.vrmを収録と説明。0円ZIP中の5種類のVRMが作者の内容物一覧に別ファイルとして記載。VRM 0.0と明記。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
+    },
+    {
+      "id": "neoneko-affordable-dog-shiba",
+      "name": "お手頃いーぬ（黒柴）",
+      "publisher": "ねおねこ商店",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "animal",
+        "variant"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/7612513",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "お手頃いーぬ.zip",
+      "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
+      "license_url": "https://booth.pm/ja/items/7612513",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が無料配布物お手頃いーぬ.zipにお手頃いーぬ_v1.8.1_くろしば.vrmを収録と説明。0円ZIP中の5種類のVRMが作者の内容物一覧に別ファイルとして記載。VRM 0.0と明記。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
+    },
+    {
+      "id": "neoneko-affordable-dog-corgi",
+      "name": "お手頃いーぬ（コーギー）",
+      "publisher": "ねおねこ商店",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "animal",
+        "variant"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/7612513",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "お手頃いーぬ.zip",
+      "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
+      "license_url": "https://booth.pm/ja/items/7612513",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が無料配布物お手頃いーぬ.zipにお手頃いーぬ_v1.8.2_こーぎー.vrmを収録と説明。0円ZIP中の5種類のVRMが作者の内容物一覧に別ファイルとして記載。VRM 0.0と明記。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
+    },
+    {
+      "id": "neoneko-affordable-dog-tanuki",
+      "name": "お手頃いーぬ（たぬき）",
+      "publisher": "ねおねこ商店",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "animal",
+        "variant"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/7612513",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "お手頃いーぬ.zip",
+      "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
+      "license_url": "https://booth.pm/ja/items/7612513",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が無料配布物お手頃いーぬ.zipにお手頃いーぬ_v1.8.3_たぬき.vrmを収録と説明。0円ZIP中の5種類のVRMが作者の内容物一覧に別ファイルとして記載。VRM 0.0と明記。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
+    },
+    {
+      "id": "neoneko-affordable-dog-husky",
+      "name": "お手頃いーぬ（ハスキー）",
+      "publisher": "ねおねこ商店",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "animal",
+        "variant"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/7612513",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "お手頃いーぬ.zip",
+      "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
+      "license_url": "https://booth.pm/ja/items/7612513",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が無料配布物お手頃いーぬ.zipにお手頃いーぬ_v1.8.4_はすきー.vrmを収録と説明。0円ZIP中の5種類のVRMが作者の内容物一覧に別ファイルとして記載。VRM 0.0と明記。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
+    },
+    {
+      "id": "mxu-yone",
+      "name": "ヨネ -Yone-",
+      "publisher": "MxU工房 / 無月",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/7043554",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "Yone_VRM.zip",
+      "license_name": "作者BOOTH掲載の利用条件",
+      "license_url": "https://booth.pm/ja/items/7043554",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が無料配布物Yone_VRM.zipをVRM形式のモデルとして案内。作者本人が無料配布物としてVRM専用ZIPを掲載。別のVRChat/Unity向けZIPや応援版はVRMを追加計上しない。商品v1.2はVRM仕様バージョンではない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
+    },
+    {
+      "id": "mxu-suu-vrm",
+      "name": "ケモっ娘のスゥ（通常VRM）",
+      "publisher": "MxU工房 / 無月",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/3933882",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "スゥ_リメイクv1.2.zip",
+      "license_name": "作者BOOTH掲載の利用条件",
+      "license_url": "https://booth.pm/ja/items/3933882",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が無料配布物スゥ_リメイクv1.2.zipをVRM形式のモデルとして案内。作者が無料ZIPを公開しVRMモデルv1.2と明記。商品バージョンとVRM仕様は別。2025年に別衣装VRMを追加。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
+    },
+    {
+      "id": "mxu-suu-valentine",
+      "name": "ケモっ娘のスゥ（バレンタイン衣装VRM）",
+      "publisher": "MxU工房 / 無月",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/3933882",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "Suu_Valentine_1.0.zip",
+      "license_name": "作者BOOTH掲載の利用条件",
+      "license_url": "https://booth.pm/ja/items/3933882",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が無料配布物Suu_Valentine_1.0.zipをVRM形式のモデルとして案内。作者の商品更新欄で『VRMのみバレンタイン衣装ver』を追加と明記。通常版とは別衣装・別の無料ZIP。配布物の1.0はVRM仕様版とは限らない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
     }
   ]
 }

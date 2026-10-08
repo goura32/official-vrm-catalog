@@ -6,7 +6,7 @@
 
 | ファイル | 収録範囲 | 件数 |
 | --- | --- | ---: |
-| [data/models.json](data/models.json) | 公式・作者配布モデル（過去の調査を含む） | 563 |
+| [data/models.json](data/models.json) | 公式・作者配布モデル（過去の調査を含む） | 593 |
 | [polygonalmind-001-050.json](data/collections/polygonalmind-001-050.json) | Polygonal Mind 001〜050・通常/Voxel | 100 |
 | [polygonalmind-051-100.json](data/collections/polygonalmind-051-100.json) | Polygonal Mind 051〜100・通常/Voxel | 100 |
 | [polygonalmind-101-150.json](data/collections/polygonalmind-101-150.json) | Polygonal Mind 101〜150・通常/Voxel | 100 |
@@ -17,7 +17,7 @@
 | [polygonalmind-xmas-chibis.json](data/collections/polygonalmind-xmas-chibis.json) | Xmas Chibis・Polygonal Mind制作CC0 VRMの公開IPFS URL | 80 |
 | [toxsam-originals.json](data/collections/toxsam-originals.json) | ToxSam本人によるCC0 VRMの公開IPFS URL | 10 |
 | [neonglitch86-models.json](data/collections/neonglitch86-models.json) | NeonGlitch86制作者GitHub・作者登録コレクションの無料公開VRM | 36 |
-| **合計** | **200キャラクター×2配布版を含む** | **1,267** |
+| **合計** | **200キャラクター×2配布版を含む** | **1,297** |
 
 [収録・検証方針](docs/collection-policy.md) ／ [追加調査・保留候補](docs/research-notes.md)
 
@@ -118,6 +118,10 @@ VRM 0.x / 1.0のモデル、アバター型と機能検証用モデルを対象�
 - [こぎつねちゃん](https://booth.pm/ja/items/6339220)、[赤べこchan](https://booth.pm/ja/items/6580617)、[佐竹ナギサ](https://booth.pm/ja/items/8447196)、[こふみちゃん](https://booth.pm/ja/items/4945822)など作者の無料VRM
 
 - [Numinia Digital Goods（PabloFMM作者配布）](https://github.com/PabloFMM/numinia-digital-goods-data/blob/main/data/avatars/numinia-avatars.json) — Starter Avatar 01・Avatar ArlaのCC0 VRMを2件追加。作者未記載のモデルは出典再確認待ち。
+
+- [ビジネスアバター工房の0円VRM](https://booth.pm/ja/items/8061910) — とうまB/C/D、けいとA/C/Dの6件（0.x）。作者はVRM直接配布を明記。
+- [ねおねこ商店の無料モデル](https://booth.pm/ja/items/7933498) — ロムル、ノルト等10件と[ジャンク6 VRM](https://booth.pm/ja/items/5421814)、[お手頃いーぬ5 VRM](https://booth.pm/ja/items/7612513)を計21件登録。無料ZIPの実取得・中身検証は未実施。
+- [MxU工房 ヨネ](https://booth.pm/ja/items/7043554)・[スゥ](https://booth.pm/ja/items/3933882) — 無料VRM用ZIPをヨネ1件、スゥ通常・バレンタイン衣装2件として登録。有料応援版やVRChat用ZIPは計上しない。
 
 「無料版」以外の有料編集データや有料機能は、モデルの収録対象に含めません。
 

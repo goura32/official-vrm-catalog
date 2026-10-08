@@ -76,12 +76,12 @@ python3 scripts/archive_vrm.py \
 
 保存処理は次の条件を満たした場合だけ索引を更新する。
 
-1. カタログIDが正本JSONに**一意に存在**する。元VRMは`inspect_vrm.py`でVRMとして認識できる。
+1. カタログIDが正本JSONに**一意に存在**し、既知の非人型リストに入っていない。元VRMは`inspect_vrm.py`でVRMとして認識できる。`--confirm-humanoid`は実機で外形を確認した担当者だけが指定する。
 2. 画像2枚がWebPであり、プレビュー生成JSONの`catalog_id`、**元VRMのSHA-256**、画像名・寸法情報・**画像のSHA-256**が一致する。
 3. ZIPまたはzstdから復元したVRMのSHA-256が元VRMと一致する。
 4. ID別の圧縮VRMとWebPを保存し、**`.index.lock`による排他制御のもと**で索引`index.jsonl`を原子的に更新する。既存の同一IDがあるときは黙って上書きせず停止する。`.index.lock`は小さな管理用ファイルとして残す。
 
-索引は保存済みVRM1体につき1行。索引には`catalog_id`、`name`、`publisher`、`stored_path`、`compression`、`vrm_sha256`、`archive_sha256`、`vrm_size_bytes`、`stored_size_bytes`、`vrm_version`、`source_url`、`license_url`、`distribution_filename`、`archive_member_path`、`retrieved_at`、`previews.tpose/face.path/sha256`を含める。
+索引は保存済みVRM1体につき1行。索引には`catalog_id`、`name`、`publisher`、`stored_path`、`compression`、`vrm_sha256`、`archive_sha256`、`vrm_size_bytes`、`stored_size_bytes`、`vrm_version`、`source_url`、`license_url`、`distribution_filename`、`archive_member_path`、`retrieved_at`（元の取得日時が判明する場合のみ）、`archived_at`（NAS保管日時）、`previews.tpose/face.path/sha256`を含める。
 
 一時取得した元ZIP、VRM、PNG等の中間画像は**検証完了後に作業機から消去する運用**とする。現行保存スクリプトは取得・一時ファイルの自動消去までは担当せず、実機バッチ処理側が担う。モデル本体・画像・索引はNASに保持し、GitHubへモデル本体やサムネイルはコミットしない。
 

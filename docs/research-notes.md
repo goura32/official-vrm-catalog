@@ -6,13 +6,13 @@
 | --- | --- | --- |
 | [Alicia Solid / ニコニ立体ちゃん (VRM 0.x)](https://github.com/vrm-c/UniVRM/blob/master/Tests/Models/Alicia_vrm-0.51/AliciaSolid_vrm-0.51.vrm) | 公式UniVRMリポジトリに約7.9MBのVRM実ファイルが存在。公式コードにはニコニ立体ちゃん規約URLが記載されている | [旧公式利用規約URL](https://3d.nicovideo.jp/alicia/rule.html)に今回アクセスできず、条件の現行性を検証できない |
 | [東北ずん子（通常モデル）](https://zunko.jp/con_illust.html) | [BOOTH共通商品URL](https://booth.pm/ja/items/1050142)には0円の3バージョンZIPが掲載。ショップ固有URLは非公開と表示される場合があり、公開状態が食い違う | 実ダウンロード可否とZIP中のVRMバージョンを確認後、各配布物の収録を判断 |
-| [ずんだもん（人型・マスコット）](https://zunko.jp/con_illust.html) | [マスコットのBOOTH共通商品URL](https://booth.pm/ja/items/2744821)は0円とVRM 1.0・歩行/飛行モデル2種を掲載。一方ショップ固有URLは非公開表示の場合あり | ショップ固有URLでは非公開表示。実ダウンロード可否と他の人型モデルの配布条件を再確認 |
+| [ずんだもん（人型・マスコット）](https://zunko.jp/con_illust.html) | [マスコットのBOOTH共通商品URL](https://booth.pm/ja/items/2744821)は0円とVRM 1.0・歩行/飛行モデル2種を掲載。一方ショップ固有URLは非公開表示の場合あり | **歩行・飛行の2件は後続調査で登録済み**。実ダウンロード可否と他の人型モデルの配布条件は未確認 |
 | [HAOLAN / ハオラン](https://booth.pm/ja/items/3818504) | 作者の公式BOOTHに0円商品。ただし記載物はUnitypackage・FBX・テクスチャ・Blender。バーチャルキャストに第三者が0 VCCのVRMとして掲載 | 作者の0円パッケージ内にVRMがあると確認できない。オリジナルとVRM配布元の関係の追加確認が必要 |
 
 ## 東北ずん子・ずんだもんの追加保留配布物（2026-10-08）
 
 - [東北ずん子公式3Dモデル](https://booth.pm/ja/items/1050142)：0円の `旧モデル_zunko.zip`、`Zunko_ModelSet.zip`、`Zunko2023K_ModelSet.zip`。新バージョンはVRM 1.0にも対応と記載。ただしショップ固有URLでは非公開表示となるため、3配布物の実取得・ZIP内部・VRM仕様バージョンは未検証。**まだ収録しない**。
-- [マスコットずんだもん公式3Dモデル](https://booth.pm/ja/items/2744821)：0円の `ずんだもん_通常_2025モデルセット.zip` はVRM 1.0に対応、歩行版と飛行版の2VRMモデルと公式明記。ただしショップ固有URLは非公開表示。**まだ収録しない**。
+- [マスコットずんだもん公式3Dモデル](https://booth.pm/ja/items/2744821)：0円の `ずんだもん_通常_2025モデルセット.zip` はVRM 1.0に対応、歩行版と飛行版の2VRMモデルと公式明記。**この記述の後に歩行・飛行の2件を登録済み**。ショップ固有URLの非公開表示との矛盾や実ダウンロードは未解消。
 - 既登録の[ミニ東北ずん子](https://booth.pm/ja/items/7304550)・[ミニずんだもん](https://booth.pm/ja/items/7304529)・[あまね](https://booth.pm/ja/items/4911831)・[Libby](https://booth.pm/ja/items/4893360)も、共通商品ページの無料表示とショップURLの非公開表示が食い違うため、取得可否の確認が必要。
 
 ## 今回収録した関連モデル

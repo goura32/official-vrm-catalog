@@ -1881,6 +1881,379 @@
       "checked_at": "2026-10-08",
       "distribution_filename": "faafaa-vrm_free.zip",
       "notes": "作者BOOTHのVRMモデル(.vrm)無料版が0円。VRC用無料試用版とは別商品バリエーション。ZIPの内部VRMファイル・VRM仕様版は未確認。"
+    },
+    {
+      "id": "ustella-new-fee-normal",
+      "name": "NEW FEE 通常版",
+      "publisher": "U-Stella Inc.",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "expressions"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/5447407",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "license_name": "作者・公式BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/5447407",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "distribution_filename": "二次創作用VRM3DモデルNEW_FEE_v0.0.0.zip",
+      "notes": "0円の公式ZIP内のNEW_Fee.vrm。通常版。軽量版・shape版も同じZIPに同梱。支援版のみPSD追加。作者二次創作ガイドラインに従う。"
+    },
+    {
+      "id": "ustella-new-fee-light",
+      "name": "NEW FEE 軽量版",
+      "publisher": "U-Stella Inc.",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "lightweight"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/5447407",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "license_name": "作者・公式BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/5447407",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "distribution_filename": "二次創作用VRM3DモデルNEW_FEE_v0.0.0.zip",
+      "notes": "0円の公式ZIP内のNEW_Fee_Light.vrm。通常版とは別の軽量VRM。実ZIP・モデル内部は未確認。"
+    },
+    {
+      "id": "ustella-new-fee-shape",
+      "name": "NEW FEE shape版",
+      "publisher": "U-Stella Inc.",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "expressions"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/5447407",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "license_name": "作者・公式BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/5447407",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "distribution_filename": "二次創作用VRM3DモデルNEW_FEE_v0.0.0.zip",
+      "notes": "0円の公式ZIPに貫通防止シェイプキーなどを適用していないVRMを同梱。公式説明の内部名『NEW_Fee_ shape.vrm』。実際のファイル名はZIP未確認。"
+    },
+    {
+      "id": "pachimon-shitocha-vrm1",
+      "name": "パチモンしとちゃ（VRM 1.0）",
+      "publisher": "夢咲しと / しとちゃのおへや",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "expressions",
+        "face-tracking"
+      ],
+      "vrm_version": "1.0",
+      "source_url": "https://booth.pm/ja/items/8535916",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "license_name": "作者・公式BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/8535916",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "distribution_filename": "pachimon_shitocha_free_v1.0.zip",
+      "notes": "0円の個人活動向けZIPにVRM 1.0と0.xの両方を収録。表情計88キー・iFacialMocap52キー。個人の動画・配信収益化可。クレジット必須、法人・企業案件・ゲーム/アプリ組込み不可、再配布禁止。"
+    },
+    {
+      "id": "pachimon-shitocha-vrm0",
+      "name": "パチモンしとちゃ（VRM 0.x）",
+      "publisher": "夢咲しと / しとちゃのおへや",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "expressions",
+        "face-tracking"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/8535916",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "license_name": "作者・公式BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/8535916",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "distribution_filename": "pachimon_shitocha_free_v1.0.zip",
+      "notes": "VRM 1.0版と同じ無料ZIP内の0.x互換版。個人活動向け、クレジット必須、法人・企業案件・ゲーム/アプリ組込み不可、再配布禁止。"
+    },
+    {
+      "id": "madananitoberu-vrm",
+      "name": "とべ～るくん（まだナニ公式マスコット）",
+      "publisher": "まだ何も決まってない / まだナニ",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "mascot",
+        "lightweight"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5821373",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "license_name": "作者・公式BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/5821373",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "distribution_filename": "toberu_ver1.vrm",
+      "notes": "作者の0円公式マスコットVRM（約1.23 MB）。作者案内ではcluster等での利用可、モデル自体の再配布・販売禁止。有料の応援版は収録しない。"
+    },
+    {
+      "id": "virtual-snow-festival-vyuki",
+      "name": "V雪ちゃん（バーチャル雪まつり公式）",
+      "publisher": "バーチャル雪まつり / VR∞M",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "mascot",
+        "large-scale"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/2852441",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "license_name": "作者・公式BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/2852441",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "distribution_filename": "vyukichan.zip",
+      "notes": "0円の公式イベントキャラVRMを含むZIP。身長約2mの異尺度モデル。改変可、商用・原本/改変版再配布禁止。VRM内部未確認。"
+    },
+    {
+      "id": "isao-amaha-sora-free",
+      "name": "天羽ソラ（無料MMD/VRMセット）",
+      "publisher": "ISAO / WITCH★CRAFT",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/6199261",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "license_name": "作者・公式BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/6199261",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "distribution_filename": "sore_set1.zip",
+      "notes": "0円の作者配布ZIPにPMX×7とVRMを同梱と明記。無料版以外の800円支援版は対象外。商用利用・再配布禁止。ZIP内VRM名と版は未確認。"
+    },
+    {
+      "id": "asahikawa-yukara-matsumotokun",
+      "name": "マツモトくん 3Dアバター",
+      "publisher": "旭川ユカラ公式ネットショップ",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "mascot",
+        "lightweight"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5930377",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "license_name": "作者・公式BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/5930377",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "distribution_filename": "matsumoto_kun_3D.vrm",
+      "notes": "公式の0円VRM（約2.95MB）。アバター使用時に『マツモトくん』という名前を使わないことが条件。実ダウンロード・バージョン未確認。"
+    },
+    {
+      "id": "yaminabe-fukki",
+      "name": "フッキー（創作集団yaminabe公式マスコット）",
+      "publisher": "創作集団yaminabe / ルニのクローゼット",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "mascot",
+        "lightweight"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/6084628",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "license_name": "作者・公式BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/6084628",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "distribution_filename": "フッキーVRM.zip",
+      "notes": "公式マスコットの0円VRM版ZIP（144KB）。VRChat用別ZIPや有料のテクスチャ応援版と区別。再配布、自作発言、政治・宗教用途など禁止。"
+    },
+    {
+      "id": "molz-avatar-sample",
+      "name": "molz 3Dデフォルメアバター（サンプル）",
+      "publisher": "molzアバター工房",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "chibi"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4979470",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "license_name": "作者・公式BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/4979470",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "distribution_filename": "molz-sample.vrm",
+      "notes": "0円のVRMサンプル、約9.97MB。商品説明にはイベント開催時のみ限定無料配布との文言もあり、実取得可能性の確認を保留。商用利用は個別問い合わせ。"
+    },
+    {
+      "id": "puppet-end-papeco-vrm",
+      "name": "ぱペコ（puppet end公式）",
+      "publisher": "puppet end",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "perfect-sync"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4524770",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "license_name": "作者・公式BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/4524770",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "distribution_filename": "vrd000_papeco_ver3.zip",
+      "notes": "公式ショップの0円配布ZIPにVRMと.vroid・テクスチャ・PSDを収録。名称変更・個人活動利用の制限を含む独自規約。VRM Hubにも公式掲載。"
+    },
+    {
+      "id": "enrai-tsubame-official-vrm",
+      "name": "遠雷燕（ENRAI公式3Dモデル）",
+      "publisher": "株式会社ブックリスタ / ENRAI",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://note.com/enraise/n/naaf24a598be2",
+      "download_url": null,
+      "access_method": "official_page_download",
+      "license_name": "公式利用条件",
+      "license_url": "https://booklista.notion.site/enrai-character-license#1c1e172ebc4b8017a662f089c2669e17",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "運営公式がVRM形式の無償提供を告知。個人・法人・商用・非商用を問わず無料、改変可。実VRM取得・版は未確認。"
+    },
+    {
+      "id": "pronama-kurei-kei-vrm",
+      "name": "プロ生ちゃん（暮井 慧）公式3D VRM",
+      "publisher": "合同会社プロ生 / プロ生ちゃん",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://kei.pronama.jp/download/",
+      "download_url": null,
+      "access_method": "official_page_download",
+      "license_name": "公式利用条件",
+      "license_url": "https://kei.pronama.jp/guideline/",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "公式ダウンロード案内にBlender/FBX/VRM配布を明記。OneDrive／ニコニ立体から正規に取得する方式。最新モデルはVer.4系、VRMファイルの具体的な版は未確認。"
+    },
+    {
+      "id": "aituber-onair-miko-normal",
+      "name": "ミコ（通常VRM）",
+      "publisher": "AITuber OnAir / ミコ",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://miko.aituberonair.com/downloads/",
+      "download_url": null,
+      "access_method": "official_page_download",
+      "license_name": "公式利用条件",
+      "license_url": "https://miko.aituberonair.com/",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "distribution_filename": "miko.vrm",
+      "notes": "公式ページで無料VRM『miko.vrm』を公開。現行利用ガイドライン下で商用可、素材単体での再配布は禁止。"
+    },
+    {
+      "id": "aituber-onair-miko-cheer",
+      "name": "ミコ（チアコスチュームVRM）",
+      "publisher": "AITuber OnAir / ミコ",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://miko.aituberonair.com/downloads/",
+      "download_url": null,
+      "access_method": "official_page_download",
+      "license_name": "公式利用条件",
+      "license_url": "https://miko.aituberonair.com/",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "distribution_filename": "miko-cheer.vrm",
+      "notes": "公式ページで通常版とは別の無料VRM『miko-cheer.vrm』を公開。利用条件は通常版と同じ。"
+    },
+    {
+      "id": "tokyo6-rikka-official-vrm0",
+      "name": "小春六花",
+      "publisher": "TOKYO6",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://hub.vroid.com/characters/1420006020727011145/models/3811297975865827284",
+      "download_url": null,
+      "access_method": "vroid_hub_vrm",
+      "license_name": "TOKYO6キャラクターガイドラインとVRoid Hub掲載モデル個別許諾",
+      "license_url": "https://tokyo6.tokyo/guidelines/",
+      "verification": "official_hub_permission_and_format_confirmed",
+      "checked_at": "2026-10-08",
+      "notes": "TOKYO6公式アカウントのVRoid Hubモデル。使用可(ダウンロードNGではない)、VRM 0.0、個人非営利利用、法人利用NG、再配布NG、クレジット必要。公式ガイドライン遵守。ログイン後の実取得未実施。"
+    },
+    {
+      "id": "tokyo6-karin-official-vrm0",
+      "name": "夏色花梨",
+      "publisher": "TOKYO6",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://hub.vroid.com/characters/5993455559260120854/models/4571015551835808669",
+      "download_url": null,
+      "access_method": "vroid_hub_vrm",
+      "license_name": "TOKYO6キャラクターガイドラインとVRoid Hub掲載モデル個別許諾",
+      "license_url": "https://tokyo6.tokyo/guidelines/",
+      "verification": "official_hub_permission_and_format_confirmed",
+      "checked_at": "2026-10-08",
+      "notes": "TOKYO6公式アカウントのVRoid Hubモデル。使用可(ダウンロードNGではない)、VRM 0.0、個人非営利利用、法人利用NG、再配布NG、クレジット必要。公式ガイドライン遵守。ログイン後の実取得未実施。"
+    },
+    {
+      "id": "tokyo6-chifuyu-official-vrm0",
+      "name": "花隈千冬",
+      "publisher": "TOKYO6",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://hub.vroid.com/characters/2937531899550522812/models/2901856923101812286",
+      "download_url": null,
+      "access_method": "vroid_hub_vrm",
+      "license_name": "TOKYO6キャラクターガイドラインとVRoid Hub掲載モデル個別許諾",
+      "license_url": "https://tokyo6.tokyo/guidelines/",
+      "verification": "official_hub_permission_and_format_confirmed",
+      "checked_at": "2026-10-08",
+      "notes": "TOKYO6公式アカウントのVRoid Hubモデル。使用可(ダウンロードNGではない)、VRM 0.0、個人非営利利用、法人利用NG、再配布NG、クレジット必要。公式ガイドライン遵守。ログイン後の実取得未実施。"
     }
   ]
 }

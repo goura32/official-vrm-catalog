@@ -282,3 +282,22 @@ BOOTHの作者ページで0円のVRMまたはVRM入りZIPの掲載と個別の�
 **除外・保留**：第三者IPの二次創作モデル、VRMモデル本体がなく変換ソフトだけの0円配布物、商品名はVRMでも実際の無料ファイルが壁紙のみになったモデル（例：[001 ARA](https://booth.pm/ja/items/3925526)）は追加しない。R-18、アカウント作成、規約同意そのものは購入不要であれば除外理由にしない。
 
 **次工程**：収録件数拡充を引き続き優先。ZIP内部のVRM数・ファイル名、無料の公開継続、実ダウンロード可否、正常な描画は後日Hermes Agentで確認し、原本を`/mnt/hdd/vrm`に保存する。原本ZIPやVRMをGitHubに追加しない。
+
+## 2026-10-08 追加収録：1,028→1,060件（+32件）
+
+作者によるBOOTHの27商品ページで0円のVRM本体またはVRM収録ZIPを確認し、32件を `data/models.json` に追加した。商品ページに複数のVRM実ファイル名が明記されている場合だけ複数レコードとした。実ダウンロード・バイナリ検証は未実施であり、`verification` は `official_free_distribution_listed_download_untested`。
+
+| 配布元 | 件数 | 確認内容 |
+| --- | ---: | --- |
+| [siroihakumai](https://booth.pm/ja/items/5658696) | 8 | カジュアル服0.x/1.0の2種、[メイド](https://booth.pm/ja/items/5674587)の0.x/1.0の2種、[AoのQuest向け](https://booth.pm/ja/items/5718823)1件、[Savi](https://booth.pm/ja/items/6799874)の通常・黒・灰3件。いずれも0円配布欄に`.vrm`ファイル名を掲載。VRoid編集データは有料のものがあるため、無料VRMとの混同は避ける。VRoid StudioおよびAvatarSample_C由来のテクスチャ使用と外部規約に注意。 |
+| [wondrous21](https://booth.pm/ja/items/4466505) | 13 | Diamond、Cesilia、Astera、Cinna、Mari、Fran、Rex、Mimi、Soft Kitty、Six、Maroo、[Cellの眼鏡あり・なし](https://booth.pm/ja/items/4126374)の2件。作者の無料商品ごとの直接VRMファイル名を記録。 |
+| [junebunnyyy](https://booth.pm/ja/items/5391496) | 4 | Basic Blue Panda、[Soft Watercolor Bunny](https://booth.pm/ja/items/5415963)、[Basic Honey Bear](https://booth.pm/ja/items/5391506)、[Basic Pink Cat](https://booth.pm/ja/items/5396966)は0円の直接VRM。有料のVRoid編集用ファイルは別モデルとして数えず、無料VRM版の改変制限とクレジット要請を記録。 |
+| [youkihi](https://booth.pm/ja/items/3841471) | 3 | 長い黒髪の少女、[就活女子](https://booth.pm/ja/items/3823494)、[業界人](https://booth.pm/ja/items/3828707)。作者説明では0円ZIPにVRMファイル本体とサンプル画像を同梱。ZIP内部のVRM実ファイル名は未確認。 |
+| [Shadow Shop](https://booth.pm/ja/items/8675244) | 1 | Tomboy.vrmを0円配布。.vroidは同モデルの編集元であり二重登録しない。 |
+| [pixellangel](https://booth.pm/ja/items/4795020) | 1 | Dolly Devilの無料`dolly_devil.vrm`。個人商用利用可能だが法人利用不可、使用時クレジット必須。 |
+| [acidicdollz](https://booth.pm/ja/items/8024833) | 1 | 90s Anime Vibesの0円ZIPにVRoidとVRMの両形式を明記。作者自身が「not rigged」と記載しているためアプリでの動作成功は未検証。 |
+| [shrike_exe](https://booth.pm/ja/items/3878527) | 1 | Flower Girlの0円配布ZIPをVRMとして案内。アーカイブ内部にあるVRM数は未確認につき1件のみ登録。 |
+
+**収録保留**：[skiyoshi Phoenix](https://booth.pm/ja/items/2329754)は商品共通ページに0円のVRM入りZIPが表示される一方、ショップトップのカードに500円と表示されていたため、公開状態・取得条件を再確認するまで収録しない。第三者作品の非公式ファンアバターや、テクスチャ・衣装だけのダウンロード商品も対象外。
+
+**実機確認待ち**：0円商品であっても取得成功を保証しない。認証・会員登録・年齢確認が必要でも購入不要なら収録対象。収録件数拡充後のHermes Agent一括検証でファイル内部と規約を確認し、原本を `/mnt/hdd/vrm` に永続保存する。原本のGitHubアップロードはしない。

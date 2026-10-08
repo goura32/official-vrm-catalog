@@ -2,6 +2,7 @@
 """Validate all catalog JSON files locally, without network or third-party modules."""
 import json
 from pathlib import Path
+from re import fullmatch
 from urllib.parse import urlparse
 
 data_dir = Path(__file__).resolve().parents[1] / "data"
@@ -25,7 +26,11 @@ for path in paths:
             assert urlparse(item[field]).scheme == "https", f"{model_id}: invalid {field}"
         if item.get("download_url") is not None:
             assert urlparse(item["download_url"]).scheme == "https"
-            assert urlparse(item["download_url"]).path.lower().endswith(".vrm")
+            parsed_download = urlparse(item["download_url"])
+            # Creator-indexed Arweave VRM objects have immutable extensionless paths.
+            arweave_vrm = (parsed_download.netloc == "arweave.net"
+                           and fullmatch(r"/[A-Za-z0-9_-]{43}", parsed_download.path))
+            assert parsed_download.path.lower().endswith(".vrm") or arweave_vrm
         assert item["vrm_version"] in ("0.x", "1.0", None)
         if "distribution_size_bytes" in item:
             assert type(item["distribution_size_bytes"]) is int and item["distribution_size_bytes"] > 0

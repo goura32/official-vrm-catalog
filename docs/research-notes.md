@@ -83,3 +83,20 @@
 **収録保留**：初音ミクなど第三者IPのファンモデルは権利元公式の配布ではないため、作者配布だけを根拠として今回は採録しない。VRoidアクセサリー、ポーズ集、VRM変換ツールもVRMモデルそのものではないので対象外。
 
 BOOTHの0円掲載を根拠とするが、ログイン後のダウンロード、期間限定商品の公開継続、ZIP内部構成は未検証。Hermesによる一括実機検証時は `/mnt/hdd/vrm` に原本を保存する。
+
+## 2026-10-08 無料VRM配布追加（35件）
+
+BOOTHの商品ごとに「ダウンロード商品 ¥0」とVRM本体の配布案内を確認して収録（581→616）。前回と同様、ダウンロード・ZIP内部の検証は未実施。詳細は `data/models.json` を参照。
+
+- [七百屋 vol.1](https://booth.pm/ja/items/4935982) — 無料ZIP中のアクアマリン、アメトリン、ルベライト、ペリドットを4件として登録。VRM 0.xと公式表記。
+- [マシェリ](https://booth.pm/ja/items/4921493) — セーラー版・子うさぎ版の無料VRM 2件。有料の編集用モデルは対象外。
+- [Openpose](https://booth.pm/ja/items/4716893) — 作者配布の0円ZIPを1件。[Openpose Full](https://booth.pm/ja/items/5451378) — 別作者の改変モデルをVRM 1.0・0.xの2件として収録（クレジット義務あり。元モデルとのライセンス関係は追加検証）。
+- [あいすくん](https://booth.pm/ja/items/5950129)と[冬版](https://booth.pm/ja/items/6419264)、[VOLO](https://booth.pm/ja/items/6139844)、[魔法少女すもも](https://booth.pm/ja/items/8925032) — 軽量モデル・ボクセルアバター。
+- [ドールシープ](https://booth.pm/ja/items/4875752)、[杏](https://booth.pm/ja/items/5182153)、[ルル](https://booth.pm/ja/items/3372986)、[口遊いろは](https://booth.pm/ja/items/2349118)、[Diva](https://booth.pm/ja/items/5808954)、[Mira](https://booth.pm/ja/items/7982191)、[竹燕](https://booth.pm/ja/items/8629412) — 公式作者の無料VRM。
+- [ダークあいす](https://booth.pm/ja/items/8173063) — 作者オリジナル色違いのVRM 0.x／1.0を2件。
+- [たわショップ](https://booth.pm/ja/items/5408796)、[みうこーショップ](https://booth.pm/ja/items/4150766)、[Yozora Neko](https://booth.pm/ja/items/5739237)、[si0JK_NEMU](https://booth.pm/ja/items/5969706)、[teoteome](https://booth.pm/ja/items/2453106) — その他の作者配布アバター。
+- [美和子さん](https://booth.pm/ja/items/2328802)、[泉淳也](https://booth.pm/ja/items/8012631) — 公式作者がVRM形式を明示した無料配布物。
+
+**引き続き保留**：[七百屋 vol.3](https://booth.pm/ja/items/4937868) は共通商品ページが0円と案内するもののショップ固有URLが「非公開中」と表示されるため、今回の追加対象外。VRMモデルの現物を明記していないアプリ、変換ツール、第三者IPのファンモデルも対象外。
+
+ファイル原本は収録拡充後、Hermes Agentによる実機確認時に `/mnt/hdd/vrm` へ保存する。

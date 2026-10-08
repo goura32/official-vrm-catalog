@@ -6,14 +6,14 @@
 
 | ファイル | 収録範囲 | 件数 |
 | --- | --- | ---: |
-| [data/models.json](data/models.json) | 公式・作者配布モデル（過去の調査を含む） | 487 |
+| [data/models.json](data/models.json) | 公式・作者配布モデル（過去の調査を含む） | 510 |
 | [polygonalmind-001-050.json](data/collections/polygonalmind-001-050.json) | Polygonal Mind 001〜050・通常/Voxel | 100 |
 | [polygonalmind-051-100.json](data/collections/polygonalmind-051-100.json) | Polygonal Mind 051〜100・通常/Voxel | 100 |
 | [polygonalmind-101-150.json](data/collections/polygonalmind-101-150.json) | Polygonal Mind 101〜150・通常/Voxel | 100 |
 | [polygonalmind-151-200.json](data/collections/polygonalmind-151-200.json) | Polygonal Mind 151〜200・通常/Voxel | 100 |
 | [mjmoonbow-fantasy.json](data/collections/mjmoonbow-fantasy.json) | MJMoonbow原作者公開のCC0ファンタジー系VRM | 18 |
 | [polygonalmind-201-300.json](data/collections/polygonalmind-201-300.json) | 100Avatars R3・制作者公開のArweave VRM（201〜300） | 100 |
-| **合計** | **200キャラクター×2配布版を含む** | **1,005** |
+| **合計** | **200キャラクター×2配布版を含む** | **1,028** |
 
 [収録・検証方針](docs/collection-policy.md) ／ [追加調査・保留候補](docs/research-notes.md)
 
@@ -99,6 +99,9 @@ VRM 0.x / 1.0のモデル、アバター型と機能検証用モデルを対象�
 - [Wanime](https://booth.pm/ja/items/8575773)・[moss](https://booth.pm/ja/items/8318734) — 作者自身が無料公開する衣装・素体違いのVRM計5件
 - [撫子](https://booth.pm/ja/items/3845065) — 本体と素体、[あいすくりーす](https://booth.pm/ja/items/4944771) — いちご・ナッツ・チョコミントの直接VRM
 - [あづはちゃん](https://booth.pm/ja/items/8947261)・[ミニあづはちゃん](https://booth.pm/ja/items/8947514)、[ぴよたそ](https://booth.pm/ja/items/6433350)、[Julius](https://booth.pm/ja/items/5380991) — クリエイター・キャラクター公式ショップによる無料VRM
+- [ジョン・ドゥ](https://booth.pm/ja/items/4927040)（通常7色）・[水着版](https://booth.pm/ja/items/5010593)（7色） — 直接VRMを14件として登録。まとめZIPは重複計上しない
+- [ドナ＆ドニー](https://booth.pm/ja/items/4180044) — 作者オリジナル2体、[にくねこちゃん](https://booth.pm/ja/items/4330151) — 生とウェルダンの2種類
+- [Pippa](https://booth.pm/ja/items/4613310)、[りこちゃん](https://booth.pm/ja/items/7517937)、[無題](https://booth.pm/ja/items/1571536)、[Nanami](https://booth.pm/ja/items/7753385)、[一般的なパンダ](https://booth.pm/ja/items/3739414) — 作者による無料VRM
 
 「無料版」以外の有料編集データや有料機能は、モデルの収録対象に含めません。
 

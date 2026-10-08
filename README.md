@@ -19,7 +19,7 @@
 | [neonglitch86-models.json](data/collections/neonglitch86-models.json) | NeonGlitch86制作者GitHub・作者登録コレクションの無料公開VRM | 36 |
 | **合計** | **200キャラクター×2配布版を含む** | **1,297** |
 
-[収録・検証方針](docs/collection-policy.md) ／ [追加調査・保留候補](docs/research-notes.md) ／ [全体監査・人型ダウンロード方針](docs/download-scope-review.md) ／ **[NAS保存方式](docs/nas-storage.md)**
+[収録・検証方針](docs/collection-policy.md) ／ [追加調査・保留候補](docs/research-notes.md) ／ [全体監査・人型ダウンロード方針](docs/download-scope-review.md) ／ **[NAS保存方式](docs/nas-storage.md)** ／ **[Hermes Agent一括実機検証の指示](docs/hermes-bulk-run.md)**
 
 **登録拡充はいったん1,297件で凍結しました。NASには人型VRMだけを個別に可逆圧縮して保存し、全身Tポーズ・顔のWebP画像をIDで対応付けます。ZIPとzstdは実VRMで比較し、差が小さければZIPを採用します。配布ZIP原本やその他の同梱ファイルは残しません。** [選別IDリスト](data/download-scope.json)に人型候補214件、非人型候補81件を別管理し、その他1,002件は未判定です。予備分類は取得済み・外観確認済みを意味しません。**未判定は配布条件を確認したうえで検査目的の一時ダウンロードを認め、形状・VRM実体を確認後に永続保存の可否を判断**します。既知の非人型は取得せず、検査後に非人型と分かった一時ファイルも消去します。元のJSONは削除・移動しません。
 

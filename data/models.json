@@ -4212,6 +4212,520 @@
       "verification": "official_free_distribution_listed_download_untested",
       "checked_at": "2026-10-08",
       "notes": "作者がVRM 0.0形式で完全無料配布。VRMAは別ファイルなのでVRMカタログへ含めない。VRoid規約に従う。実ダウンロードとVRM内部解析は未実施。"
+    },
+    {
+      "id": "kado-flow-flat",
+      "name": "フロウ ペラペラエディション",
+      "publisher": "Kado購買部",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "stylized",
+        "flat"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/6180349",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "フロウ_ペラペラエディション_.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/6180349",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が0円でVRM単体とPSD同梱ZIPを公開。板ポリゴン2枚を使う2D風のVRM。商用は用途により要相談、原本再配布禁止。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。"
+    },
+    {
+      "id": "kado-flow-v3-normal",
+      "name": "フロウ Ver.3 レインセーラー 通常版",
+      "publisher": "Kado購買部",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/8118323",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "フロウVer3_通常版.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/8118323",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が0円で公開。アウターなし2版は無料コンプリートZIPだけに同梱と明記。直接VRM版2件と同一モデルの機能・衣装差分として区別。商用利用時に作者クレジットが必要、再配布禁止。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。"
+    },
+    {
+      "id": "kado-flow-v3-perfect-sync",
+      "name": "フロウ Ver.3 レインセーラー Perfect Sync版",
+      "publisher": "Kado購買部",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "perfect-sync"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/8118323",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "フロウVer3_PS版.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/8118323",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が0円で公開。アウターなし2版は無料コンプリートZIPだけに同梱と明記。直接VRM版2件と同一モデルの機能・衣装差分として区別。商用利用時に作者クレジットが必要、再配布禁止。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。"
+    },
+    {
+      "id": "kado-flow-v3-no-outer-normal",
+      "name": "フロウ Ver.3 アウターなし通常版",
+      "publisher": "Kado購買部",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/8118323",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "コンプリート版.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/8118323",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が0円で公開。アウターなし2版は無料コンプリートZIPだけに同梱と明記。直接VRM版2件と同一モデルの機能・衣装差分として区別。商用利用時に作者クレジットが必要、再配布禁止。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。"
+    },
+    {
+      "id": "kado-flow-v3-no-outer-perfect-sync",
+      "name": "フロウ Ver.3 アウターなしPerfect Sync版",
+      "publisher": "Kado購買部",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "outfit-variant",
+        "perfect-sync"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/8118323",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "コンプリート版.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/8118323",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が0円で公開。アウターなし2版は無料コンプリートZIPだけに同梱と明記。直接VRM版2件と同一モデルの機能・衣装差分として区別。商用利用時に作者クレジットが必要、再配布禁止。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。"
+    },
+    {
+      "id": "kado-flow-memorial-sweet-rose",
+      "name": "フロウ メモリアル スイート・ロゼ",
+      "publisher": "Kado購買部",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5561492",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "メモリアルフロウ_スイート_ロゼ_.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/5561492",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者の0円VRM。衣装差分であり、無料のVRoid衣装セットやコンプリート版と同一モデルを二重計上しない。商用・改変可、再配布禁止、商用時クレジット必要。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。"
+    },
+    {
+      "id": "kado-flow-memorial-melty-rose",
+      "name": "フロウ メモリアル メルティ・ロゼ",
+      "publisher": "Kado購買部",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5561492",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "メモリアルフロウ_メルティ_ロゼ_.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/5561492",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者の0円VRM。衣装差分であり、無料のVRoid衣装セットやコンプリート版と同一モデルを二重計上しない。商用・改変可、再配布禁止、商用時クレジット必要。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。"
+    },
+    {
+      "id": "kado-flow-v2-light",
+      "name": "フロウ Ver.2 軽量版",
+      "publisher": "Kado購買部",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "lightweight"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5386580",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "フロウVer.2_軽量版__1_3修正_.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/5386580",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者の0円VRM。軽量版と表情拡張版は別ファイル。無料コンプリートZIPにも同じモデルが含まれるため重複計上しない。再配布禁止、商用クレジット必要。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。"
+    },
+    {
+      "id": "kado-flow-v2-perfect-sync",
+      "name": "フロウ Ver.2 Perfect Sync版",
+      "publisher": "Kado購買部",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "perfect-sync"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5386580",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "フロウVer.2_パーフェクトシンク版__1_3修正.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/5386580",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者の0円VRM。軽量版と表情拡張版は別ファイル。無料コンプリートZIPにも同じモデルが含まれるため重複計上しない。再配布禁止、商用クレジット必要。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。"
+    },
+    {
+      "id": "watanosoko-ayame-v2",
+      "name": "彩瞳 Ayame（パッケージVer.2）",
+      "publisher": "わたのそこ",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "expressions",
+        "package-version"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/3126282",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "AyameVRM2.0.1.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/3126282",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者公式で¥0のVRM専用ZIPを配布。Ver.2と旧Ver.1は互換性がないと明記。商品版番号はVRM仕様バージョンではないためvrm_versionは未確認。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。"
+    },
+    {
+      "id": "watanosoko-ayame-v1",
+      "name": "彩瞳 Ayame（パッケージVer.1）",
+      "publisher": "わたのそこ",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "expressions",
+        "package-version"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/3126282",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "AyameVRM1.0.1.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/3126282",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者公式で¥0のVRM専用ZIPを配布。Ver.2と旧Ver.1は互換性がないと明記。商品版番号はVRM仕様バージョンではないためvrm_versionは未確認。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。"
+    },
+    {
+      "id": "usamimiten-hoshiusa-black",
+      "name": "ほしうさ（くろ）",
+      "publisher": "うさみみ店",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "rabbit",
+        "color-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/2556708",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "VRMファイル.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/2556708",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が過去の自作アバターを2026年に無償再公開。無料ZIP内の「ほしうさ-くろ.vrm」を個別モデルとして登録。旧環境制作につき互換性注意。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。"
+    },
+    {
+      "id": "usamimiten-hoshiusa-pink",
+      "name": "ほしうさ（ピンク）",
+      "publisher": "うさみみ店",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "rabbit",
+        "color-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/2556708",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "VRMファイル.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/2556708",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が過去の自作アバターを2026年に無償再公開。無料ZIP内の「ほしうさ-ピンク.vrm」を個別モデルとして登録。旧環境制作につき互換性注意。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。"
+    },
+    {
+      "id": "amkr-zeroni",
+      "name": "ぜろに zeroni",
+      "publisher": "amkr",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "chibi",
+        "perfect-sync"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/6952609",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "zeroni.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/6952609",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が0円でHumanoid・MToon・Perfect Sync対応VRM 0.0を含むZIPを配布。VRChat/Warudo想定、再配布・政治宗教・中傷は禁止。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。"
+    },
+    {
+      "id": "abendgift-n",
+      "name": "VRMアバター N",
+      "publisher": "ABENDGIFT / 月森蝶華",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/6315693",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "VRMアバター_N_.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/6315693",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が0円のVRM 0.xモデルと明記。人物名変更・商用動画等は可能、モデルの改変・再配布は禁止。更新版1.1。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。"
+    },
+    {
+      "id": "enufshi-anago",
+      "name": "△256穴子",
+      "publisher": "enufshi",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "animal",
+        "low-poly",
+        "lightweight"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/3983431",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "256_VRM_anago_20220712_1800.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/3983431",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者の無料△256ポリゴンのアナゴマスコットVRM。商用条件等は商品ページを参照。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。"
+    },
+    {
+      "id": "chemical-riwore-normal-white",
+      "name": "リウォレ 通常耳・白",
+      "publisher": "chemical's shop",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "rabbit",
+        "color-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4458219",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "riwore_2023_01_07_01.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/4458219",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が0円ZIPへ4種類のVRMを含むと内部ファイル名まで明記（Normal_01.vrm）。改変とVRM対応サービスでの使用可、再配布・二次商品化・政治利用等は禁止。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。"
+    },
+    {
+      "id": "chemical-riwore-normal-black",
+      "name": "リウォレ 通常耳・黒",
+      "publisher": "chemical's shop",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "rabbit",
+        "color-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4458219",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "riwore_2023_01_07_01.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/4458219",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が0円ZIPへ4種類のVRMを含むと内部ファイル名まで明記（Normal_02.vrm）。改変とVRM対応サービスでの使用可、再配布・二次商品化・政治利用等は禁止。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。"
+    },
+    {
+      "id": "chemical-riwore-lop-white",
+      "name": "リウォレ たれ耳・白",
+      "publisher": "chemical's shop",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "rabbit",
+        "color-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4458219",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "riwore_2023_01_07_01.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/4458219",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が0円ZIPへ4種類のVRMを含むと内部ファイル名まで明記（Rop_01.vrm）。改変とVRM対応サービスでの使用可、再配布・二次商品化・政治利用等は禁止。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。"
+    },
+    {
+      "id": "chemical-riwore-lop-black",
+      "name": "リウォレ たれ耳・黒",
+      "publisher": "chemical's shop",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "rabbit",
+        "color-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4458219",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "riwore_2023_01_07_01.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/4458219",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が0円ZIPへ4種類のVRMを含むと内部ファイル名まで明記（Rop_02.vrm）。改変とVRM対応サービスでの使用可、再配布・二次商品化・政治利用等は禁止。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。"
+    },
+    {
+      "id": "kantennekoya-petit-naoya",
+      "name": "ぷち尚也",
+      "publisher": "寒天ねこ屋",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "chibi",
+        "lightweight"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/6594471",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "petit-naoya_v1.0.1.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/6594471",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者がVRChat/cluster向けの小型VRMをそれぞれ0円で直接配布。ZIPのVRC用モデルと混同しない。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。"
+    },
+    {
+      "id": "kantennekoya-petit-yuzuki",
+      "name": "ぷち柚希",
+      "publisher": "寒天ねこ屋",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "chibi",
+        "lightweight"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/6594471",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "petit-yuzuki_v1.0.1.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/6594471",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者がVRChat/cluster向けの小型VRMをそれぞれ0円で直接配布。ZIPのVRC用モデルと混同しない。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。"
+    },
+    {
+      "id": "sn1572-tsumugi-taka",
+      "name": "紬たか",
+      "publisher": "SN1572",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/3537750",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "紬たか_VRM_VRCモデル.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/3537750",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が0円ZIPにVRM・VRChatモデルを提供。古いバージョンのモデルで、再配布には作者確認が必要。支援版300円のぬいぐるみVRMは除外。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。"
+    },
+    {
+      "id": "mxu-purin-normal",
+      "name": "PURIN プリン",
+      "publisher": "MxU工房-ミュースタジオ-",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "mascot",
+        "food"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5082441",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "PURIN.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/5082441",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が0円ZIP内にPURINとPURIN+の別々のVRMを明記（UnityPackage等も同梱）。有料版と内容は同一。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。"
+    },
+    {
+      "id": "mxu-purin-plus",
+      "name": "PURIN+ プリン＋",
+      "publisher": "MxU工房-ミュースタジオ-",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "mascot",
+        "food"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5082441",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "PURIN.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/5082441",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が0円ZIP内にPURINとPURIN+の別々のVRMを明記（UnityPackage等も同梱）。有料版と内容は同一。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。"
     }
   ]
 }

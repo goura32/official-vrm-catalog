@@ -6139,6 +6139,1244 @@
       "verification": "official_free_distribution_listed_download_untested",
       "checked_at": "2026-10-08",
       "notes": "既登録の通常・黒服版と同じ無料ZIPに第三の「めいどちゃん裸.VRM(髪アクセ付)」が公式記載されているため追加。VRM実パスは未検証。 原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。"
+    },
+    {
+      "id": "teoteome-young-man-uniform",
+      "name": "青年／女装・闇落ち「制服（新）」",
+      "publisher": "teoteome",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/3400424",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "制服新.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/3400424",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が個別無料ZIPで配布。『全部まとめ.zip』は同じモデルを集約したアーカイブなので別件計上しない。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-young-man-crossdress",
+      "name": "青年／女装・闇落ち「女装（新）」",
+      "publisher": "teoteome",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/3400424",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "新女装.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/3400424",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が個別無料ZIPで配布。『全部まとめ.zip』は同じモデルを集約したアーカイブなので別件計上しない。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-young-man-braid",
+      "name": "青年／女装・闇落ち「女装みつあみ」",
+      "publisher": "teoteome",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/3400424",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "女装みつあみ.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/3400424",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が個別無料ZIPで配布。『全部まとめ.zip』は同じモデルを集約したアーカイブなので別件計上しない。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-young-man-bob",
+      "name": "青年／女装・闇落ち「女装ボブ」",
+      "publisher": "teoteome",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/3400424",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "女装ボブ.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/3400424",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が個別無料ZIPで配布。『全部まとめ.zip』は同じモデルを集約したアーカイブなので別件計上しない。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-young-man-dark-normal",
+      "name": "青年／女装・闇落ち「闇落ち通常服」",
+      "publisher": "teoteome",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/3400424",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "闇落ち通常服.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/3400424",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が個別無料ZIPで配布。『全部まとめ.zip』は同じモデルを集約したアーカイブなので別件計上しない。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-young-man-dark-short",
+      "name": "青年／女装・闇落ち「闇落ち半そで」",
+      "publisher": "teoteome",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/3400424",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "闇落ち半そで.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/3400424",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が個別無料ZIPで配布。『全部まとめ.zip』は同じモデルを集約したアーカイブなので別件計上しない。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-young-man-dark-maid",
+      "name": "青年／女装・闇落ち「女装闇落ちメイド」",
+      "publisher": "teoteome",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/3400424",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "女装闇落ちメイド.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/3400424",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が個別無料ZIPで配布。『全部まとめ.zip』は同じモデルを集約したアーカイブなので別件計上しない。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-young-man-sailor",
+      "name": "青年／女装・闇落ち「セーラー青年」",
+      "publisher": "teoteome",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/3400424",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "セーラー青年.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/3400424",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が個別無料ZIPで配布。『全部まとめ.zip』は同じモデルを集約したアーカイブなので別件計上しない。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-young-seven-base",
+      "name": "旧男素体コンバート",
+      "publisher": "teoteome",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/3406272",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "素体.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/3406272",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者説明の計7種（素体1・ジト目2・青髪2・セーラー2）を分類。バリエーションの正確な内部名称は未確認。『すべて.zip』は同一内容のまとめ。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-young-seven-silver-eye-a",
+      "name": "ジト目・銀髪（バリエーション1）",
+      "publisher": "teoteome",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/3406272",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ジト目オッド銀.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/3406272",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者説明の計7種（素体1・ジト目2・青髪2・セーラー2）を分類。バリエーションの正確な内部名称は未確認。『すべて.zip』は同一内容のまとめ。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-young-seven-silver-eye-b",
+      "name": "ジト目・銀髪（バリエーション2）",
+      "publisher": "teoteome",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/3406272",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ジト目オッド銀.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/3406272",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者説明の計7種（素体1・ジト目2・青髪2・セーラー2）を分類。バリエーションの正確な内部名称は未確認。『すべて.zip』は同一内容のまとめ。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-young-seven-blue-glasses",
+      "name": "青髪メイドショタ（眼鏡あり）",
+      "publisher": "teoteome",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/3406272",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "メイドショタmegane.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/3406272",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者説明の計7種（素体1・ジト目2・青髪2・セーラー2）を分類。バリエーションの正確な内部名称は未確認。『すべて.zip』は同一内容のまとめ。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-young-seven-blue-no-glasses",
+      "name": "青髪メイドショタ（眼鏡なし）",
+      "publisher": "teoteome",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/3406272",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "メイドショタmegane.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/3406272",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者説明の計7種（素体1・ジト目2・青髪2・セーラー2）を分類。バリエーションの正確な内部名称は未確認。『すべて.zip』は同一内容のまとめ。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-young-seven-sailor-a",
+      "name": "セーラー服少女（バリエーション1）",
+      "publisher": "teoteome",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/3406272",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ないあるちせーら.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/3406272",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者説明の計7種（素体1・ジト目2・青髪2・セーラー2）を分類。バリエーションの正確な内部名称は未確認。『すべて.zip』は同一内容のまとめ。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-young-seven-sailor-b",
+      "name": "セーラー服少女（バリエーション2）",
+      "publisher": "teoteome",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/3406272",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ないあるちせーら.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/3406272",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者説明の計7種（素体1・ジト目2・青髪2・セーラー2）を分類。バリエーションの正確な内部名称は未確認。『すべて.zip』は同一内容のまとめ。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-sunglasses-missing",
+      "name": "サングラスどこ行った",
+      "publisher": "teoteome",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "accessory-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5181031",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "サングラスどこ行った.vrm",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/5181031",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "0円の別VRM3ファイル。3体を収録する無料『サングラスない.zip』は重複計上しない。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-sunglasses-misaligned",
+      "name": "サングラスちょっとズレた",
+      "publisher": "teoteome",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "accessory-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5181031",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "サングラスちょっとズレた.vrm",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/5181031",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "0円の別VRM3ファイル。3体を収録する無料『サングラスない.zip』は重複計上しない。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-sunglasses-none",
+      "name": "サングラスない",
+      "publisher": "teoteome",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "accessory-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5181031",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "サングラスない.vrm",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/5181031",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "0円の別VRM3ファイル。3体を収録する無料『サングラスない.zip』は重複計上しない。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-proxy-young-soft-pink",
+      "name": "ふんわりピンク（代理配布）",
+      "publisher": "teoteome（知人制作の代理配布）",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "color-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5152451",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ふんわりピンク.vrm",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/5152451",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "知人の制作物を作者ショップで代理配布。ページは9個の直接VRMファイルを0円掲載し、商用可・R15まで・再配布禁止などモデル固有制限を記載。代理配布についての権利者からの許諾書は未確認。『まとめ.zip』は別計上しない。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-proxy-young-blue",
+      "name": "ブルーふわふわ（代理配布）",
+      "publisher": "teoteome（知人制作の代理配布）",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "color-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5152451",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ブルーふわふわ.vrm",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/5152451",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "知人の制作物を作者ショップで代理配布。ページは9個の直接VRMファイルを0円掲載し、商用可・R15まで・再配布禁止などモデル固有制限を記載。代理配布についての権利者からの許諾書は未確認。『まとめ.zip』は別計上しない。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-proxy-young-orange",
+      "name": "ふわおれんじ（代理配布）",
+      "publisher": "teoteome（知人制作の代理配布）",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "color-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5152451",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ふわおれんじ.vrm",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/5152451",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "知人の制作物を作者ショップで代理配布。ページは9個の直接VRMファイルを0円掲載し、商用可・R15まで・再配布禁止などモデル固有制限を記載。代理配布についての権利者からの許諾書は未確認。『まとめ.zip』は別計上しない。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-proxy-young-yellow",
+      "name": "きいろふわふわ（代理配布）",
+      "publisher": "teoteome（知人制作の代理配布）",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "color-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5152451",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "きいろふわふわ.vrm",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/5152451",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "知人の制作物を作者ショップで代理配布。ページは9個の直接VRMファイルを0円掲載し、商用可・R15まで・再配布禁止などモデル固有制限を記載。代理配布についての権利者からの許諾書は未確認。『まとめ.zip』は別計上しない。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-proxy-young-mi",
+      "name": "み（代理配布）",
+      "publisher": "teoteome（知人制作の代理配布）",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "color-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5152451",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "み.vrm",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/5152451",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "知人の制作物を作者ショップで代理配布。ページは9個の直接VRMファイルを0円掲載し、商用可・R15まで・再配布禁止などモデル固有制限を記載。代理配布についての権利者からの許諾書は未確認。『まとめ.zip』は別計上しない。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-proxy-young-nai",
+      "name": "ないちゃんふわ（代理配布）",
+      "publisher": "teoteome（知人制作の代理配布）",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "color-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5152451",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ないちゃんふわ.vrm",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/5152451",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "知人の制作物を作者ショップで代理配布。ページは9個の直接VRMファイルを0円掲載し、商用可・R15まで・再配布禁止などモデル固有制限を記載。代理配布についての権利者からの許諾書は未確認。『まとめ.zip』は別計上しない。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-proxy-young-aru",
+      "name": "あるちゃんふわ（代理配布）",
+      "publisher": "teoteome（知人制作の代理配布）",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "color-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5152451",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "あるちゃんふわ.vrm",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/5152451",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "知人の制作物を作者ショップで代理配布。ページは9個の直接VRMファイルを0円掲載し、商用可・R15まで・再配布禁止などモデル固有制限を記載。代理配布についての権利者からの許諾書は未確認。『まとめ.zip』は別計上しない。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-proxy-young-quirky2",
+      "name": "ちょっと癖強め2（代理配布）",
+      "publisher": "teoteome（知人制作の代理配布）",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "color-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5152451",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ちょっと癖強め2.vrm",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/5152451",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "知人の制作物を作者ショップで代理配布。ページは9個の直接VRMファイルを0円掲載し、商用可・R15まで・再配布禁止などモデル固有制限を記載。代理配布についての権利者からの許諾書は未確認。『まとめ.zip』は別計上しない。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-proxy-young-quirky",
+      "name": "ちょっと癖強め（代理配布）",
+      "publisher": "teoteome（知人制作の代理配布）",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "color-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5152451",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ちょっと癖強め.vrm",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/5152451",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "知人の制作物を作者ショップで代理配布。ページは9個の直接VRMファイルを0円掲載し、商用可・R15まで・再配布禁止などモデル固有制限を記載。代理配布についての権利者からの許諾書は未確認。『まとめ.zip』は別計上しない。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-sun-fairy-twin",
+      "name": "太陽の妖精（ツインテール）",
+      "publisher": "teoteome",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "hair-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4888548",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "たいようツインテ.vrm",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/4888548",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者がVRM2種類を別ファイルとして0円配布。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-sun-fairy-short",
+      "name": "太陽の妖精（ショートヘア）",
+      "publisher": "teoteome",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "hair-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4888548",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "たいようショート.vrm",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/4888548",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者がVRM2種類を別ファイルとして0円配布。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-angels-small",
+      "name": "ちっちゃめ天使",
+      "publisher": "teoteome",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "angel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4373339",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ちっちゃめ天使.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/4373339",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が2体のVRMモデルを別々の無料ZIPで配布。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-angels-slim",
+      "name": "小さめの天使",
+      "publisher": "teoteome",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "angel"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4373339",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "小さめの.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/4373339",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が2体のVRMモデルを別々の無料ZIPで配布。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-pink-magical-pink",
+      "name": "ピンク魔法少女（ピンク）",
+      "publisher": "teoteome",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5795582",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ぴんくちゃん.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/5795582",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者の0円ダウンロード商品。VRMモデル＋改変用VRoidファイルの配布案内。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-pink-magical-sweets",
+      "name": "ピンク魔法少女（スイーツ）",
+      "publisher": "teoteome",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5795582",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "すいーつちゃん.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/5795582",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者の0円ダウンロード商品。VRMモデル＋改変用VRoidファイルの配布案内。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-noah-normal",
+      "name": "ノーア君 青年（通常版）",
+      "publisher": "teoteome",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "accessory-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5794664",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ゲーム用青年もでるうさみみ.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/5794664",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が依頼主の配布許可を得たと明記。無料ZIPに通常とうさ耳の2バージョンがある旨を説明。VRM内部ファイルの有無・別ファイル数は未検証。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-noah-rabbit",
+      "name": "ノーア君 青年（うさ耳版）",
+      "publisher": "teoteome",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "accessory-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5794664",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ゲーム用青年もでるうさみみ.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/5794664",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が依頼主の配布許可を得たと明記。無料ZIPに通常とうさ耳の2バージョンがある旨を説明。VRM内部ファイルの有無・別ファイル数は未検証。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-rabbit-butler",
+      "name": "うさぎさんしつじ",
+      "publisher": "teoteome",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "rabbit"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4695847",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "お.vrm",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/4695847",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "無料のVRM単体配布。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-red-oni-remake",
+      "name": "あかおに（和風リメイク）",
+      "publisher": "teoteome",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "oni"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/2055475",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "和風リメイクあかおに.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/2055475",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者がVRM形式モデルと明記した0円ZIP。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-clever-boy-scholar",
+      "name": "賢そうな少年",
+      "publisher": "teoteome",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4230195",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "賢い女装.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/4230195",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が賢そうな少年と女装した少年の2種類のアバターとして案内。個別VRMファイルかどうかはZIP未解析。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-clever-boy-dress",
+      "name": "女装した少年",
+      "publisher": "teoteome",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4230195",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "賢い女装.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/4230195",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が賢そうな少年と女装した少年の2種類のアバターとして案内。個別VRMファイルかどうかはZIP未解析。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-summer-sister",
+      "name": "夏向けおねえさん",
+      "publisher": "teoteome",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5794724",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "お嬢様.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/5794724",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "依頼主から配布許可取得と作者が説明。無料VRM形式。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-christmas-gold",
+      "name": "サンタ（金）",
+      "publisher": "teoteome",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "holiday",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/2627819",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "金_クリスマス.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/2627819",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "クリスマス風VRMの別無料ZIP。露出について販売者の注意あり、利用規約・ゾーニングに従う。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-christmas-skirt",
+      "name": "サンタ（金・スカート）",
+      "publisher": "teoteome",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "holiday",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/2627819",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "クリスマス金_スカートあり.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/2627819",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "クリスマス風VRMの別無料ZIP。露出について販売者の注意あり、利用規約・ゾーニングに従う。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-christmas-pink",
+      "name": "サンタ（ピンク）",
+      "publisher": "teoteome",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "holiday",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/2627819",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ぴんくさんた２０２０.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/2627819",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "クリスマス風VRMの別無料ZIP。露出について販売者の注意あり、利用規約・ゾーニングに従う。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-gold-maid-gold",
+      "name": "金髪キャラクター（2021）",
+      "publisher": "teoteome",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/2827265",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "新しい金_ちゃん2021.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/2827265",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が全年齢用と全年齢向けではないモデルの2種類を別ZIPで公開。個別利用条件要確認。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-gold-maid-maid",
+      "name": "メイド衣装",
+      "publisher": "teoteome",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/2827265",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "パンツの線はパンツの模様.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/2827265",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が全年齢用と全年齢向けではないモデルの2種類を別ZIPで公開。個別利用条件要確認。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-gothic-boy-original",
+      "name": "ゴシックショタ（元モデル）",
+      "publisher": "teoteome",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "color-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/2028691",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ゴシショタ.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/2028691",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "0円の『2種類 色違い付き』配布枠を根拠に2件。『1種類』枠は同じモデルとして二重計上せず。『目閉じの修正リボンなし』は派生版だが個別のVRM実体未確認につき今回は数えない。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-gothic-boy-alternate",
+      "name": "ゴシックショタ（色違い）",
+      "publisher": "teoteome",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "color-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/2028691",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ゴシショタ.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/2028691",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "0円の『2種類 色違い付き』配布枠を根拠に2件。『1種類』枠は同じモデルとして二重計上せず。『目閉じの修正リボンなし』は派生版だが個別のVRM実体未確認につき今回は数えない。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "teoteome-gender-ambiguous",
+      "name": "性別不明ショタ系VRM",
+      "publisher": "teoteome",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/2448274",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "96475386253260786.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/2448274",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "0円の性別不明モデル。VRoid標準髪型の改変を利用と説明。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "mingshop-ming-v12-normal",
+      "name": "mingちゃん ver.1.2（通常）",
+      "publisher": "mingshop",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "color-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/8619590",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "mingちゃんver1.2.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/8619590",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が0円で2つのVRM・VRoidデータ入りZIPを公開。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "mingshop-ming-v12-black",
+      "name": "mingちゃん ver.1.2（黒）",
+      "publisher": "mingshop",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "color-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/8619590",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "黒mingちゃんver1.2.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/8619590",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が0円で2つのVRM・VRoidデータ入りZIPを公開。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "nekomishouten-fine-v151",
+      "name": "ファイン Fine（配布vol.1.5.1）",
+      "publisher": "ねこみ商店",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "package-version"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/8019545",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "Fine-VRM.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/8019545",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "同名ZIPだが作者が無料の独立配布版vol.1.5.1として掲載。VRM規格版ではなく配布物のバージョン。各ZIPに含まれるモデル種類とファイル数は未確認で、追加個別計上しない。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "nekomishouten-fine-v150",
+      "name": "ファイン Fine（配布vol.1.5）",
+      "publisher": "ねこみ商店",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "package-version"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/8019545",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "Fine-VRM.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/8019545",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "同名ZIPだが作者が無料の独立配布版vol.1.5として掲載。VRM規格版ではなく配布物のバージョン。各ZIPに含まれるモデル種類とファイル数は未確認で、追加個別計上しない。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "nekomishouten-fine-v120",
+      "name": "ファイン Fine（配布vol.1.2）",
+      "publisher": "ねこみ商店",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "package-version"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/8019545",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "Fine-VRM.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/8019545",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "同名ZIPだが作者が無料の独立配布版vol.1.2として掲載。VRM規格版ではなく配布物のバージョン。各ZIPに含まれるモデル種類とファイル数は未確認で、追加個別計上しない。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "nekomishouten-fine-v110",
+      "name": "ファイン Fine（配布vol.1.1）",
+      "publisher": "ねこみ商店",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "package-version"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/8019545",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "Fine-VRM.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/8019545",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "同名ZIPだが作者が無料の独立配布版vol.1.1として掲載。VRM規格版ではなく配布物のバージョン。各ZIPに含まれるモデル種類とファイル数は未確認で、追加個別計上しない。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "nekomishouten-fine-v100",
+      "name": "ファイン Fine（配布vol.1.0）",
+      "publisher": "ねこみ商店",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "package-version"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/8019545",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "Fine-VRM.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/8019545",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "同名ZIPだが作者が無料の独立配布版vol.1.0として掲載。VRM規格版ではなく配布物のバージョン。各ZIPに含まれるモデル種類とファイル数は未確認で、追加個別計上しない。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "sakurabido-hapicchi",
+      "name": "はぴっち",
+      "publisher": "桜美堂",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4979735",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "さくらリクオ_フリーアバター_はぴっち.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/4979735",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者の無料ZIPにVRMとVRoidを収録。VTuber利用は禁止。ももこ・そうまは法人利用禁止。個人商用利用の条件は個別ページに従う。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "sakurabido-souma",
+      "name": "そうま",
+      "publisher": "桜美堂",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4393522",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "さくらリクオ_フリーアバター_そうま.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/4393522",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者の無料ZIPにVRMとVRoidを収録。VTuber利用は禁止。ももこ・そうまは法人利用禁止。個人商用利用の条件は個別ページに従う。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "sakurabido-momoko",
+      "name": "ももこ",
+      "publisher": "桜美堂",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4382676",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "さくらリクオ_フリーアバター_ももこ.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/4382676",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者の無料ZIPにVRMとVRoidを収録。VTuber利用は禁止。ももこ・そうまは法人利用禁止。個人商用利用の条件は個別ページに従う。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "abendgift-axis",
+      "name": "アクシス（AvatarSample_V改変）",
+      "publisher": "ABENDGIFT",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "vroid-sample-derivative"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/8578608",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "アクシス.vrm",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/8578608",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "VRoid StudioのAvatarSample_Vを作者が改変して配布。公式サンプルの利用条件を承継する旨の案内あり。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "blessbee-mayura",
+      "name": "MAYURA -まゆら-",
+      "publisher": "koto-hogi魔法雑貨店 Bless Bee",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "kemono"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/6134913",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "まゆら.vrm.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/6134913",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者オリジナルのケモノアバター。0円のVRM ZIPのみ、寄付は任意。商用改変可・再配布販売不可。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "darthpock-knight-2m",
+      "name": "(K)night（2m版）",
+      "publisher": "ダースポックの無人販売所",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "size-variant"
+      ],
+      "vrm_version": "1.0",
+      "source_url": "https://booth.pm/ja/items/8177922",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "_K_night_VRM1.0.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/8177922",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "1mと2mの2サイズVRMを同じ0円ZIPに収録と説明。モデルの再配布不可。作者が別の楽器規約の適用を記載しており、規約本文の照合が必要。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+    },
+    {
+      "id": "darthpock-knight-1m",
+      "name": "(K)night（1m版）",
+      "publisher": "ダースポックの無人販売所",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "size-variant"
+      ],
+      "vrm_version": "1.0",
+      "source_url": "https://booth.pm/ja/items/8177922",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "_K_night_VRM1.0.zip",
+      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_url": "https://booth.pm/ja/items/8177922",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "1mと2mの2サイズVRMを同じ0円ZIPに収録と説明。モデルの再配布不可。作者が別の楽器規約の適用を記載しており、規約本文の照合が必要。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
     }
   ]
 }

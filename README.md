@@ -6,13 +6,13 @@
 
 | ファイル | 収録範囲 | 件数 |
 | --- | --- | ---: |
-| [data/models.json](data/models.json) | 公式・作者配布モデル（過去の調査を含む） | 311 |
+| [data/models.json](data/models.json) | 公式・作者配布モデル（過去の調査を含む） | 373 |
 | [polygonalmind-001-050.json](data/collections/polygonalmind-001-050.json) | Polygonal Mind 001〜050・通常/Voxel | 100 |
 | [polygonalmind-051-100.json](data/collections/polygonalmind-051-100.json) | Polygonal Mind 051〜100・通常/Voxel | 100 |
 | [polygonalmind-101-150.json](data/collections/polygonalmind-101-150.json) | Polygonal Mind 101〜150・通常/Voxel | 100 |
 | [polygonalmind-151-200.json](data/collections/polygonalmind-151-200.json) | Polygonal Mind 151〜200・通常/Voxel | 100 |
 | [mjmoonbow-fantasy.json](data/collections/mjmoonbow-fantasy.json) | MJMoonbow原作者公開のCC0ファンタジー系VRM | 18 |
-| **合計** | **200キャラクター×2配布版を含む** | **729** |
+| **合計** | **200キャラクター×2配布版を含む** | **791** |
 
 [収録・検証方針](docs/collection-policy.md) ／ [追加調査・保留候補](docs/research-notes.md)
 
@@ -81,6 +81,9 @@ VRM 0.x / 1.0のモデル、アバター型と機能検証用モデルを対象�
 - [桜美堂の無料アバター](https://booth.pm/ja/items/6516048) — めいめい、かみや、みるっち、めぐみっち、まきのっち、ブルーベル
 - [ぴえんシリーズ](https://booth.pm/ja/items/5389330) — 無料ZIP内の7体、[バレンタインミミック](https://booth.pm/ja/items/5463323) — 4色のVRM
 - [くらんものクラゲ・エルフ](https://booth.pm/ja/items/4150979) — 無料版のみ、[JIMA_3D](https://booth.pm/ja/items/8737858) — マッスル鳩・カマキリ・マーモットの無料版
+- [teoteomeの青年・女装・闇落ち](https://booth.pm/ja/items/3400424)、[VRM7種](https://booth.pm/ja/items/3406272)、[直接VRM9ファイル](https://booth.pm/ja/items/5152451) — 商品ページで無料公開される仕様・衣装違いのモデルを個別登録
+- [ねこみ商店 Fine](https://booth.pm/ja/items/8019545) — 5つの異なる無料配布版を収録（商品更新版番号とVRM規格は別）
+- [MAYURA](https://booth.pm/ja/items/6134913)、[(K)night](https://booth.pm/ja/items/8177922)、[アクシス](https://booth.pm/ja/items/8578608) — 作者配布の無料VRM、サイズ違い・利用条件を記録
 
 「無料版」以外の有料編集データや有料機能は、モデルの収録対象に含めません。
 

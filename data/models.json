@@ -8922,6 +8922,255 @@
       "verification": "official_free_distribution_listed_download_untested",
       "checked_at": "2026-10-08",
       "notes": "作者が0円ZIPに衣装着用済みVRMアバターを明記。ほかのvroidcustomitemは同一アバターの衣装素材として重複登録しない。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+    },
+    {
+      "id": "cecyliamun-arvendal-free",
+      "name": "ARVENDAL（無料ベース版）",
+      "publisher": "CecyliaMun / Cecylia Studio",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/8944341",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "arvendal.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/8944341",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "無料配布はベースアバター1体のみ。15種類のアクセサリー違いは有料サポーターパック（¥1,250）専用であり数えない。 公開ページで0円配布を確認したが実ダウンロード・ZIP内部・VRMバイナリは未確認。"
+    },
+    {
+      "id": "cecyliamun-wolf-boy-base",
+      "name": "Wolf Boy（ベース衣装）",
+      "publisher": "CecyliaMun / Cecylia Studio",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "outfit-variant"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/8949948",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "FoxBoy_final.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/8949948",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が0円で直接配布するVRM 0.xのベース衣装版。別売ではなく同じ無料商品内の別ファイル。 公開ページで0円配布を確認したが実ダウンロード・ZIP内部・VRMバイナリは未確認。"
+    },
+    {
+      "id": "cecyliamun-wolf-boy-accessories",
+      "name": "Wolf Boy（全アクセサリー版）",
+      "publisher": "CecyliaMun / Cecylia Studio",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "outfit-variant"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/8949948",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "FoxBoy_with_all_accessories.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/8949948",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が0円で直接配布するVRM 0.xの全アクセサリー版。VRoid編集データは別件計上しない。 公開ページで0円配布を確認したが実ダウンロード・ZIP内部・VRMバイナリは未確認。"
+    },
+    {
+      "id": "kaso-break-venom",
+      "name": "BREAK VENOM",
+      "publisher": "仮想洋品 / kasou-youhin",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/8907607",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "BREAK_VENOM.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/8907607",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者オリジナルVRoid基盤の無料VRMアバター。配信・ゲーム等で商用利用可、改変可。VRM自体の再配布・販売不可。ZIPにはVRM本体を含むと明記。 公開ページで0円配布を確認したが実ダウンロード・ZIP内部・VRMバイナリは未確認。"
+    },
+    {
+      "id": "kaso-revival-talisman",
+      "name": "還魂符",
+      "publisher": "仮想洋品 / kasou-youhin",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/8902791",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "還魂符.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/8902791",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者オリジナルVRoid基盤の無料VRMアバター。配信・ゲーム等で商用利用可、改変可。VRM自体の再配布・販売不可。ZIPにはVRM本体を含むと明記。 公開ページで0円配布を確認したが実ダウンロード・ZIP内部・VRMバイナリは未確認。"
+    },
+    {
+      "id": "kaso-88-cherry-steps",
+      "name": "88 Cherry Steps",
+      "publisher": "仮想洋品 / kasou-youhin",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/8893212",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "88_Cherry_Steps.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/8893212",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者オリジナルVRoid基盤の無料VRMアバター。配信・ゲーム等で商用利用可、改変可。VRM自体の再配布・販売不可。ZIPにはVRM本体を含むと明記。 公開ページで0円配布を確認したが実ダウンロード・ZIP内部・VRMバイナリは未確認。"
+    },
+    {
+      "id": "kaso-noise-frills",
+      "name": "NOISE & FRILLS",
+      "publisher": "仮想洋品 / kasou-youhin",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/8866564",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "NOISE___FRILLS.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/8866564",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者オリジナルVRoid基盤の無料VRMアバター。配信・ゲーム等で商用利用可、改変可。VRM自体の再配布・販売不可。ZIPにはVRM本体を含むと明記。 公開ページで0円配布を確認したが実ダウンロード・ZIP内部・VRMバイナリは未確認。"
+    },
+    {
+      "id": "kaso-oxygen-error",
+      "name": "OXYGEN ERROR",
+      "publisher": "仮想洋品 / kasou-youhin",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/8866502",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "OXYGEN_ERROR.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/8866502",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者オリジナルVRoid基盤の無料VRMアバター。配信・ゲーム等で商用利用可、改変可。VRM自体の再配布・販売不可。ZIPにはVRM本体を含むと明記。 公開ページで0円配布を確認したが実ダウンロード・ZIP内部・VRMバイナリは未確認。"
+    },
+    {
+      "id": "ator-claw-monster",
+      "name": "クローモンスター",
+      "publisher": "ATOR工房",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/8708753",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "爪モンスター.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/8708753",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "無料VRM単体のみ。¥500のVRM+FBXセットは同一VRMを含むため重複登録しない。 公開ページで0円配布を確認したが実ダウンロード・ZIP内部・VRMバイナリは未確認。"
+    },
+    {
+      "id": "ator-commando-rabbit",
+      "name": "コマンドーうさぎ",
+      "publisher": "ATOR工房",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/8908754",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "コマンドーうさぎ.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/8908754",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者オリジナルの直接配布VRM。¥500の別パッケージは無料モデルの追加カウントに含めない。 公開ページで0円配布を確認したが実ダウンロード・ZIP内部・VRMバイナリは未確認。"
+    },
+    {
+      "id": "neryo-komari-shione",
+      "name": "潮音こまり",
+      "publisher": "ねるよのゆらゆら雑貨店",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/7034844",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "潮音こまり_VRM.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/7034844",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者（モデル制作）とキャラクターデザイナー共同のオリジナルモデル。無料VRMのみ版と無料VRM+VRoid版は同一キャラクターであり1件のみ登録。 公開ページで0円配布を確認したが実ダウンロード・ZIP内部・VRMバイナリは未確認。"
+    },
+    {
+      "id": "doridori-miu-girl",
+      "name": "Miu（みう）",
+      "publisher": "ドリドリshop",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/8205729",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "Miu_girl_Vrm.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/8205729",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "無料VRMデータのZIP。VRoidプロジェクトZIPも無料だが同じアバターをVRM別件には数えない。再配布・転売不可。 公開ページで0円配布を確認したが実ダウンロード・ZIP内部・VRMバイナリは未確認。"
+    },
+    {
+      "id": "rutenium-sora",
+      "name": "そら -Sora-",
+      "publisher": "るてにうむ",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/7969137",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "sora_v2.0.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/7969137",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者オリジナル無料ZIP中にsora_Naked.vrm（着せ替え素体）を明記。投げ銭版も同じモデルデータ。 公開ページで0円配布を確認したが実ダウンロード・ZIP内部・VRMバイナリは未確認。"
     }
   ]
 }

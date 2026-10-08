@@ -37,11 +37,14 @@ VRM 0.x / 1.0のモデル、アバター型と機能検証用モデルを対象�
 
 `verification` は、カタログへ登録した根拠の範囲を示します。実際のダウンロード・書き出しやVRMファイル内の権利情報まで検証済みとは限りません。
 
-- `official_repository_file_listed`: 公式リポジトリでVRMファイルの存在を確認
+- `official_repository_file_listed`: 公式リポジトリでVRMファイルの存在を確認（内部未解析）
+- `official_binary_metadata_confirmed`: VRMバイナリのGLBヘッダーとJSONチャンクを取得・解析
 - `official_hub_and_help_confirmed`: VRoid公式ヘルプと公式Hubモデルページで配布案内を確認
 - `official_hub_permission_and_format_confirmed`: 公式Hubモデルの投稿者、他者利用「OK（ダウンロードNGではない）」、VRM形式と利用条件を確認
 - `official_help_confirmed_export_untested`: 公式ヘルプが無料モデルと書き出し方法を案内。個別エクスポートは未検証
 - `official_free_distribution_listed_download_untested`: 公式配布元に無料のVRM配布案内を確認。個別の実ダウンロードは未検証
+
+`binary_evidence` はGLBヘッダーと埋め込みVRMメタデータの解析結果。`github_blob_sha` はGitHubのGit blob IDで、VRMファイルそのもののSHA1ではありません。実際の描画・挙動検証やファイル全体のSHA1照合は未実施です。
 
 `distribution_size_bytes` は公式GitHub APIで確認できた**配布VRMファイル自体のバイト数**（確認済みのものだけ）です。BOOTHの表示MBとは精度が異なるため推測補完しません。
 

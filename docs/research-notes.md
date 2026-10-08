@@ -351,3 +351,20 @@ Hermes Agentによる一括検証は登録をさらに増やした後に実施�
 **除外**：有料の眼鏡なしこふみちゃん、よしだイベント有料版、VRM変換ツールのみの無料商品、第三者IPファンモデル。BOOTH商品ページにVRM対応との文言があっても、無料ZIPにVRMを含むことが確認できなければ保留し、今回は佐竹ナギサの「無料版内容物：VRMファイル」の記載を確認してから追加した。
 
 **検証待ち**：ZIPの内部パス・実VRM数、更新により内容が変わっていないか、実際に無償取得可能か、VRM/GLBヘッダーと描画、適用ライセンス。Hermes Agentの後日の一括実機確認では原本を `/mnt/hdd/vrm` に永続保存する。
+
+## 2026-10-08 Numinia作者公開モデルを追加（1,265→1,267件）
+
+[Numinia公式データ](https://github.com/PabloFMM/numinia-digital-goods-data/blob/main/data/avatars/numinia-avatars.json)で制作者がPabloFMMと明記され、無料公開（status=active, is_public=true）かつCC0の2件を `data/models.json` に追加した。
+
+| 作者公開モデル | 配布ファイル | GitHubのファイルサイズ |
+| --- | --- | ---: |
+| Numinia Starter Avatar 01 | `starter-avatar-01.vrm` | 3,928,908 bytes |
+| Avatar Arla | `avatar-arla-mncdhz3l.vrm` | 3,908,872 bytes |
+
+いずれも作者のGitHubでVRMファイルの存在とサイズを確認。配布側の`version: 1.0.0`はアセット自体のバージョンであり、VRM規格版は未確認（`null`）。実ダウンロード・GLBヘッダー・描画と埋め込み権利情報は未検証。
+
+**重複保留**：同一データベースの「Avocado」（1,253,352 bytes）は既登録の[Polygonal Mind 100Avatars 088 Avocado](https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_088/100Avatars_088_Avocado.vrm)と名称・ファイルサイズが一致し、同一バイナリである可能性が高いため再登録しない。Numinia側の一括CC0表示をPolygonal Mindオリジナルへ転用しない。
+
+**出典保留**：同データベースのProcyon（creator=VIPE - Numen）ほか6件は、元作者による公開・ライセンス適用を今回独立確認できないため追加しない。今後、制作者自身の配布根拠を確認できれば採録する。
+
+この段階では原本を取得しない。後日のHermes Agent一括検証では `/mnt/hdd/vrm` に永続保存し、GitHubには原本をコミットしない。

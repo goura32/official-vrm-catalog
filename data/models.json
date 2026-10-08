@@ -11140,6 +11140,46 @@
       "verification": "official_free_distribution_listed_download_untested",
       "checked_at": "2026-10-08",
       "notes": "作者本人のACCEL限定無料VRM。ロゴ制作者：ペルキ・ギャンパーク。商用利用・改変可、再配布不可。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。"
+    },
+    {
+      "id": "numinia-starter-avatar-01",
+      "name": "Numinia Starter Avatar 01",
+      "publisher": "PabloFMM / Numinia Digital Goods",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PabloFMM/numinia-digital-goods-data/blob/main/content/avatars/starter-avatar-01.vrm",
+      "download_url": "https://raw.githubusercontent.com/PabloFMM/numinia-digital-goods-data/main/content/avatars/starter-avatar-01.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "starter-avatar-01.vrm",
+      "distribution_size_bytes": 3928908,
+      "license_name": "CC0 1.0 Universal (Numinia作者公開データ)",
+      "license_url": "https://github.com/PabloFMM/numinia-digital-goods-data/blob/main/LICENSE",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08",
+      "notes": "公開データのcreatorがPabloFMMである作者公開VRM。Numinia公式データでstatus=active・is_public=true・license=CC0を確認し、GitHub上の実ファイルパス・サイズを照合。配布アセットのversion=1.0.0はVRM仕様バージョンを意味しない。実取得・バイナリ解析・描画は未検証。"
+    },
+    {
+      "id": "numinia-avatar-arla",
+      "name": "Avatar Arla",
+      "publisher": "PabloFMM / Numinia Digital Goods",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/PabloFMM/numinia-digital-goods-data/blob/main/content/avatars/avatar-arla-mncdhz3l.vrm",
+      "download_url": "https://raw.githubusercontent.com/PabloFMM/numinia-digital-goods-data/main/content/avatars/avatar-arla-mncdhz3l.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "avatar-arla-mncdhz3l.vrm",
+      "distribution_size_bytes": 3908872,
+      "license_name": "CC0 1.0 Universal (Numinia作者公開データ)",
+      "license_url": "https://github.com/PabloFMM/numinia-digital-goods-data/blob/main/LICENSE",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08",
+      "notes": "公開データのcreatorがPabloFMMである作者公開VRM。Numinia公式データでstatus=active・is_public=true・license=CC0を確認し、GitHub上の実ファイルパス・サイズを照合。配布アセットのversion=1.0.0はVRM仕様バージョンを意味しない。実取得・バイナリ解析・描画は未検証。"
     }
   ]
 }

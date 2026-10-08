@@ -1,0 +1,2005 @@
+{
+  "schema_version": 1,
+  "models": [
+    {
+      "id": "polygonalmind-100avatars-r3-201",
+      "name": "100Avatars R3 201 CoolPineapple",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/H_vUdDIVXOdnq_YOFxX7zgDnVOYUkHfzJSzSVULsupM",
+      "access_method": "direct_vrm",
+      "distribution_filename": "201_CoolPineapple.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-202",
+      "name": "100Avatars R3 202 GoodKnight",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/GssJhnk0HJsS6u3ZNN6fTk4TEL7g4AbVGoCztUgjAu0",
+      "access_method": "direct_vrm",
+      "distribution_filename": "202_GoodKnight.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-203",
+      "name": "100Avatars R3 203 BadBot",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/ssQPFGxKhSLVlXndDSfdwYo-lcgMT8rLXd-2hJgK5RI",
+      "access_method": "direct_vrm",
+      "distribution_filename": "203_BadBot.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-204",
+      "name": "100Avatars R3 204 LordPiggington",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/1TdUiEB97Rsvvx47BiesyOAc1YvzZpeRqIZUZpxqkPU",
+      "access_method": "direct_vrm",
+      "distribution_filename": "204_LordPiggington.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-205",
+      "name": "100Avatars R3 205 Mr",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/jJaRNO38jEjBzn0SPpl3d7Yo91NTXxNtPVMb0JdsNyA",
+      "access_method": "direct_vrm",
+      "distribution_filename": "205_Mr.Receipt.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-206",
+      "name": "100Avatars R3 206 CoolToaster",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/y0T6yKovy5Udzs4LlzRioFv8_yZlTc7orRDbxCHjOfk",
+      "access_method": "direct_vrm",
+      "distribution_filename": "206_CoolToaster.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-207",
+      "name": "100Avatars R3 207 PirateBot",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/f6VUW6sCyJcjErrBWSu_MVlYMkmAx5CRpyNGedUNxHM",
+      "access_method": "direct_vrm",
+      "distribution_filename": "207_PirateBot.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-208",
+      "name": "100Avatars R3 208 Cyberpal",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/zNTLqtifNdl38MpdNXACcvSMFVu6-s7d6pJQDm7E7Us",
+      "access_method": "direct_vrm",
+      "distribution_filename": "208_Cyberpal.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-209",
+      "name": "100Avatars R3 209 BaoSamurai",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/wmTy-SEXxmlp847i1U1m2GziSGp-4T8qrZ77A32LlY8",
+      "access_method": "direct_vrm",
+      "distribution_filename": "209_BaoSamurai.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-210",
+      "name": "100Avatars R3 210 Psichonaut",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/k5VyFaeU0FicUnP0NE0FFeVClZfICdEiz1C9-CCNYkk",
+      "access_method": "direct_vrm",
+      "distribution_filename": "210_Psichonaut.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-211",
+      "name": "100Avatars R3 211 Paco",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/0i-EEnHlcq1EZ1-sMi8DTZhesqGLqtf30WuCknfTHjA",
+      "access_method": "direct_vrm",
+      "distribution_filename": "211_Paco.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-212",
+      "name": "100Avatars R3 212 SnakeBot",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/fzLqHKoPkSWHAg5cPUjqDGrg50jzh7b3UVzs83hd6DU",
+      "access_method": "direct_vrm",
+      "distribution_filename": "212_SnakeBot.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-213",
+      "name": "100Avatars R3 213 Kiba",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/Nf6SIdJuYGYzUMJKNgKq44Zr-lCZS4No_FYtR6BFBYM",
+      "access_method": "direct_vrm",
+      "distribution_filename": "213_Kiba.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-214",
+      "name": "100Avatars R3 214 CoolSpaguetti",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/NPQRwcWNbD74ZhKX1FEJG8jwpbbGKyQFjYQO7617V-8",
+      "access_method": "direct_vrm",
+      "distribution_filename": "214_CoolSpaguetti.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-215",
+      "name": "100Avatars R3 215 StitchWitch",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/O-cHPoD2LyfqSbkltB15-nwGK1aUT0M1JMLf1-gq46g",
+      "access_method": "direct_vrm",
+      "distribution_filename": "215_StitchWitch.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-216",
+      "name": "100Avatars R3 216 Chester",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/2Lsw0H5j06VFi-AKtzMgX1HFsgdkFy3tlMQbZADvqyk",
+      "access_method": "direct_vrm",
+      "distribution_filename": "216_Chester.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-217",
+      "name": "100Avatars R3 217 Buffedwolf",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/dtI-JA5uSmbJVa7w7294T_9AJ_jvfZVQx4QWFzYdvdQ",
+      "access_method": "direct_vrm",
+      "distribution_filename": "217_Buffedwolf.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-218",
+      "name": "100Avatars R3 218 CursedAmy",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/iHBGnnxHtgRsMLk674wxqbYiZZFG8NVhd3aDcj9bI3k",
+      "access_method": "direct_vrm",
+      "distribution_filename": "218_CursedAmy.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-219",
+      "name": "100Avatars R3 219 MegaAngel",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/hFjw4u33v1cjEFl80leP2M8dfRjaJ5UNNmIZp8sIA8Y",
+      "access_method": "direct_vrm",
+      "distribution_filename": "219_MegaAngel.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-220",
+      "name": "100Avatars R3 220 MushroomFairy",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/ULlu6wg-zCwLokTXxbXzFlJzugVW_yp2pssEKJbvwx8",
+      "access_method": "direct_vrm",
+      "distribution_filename": "220_MushroomFairy.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-221",
+      "name": "100Avatars R3 221 GoatGhost",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/cedA3Is8tZhL86D0Bq5JGVMXtFQXdmqY-xLcd_CuhNY",
+      "access_method": "direct_vrm",
+      "distribution_filename": "221_GoatGhost.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-222",
+      "name": "100Avatars R3 222 CoolPawn",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/YHOo7iOMpmA44TYyPQNswS-lKaU0yrY_BG0WCVdqkbw",
+      "access_method": "direct_vrm",
+      "distribution_filename": "222_CoolPawn.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-223",
+      "name": "100Avatars R3 223 MrSick",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/QmwAaMBJO8eLTzlBiH68UEGSvxIR_YgznFNTtYCbzLY",
+      "access_method": "direct_vrm",
+      "distribution_filename": "223_MrSick.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-224",
+      "name": "100Avatars R3 224 CoolWaffle",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/ZnGFTLeAlRG1RuSMpt9s7sSQ6I3lzd40PDqUxYYvwCE",
+      "access_method": "direct_vrm",
+      "distribution_filename": "224_CoolWaffle.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-225",
+      "name": "100Avatars R3 225 FireEye",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/RZJRCIir0engUa_94Naiy95fpg-RRZYiU1v-xKzXAco",
+      "access_method": "direct_vrm",
+      "distribution_filename": "225_FireEye.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-226",
+      "name": "100Avatars R3 226 Eugenia",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/saOexMViu7mqSeaXfQzNIPrKWQ0nqkSf-FpOQjZfBcU",
+      "access_method": "direct_vrm",
+      "distribution_filename": "226_Eugenia.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-227",
+      "name": "100Avatars R3 227 WeirdCat",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/pPaWwgWt8Gu7hJyHo_wG45lxPVV8ka8zBJJKSQD8Ngs",
+      "access_method": "direct_vrm",
+      "distribution_filename": "227_WeirdCat.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-228",
+      "name": "100Avatars R3 228 CoolRadish",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/gIzIG2YW2cBAR8QgLZ4qAMLzfUib0chQQbHhqFLZck8",
+      "access_method": "direct_vrm",
+      "distribution_filename": "228_CoolRadish.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-229",
+      "name": "100Avatars R3 229 CuteSaurus",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/1-EJ5GXIlQ1ohw6GMsMnEzyK7IHhI8YDPYsjMvo_xhQ",
+      "access_method": "direct_vrm",
+      "distribution_filename": "229_CuteSaurus.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-230",
+      "name": "100Avatars R3 230 Crowley",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/U5J00CQ4NHUkXH7rrM4DTt4Oi3JqkTXKzC2z4oX67qs",
+      "access_method": "direct_vrm",
+      "distribution_filename": "230_Crowley.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-231",
+      "name": "100Avatars R3 231 FrogEnjoyer",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/ggExXCBweG0Gh7YKRUQJ8XP9iSp7vAnHiXGgZGJ6oyk",
+      "access_method": "direct_vrm",
+      "distribution_filename": "231_FrogEnjoyer.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-232",
+      "name": "100Avatars R3 232 Vladi",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/RFKE0Snx7V32gjvV82GcXT9-R7rDySQaKWlf1a2oYUc",
+      "access_method": "direct_vrm",
+      "distribution_filename": "232_Vladi.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-233",
+      "name": "100Avatars R3 233 Bruno",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/WR_xW_yGKwubTj-kdlyw5jNVx5m2ldMxwg_enz_Znbw",
+      "access_method": "direct_vrm",
+      "distribution_filename": "233_Bruno.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-234",
+      "name": "100Avatars R3 234 BeachKing",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/uKhDMselhdUyeJKjelpuVsL8s-a9v_Wqq75TQfCfnos",
+      "access_method": "direct_vrm",
+      "distribution_filename": "234_BeachKing.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-235",
+      "name": "100Avatars R3 235 ToxicGuy",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/8a-3jL8BU_Nxy3qQyNQoc0xKqpXcf2V0KtxQsgyFcLg",
+      "access_method": "direct_vrm",
+      "distribution_filename": "235_ToxicGuy.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-236",
+      "name": "100Avatars R3 236 CoolBomb",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/UCr970KVI0DoEqG8BvCkWPthB-jTk8wXaObPUI-H-EI",
+      "access_method": "direct_vrm",
+      "distribution_filename": "236_CoolBomb.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-237",
+      "name": "100Avatars R3 237 CosmicBot",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/F5RSSZzaf0eOfZYNSbnBT91MT9n6ojTMq5uWSIMkcTU",
+      "access_method": "direct_vrm",
+      "distribution_filename": "237_CosmicBot.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-238",
+      "name": "100Avatars R3 238 Blob",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/rEZ1Guj30FACK2jqZ3hPsd6tDBrka2Ws2qmT8xZ1skk",
+      "access_method": "direct_vrm",
+      "distribution_filename": "238_Blob.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-239",
+      "name": "100Avatars R3 239 SportMecha",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/xpx3cF_x4G4FUW-oIx7c2LiSUPigXK74fLHXgJ2w6lA",
+      "access_method": "direct_vrm",
+      "distribution_filename": "239_SportMecha.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-240",
+      "name": "100Avatars R3 240 CherryBros",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/0o1sL5UKrtgVpAGeRhbNRR55n3WlTgd0t9sGRXwJnw8",
+      "access_method": "direct_vrm",
+      "distribution_filename": "240_CherryBros.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-241",
+      "name": "100Avatars R3 241 Stingcake",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/mak2Zck_ii-x3dJYkl5cl33hm5_R_NDo4MnnVBlsZos",
+      "access_method": "direct_vrm",
+      "distribution_filename": "241_Stingcake.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-242",
+      "name": "100Avatars R3 242 BeanKing",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/4DY39QWIGPtuovTNVcQhgl5bSiNvr3J_ZJiHjU3P-u8",
+      "access_method": "direct_vrm",
+      "distribution_filename": "242_BeanKing.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-243",
+      "name": "100Avatars R3 243 Agnes",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/c8mrbRq29sfQdovW1l_D2JYGOaCNF3JxTaUsmHTSNAg",
+      "access_method": "direct_vrm",
+      "distribution_filename": "243_Agnes.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-244",
+      "name": "100Avatars R3 244 PetalDude",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/IUrUx8QMcaZDWLSOPWz8UiM5bq-sR3dXAQwwmIeiOBE",
+      "access_method": "direct_vrm",
+      "distribution_filename": "244_PetalDude.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-245",
+      "name": "100Avatars R3 245 CoolUdon",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/-ZmZDpcrrc8o5mc1sTclqfznHxpdUolfnwe6_TTRHT0",
+      "access_method": "direct_vrm",
+      "distribution_filename": "245_CoolUdon.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-246",
+      "name": "100Avatars R3 246 RippedJimbo",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/vdRezR_hCUxtqmSAGhpHtWWs_YXGhvgK3aQVmwIYaj8",
+      "access_method": "direct_vrm",
+      "distribution_filename": "246_RippedJimbo.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-247",
+      "name": "100Avatars R3 247 StonksReporter",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/EgFSDc6Kbh0lrNWARVqwg7PxqrxfK1wluuxzLWFsNLM",
+      "access_method": "direct_vrm",
+      "distribution_filename": "247_StonksReporter.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-248",
+      "name": "100Avatars R3 248 LeafBoy",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/U-506llBsdnnXn3uslKggDw5Qt-sdDlQAY4KLKvZsuU",
+      "access_method": "direct_vrm",
+      "distribution_filename": "248_LeafBoy.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-249",
+      "name": "100Avatars R3 249 JokerDude",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/EpWWN8a-kpLPWdBvLsPj5CNFpMVvSp9Q83y-BSdaK4E",
+      "access_method": "direct_vrm",
+      "distribution_filename": "249_JokerDude.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-250",
+      "name": "100Avatars R3 250 KardialTheConsumer",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/H7LgdhGUbLMjFCYkTVy55N2VANWI7rHs574mWSw1uIE",
+      "access_method": "direct_vrm",
+      "distribution_filename": "250_KardialTheConsumer.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-251",
+      "name": "100Avatars R3 251 CoolSushi",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/_i5T4s4PMphVjCLyc3GQjfi_Hmd6HXHoXkwnwjfXr4E",
+      "access_method": "direct_vrm",
+      "distribution_filename": "251_CoolSushi.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-252",
+      "name": "100Avatars R3 252 Juanita",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/nyMyZZx5lN2DXsmBgbGQSnt3PuXYN7AAjz9QJrjitLo",
+      "access_method": "direct_vrm",
+      "distribution_filename": "252_Juanita.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-253",
+      "name": "100Avatars R3 253 CatMoth",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/CZWecYxSdxUQKu8qI_gs0n3YL13wJxEWXzgHCij29m0",
+      "access_method": "direct_vrm",
+      "distribution_filename": "253_CatMoth.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-254",
+      "name": "100Avatars R3 254 AbissalDude",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/RZnWq2e0OQAYbhPEddWQY9sBd8IytCFeJBHVPYIlBMg",
+      "access_method": "direct_vrm",
+      "distribution_filename": "254_AbissalDude.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-255",
+      "name": "100Avatars R3 255 LadyKoi",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/t3aTp6AhxfdLcq5I3HZx29wK8MFQGmDC9wPwXrHQoW0",
+      "access_method": "direct_vrm",
+      "distribution_filename": "255_LadyKoi.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-256",
+      "name": "100Avatars R3 256 CoolCroissant",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/_LU7wiRSosMIxex6HPj5HP2pc0zYgg1MxgPpOOiHrLg",
+      "access_method": "direct_vrm",
+      "distribution_filename": "256_CoolCroissant.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-257",
+      "name": "100Avatars R3 257 AlienTeen",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/j4VaJTdrBw6gXFWJEeq52mrKwnjsfPY1MZNdTiCXgRs",
+      "access_method": "direct_vrm",
+      "distribution_filename": "257_AlienTeen.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-258",
+      "name": "100Avatars R3 258 CoolCyclops",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/dVZVjP1on9_PCNJW5BT5c2-zorD9G2vlZ3HeEdDutmU",
+      "access_method": "direct_vrm",
+      "distribution_filename": "258_CoolCyclops.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-259",
+      "name": "100Avatars R3 259 EvilPendra",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/bpgbtgi23JECF3VkU-F-DpzNbYhX_VNDVgRGYCb2lY8",
+      "access_method": "direct_vrm",
+      "distribution_filename": "259_EvilPendra.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-260",
+      "name": "100Avatars R3 260 YetiDude",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/l53NM8fpF0gpcRaeBnouPw0I8mQnHU3Dr8ArX4SmKck",
+      "access_method": "direct_vrm",
+      "distribution_filename": "260_YetiDude.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-261",
+      "name": "100Avatars R3 261 CoolBee",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/-M047TNjC36mcEWMprML2g7rawORlVGIgD7CKvjqcfw",
+      "access_method": "direct_vrm",
+      "distribution_filename": "261_CoolBee.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-262",
+      "name": "100Avatars R3 262 EvilBook",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/AeQDTTPAAd35wAtZ1Mgjets8Cc1GHJkHjKiR53NcVAM",
+      "access_method": "direct_vrm",
+      "distribution_filename": "262_EvilBook.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-263",
+      "name": "100Avatars R3 263 BatPot",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/rA5UE8xQw-5qcYUGz1GhtwK2Duh-2TRVKAReNPOBWjU",
+      "access_method": "direct_vrm",
+      "distribution_filename": "263_BatPot.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-264",
+      "name": "100Avatars R3 264 UrbanTV",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/h7MGIGl6Mpzof0lIV9s_2KYiOBxwDOUUqos5bKjBwhQ",
+      "access_method": "direct_vrm",
+      "distribution_filename": "264_UrbanTV.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-265",
+      "name": "100Avatars R3 265 CoolThief",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/aZqq_UIFZSAXVxhcAoul9rmcKDvAJcy-A1K6gnTzHLo",
+      "access_method": "direct_vrm",
+      "distribution_filename": "265_CoolThief.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-266",
+      "name": "100Avatars R3 266 DogoBurger",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/qKrAwFf60cT1348kvQc7S5Nzn3fO0aNvJ8ybMx5Lu04",
+      "access_method": "direct_vrm",
+      "distribution_filename": "266_DogoBurger.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-267",
+      "name": "100Avatars R3 267 CuteMoth",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/LWj4C9ClGs0ChP7oHDEEWPbGTo0HAWNMjhIRlyMkRHg",
+      "access_method": "direct_vrm",
+      "distribution_filename": "267_CuteMoth.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-268",
+      "name": "100Avatars R3 268 CoolSnake",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/GAAQYRWWqjn1dYYC8EU47yhT1CKGIjydeJgzVjq4oJo",
+      "access_method": "direct_vrm",
+      "distribution_filename": "268_CoolSnake.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-269",
+      "name": "100Avatars R3 269 AstroNacho",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/yN-bc2espBKNBlbd1J5CfKJkv4ukOcwwyHdJiXoidHg",
+      "access_method": "direct_vrm",
+      "distribution_filename": "269_AstroNacho.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-270",
+      "name": "100Avatars R3 270 Anna",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/RqDioyluCcxDNHFPoXLUlbEQjhP1Fy9HtaGzLFVh0mE",
+      "access_method": "direct_vrm",
+      "distribution_filename": "270_Anna.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-271",
+      "name": "100Avatars R3 271 MrBush",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/4i8X5XaXMIRYVajBnXKQdM_Sa_OQ7PkWi1yG7XdWG44",
+      "access_method": "direct_vrm",
+      "distribution_filename": "271_MrBush.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-272",
+      "name": "100Avatars R3 272 CatEye",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/bpAiAA8wgroS9YgRAk49LShqINtLwsx50IBcHek18J0",
+      "access_method": "direct_vrm",
+      "distribution_filename": "272_CatEye.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-273",
+      "name": "100Avatars R3 273 PitcherDude",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/x5nj6rhSvNnEIFGo7UDuL_HyNpPDD3xPhRJtzrRG6Po",
+      "access_method": "direct_vrm",
+      "distribution_filename": "273_PitcherDude.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-274",
+      "name": "100Avatars R3 274 MathBook",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/_mnuVHD1HqIIBPST7PlJGn4RN5ic-0jSTTzjq0LbINo",
+      "access_method": "direct_vrm",
+      "distribution_filename": "274_MathBook.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-275",
+      "name": "100Avatars R3 275 DreamEater",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/O90eXYu-5ymPHgr0f1vP6lP_DiD0qTwH4hD5Kz8vPzM",
+      "access_method": "direct_vrm",
+      "distribution_filename": "275_DreamEater.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-276",
+      "name": "100Avatars R3 276 CoolHeart",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/Eqer9d8Xz3iQskaBBuw_WPvD0dx8wfoOInYb2T9shQA",
+      "access_method": "direct_vrm",
+      "distribution_filename": "276_CoolHeart.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-277",
+      "name": "100Avatars R3 277 LilTeddy",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/-3bfp6YgXDn6Qb5u463PFouqbsBzcceFKY57WU6Z-xM",
+      "access_method": "direct_vrm",
+      "distribution_filename": "277_LilTeddy.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-278",
+      "name": "100Avatars R3 278 MeganTheFox",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/up4WzT0YJfXv9woGseCIQnBSq3eH8KWASJJbNtuvEWY",
+      "access_method": "direct_vrm",
+      "distribution_filename": "278_MeganTheFox.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-279",
+      "name": "100Avatars R3 279 DrakeTheTrader",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/Dj82dhuF39iskhmKpCWrMvLL2yqjL82XzWnsM2hYSBY",
+      "access_method": "direct_vrm",
+      "distribution_filename": "279_DrakeTheTrader.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-280",
+      "name": "100Avatars R3 280 CoolTiki",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/jfy-JpgRVHM5XrtS0ubeXUPp266LazQ86Y5SlwzD1s8",
+      "access_method": "direct_vrm",
+      "distribution_filename": "280_CoolTiki.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-281",
+      "name": "100Avatars R3 281 Jenny",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/kgTirc4OvUWbJhIKC2CB3_pYsYuB62KTj90IdE8s3sk",
+      "access_method": "direct_vrm",
+      "distribution_filename": "281_Jenny.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-282",
+      "name": "100Avatars R3 282 AjoMajo",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/N0uIP-7n2AjxH-tNFJV8foY7mQQ_DPKgGeCIqXUqfNQ",
+      "access_method": "direct_vrm",
+      "distribution_filename": "282_AjoMajo.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-283",
+      "name": "100Avatars R3 283 CoolTiger",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/2EQ5wsstsJaFOG9LXq_gVFKKgM8bnfPa3axYJ-VS1ug",
+      "access_method": "direct_vrm",
+      "distribution_filename": "283_CoolTiger.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-284",
+      "name": "100Avatars R3 284 Two-Tails",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/JE2Ix9bF-9x6r4ovLKsgMoNf6QJQf_NbmTLSq9Hp_OM",
+      "access_method": "direct_vrm",
+      "distribution_filename": "284_Two-Tails.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-285",
+      "name": "100Avatars R3 285 LilRam",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/_eI-DUur3aGVxAulG0nYICJ1TflufnEiwN9keLmEIXE",
+      "access_method": "direct_vrm",
+      "distribution_filename": "285_LilRam.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-286",
+      "name": "100Avatars R3 286 MrSquirrel",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/cuWoLBLWF0OdWUZ2jsjWNkHPRlPMdmqP9_lUbrHBO-o",
+      "access_method": "direct_vrm",
+      "distribution_filename": "286_MrSquirrel.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-287",
+      "name": "100Avatars R3 287 DreamFighter",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/DF1j9AaUmMferCUrB4BLPtA3AoXE7O3qpE9yP-SSYcQ",
+      "access_method": "direct_vrm",
+      "distribution_filename": "287_DreamFighter.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-288",
+      "name": "100Avatars R3 288 Ranchu",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/8X5rbty2z91hlPByVkLIRTS9pxMyZc6KXOsHdQARUiU",
+      "access_method": "direct_vrm",
+      "distribution_filename": "288_Ranchu.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-289",
+      "name": "100Avatars R3 289 LadyFawn",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/irXzuViKMyT1wGa5tqWQZCCqZPb_uVzU23Wgl1pHC_0",
+      "access_method": "direct_vrm",
+      "distribution_filename": "289_LadyFawn.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-290",
+      "name": "100Avatars R3 290 LilShark",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/nVqBB0cwDybmATcohrZKkgx6hVDqPKTIF2-MwNVVMdw",
+      "access_method": "direct_vrm",
+      "distribution_filename": "290_LilShark.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-291",
+      "name": "100Avatars R3 291 StrawberryPrincess",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/0Wwhn0-G8wESHYX2lD9FRPWw6smAHN_wsH6hNPrz9eE",
+      "access_method": "direct_vrm",
+      "distribution_filename": "291_StrawberryPrincess.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-292",
+      "name": "100Avatars R3 292 PossumEnjoyer",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/7rLe-zw-hBivGOFAm8QkjaRMAGusT7QtaCjh4twIDP4",
+      "access_method": "direct_vrm",
+      "distribution_filename": "292_PossumEnjoyer.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-293",
+      "name": "100Avatars R3 293 SnailKid",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/K6205Pm4AlC-S_QCOD4V4AaCqf6zqZfG5YQdt1ejNRs",
+      "access_method": "direct_vrm",
+      "distribution_filename": "293_SnailKid.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-294",
+      "name": "100Avatars R3 294 NutBot",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/GJq_zlNx26A0LRAh6YvP1z9QBYm2uEol0tTXgBmApzQ",
+      "access_method": "direct_vrm",
+      "distribution_filename": "294_NutBot.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-295",
+      "name": "100Avatars R3 295 BluePixie",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/9_oVPJdbbWifb1GfWa_TpGuGJ0dXQ2ryY6fqM_qt2vk",
+      "access_method": "direct_vrm",
+      "distribution_filename": "295_BluePixie.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-296",
+      "name": "100Avatars R3 296 GhostPumpking",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/w7BA_cYyPX8wtbr2YcUNQtGjQkTPAGuA-l4WOA2Pr0k",
+      "access_method": "direct_vrm",
+      "distribution_filename": "296_GhostPumpking.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-297",
+      "name": "100Avatars R3 297 BotBunny",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/4aox7v4AJVWR5oVxIMcqHbreKDDDHFnePhhPpVwkqnc",
+      "access_method": "direct_vrm",
+      "distribution_filename": "297_BotBunny.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-298",
+      "name": "100Avatars R3 298 SportTV",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/ISYr7xBXT_s4tLddbhFB3PpUhWg-H_BYs2UZhVLF1hA",
+      "access_method": "direct_vrm",
+      "distribution_filename": "298_SportTV.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-299",
+      "name": "100Avatars R3 299 BrainDude",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/DorgAeeb3W73JVFCEfrllDoRbxzOCuvsOvarZSc-iV8",
+      "access_method": "direct_vrm",
+      "distribution_filename": "299_BrainDude.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    },
+    {
+      "id": "polygonalmind-100avatars-r3-300",
+      "name": "100Avatars R3 300 CoolPyramid",
+      "publisher": "Polygonal Mind",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "100avatars-r3"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
+      "download_url": "https://arweave.net/SdnGu0ajq-TNVxLbenkQBgG4gPdIraWJoPHN0HY41p8",
+      "access_method": "direct_vrm",
+      "distribution_filename": "300_CoolPyramid.vrm",
+      "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
+      "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+    }
+  ]
+}

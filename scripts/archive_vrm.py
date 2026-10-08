@@ -4,6 +4,7 @@
 No network access. Does not download models, classify shapes or override existing IDs.
 """
 import argparse
+import fcntl
 import hashlib
 import json
 import os
@@ -49,7 +50,7 @@ def check_webp(path):
 def compress(vrm, archive_path, fmt, model_id):
     if fmt == "zip":
         with zipfile.ZipFile(archive_path, "w", zipfile.ZIP_DEFLATED, compresslevel=6) as z:
-            z.write(vrm, arcname=model_id + ".vrm")
+            z.write(vrm, arcname="model.vrm")
     else:
         zstd = shutil.which("zstd")
         if zstd is None:
@@ -61,9 +62,9 @@ def decompressed_digest(archive_path, fmt, model_id):
     hasher = hashlib.sha256()
     if fmt == "zip":
         with zipfile.ZipFile(archive_path) as z:
-            if z.namelist() != [model_id + ".vrm"]:
+            if z.namelist() != ["model.vrm"]:
                 raise ValueError("Unexpected ZIP members")
-            with z.open(model_id + ".vrm") as stream:
+            with z.open("model.vrm") as stream:
                 for data in iter(lambda: stream.read(1024 * 1024), b""):
                     hasher.update(data)
     else:
@@ -77,7 +78,7 @@ def decompressed_digest(archive_path, fmt, model_id):
     return hasher.hexdigest()
 
 
-def archive(args):
+def archive_locked(args):
     if not re.fullmatch(r"[a-z0-9][a-z0-9-]*", args.id):
         raise ValueError("Unsafe catalog ID")
     source = args.vrm.resolve(strict=True)
@@ -106,6 +107,10 @@ def archive(args):
         ):
             raise ValueError("Preview dimension metadata mismatch")
         check_webp(preview)
+        if not re.fullmatch(r"[0-9a-f]{64}", str(manifest_previews[kind].get("sha256", ""))):
+            raise ValueError("Preview SHA-256 missing or invalid")
+        if digest(preview) != manifest_previews[kind]["sha256"]:
+            raise ValueError("Preview image SHA-256 mismatch: " + kind)
     root = args.nas_root.resolve()
     root.mkdir(parents=True, exist_ok=True)
     index_path = root / "index.jsonl"
@@ -115,6 +120,8 @@ def archive(args):
     if any(item["catalog_id"] == args.id for item in entries):
         raise ValueError("Catalog ID already archived; investigate before replacing: " + args.id)
     fmt = args.format
+    if any(item.get("compression") != fmt for item in entries):
+        raise ValueError("NAS archive format differs from existing records; keep one format")
     extension = ".zip" if fmt == "zip" else ".vrm.zst"
     relative_model_path = "models/" + args.id + extension
     relative_previews = {kind: "previews/" + args.id + "-" + kind + ".webp" for kind in pictures}
@@ -130,7 +137,27 @@ def archive(args):
         with tempfile.NamedTemporaryFile(dir=root / "models", prefix=".pending-", delete=False) as temp:
             temp_archive = Path(temp.name)
         pending.append(temp_archive)
-        compress(source, temp_archive, fmt, args.id)
+        # Reuse byte-identical VRM content stored for a different catalog ID.
+        # The ZIP member is always 'model.vrm', so a hard-linked archive is valid
+        # regardless of the catalog ID used for the enclosing filename.
+        reused = False
+        for entry in entries:
+            if entry.get("vrm_sha256") != vrm_hash or entry.get("compression") != fmt:
+                continue
+            candidate = (root / entry["stored_path"]).resolve()
+            if candidate.parent != (root / "models").resolve() or not candidate.is_file():
+                continue
+            if decompressed_digest(candidate, fmt, args.id) != vrm_hash:
+                continue
+            temp_archive.unlink()
+            try:
+                os.link(candidate, temp_archive)
+                reused = True
+            except OSError:
+                pass
+            break
+        if not reused:
+            compress(source, temp_archive, fmt, args.id)
         if decompressed_digest(temp_archive, fmt, args.id) != vrm_hash:
             raise ValueError("VRM bytes changed during compression")
         archive_hash = digest(temp_archive)
@@ -185,6 +212,18 @@ def archive(args):
     finally:
         for target in pending:
             target.unlink(missing_ok=True)
+
+def archive(args):
+    # Keep a stable lock inode: flock(index.jsonl) is unsafe when the index
+    # is atomically replaced with os.replace by another process.
+    root = args.nas_root.resolve()
+    root.mkdir(parents=True, exist_ok=True)
+    with (root / ".index.lock").open("a+b") as lockfile:
+        fcntl.flock(lockfile.fileno(), fcntl.LOCK_EX)
+        try:
+            return archive_locked(args)
+        finally:
+            fcntl.flock(lockfile.fileno(), fcntl.LOCK_UN)
 
 
 def main():

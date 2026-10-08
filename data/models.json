@@ -10745,6 +10745,401 @@
       "verification": "official_free_distribution_listed_download_untested",
       "checked_at": "2026-10-08",
       "notes": "作者が0円でVRM形式のVRoidキャラクターを配布。商品本文からZIP内部の詳細構成は未確定のため1件のみ計上。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。"
+    },
+    {
+      "id": "yuureiningyo-kogitsune",
+      "name": "こぎつねちゃん",
+      "publisher": "幽霊人魚",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "chibi",
+        "fox"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/6339220",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "kogitsune_free.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/6339220",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者自身のミニキャラ。VRMのみの無料ZIPを収録、編集用VRoid付きは有料。二次配布・自作発言不可。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。"
+    },
+    {
+      "id": "moopee-akabeko-chan",
+      "name": "赤べこchan",
+      "publisher": "moopeeの店",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "mascot"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/6580617",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "akabeko_chan.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/6580617",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者製のVRM 0.xアバター。商品本文でZIP内 akabeko.chan.vrm を明示。首揺れ・瞬き・鼻の穴によるリップシンク。商用利用と改変を許可、再配布禁止。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。"
+    },
+    {
+      "id": "lillian-nanaka",
+      "name": "ななか（Li式デフォルメモデル）",
+      "publisher": "かわいいのお店lillian",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "chibi"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/6259209",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "エプロンナースアバター_ななか.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/6259209",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "無料ZIPにVRMとVRoidプロジェクト・肌テクスチャを収録。支援版は色違いテクスチャを追加するのみで別VRMとして数えない。商用利用・改変可、再配布禁止。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。"
+    },
+    {
+      "id": "sasanoki-kitsune-akyo",
+      "name": "きつねakyo（無料VRM）",
+      "publisher": "ささのき商店",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "fox"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5774980",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "きつねきつねVRM1.01.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/5774980",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "ショップの制作者ささのきが0円で公開。VRM 1.01という配布名は規格版とは断定しない。アバター利用・改変許可、他者へのVRMファイル再配布禁止、商用利用時クレジット必須。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。"
+    },
+    {
+      "id": "propofol7-satake-nagisa",
+      "name": "佐竹ナギサ（無料版）",
+      "publisher": "カンツウホロ東口支店",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "humanoid"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/8447196",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "SatakeNagisa_0.4.zip",
+      "license_name": "作者・権利者が案内する利用規約",
+      "license_url": "https://drive.google.com/file/d/14U15diGcYLZ69mFis9sv4-Ge71rjD29v/view",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者のオリジナル。無料版内容物にVRMファイルを明記。EX版のギミックやおまけを別アバターとして計上しない。VN3規約を参照。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。"
+    },
+    {
+      "id": "chicken-stickman",
+      "name": "棒人間",
+      "publisher": "チキン",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "low-poly"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5208518",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "棒人間.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/5208518",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が低ポリ人型VRMを直接0円配布。有料版と内容は同じ。法人・個人商用利用可、再配布禁止。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。"
+    },
+    {
+      "id": "pumpkinyoi-yoshida-free",
+      "name": "バーチャルマンチカンよしだ（基本無料版）",
+      "publisher": "カボチャ紳士の宵 / 気ままにキマグレ",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "cat",
+        "mascot"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/6066401",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "よしだFREE.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/6066401",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "モデル制作者が自身のショップで直接配布。デザイン原案は由宇霧。商用利用・改変可、再配布禁止。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。"
+    },
+    {
+      "id": "rururu-kofumi",
+      "name": "こふみちゃん（眼鏡あり無料版）",
+      "publisher": "るるる商店",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "glasses"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4945822",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "Kofumi-chan-1.0.0.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/4945822",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "無料の眼鏡ありVRM。眼鏡なしは有料版のみのため収録しない。作者説明の1.0.0はモデル更新版番号で、VRM仕様版未確認。法人不可・個人商用可・再配布不可。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。"
+    },
+    {
+      "id": "mameniki-red-plush",
+      "name": "ちびキャラ 赤い子",
+      "publisher": "まめニキのVroid工房",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "chibi",
+        "plush"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4610832",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "赤い子.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/4610832",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "ぬいぐるみをモチーフにした作者本人の0円直接VRM。利用時クレジットは任意の要請。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。"
+    },
+    {
+      "id": "tabimaru-cube",
+      "name": "きゅーぶ（浮遊掲示板サンプル）",
+      "publisher": "たびマル倉庫",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "mascot",
+        "feature-test"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/4121775",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "きゅーぶ.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/4121775",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者オリジナルのVRM 0.xモデル。無料配布ZIPとVN3利用規約PDFを掲載。後者はモデルではないので別計上しない。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。"
+    },
+    {
+      "id": "tohozunko-zundamon-2025-walking",
+      "name": "ずんだもん（歩行版）",
+      "publisher": "東北ずん子・ずんだもんショップ【公式】",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "official",
+        "mascot",
+        "zundamon"
+      ],
+      "vrm_version": "1.0",
+      "source_url": "https://booth.pm/ja/items/2744821",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ずんだもん_通常_2025モデルセット.zip",
+      "license_name": "作者・権利者が案内する利用規約",
+      "license_url": "https://zunko.jp/guideline.html",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "公式が2025年版の無料ZIPに歩行VRMと飛行VRMの2体を明記。VRM 1.0対応との更新履歴あり。ミニずんだもんとは別商品・別モデル。寄付版は同じ内容。公式ガイドラインを優先する。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。"
+    },
+    {
+      "id": "tohozunko-zundamon-2025-flying",
+      "name": "ずんだもん（飛行版）",
+      "publisher": "東北ずん子・ずんだもんショップ【公式】",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "official",
+        "mascot",
+        "zundamon"
+      ],
+      "vrm_version": "1.0",
+      "source_url": "https://booth.pm/ja/items/2744821",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ずんだもん_通常_2025モデルセット.zip",
+      "license_name": "作者・権利者が案内する利用規約",
+      "license_url": "https://zunko.jp/guideline.html",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "公式が2025年版の無料ZIPに歩行VRMと飛行VRMの2体を明記。VRM 1.0対応との更新履歴あり。ミニずんだもんとは別商品・別モデル。寄付版は同じ内容。公式ガイドラインを優先する。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。"
+    },
+    {
+      "id": "pumpkinyoi-yoshida-dive",
+      "name": "バーチャルマンチカンよしだ（DIVE限定無料版）",
+      "publisher": "カボチャ紳士の宵 / 気ままにキマグレ",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "cat",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/8721471",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "よしだDIVE＿きいろFREE.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/8721471",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者本人がDIVE限定デザインを0円直接配布。デザイン原案：由宇霧、ロゴ制作者：CLUSTARS。通常版と別ファイル。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。"
+    },
+    {
+      "id": "pumpkinyoi-yoshida-chaos-magic",
+      "name": "バーチャルマンチカンよしだ（マジック）",
+      "publisher": "カボチャ紳士の宵 / 気ままにキマグレ",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "cat",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/7379252",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "magic_yoshida.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/7379252",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者自身のBOOTHページで3個の独立した無料VRMファイルを公開。改変担当ははましょー、デザイン原案由宇霧。TRIPO AI生成物と元のよしだモデルを組み合わせたもの。商用可・再配布禁止。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。"
+    },
+    {
+      "id": "pumpkinyoi-yoshida-chaos-robot",
+      "name": "バーチャルマンチカンよしだ（ロボット）",
+      "publisher": "カボチャ紳士の宵 / 気ままにキマグレ",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "cat",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/7379252",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "robot_yoshida.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/7379252",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者自身のBOOTHページで3個の独立した無料VRMファイルを公開。改変担当ははましょー、デザイン原案由宇霧。TRIPO AI生成物と元のよしだモデルを組み合わせたもの。商用可・再配布禁止。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。"
+    },
+    {
+      "id": "pumpkinyoi-yoshida-chaos-wild",
+      "name": "バーチャルマンチカンよしだ（ワイルド）",
+      "publisher": "カボチャ紳士の宵 / 気ままにキマグレ",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "cat",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/7379252",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "wild_yosida.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/7379252",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者自身のBOOTHページで3個の独立した無料VRMファイルを公開。改変担当ははましょー、デザイン原案由宇霧。TRIPO AI生成物と元のよしだモデルを組み合わせたもの。商用可・再配布禁止。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。"
+    },
+    {
+      "id": "pumpkinyoi-yoshida-festival",
+      "name": "バーチャルマンチカンよしだ（学園祭）",
+      "publisher": "カボチャ紳士の宵 / 気ままにキマグレ",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "cat",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/7164809",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "学園祭よしだ.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/7164809",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者本人の学園祭限定版VRM。イラスト：花絵さい、デザイン原案：由宇霧。無料の直接VRM。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。"
+    },
+    {
+      "id": "pumpkinyoi-yoshida-boost",
+      "name": "バーチャルマンチカンよしだ（BOOST無料版）",
+      "publisher": "カボチャ紳士の宵 / 気ままにキマグレ",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "cat",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/6694215",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ヨシダBoost__C_.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/6694215",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者本人のBOOST限定無料VRM。ロゴ制作者：月川。通常版と別ファイル。商用利用・改変可、再配布不可。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。"
+    },
+    {
+      "id": "pumpkinyoi-yoshida-accel",
+      "name": "バーチャルマンチカンよしだ（ACCEL無料版）",
+      "publisher": "カボチャ紳士の宵 / 気ままにキマグレ",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "cat",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5537883",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "よしだACCEL_FREE.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/5537883",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者本人のACCEL限定無料VRM。ロゴ制作者：ペルキ・ギャンパーク。商用利用・改変可、再配布不可。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。"
     }
   ]
 }

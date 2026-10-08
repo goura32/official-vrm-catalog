@@ -19,7 +19,9 @@
 | [neonglitch86-models.json](data/collections/neonglitch86-models.json) | NeonGlitch86制作者GitHub・作者登録コレクションの無料公開VRM | 36 |
 | **合計** | **200キャラクター×2配布版を含む** | **1,297** |
 
-[収録・検証方針](docs/collection-policy.md) ／ [追加調査・保留候補](docs/research-notes.md)
+[収録・検証方針](docs/collection-policy.md) ／ [追加調査・保留候補](docs/research-notes.md) ／ [全体監査・人型ダウンロード方針](docs/download-scope-review.md)
+
+**登録拡充はいったん1,297件で凍結しました。原本のダウンロード対象は人型だけです。** [選別IDリスト](data/download-scope.json)に人型候補214件、非人型候補81件を別管理し、その他1,002件は未判定のため取得禁止です。候補も取得済み・外観確認済みを意味しません。非人型データを含む元のJSONは削除・移動しません。
 
 VRM 0.x / 1.0のモデル、アバター型と機能検証用モデルを対象とします。無料の編集ソフトからVRMとして書き出せる公式サンプルも対象です。
 

@@ -32,7 +32,7 @@
 | ZIP | Deflate、level 6、1 VRM/ZIP | OS標準ツール等で扱いやすい |
 | zstd | level 10、各VRM単体 | 高速な可逆圧縮に向く |
 
-**当面はZIPを暫定デフォルトとし、実測後に最終決定する。** VRMには既に圧縮されたテクスチャ等が含まれることがあり、zstdの容量メリットは未計測である。
+**ZIPを実機採用済み。** 2026-10-09の3件実測では、zstdとの差は元VRMの合計サイズに対して1.2455%であり、3%基準以内だったため、互換性を優先してZIPに統一した。既存87件もZIPで保存・監査済み。後続の同じNAS索引では形式比較をやり直さず、ZIPを使用する。詳細は[実機検証レポート](hermes-bulk-run-results.md)。
 
 3件以上の実VRMを、できれば複数の制作者・テクスチャ規模から選んで比較する。
 
@@ -74,7 +74,7 @@ python3 scripts/archive_vrm.py \
   --nas-root /mnt/hdd/vrm --format zip --confirm-humanoid
 ```
 
-圧縮方式の測定でzstdを選択した場合は`--format zstd`。元ZIP内のパスが判明している場合は`--archive-member 'folder/model.vrm'`を追加する。
+過去の比較でZIP採用を決定したため、同一NASでは原則`--format zip`を継続する。異なる圧縮方式を混在させない。元ZIP内のパスが判明している場合は`--archive-member 'folder/model.vrm'`を追加する。
 
 保存処理は次の条件を満たした場合だけ索引を更新する。
 
@@ -105,7 +105,7 @@ python3 -m unittest discover -s tests -v
 python3 scripts/verify_nas.py --nas-root /mnt/hdd/vrm
 ```
 
-`ok: true`かつ`errors: []`であることをNAS処理の完了条件とする。**実行するまで検査済みと記載しない**。実機作業の一括指示は[Hermes Agent用プロンプト](hermes-bulk-run.md)へ集約し、各作業段階で個別に質問・停止しない。
+`ok: true`かつ`errors: []`であることをNAS処理の完了条件とする。**実行するまで検査済みと記載しない**。実機作業の継続指示は[Hermes Agent R3以降の一括プロンプト](hermes-bulk-resume.md)へ集約し、完了済み87件と保留IDを再処理しない。
 
 ## 実行状況
 

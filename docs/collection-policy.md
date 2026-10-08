@@ -15,7 +15,7 @@
 
 - 1つの取得物・仕様版を1レコードにする。同一キャラクターでもVRM 0.x/1.0やLOW/HIGHなど配布物が異なれば分ける。データは `data/models.json` および `data/collections/*.json` を正とし、スクリプトは補助。大量の公式コレクションは配布元単位でJSONを分け、IDはファイル間で一意とする。
 - `source_url`: 配布根拠。個別モデルページがなければモデル群の公式説明ページ。
-- `download_url`: **確認できた直接VRMファイルURLだけ**を記録。ログイン画面や公式アプリの操作で取得するものは `null`。
+- `download_url`: **制作者の公開情報でVRMファイルの直接取得先と確認できたURLのみ**を記録。通常は `.vrm` 拡張子だが、ArweaveのコンテンツIDなど拡張子がないものも含む。ログイン画面や公式アプリの操作で取得するものは `null`。実ダウンロードしていなければ `verification` に明記する。
 - `distribution_size_bytes`: 公式GitHub Contents API等で**実ファイルのバイト数**を確認できた場合だけ付与。BOOTH表示のMBを逆算しない。
 - `distribution_filename`: 公式ページやGitHubのファイル一覧に記載された**配布物のファイル名**。ZIP形式の場合はVRM実ファイルの名前と混同しない。未確認なら省略する。
 - `access_method`: 直接VRM取得・Hub経由・無料エディタ書き出し・公式ページ・BOOTH無料配布を区別。
@@ -114,3 +114,16 @@ BOOTHの `booth.pm/ja/items/...` 共通ページは0円配布として表示さ�
 原作者自身のリポジトリで実在ファイルを確認しても、拡張子が `.vrm` というだけでは十分ではない。たとえば [MJMoonbow](https://github.com/MJMoonbow/VRMavatars) の5ファイルは2バイトであり、VRM/GLBヘッダーを含むことすらできないため収録しない。残りのファイルはサイズ・パスと作者ライセンス表記で仮採録し、後日の実ファイル解析までVRM形式バージョンを確定しない。
 
 同一無料ZIPの中に4モデルがある場合はそれぞれ別レコードとするが、VRM単体で配布された同一モデルを無料ZIPでも入手できるだけなら重複登録しない。商品「Ver.2」「1.0.1」などの配布物自体の版番号は、**VRMファイルの仕様版と区別**する。
+
+## Polygonal Mind 第3弾（2026-10-08）
+
+- [Polygonal Mind 100Avatars v24.02.1 リリース](https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1) は**R3をCC0として説明**し、VRM形式の配布を明示する。前2弾のGitHub本体（400ファイル・200キャラ×通常/Voxel）とR3の201〜300は別のコレクションとして区別する。
+- [制作者ToxSamのOpen Source Avatars索引](https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json) は、R3の100件に対して番号・名前・`format: VRM`・Arweave URL・ファイル名を掲載する。索引が示す `model_file_url` を直接URLとして収録した。記録したURLは `.vrm` 拡張子を持たないArweaveコンテンツID形式。
+- **今回の確認はメタデータのみ**。リンクの現在のHTTP応答、実ダウンロード、GLB/VRMのヘッダー、表示確認、同一モデルの派生版は未検証。索引で確認できた標準100件のみ採録し、R3のVoxel版などは実体別URLが確認できるまで追加しない。
+- R3のCC0表記をR1/R2の既存モデルへ逆適用しない。個々のモデルの現在の利用条件や配布元の変更は、後日の原本検証時に再確認する。
+
+## 2026-10-08 新規BOOTH無料VRM
+
+- [ARVENDAL](https://booth.pm/ja/items/8944341) は無料1体のみ（有料サポーターパックの15バリエーションは収録しない）。[Wolf Boy](https://booth.pm/ja/items/8949948) は作者が無料で2 VRMを直接公開し、VRM 0.xと記載する。
+- [仮想洋品](https://booth.pm/ja/items/8907607)の5商品、[ATOR工房](https://booth.pm/ja/items/8708753)の無料単体2モデル、[潮音こまり](https://booth.pm/ja/items/7034844)、[Miu](https://booth.pm/ja/items/8205729)、[そら](https://booth.pm/ja/items/7969137)を、公式商品ページの0円・VRM収録案内に基づき採録。無料ZIP・単体ファイル・有料の同一モデル追加形式の重複を避ける。
+- すべてログイン後の取得成功・ZIP内VRMの内容・実ファイル仕様は未確認であり、登録件数拡充後にHermes Agentで一括検証する。

@@ -42,9 +42,42 @@ def catalog_record(model_id):
 
 
 def check_webp(path):
-    header = path.read_bytes()[:12]
-    if len(header) < 12 or not (header[:4] == b"RIFF" and header[8:] == b"WEBP"):
-        raise ValueError(f"Not a WebP file: {path}")
+    """Return WebP pixel dimensions using only the standard library.
+
+    Verify RIFF size and the first image frame header. This does not replace
+    decoding and rendering validation performed by the preview generator.
+    """
+    import struct
+
+    with path.open("rb") as stream:
+        header = stream.read(64)
+    length = path.stat().st_size
+    if (len(header) < 30 or header[:4] != b"RIFF" or header[8:12] != b"WEBP"
+            or struct.unpack_from("<I", header, 4)[0] + 8 != length):
+        raise ValueError(f"Invalid WebP RIFF header: {path}")
+    kind = header[12:16]
+    chunk_size = struct.unpack_from("<I", header, 16)[0]
+    if chunk_size < 10 and kind in (b"VP8 ", b"VP8X"):
+        raise ValueError(f"Truncated WebP image header: {path}")
+    if kind == b"VP8X":
+        width = 1 + int.from_bytes(header[24:27], "little")
+        height = 1 + int.from_bytes(header[27:30], "little")
+    elif kind == b"VP8 ":
+        if header[23:26] != b"\\x9d\\x01\\x2a":
+            raise ValueError(f"Invalid WebP VP8 frame: {path}")
+        width = int.from_bytes(header[26:28], "little") & 0x3fff
+        height = int.from_bytes(header[28:30], "little") & 0x3fff
+    elif kind == b"VP8L":
+        if chunk_size < 5 or header[20] != 0x2f:
+            raise ValueError(f"Invalid WebP lossless frame: {path}")
+        bits = int.from_bytes(header[21:25], "little")
+        width = 1 + (bits & 0x3fff)
+        height = 1 + ((bits >> 14) & 0x3fff)
+    else:
+        raise ValueError(f"Unsupported WebP image chunk {kind!r}: {path}")
+    if not (0 < width <= 16384 and 0 < height <= 16384):
+        raise ValueError(f"Invalid WebP dimensions: {path}")
+    return width, height
 
 
 def compress(vrm, archive_path, fmt, model_id):
@@ -109,7 +142,9 @@ def archive_locked(args):
             (768, 1024) if kind == "tpose" else (512, 512)
         ):
             raise ValueError("Preview dimension metadata mismatch")
-        check_webp(preview)
+        actual_dimensions = check_webp(preview)
+        if actual_dimensions != ((768, 1024) if kind == "tpose" else (512, 512)):
+            raise ValueError("Actual WebP dimensions do not match preview type: " + kind)
         if not re.fullmatch(r"[0-9a-f]{64}", str(manifest_previews[kind].get("sha256", ""))):
             raise ValueError("Preview SHA-256 missing or invalid")
         if digest(preview) != manifest_previews[kind]["sha256"]:

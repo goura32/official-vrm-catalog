@@ -192,3 +192,27 @@ BOOTHの作者ページで0円のVRMまたはVRM入りZIPの掲載と個別の�
 - 本回でもログイン・ダウンロード・描画・VRMバイナリの実機確認は未実施。将来Hermes Agentを使って、原本を `/mnt/hdd/vrm` へ永続保存し、識別用ハッシュとカタログIDを対応させる。原本はGitHubへ追加しない。
 
 **今回保留した候補**：[初音ミク等の第三者キャラクター二次創作](https://booth.pm/ja/items/6690538)は権利者自身の配布ではないため追加せず。[ぜろさんの無料サンプル](https://booth.pm/ja/items/7597295)は商品説明の無料ZIP内容物がFBX/UnityPackage等のみで、VRMは有料版に記載されているため無料VRMとして収録しない。[ToxSamの公開カタログ](https://github.com/ToxSam/open-source-avatars)は有用な候補索引だが、既存Polygonal Mindモデルとの重複、権利者自身の配布経路、NFT所有要否を個別に確認してから検討する。
+
+## 2026-10-08 追加収録：833→868件（+35件）
+
+商品ページ32件を調査して35件を `data/models.json` に追加。配布者のBOOTHページで「ダウンロード商品 ¥0」およびVRM形式の公開案内を確認した。今回も実ファイルダウンロードとZIP内部解析は行わず、`verification: official_free_distribution_listed_download_untested` のままにする。
+
+| 配布元 | 追加件数 | 根拠・残る不確実性 |
+| --- | ---: | --- |
+| [ぴケの創作屋さん ChocoOrange](https://booth.pm/ja/items/5514001) 等 | 14 | Wings、Yumeiro Rainy、Rainy Sunny、Aurora、sakura uniform、Clown doll、赤龍、Monster Animal、Steam Punk Cat、Monotone Blossom、Moon night、Snowflake、Steam Rabbit。いずれも作者による無料VRM形式のZIPと案内される。**一部ZIPにはA/B等複数デザインの説明があるが、その各デザインが独立したVRMファイルか未確認のため1商品につき暫定1件のみ**。無料の編集用衣装だけかVRM実体が存在するか、アーカイブ内部を将来検証する。 |
+| [夜凪の隠れ家](https://booth.pm/ja/items/5361030) | 6 | [エミル](https://booth.pm/ja/items/5361030)、[はる子](https://booth.pm/ja/items/5568171)、[きらり](https://booth.pm/ja/items/5638883)、[はやと＆ひふみ](https://booth.pm/ja/items/5655005)、[ルーナ](https://booth.pm/ja/items/5752643)、[みんと](https://booth.pm/ja/items/5940674)。VRM入りの無料ZIPを明示。有料.vroid編集データは収録しない。双子が2独立VRMかは未確認のため現時点では1件として採録。 |
+| [沙七の水面：水瀬ほむら](https://booth.pm/ja/items/6848740) | 3 | 無料の直接 `.vrm` 3種類（通常・メッシュ削除・Perfect Sync）。商品欄の個別ファイル名を登録。 |
+| [star-ria：Mizki](https://booth.pm/ja/items/6016249) | 2 | 無料の配布表示0.0/1.0が付いた別ZIP。商品には「VRoid ver.」の表記があるが、**VRM内部仕様バージョンでは未確認のため `vrm_version:null`**。編集用.vroid ZIPは二重計上しない。 |
+| [Avatar Shop](https://booth.pm/ja/items/8436605) | 2 | [らい](https://booth.pm/ja/items/8436605)・[そら](https://booth.pm/ja/items/8436291)。直接VRMとXAvatarの併売は別アバター件数としない。 |
+| [melonzzam メイド](https://booth.pm/ja/items/4645887) | 1 | 無料の `maid.vrm`、編集用 `maid.vroid` は対象外。 |
+| [0CTR4D 四號](https://booth.pm/ja/items/5820982) | 1 | 無料の直接 `四號.vrm`。キャラクター固有の利用規約・テクスチャ制限あり。 |
+| [じょわの店 一般男性](https://booth.pm/ja/items/7128850) | 1 | 無料ZIPにVRMとVRoidデータを同梱。 |
+| [baby0to1 ロイドちゃん](https://booth.pm/ja/items/8117808) | 1 | 作者による無料VRM。商用不可、再配布不可。 |
+| [Canomdarra アリシャーニャ](https://booth.pm/ja/items/6386203) | 1 | 無料の直接VRM。作者商品更新版はVRM仕様版と区別。変更履歴に商用許諾の版差があるため利用規約を再照合する。 |
+| [Hiraeth Create Samurai Boy](https://booth.pm/ja/items/4899143) | 1 | 作者の無料VRM ZIP。二次IPを模した別のRecombinant Avatarは権利者の公式配布ではないので今回除外。 |
+| [わんぱくなアトリエ 八尺様](https://booth.pm/ja/items/3333412) | 1 | 同じ無料VRMのZIP名変更版が併存するが作者説明は文字化け対策。二重登録しない。 |
+| [tamir-tg Belle](https://booth.pm/ja/items/7663985) | 1 | 0円の完成衣装付きVRM ZIPのみ登録、個別vroidcustomitemは独立アバターとして数えない。 |
+
+**調査時の除外**：BOOTHの商品一覧で無料と表示されても、実際にはPNGテクスチャだけの[Kissy Lips](https://booth.pm/ja/items/6702878)などはVRM本体がなく対象外。またVRM説明だけで中身を確認できない衣装・小物単体は積極的に除外し、ZIPを後で解析した際に実VRMがないと判明した暫定採録レコードは削除または保留へ移す。
+
+次工程は収録件数の拡充を優先。実機による一括ダウンロードはHermes Agentへ後日依頼し、原本は `/mnt/hdd/vrm` に永続保存する。ログイン・会員登録・年齢確認は購入不要であれば除外理由にしない。VRMやZIPの原本をGitHubへコミットしない。

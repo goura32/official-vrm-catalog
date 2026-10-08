@@ -20,7 +20,7 @@
       "access_method": "direct_vrm",
       "license_name": "VRM Public License 1.0",
       "license_url": "https://vrm.dev/licenses/1.0/",
-      "verification": "official_repository_file_listed",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
       "checked_at": "2026-10-08",
       "distribution_filename": "Seed-san.vrm",
       "distribution_size_bytes": 10917800
@@ -44,7 +44,7 @@
       "access_method": "direct_vrm",
       "license_name": "VRM Public License 1.0",
       "license_url": "https://vrm.dev/licenses/1.0/",
-      "verification": "official_repository_file_listed",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
       "checked_at": "2026-10-08",
       "distribution_filename": "VRM1_Constraint_Twist_Sample.vrm",
       "distribution_size_bytes": 10776032

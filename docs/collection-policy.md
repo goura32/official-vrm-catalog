@@ -40,3 +40,13 @@
 - [キズナアイ KAMATTE AI (VRM 1.x / 0.x)](https://kizunaai.com/download/kamatteaimodel/)
 - [モノ御楠ルナ（LOW / HIGH、BOOTHの各0円配布）](https://booth.pm/ja/items/2091095)
 - [ぞん子 3D MODEL type-N](https://zonko.zone-energy.jp/3dmodel) — [公式ライセンス](https://zone-energy.jp/3dmodel/terms.pdf)
+
+## 追加収録における確認範囲（2026-10-08）
+
+作者本人のBOOTHで無料のVRMファイル・VRM収録ZIPが**ダウンロード商品0円**として掲載されているものも収録する。ログインが必要でも対象。
+
+- 直接 `.vrm` ファイル名が記載されている場合でも、認証が必要なBOOTHのダウンロード完了やファイル内メタデータは未確認。
+- `.zip` の場合は販売者の内容物記述を根拠とし、実際のアーカイブ内構成は未検証として記録。
+- 無料版と有料版のライセンス・収録機能を混同しない。購入不要な無料配布版を収録。
+- 商用利用制限などの重要な条件は `notes` に明記し、正確な全文は `license_url` で確認する。
+- モデルのバージョンは商品ページの明記がない場合は `null` を維持。`VRM 0.0` は `0.x` に集約する。

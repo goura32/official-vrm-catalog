@@ -6,12 +6,12 @@
 
 | ファイル | 収録範囲 | 件数 |
 | --- | --- | ---: |
-| [data/models.json](data/models.json) | 既存の公式・作者配布モデル、今回追加した国内公式モデル | 97 |
+| [data/models.json](data/models.json) | 公式・作者配布モデル（過去の調査を含む） | 116 |
 | [polygonalmind-001-050.json](data/collections/polygonalmind-001-050.json) | Polygonal Mind 001〜050・通常/Voxel | 100 |
 | [polygonalmind-051-100.json](data/collections/polygonalmind-051-100.json) | Polygonal Mind 051〜100・通常/Voxel | 100 |
 | [polygonalmind-101-150.json](data/collections/polygonalmind-101-150.json) | Polygonal Mind 101〜150・通常/Voxel | 100 |
 | [polygonalmind-151-200.json](data/collections/polygonalmind-151-200.json) | Polygonal Mind 151〜200・通常/Voxel | 100 |
-| **合計** | **200キャラクター×2配布版を含む** | **497** |
+| **合計** | **200キャラクター×2配布版を含む** | **516** |
 
 [収録・検証方針](docs/collection-policy.md) ／ [追加調査・保留候補](docs/research-notes.md)
 
@@ -44,6 +44,12 @@ VRM 0.x / 1.0のモデル、アバター型と機能検証用モデルを対象�
 - [夢ノ結唱 POPY/ROSE](https://yumenokessho.bang-dream.com/material/)・[ミライ小町](https://github.com/Miraikomachi/MiraikomachiVRM)・[AIニケちゃん](https://github.com/tegnike/nikechan-assets) — 公式配布モデル
 - [Polygonal Mind 100Avatars](https://github.com/PolygonalMind/100Avatars) — 作者GitHubのVRM 400ファイルを収録。通常/ボクセルの2種を区別
 
+- [U-Stella NEW FEE（無料版）](https://booth.pm/ja/items/5447407) — 通常・軽量・shapeのVRM 3種
+- [パチモンしとちゃ](https://booth.pm/ja/items/8535916) — 同一無料ZIPにVRM 1.0／0.xの2種
+- [TOKYO6公式モデル](https://hub.vroid.com/characters/1420006020727011145/models/3811297975865827284) — 小春六花・夏色花梨・花隈千冬
+- [AITuber OnAir ミコ](https://miko.aituberonair.com/downloads/) — 通常版・チア衣装版
+- [ENRAI 遠雷燕](https://note.com/enraise/n/naaf24a598be2)、[プロ生ちゃん](https://kei.pronama.jp/download/)、[作者・イベントの無料マスコット](https://booth.pm/ja/items/5821373)
+
 「無料版」以外の有料編集データや有料機能は、モデルの収録対象に含めません。
 
 **データの正本は上記5つのJSONファイルです。** 200体×2バリエーションを含むため、収録件数は「独立したキャラクターの人数」ではなく「VRM配布物・バリエーションの件数」です。
@@ -66,7 +72,7 @@ VRM 0.x / 1.0のモデル、アバター型と機能検証用モデルを対象�
 `distribution_filename` は公式の配布ファイル名（直接 `.vrm` またはVRMを含むと案内された `.zip`）です。**ZIP名はZIP内部のVRM名とは限りません。** 未確認のモデルでは省略します。
 
 `vrm_version: null` は、配布モデルの実ファイルに含まれるVRM仕様バージョンが未確認であることを示します。VRoid Hubの表示値は**Hubで配布されるモデル**に対するもので、VRoid Studioから再書き出ししたファイルの版を保証しません。既知の値も公開された説明に基づくものがあり、全件についてバイナリ解析済みという意味ではありません。
-同じモデルに複数のVRM仕様版やLOW/HIGHなど異なる取得物がある場合は別レコードとします。
+同じモデルに複数のVRM仕様版やLOW/HIGHなど異なる取得物がある場合は別レコードとします。**ZIP 1件に複数のVRMが同梱されている場合も、VRMごとに登録**し、`distribution_filename` には共通のZIPファイル名を記載します。ZIP内の実ファイルパスは未検証なら推測して補完しません。
 
 ## 注意
 

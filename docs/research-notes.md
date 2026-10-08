@@ -317,3 +317,15 @@ BOOTHの作者ページで0円のVRMまたはVRM入りZIPの掲載と個別の�
 **今回の対象選定**：両シリーズとToxSamオリジナルはNFTのメタデータを併記する一方、直接 `https://dweb.link/ipfs/...` あるいは `https://gateway.pinata.cloud/ipfs/...` にある `.vrm` ファイルのURLも公開されている。カタログはNFTの売買・所有情報を登録せず、無償で取得可能と案内されたVRMファイルの**公開取得先**を掲載する。実HTTP応答・NFT所有なしのダウンロード成功は未確認のため、 `verification: creator_index_direct_url_listed_download_untested` とする。
 
 **見送った候補**：ToxSam管理の他コレクション（VIPE Heroes、Grifters Squaddies、NeonGlitch86など）は、規約・権利者自身の配布か・多量のファイルURLの実在を今回独立に確認しきれないため未登録。VRM本体の実取得・VRM規格/GLB解析や表示・動作確認も今回の作業範囲外。後日のHermes Agent一括検証時に `/mnt/hdd/vrm` に原本を永続保存する。
+
+## 2026-10-08 作者公開VRM追加：1,210→1,246件（+36件）
+
+[NeonGlitch86の作者GitHub](https://github.com/neonglitch86/vrm) と [ToxSam公開インデックスのNeonGlitch86コレクション](https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/NeonGlitch86.json) を確認し、新規 `data/collections/neonglitch86-models.json` に36レコードを登録。
+
+- **作者GitHub直接配布：34件**。GitHubのツリーAPIで46個の実体があるVRMファイル名・バイト数・Git blob IDを確認し、他者作品、著名人、商標等との関連が疑われる名前の12件は今回の収録対象から外した。34件のGit blob IDは相異なり、完全に同一のGit blobではない。収録例：`Arctefact.vrm`、`BS_Female_CC.vrm`、`BS_Male_CC.vrm`、`Bubble.vrm`、`DeathlessEye.vrm`、`NG86_Skelly1-0.vrm`、`RCS_Pixel_`の5色、`RatGrift1/2/3.vrm`、`RektGuy.vrm`と`RektGuy_BS1/2/3/4.vrm`。
+- **IPFS直接配布：2件**。作者登録の公開インデックスにある `ROCKETMAN`、`NOT NYC AVATAR`。VRM形式とIPFSパスを確認した。
+- **ライセンスの区別**：36件のうち、[公開CC0コレクション](https://github.com/ToxSam/open-source-avatars/blob/main/data/projects.json)で確認できる `shapey.vrm`、`ROCKETMAN`、`NOT NYC AVATAR` の3件のみCC0として扱う。**他33件は作者GitHubに無料公開されていても利用許諾が明記されていない**。それらの `license_name` は「利用許諾未記載」とし、商用利用・改変・再配布等を許されていると推測しない。
+- **収録保留**：`SBW_86.vrm`等の既存キャラクター由来が疑われるもの、`Hasbulla.vrm`等の著名人に関係する可能性があるもの、`PEPECANDY_.vrm`、`Peepo_sm.vrm`、`MAXMCD.vrm`、`GG_1.vrm`、`G_A/B/C.vrm`など計12件。権利元や共同作者の公開条件を確認できるまでは登録しない。なお保留判断はタイトル・利用条件の不確実性に基づくもので、侵害を認定したものではない。
+- **未検証**：GitHubツリー上の拡張子・サイズ・blobの識別は確認したが、VRM内部のGLB仕様・表情・表示・実取得は未確認。ライセンス本文の直接照合も未完了。 `official_repository_file_listed` または `creator_index_direct_url_listed_download_untested` として記録する。
+
+Hermes Agentによる一括検証は登録をさらに増やした後に実施し、原本を `/mnt/hdd/vrm` に保存する。GitHubへ実ファイルを転載しない。

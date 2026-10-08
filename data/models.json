@@ -2841,6 +2841,686 @@
       "verification": "official_free_distribution_listed_download_untested",
       "checked_at": "2026-10-08",
       "notes": "0円の作者商品はVRM形式モデルとして掲載。ZIP内の実ファイル名・利用権限の詳細は未確認。 実ダウンロード・実ファイルメタデータは未検証。"
+    },
+    {
+      "id": "shopperch-kotoha",
+      "name": "コトハ",
+      "publisher": "shop-perch",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "1.0",
+      "source_url": "https://booth.pm/ja/items/8580892",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "コトハ.vrm",
+      "license_name": "作者BOOTH商品ページ記載の利用条件",
+      "license_url": "https://booth.pm/ja/items/8580892",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+    },
+    {
+      "id": "shopperch-kohaku",
+      "name": "コハク",
+      "publisher": "shop-perch",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "1.0",
+      "source_url": "https://booth.pm/ja/items/7704964",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "コハク.vrm",
+      "license_name": "作者BOOTH商品ページ記載の利用条件",
+      "license_url": "https://booth.pm/ja/items/7704964",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+    },
+    {
+      "id": "shopperch-elaine",
+      "name": "エレイン",
+      "publisher": "shop-perch",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "1.0",
+      "source_url": "https://booth.pm/ja/items/8078128",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "エレイン.vrm",
+      "license_name": "作者BOOTH商品ページ記載の利用条件",
+      "license_url": "https://booth.pm/ja/items/8078128",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+    },
+    {
+      "id": "shopperch-saki-v2",
+      "name": "サキ ver.2",
+      "publisher": "shop-perch",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/6550273",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "サキ_ver.2.vrm",
+      "license_name": "作者BOOTH商品ページ記載の利用条件",
+      "license_url": "https://booth.pm/ja/items/6550273",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+    },
+    {
+      "id": "shopperch-irene",
+      "name": "アイリーン",
+      "publisher": "shop-perch",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/6865593",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "アイリーン.vrm",
+      "license_name": "作者BOOTH商品ページ記載の利用条件",
+      "license_url": "https://booth.pm/ja/items/6865593",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+    },
+    {
+      "id": "shopperch-hisui-v15",
+      "name": "ヒスイ ver.1.5",
+      "publisher": "shop-perch",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/6649467",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ヒスイ_ver.1.5.vrm",
+      "license_name": "作者BOOTH商品ページ記載の利用条件",
+      "license_url": "https://booth.pm/ja/items/6649467",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+    },
+    {
+      "id": "shopperch-hiiragi",
+      "name": "ヒイラギ",
+      "publisher": "shop-perch",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/7105378",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ヒイラギ.vrm",
+      "license_name": "作者BOOTH商品ページ記載の利用条件",
+      "license_url": "https://booth.pm/ja/items/7105378",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+    },
+    {
+      "id": "shopperch-suzuna",
+      "name": "スズナ",
+      "publisher": "shop-perch",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/6740762",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "スズナ.vrm",
+      "license_name": "作者BOOTH商品ページ記載の利用条件",
+      "license_url": "https://booth.pm/ja/items/6740762",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+    },
+    {
+      "id": "shopperch-metis",
+      "name": "メティス",
+      "publisher": "shop-perch",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/7474279",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "メティス.vrm",
+      "license_name": "作者BOOTH商品ページ記載の利用条件",
+      "license_url": "https://booth.pm/ja/items/7474279",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+    },
+    {
+      "id": "shopperch-yuzu",
+      "name": "ユズ",
+      "publisher": "shop-perch",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/6974966",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ユズ.vrm",
+      "license_name": "作者BOOTH商品ページ記載の利用条件",
+      "license_url": "https://booth.pm/ja/items/6974966",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+    },
+    {
+      "id": "shopperch-yuunagi",
+      "name": "ユウナギ",
+      "publisher": "shop-perch",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/6865579",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ユウナギ.vrm",
+      "license_name": "作者BOOTH商品ページ記載の利用条件",
+      "license_url": "https://booth.pm/ja/items/6865579",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+    },
+    {
+      "id": "shopperch-riiya",
+      "name": "リーヤー",
+      "publisher": "shop-perch",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "1.0",
+      "source_url": "https://booth.pm/ja/items/7604329",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "リーヤー.vrm",
+      "license_name": "作者BOOTH商品ページ記載の利用条件",
+      "license_url": "https://booth.pm/ja/items/7604329",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+    },
+    {
+      "id": "rolock-mikke",
+      "name": "MIKKE",
+      "publisher": "6666669 (ROLOCK)",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/7475625",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "mikke_2025.vrm",
+      "license_name": "作者BOOTH商品ページ記載の利用条件",
+      "license_url": "https://booth.pm/ja/items/7475625",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者のオリジナル無料VRM。改変・商用可、再配布・販売・AI学習は禁止。ショップ固有URLの非公開表示があり、取得可否は特に要確認。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+    },
+    {
+      "id": "rolock-pest-mask-chan",
+      "name": "ペストマスクちゃん",
+      "publisher": "6666669 (ROLOCK)",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/7527177",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "Pest_Mask-chan.vrm",
+      "license_name": "作者BOOTH商品ページ記載の利用条件",
+      "license_url": "https://booth.pm/ja/items/7527177",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "オリジナル0円VRM。改変・商用可、再配布・販売・政治/宗教/NFT利用は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+    },
+    {
+      "id": "rolock-kokuyou-vrm1",
+      "name": "黒曜 Kokuyou (VRM 1.0)",
+      "publisher": "6666669 (ROLOCK)",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "1.0",
+      "source_url": "https://booth.pm/ja/items/6029627",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "黒曜_Kokuyou.zip",
+      "license_name": "作者BOOTH商品ページ記載の利用条件",
+      "license_url": "https://booth.pm/ja/items/6029627",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "公式作者の0円ZIPにはVRM 1.0と0.xを同梱。改変・商用可、再配布・販売・AI学習・政治/宗教/NFT利用は禁止。各版のZIP内部ファイル名は未確認。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+    },
+    {
+      "id": "rolock-kokuyou-vrm0",
+      "name": "黒曜 Kokuyou (VRM 0.x)",
+      "publisher": "6666669 (ROLOCK)",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/6029627",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "黒曜_Kokuyou.zip",
+      "license_name": "作者BOOTH商品ページ記載の利用条件",
+      "license_url": "https://booth.pm/ja/items/6029627",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "公式作者の0円ZIPにはVRM 1.0と0.xを同梱。改変・商用可、再配布・販売・AI学習・政治/宗教/NFT利用は禁止。各版のZIP内部ファイル名は未確認。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+    },
+    {
+      "id": "romanticspica-rian-normal-vrm1",
+      "name": "りあん Rian（通常・VRM 1.0）",
+      "publisher": "RomanticSpica",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "1.0",
+      "source_url": "https://booth.pm/ja/items/8165924",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "Rian1.0.vrm",
+      "license_name": "作者BOOTH商品ページ記載の利用条件",
+      "license_url": "https://booth.pm/ja/items/8165924",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者の0円配布。通常服・着せ替え用素体がありVRM 0.x/1.0をそれぞれ配布。規約の詳細はBOOTH本文と同梱資料を参照。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+    },
+    {
+      "id": "romanticspica-rian-normal-vrm0",
+      "name": "りあん Rian（通常・VRM 0.x）",
+      "publisher": "RomanticSpica",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/8165924",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "Rian0.0.vrm",
+      "license_name": "作者BOOTH商品ページ記載の利用条件",
+      "license_url": "https://booth.pm/ja/items/8165924",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者の0円配布。通常服・着せ替え用素体がありVRM 0.x/1.0をそれぞれ配布。規約の詳細はBOOTH本文と同梱資料を参照。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+    },
+    {
+      "id": "romanticspica-rian-body-vrm1",
+      "name": "りあん Rian（素体・VRM 1.0）",
+      "publisher": "RomanticSpica",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "base-body"
+      ],
+      "vrm_version": "1.0",
+      "source_url": "https://booth.pm/ja/items/8165924",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "Rian_素体_1.0.vrm",
+      "license_name": "作者BOOTH商品ページ記載の利用条件",
+      "license_url": "https://booth.pm/ja/items/8165924",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者の0円配布。通常服・着せ替え用素体がありVRM 0.x/1.0をそれぞれ配布。規約の詳細はBOOTH本文と同梱資料を参照。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+    },
+    {
+      "id": "romanticspica-rian-body-vrm0",
+      "name": "りあん Rian（素体・VRM 0.x）",
+      "publisher": "RomanticSpica",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "base-body"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/8165924",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "Rian_素体_0.0.vrm",
+      "license_name": "作者BOOTH商品ページ記載の利用条件",
+      "license_url": "https://booth.pm/ja/items/8165924",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者の0円配布。通常服・着せ替え用素体がありVRM 0.x/1.0をそれぞれ配布。規約の詳細はBOOTH本文と同梱資料を参照。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+    },
+    {
+      "id": "haulo-ryuneru",
+      "name": "Ryuneru（AI制作実験モデル）",
+      "publisher": "はうろー",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "ai-assisted-creation"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/8824510",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ryuneru_vrm_v1.1.0.zip",
+      "license_name": "作者BOOTH商品ページ記載の利用条件",
+      "license_url": "https://booth.pm/ja/items/8824510",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "0円のオリジナルVRM入りZIP。AIによる制作実験作品。作者は商用・個人改変可と案内し、実VRMファイル名とVRM仕様版は未確認。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+    },
+    {
+      "id": "naralab-profamu",
+      "name": "ぷろふぁむ",
+      "publisher": "naralab",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "chibi"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/8183172",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "Profamu.vrm",
+      "license_name": "作者BOOTH商品ページ記載の利用条件",
+      "license_url": "https://booth.pm/ja/items/8183172",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "0円の小型オリジナルVRM。改変・個人商用・再配布可だが未改変データそのままの販売は禁止。VRoid編集データ付きセットは500円。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+    },
+    {
+      "id": "fuufumu-chloe-lo1126",
+      "name": "クロエ LO1126/1136 ベースモデル",
+      "publisher": "ふーふむ",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/6272301",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "lo1126vrm.zip",
+      "license_name": "作者BOOTH商品ページ記載の利用条件",
+      "license_url": "https://booth.pm/ja/items/6272301",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "0円VRM対応の公式ZIP。FBX/VRChat/PMX用の別ZIPもある。実ファイルのVRM版・ファイル名は未確認。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+    },
+    {
+      "id": "yururea-haruusagi-normal",
+      "name": "春うさぎ（Normal Ver）",
+      "publisher": "ゆるれあ",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "chibi",
+        "rabbit-ears"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/8087217",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "春うさぎ_Normal_.vrm",
+      "license_name": "作者BOOTH商品ページ記載の利用条件",
+      "license_url": "https://booth.pm/ja/items/8087217",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "0円の小型VRM。100円支援版は同内容で無料版のみ収録。利用条件は商品ページ参照。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+    },
+    {
+      "id": "sn1572-tsuzuri-yodaka",
+      "name": "綴よだか（最新版1.02.03）",
+      "publisher": "SN1572",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "expressions"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/3822052",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "最新版_1.02.03_綴よだか_VRM_VRCモデル.zip",
+      "license_name": "作者BOOTH商品ページ記載の利用条件",
+      "license_url": "https://booth.pm/ja/items/3822052",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "0円のVRM/VRChatモデルZIP。別配布の旧DynamicBone版ZIPは本件と同キャラクターの旧版として情報に残すが別レコード未登録。再配布条件は作者規約に従う。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+    },
+    {
+      "id": "rrro-romandi",
+      "name": "ロマンディ",
+      "publisher": "RRRO",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4036136",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "Romandi_3D.zip",
+      "license_name": "作者BOOTH商品ページ記載の利用条件",
+      "license_url": "https://booth.pm/ja/items/4036136",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "0円ZIPにVRM・FBX・テクスチャを収録。個人商用・改変可、原本/改変版の再配布・販売禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+    },
+    {
+      "id": "3dmodelharuka-sakura",
+      "name": "SAKURA",
+      "publisher": "3Dもでる販売屋",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "expressions"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4592729",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "SAKURA.zip",
+      "license_name": "作者BOOTH商品ページ記載の利用条件",
+      "license_url": "https://booth.pm/ja/items/4592729",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "0円ZIPにSAKURA.vrmとVRChat用Unitypackageを同梱。個人・法人の商用利用と改変可、再配布禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+    },
+    {
+      "id": "unreally-yukine-riu",
+      "name": "雪音りう",
+      "publisher": "unreally",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/8519166",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "雪音りう3D.zip",
+      "license_name": "作者BOOTH商品ページ記載の利用条件",
+      "license_url": "https://booth.pm/ja/items/8519166",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "0円のVRMモデル配布ZIP。無料公開ページとVRM形式を確認。ZIP内部・細かな権利条件は実取得時に確認。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+    },
+    {
+      "id": "niumu-miyamaru",
+      "name": "みやまる（Perfect Sync対応）",
+      "publisher": "Niumu",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "perfect-sync"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/6867490",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "みやまる_Miyamaru_Niumu.zip",
+      "license_name": "作者BOOTH商品ページ記載の利用条件",
+      "license_url": "https://booth.pm/ja/items/6867490",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が0円で公開するVRMモデル。Perfect Sync対応と記載。商用・法人利用NG、改変可、再配布NG。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+    },
+    {
+      "id": "dollme-002",
+      "name": "Doll me_002",
+      "publisher": "ドルミィ",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "limited-free"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/5173073",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "Dollme_002.zip",
+      "license_name": "作者BOOTH商品ページ記載の利用条件",
+      "license_url": "https://booth.pm/ja/items/5173073",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "期間限定無料配布（現在の商品ページは0円表示）。ZIPにVRMを含むと作者明記し、VRM1.0ではないと明記。個人商用・改変可、原本/改変版の再配布禁止。無料配布終了の可能性がある。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+    },
+    {
+      "id": "dollme-006",
+      "name": "Doll me_006",
+      "publisher": "ドルミィ",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "limited-free"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/5207993",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "Dollme_006.zip",
+      "license_name": "作者BOOTH商品ページ記載の利用条件",
+      "license_url": "https://booth.pm/ja/items/5207993",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "期間限定無料配布（現在の商品ページは0円表示）。ZIPにVRMを含むと作者明記し、VRM1.0ではないと明記。個人商用・改変可、原本/改変版の再配布禁止。無料配布終了の可能性がある。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+    },
+    {
+      "id": "dollme-007",
+      "name": "Doll me_007",
+      "publisher": "ドルミィ",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "limited-free"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/5208006",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "Dollme_007.zip",
+      "license_name": "作者BOOTH商品ページ記載の利用条件",
+      "license_url": "https://booth.pm/ja/items/5208006",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "期間限定無料配布（現在の商品ページは0円表示）。ZIPにVRMを含むと作者明記し、VRM1.0ではないと明記。個人商用・改変可、原本/改変版の再配布禁止。無料配布終了の可能性がある。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+    },
+    {
+      "id": "dollme-008",
+      "name": "Doll me_008",
+      "publisher": "ドルミィ",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "limited-free"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/5208010",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "Dollme_008.zip",
+      "license_name": "作者BOOTH商品ページ記載の利用条件",
+      "license_url": "https://booth.pm/ja/items/5208010",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "期間限定無料配布（現在の商品ページは0円表示）。ZIPにVRMを含むと作者明記し、VRM1.0ではないと明記。個人商用・改変可、原本/改変版の再配布禁止。無料配布終了の可能性がある。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+    },
+    {
+      "id": "dollme-009",
+      "name": "Doll me_009",
+      "publisher": "ドルミィ",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "limited-free"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/5208021",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "Dollme_009.zip",
+      "license_name": "作者BOOTH商品ページ記載の利用条件",
+      "license_url": "https://booth.pm/ja/items/5208021",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "期間限定無料配布（現在の商品ページは0円表示）。ZIPにVRMを含むと作者明記し、VRM1.0ではないと明記。個人商用・改変可、原本/改変版の再配布禁止。無料配布終了の可能性がある。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+    },
+    {
+      "id": "dollme-010",
+      "name": "Doll me_010",
+      "publisher": "ドルミィ",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "limited-free"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/5208023",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "Dollme_010_.zip",
+      "license_name": "作者BOOTH商品ページ記載の利用条件",
+      "license_url": "https://booth.pm/ja/items/5208023",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "期間限定無料配布（現在の商品ページは0円表示）。ZIPにVRMを含むと作者明記し、VRM1.0ではないと明記。個人商用・改変可、原本/改変版の再配布禁止。無料配布終了の可能性がある。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
     }
   ]
 }

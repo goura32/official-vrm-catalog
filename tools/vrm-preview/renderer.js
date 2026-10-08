@@ -41,7 +41,9 @@ try {
   const center = bounds.getCenter(new THREE.Vector3());
   if (bounds.isEmpty() || boxSize.y <= 0.05) throw new Error('Empty model bounds');
   let target = center.clone();
-  let visibleHeight = boxSize.y * 1.18;
+  // T-posed arms are often wider than the height-based camera framing.
+  // Ensure BOTH dimensions fit in the 3:4 orthographic viewport.
+  let visibleHeight = Math.max(boxSize.y * 1.18, (boxSize.x / (width / height)) * 1.18);
   if (view === 'face') {
     const head = vrm.humanoid.getNormalizedBoneNode('head');
     if (!head) throw new Error('Missing head bone; manual face capture required');

@@ -28,6 +28,12 @@
 - [standalone ALPHA](https://booth.pm/ja/items/7851789)：無料の試用版だけ収録（有料フルパッケージは対象外）。
 - [いものアバター](https://booth.pm/ja/items/8595180)：無料VRM本体のみ収録。有料の色違い・追加テクスチャは対象外。
 
+## 今回確認した公式VRoid Hubの追加バリエーション（登録済み）
+
+- β Ver AvatarSample_1の[ダークネス版](https://hub.vroid.com/characters/675572020956181239/models/6535695942068248968)、[制服2019](https://hub.vroid.com/characters/675572020956181239/models/7175071267176594918)、[制服2019ダークネス](https://hub.vroid.com/characters/675572020956181239/models/5306079829291212184)
+- β Ver AvatarSample_[2](https://hub.vroid.com/characters/945152946522067123/models/3383751442912063017)・[3](https://hub.vroid.com/characters/6193066630030526355/models/537531113514541613)・[4](https://hub.vroid.com/characters/2792872861023597723/models/9138892883072488102) の制服2019版
+- いずれもVRoid Project公式アカウント公開、「他の人の利用OK（ダウンロードNGではない）」、VRM 0.0を公開ページで確認。実ダウンロードは未実施。
+
 ## 次の確認
 
 - 公式配布ページの実ダウンロード／認証の要否（購入不要である限り認証は除外理由にしない）

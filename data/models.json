@@ -1,0 +1,547 @@
+{
+  "schema_version": 1,
+  "models": [
+    {
+      "id": "vrm-spec-seed-san",
+      "name": "Seed-san",
+      "publisher": "VirtualCast, Inc.",
+      "kind": "avatar",
+      "features": [
+        "pbr",
+        "mtoon",
+        "spring-bone",
+        "constraint-rotation",
+        "expressions",
+        "look-at"
+      ],
+      "vrm_version": "1.0",
+      "source_url": "https://github.com/vrm-c/vrm-specification/tree/master/samples/Seed-san",
+      "download_url": "https://raw.githubusercontent.com/vrm-c/vrm-specification/master/samples/Seed-san/vrm/Seed-san.vrm",
+      "access_method": "direct_vrm",
+      "license_name": "VRM Public License 1.0",
+      "license_url": "https://vrm.dev/licenses/1.0/",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "vrm-spec-vrm1-constraint-twist-sample",
+      "name": "VRM1_Constraint_Twist_Sample",
+      "publisher": "pixiv Inc.",
+      "kind": "avatar",
+      "features": [
+        "mtoon",
+        "spring-bone",
+        "constraint-roll",
+        "constraint-aim",
+        "expressions",
+        "look-at"
+      ],
+      "vrm_version": "1.0",
+      "source_url": "https://github.com/vrm-c/vrm-specification/tree/master/samples/VRM1_Constraint_Twist_Sample",
+      "download_url": "https://raw.githubusercontent.com/vrm-c/vrm-specification/master/samples/VRM1_Constraint_Twist_Sample/vrm/VRM1_Constraint_Twist_Sample.vrm",
+      "access_method": "direct_vrm",
+      "license_name": "VRM Public License 1.0",
+      "license_url": "https://vrm.dev/licenses/1.0/",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "vrm-spec-vrmc-vrm-expressions-isbinary-overrides",
+      "name": "VRMC_vrm_expressions_isBinary_Overrides",
+      "publisher": "pixiv Inc.",
+      "kind": "feature-test",
+      "features": [
+        "expressions",
+        "is-binary",
+        "override"
+      ],
+      "vrm_version": "1.0",
+      "source_url": "https://github.com/vrm-c/vrm-specification/tree/master/samples/VRMC_vrm_expressions_isBinary_Overrides",
+      "download_url": "https://raw.githubusercontent.com/vrm-c/vrm-specification/master/samples/VRMC_vrm_expressions_isBinary_Overrides/vrm/VRMC_vrm_expressions_isBinary_Overrides.vrm",
+      "access_method": "direct_vrm",
+      "license_name": "VRM Public License 1.0",
+      "license_url": "https://vrm.dev/licenses/1.0/",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "vrm-spec-vrmc-vrm-expressions-isbinary-overridden",
+      "name": "VRMC_vrm_expressions_isBinary_Overridden",
+      "publisher": "pixiv Inc.",
+      "kind": "feature-test",
+      "features": [
+        "expressions",
+        "is-binary",
+        "overridden"
+      ],
+      "vrm_version": "1.0",
+      "source_url": "https://github.com/vrm-c/vrm-specification/tree/master/samples/VRMC_vrm_expressions_isBinary_Overridden",
+      "download_url": "https://raw.githubusercontent.com/vrm-c/vrm-specification/master/samples/VRMC_vrm_expressions_isBinary_Overridden/vrm/VRMC_vrm_expressions_isBinary_Overridden.vrm",
+      "access_method": "direct_vrm",
+      "license_name": "VRM Public License 1.0",
+      "license_url": "https://vrm.dev/licenses/1.0/",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "vrm-spec-vrmc-materials-mtoon-uv-animation-test",
+      "name": "VRMC_materials_mtoon_UV_Animation_Test",
+      "publisher": "pixiv Inc.",
+      "kind": "feature-test",
+      "features": [
+        "mtoon",
+        "uv-animation"
+      ],
+      "vrm_version": "1.0",
+      "source_url": "https://github.com/vrm-c/vrm-specification/tree/master/samples/VRMC_materials_mtoon_UV_Animation_Test",
+      "download_url": "https://raw.githubusercontent.com/vrm-c/vrm-specification/master/samples/VRMC_materials_mtoon_UV_Animation_Test/vrm/VRMC_materials_mtoon_UV_Animation_Test.vrm",
+      "access_method": "direct_vrm",
+      "license_name": "VRM Public License 1.0",
+      "license_url": "https://vrm.dev/licenses/1.0/",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "vroid-avatarsample-a",
+      "name": "AvatarSample_A",
+      "publisher": "VRoid Project / pixiv Inc.",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://hub.vroid.com/characters/2843975675147313744/models/5644550979324015604",
+      "download_url": null,
+      "access_method": "vroid_hub_vrm",
+      "license_name": "VRoid Studio サンプルモデル利用条件（CC0ではない）",
+      "license_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "verification": "official_hub_and_help_confirmed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "vroid-avatarsample-b",
+      "name": "AvatarSample_B",
+      "publisher": "VRoid Project / pixiv Inc.",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://hub.vroid.com/characters/7939147878897061040/models/2292219474373673889",
+      "download_url": null,
+      "access_method": "vroid_hub_vrm",
+      "license_name": "VRoid Studio サンプルモデル利用条件（CC0ではない）",
+      "license_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "verification": "official_hub_and_help_confirmed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "vroid-avatarsample-c",
+      "name": "AvatarSample_C",
+      "publisher": "VRoid Project / pixiv Inc.",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://hub.vroid.com/characters/1248981995540129234/models/8640547963669442173",
+      "download_url": null,
+      "access_method": "vroid_hub_vrm",
+      "license_name": "VRoid Studio サンプルモデル利用条件（CC0ではない）",
+      "license_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "verification": "official_hub_and_help_confirmed",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "vroid-avatarsample-d",
+      "name": "AvatarSample_D",
+      "publisher": "VRoid Project / pixiv Inc.",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "download_url": null,
+      "access_method": "vroid_studio_export",
+      "license_name": "VRoid Studio サンプルモデル利用条件（CC0ではない）",
+      "license_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "verification": "official_help_confirmed_export_untested",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "vroid-avatarsample-e",
+      "name": "AvatarSample_E",
+      "publisher": "VRoid Project / pixiv Inc.",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "download_url": null,
+      "access_method": "vroid_studio_export",
+      "license_name": "VRoid Studio サンプルモデル利用条件（CC0ではない）",
+      "license_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "verification": "official_help_confirmed_export_untested",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "vroid-avatarsample-f",
+      "name": "AvatarSample_F",
+      "publisher": "VRoid Project / pixiv Inc.",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "download_url": null,
+      "access_method": "vroid_studio_export",
+      "license_name": "VRoid Studio サンプルモデル利用条件（CC0ではない）",
+      "license_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "verification": "official_help_confirmed_export_untested",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "vroid-avatarsample-g",
+      "name": "AvatarSample_G",
+      "publisher": "VRoid Project / pixiv Inc.",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "download_url": null,
+      "access_method": "vroid_studio_export",
+      "license_name": "VRoid Studio サンプルモデル利用条件（CC0ではない）",
+      "license_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "verification": "official_help_confirmed_export_untested",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "vroid-avatarsample-h",
+      "name": "AvatarSample_H",
+      "publisher": "VRoid Project / pixiv Inc.",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "download_url": null,
+      "access_method": "vroid_studio_export",
+      "license_name": "VRoid Studio サンプルモデル利用条件（CC0ではない）",
+      "license_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "verification": "official_help_confirmed_export_untested",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "vroid-avatarsample-i",
+      "name": "AvatarSample_I",
+      "publisher": "VRoid Project / pixiv Inc.",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "download_url": null,
+      "access_method": "vroid_studio_export",
+      "license_name": "VRoid Studio サンプルモデル利用条件（CC0ではない）",
+      "license_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "verification": "official_help_confirmed_export_untested",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "vroid-avatarsample-j",
+      "name": "AvatarSample_J",
+      "publisher": "VRoid Project / pixiv Inc.",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "download_url": null,
+      "access_method": "vroid_studio_export",
+      "license_name": "VRoid Studio サンプルモデル利用条件（CC0ではない）",
+      "license_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "verification": "official_help_confirmed_export_untested",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "vroid-avatarsample-k",
+      "name": "AvatarSample_K",
+      "publisher": "VRoid Project / pixiv Inc.",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "download_url": null,
+      "access_method": "vroid_studio_export",
+      "license_name": "VRoid Studio サンプルモデル利用条件（CC0ではない）",
+      "license_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "verification": "official_help_confirmed_export_untested",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "vroid-avatarsample-l",
+      "name": "AvatarSample_L",
+      "publisher": "VRoid Project / pixiv Inc.",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "download_url": null,
+      "access_method": "vroid_studio_export",
+      "license_name": "VRoid Studio サンプルモデル利用条件（CC0ではない）",
+      "license_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "verification": "official_help_confirmed_export_untested",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "vroid-avatarsample-m",
+      "name": "AvatarSample_M",
+      "publisher": "VRoid Project / pixiv Inc.",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "download_url": null,
+      "access_method": "vroid_studio_export",
+      "license_name": "VRoid Studio サンプルモデル利用条件（CC0ではない）",
+      "license_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "verification": "official_help_confirmed_export_untested",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "vroid-avatarsample-n",
+      "name": "AvatarSample_N",
+      "publisher": "VRoid Project / pixiv Inc.",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "download_url": null,
+      "access_method": "vroid_studio_export",
+      "license_name": "VRoid Studio サンプルモデル利用条件（CC0ではない）",
+      "license_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "verification": "official_help_confirmed_export_untested",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "vroid-avatarsample-o",
+      "name": "AvatarSample_O",
+      "publisher": "VRoid Project / pixiv Inc.",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "download_url": null,
+      "access_method": "vroid_studio_export",
+      "license_name": "VRoid Studio サンプルモデル利用条件（CC0ではない）",
+      "license_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "verification": "official_help_confirmed_export_untested",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "vroid-avatarsample-p",
+      "name": "AvatarSample_P",
+      "publisher": "VRoid Project / pixiv Inc.",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "download_url": null,
+      "access_method": "vroid_studio_export",
+      "license_name": "VRoid Studio サンプルモデル利用条件（CC0ではない）",
+      "license_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "verification": "official_help_confirmed_export_untested",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "vroid-avatarsample-q",
+      "name": "AvatarSample_Q",
+      "publisher": "VRoid Project / pixiv Inc.",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "download_url": null,
+      "access_method": "vroid_studio_export",
+      "license_name": "VRoid Studio サンプルモデル利用条件（CC0ではない）",
+      "license_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "verification": "official_help_confirmed_export_untested",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "vroid-avatarsample-r",
+      "name": "AvatarSample_R",
+      "publisher": "VRoid Project / pixiv Inc.",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "download_url": null,
+      "access_method": "vroid_studio_export",
+      "license_name": "VRoid Studio サンプルモデル利用条件（CC0ではない）",
+      "license_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "verification": "official_help_confirmed_export_untested",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "vroid-avatarsample-s",
+      "name": "AvatarSample_S",
+      "publisher": "VRoid Project / pixiv Inc.",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "download_url": null,
+      "access_method": "vroid_studio_export",
+      "license_name": "VRoid Studio サンプルモデル利用条件（CC0ではない）",
+      "license_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "verification": "official_help_confirmed_export_untested",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "vroid-avatarsample-t",
+      "name": "AvatarSample_T",
+      "publisher": "VRoid Project / pixiv Inc.",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "download_url": null,
+      "access_method": "vroid_studio_export",
+      "license_name": "VRoid Studio サンプルモデル利用条件（CC0ではない）",
+      "license_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "verification": "official_help_confirmed_export_untested",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "vroid-avatarsample-u",
+      "name": "AvatarSample_U",
+      "publisher": "VRoid Project / pixiv Inc.",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "download_url": null,
+      "access_method": "vroid_studio_export",
+      "license_name": "VRoid Studio サンプルモデル利用条件（CC0ではない）",
+      "license_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "verification": "official_help_confirmed_export_untested",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "vroid-avatarsample-v",
+      "name": "AvatarSample_V",
+      "publisher": "VRoid Project / pixiv Inc.",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "download_url": null,
+      "access_method": "vroid_studio_export",
+      "license_name": "VRoid Studio サンプルモデル利用条件（CC0ではない）",
+      "license_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "verification": "official_help_confirmed_export_untested",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "vroid-avatarsample-w",
+      "name": "AvatarSample_W",
+      "publisher": "VRoid Project / pixiv Inc.",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "download_url": null,
+      "access_method": "vroid_studio_export",
+      "license_name": "VRoid Studio サンプルモデル利用条件（CC0ではない）",
+      "license_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "verification": "official_help_confirmed_export_untested",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "vroid-avatarsample-x",
+      "name": "AvatarSample_X",
+      "publisher": "VRoid Project / pixiv Inc.",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "download_url": null,
+      "access_method": "vroid_studio_export",
+      "license_name": "VRoid Studio サンプルモデル利用条件（CC0ではない）",
+      "license_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "verification": "official_help_confirmed_export_untested",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "vroid-avatarsample-y",
+      "name": "AvatarSample_Y",
+      "publisher": "VRoid Project / pixiv Inc.",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "download_url": null,
+      "access_method": "vroid_studio_export",
+      "license_name": "VRoid Studio サンプルモデル利用条件（CC0ではない）",
+      "license_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "verification": "official_help_confirmed_export_untested",
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "vroid-avatarsample-z",
+      "name": "AvatarSample_Z",
+      "publisher": "VRoid Project / pixiv Inc.",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "download_url": null,
+      "access_method": "vroid_studio_export",
+      "license_name": "VRoid Studio サンプルモデル利用条件（CC0ではない）",
+      "license_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
+      "verification": "official_help_confirmed_export_untested",
+      "checked_at": "2026-10-08"
+    }
+  ]
+}

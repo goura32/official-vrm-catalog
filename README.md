@@ -6,13 +6,14 @@
 
 | ファイル | 収録範囲 | 件数 |
 | --- | --- | ---: |
-| [data/models.json](data/models.json) | 公式・作者配布モデル（過去の調査を含む） | 450 |
+| [data/models.json](data/models.json) | 公式・作者配布モデル（過去の調査を含む） | 463 |
 | [polygonalmind-001-050.json](data/collections/polygonalmind-001-050.json) | Polygonal Mind 001〜050・通常/Voxel | 100 |
 | [polygonalmind-051-100.json](data/collections/polygonalmind-051-100.json) | Polygonal Mind 051〜100・通常/Voxel | 100 |
 | [polygonalmind-101-150.json](data/collections/polygonalmind-101-150.json) | Polygonal Mind 101〜150・通常/Voxel | 100 |
 | [polygonalmind-151-200.json](data/collections/polygonalmind-151-200.json) | Polygonal Mind 151〜200・通常/Voxel | 100 |
 | [mjmoonbow-fantasy.json](data/collections/mjmoonbow-fantasy.json) | MJMoonbow原作者公開のCC0ファンタジー系VRM | 18 |
-| **合計** | **200キャラクター×2配布版を含む** | **868** |
+| [polygonalmind-201-300.json](data/collections/polygonalmind-201-300.json) | 100Avatars R3・制作者公開のArweave VRM（201〜300） | 100 |
+| **合計** | **200キャラクター×2配布版を含む** | **981** |
 
 [収録・検証方針](docs/collection-policy.md) ／ [追加調査・保留候補](docs/research-notes.md)
 
@@ -44,6 +45,7 @@ VRM 0.x / 1.0のモデル、アバター型と機能検証用モデルを対象�
 - [Sony mocopi「RAYNOSちゃん」](https://www.sony.co.jp/en/Products/mocopi-dev/jp/downloads/DownloadInfo.html) — 3種類の配布物
 - [夢ノ結唱 POPY/ROSE](https://yumenokessho.bang-dream.com/material/)・[ミライ小町](https://github.com/Miraikomachi/MiraikomachiVRM)・[AIニケちゃん](https://github.com/tegnike/nikechan-assets) — 公式配布モデル
 - [Polygonal Mind 100Avatars](https://github.com/PolygonalMind/100Avatars) — 作者GitHubのVRM 400ファイルを収録。通常/ボクセルの2種を区別
+- [Polygonal Mind 100Avatars R3](https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json) — 第3弾201〜300の100件。作者索引のArweave VRM直リンクを記録（実取得・バイナリ未検証）
 
 - [U-Stella NEW FEE（無料版）](https://booth.pm/ja/items/5447407) — 通常・軽量・shapeのVRM 3種
 - [パチモンしとちゃ](https://booth.pm/ja/items/8535916) — 同一無料ZIPにVRM 1.0／0.xの2種
@@ -91,10 +93,12 @@ VRM 0.x / 1.0のモデル、アバター型と機能検証用モデルを対象�
 - [夜凪の隠れ家](https://booth.pm/ja/items/5361030) — エミルからみんとまで6商品（有料.vroidは除外）
 - [水瀬ほむら](https://booth.pm/ja/items/6848740) — 通常・メッシュ削除・Perfect Syncの3 VRM、[Mizki](https://booth.pm/ja/items/6016249) — 無料配布2版
 - [Avatar Shop](https://booth.pm/ja/items/8436605)・[四號](https://booth.pm/ja/items/5820982)・[ロイドちゃん](https://booth.pm/ja/items/8117808) — 作者本人による無料VRM
+- [CecyliaMun](https://booth.pm/ja/items/8944341) — ARVENDAL無料版、[Wolf Boy](https://booth.pm/ja/items/8949948)の2種類の無料VRM（有料の15種類パックを除外）
+- [仮想洋品](https://booth.pm/ja/items/8907607) — BREAK VENOM等の無料アバター5件、[ATOR工房](https://booth.pm/ja/items/8708753) — 無料のクローモンスター・コマンドーうさぎ
 
 「無料版」以外の有料編集データや有料機能は、モデルの収録対象に含めません。
 
-**データの正本は上記6つのJSONファイルです。** 200体×2バリエーションを含むため、収録件数は「独立したキャラクターの人数」ではなく「VRM配布物・バリエーションの件数」です。
+**データの正本は上記7つのJSONファイルです。** 200体×2バリエーションを含むため、収録件数は「独立したキャラクターの人数」ではなく「VRM配布物・バリエーションの件数」です。
 
 ## 確認レベル
 
@@ -106,10 +110,13 @@ VRM 0.x / 1.0のモデル、アバター型と機能検証用モデルを対象�
 - `official_hub_permission_and_format_confirmed`: 公式Hubモデルの投稿者、他者利用「OK（ダウンロードNGではない）」、VRM形式と利用条件を確認
 - `official_help_confirmed_export_untested`: 公式ヘルプが無料モデルと書き出し方法を案内。個別エクスポートは未検証
 - `official_free_distribution_listed_download_untested`: 公式配布元に無料のVRM配布案内を確認。個別の実ダウンロードは未検証
+- `creator_index_direct_url_listed_download_untested`: 制作者の公開モデル索引にVRM形式と直リンクを確認。リンク先バイナリは未取得
 
 `binary_evidence` はGLBヘッダーと埋め込みVRMメタデータの解析結果。`github_blob_sha` はGitHubのGit blob IDで、VRMファイルそのもののSHA1ではありません。実際の描画・挙動検証やファイル全体のSHA1照合は未実施です。
 
 `distribution_size_bytes` は公式GitHub APIで確認できた**配布VRMファイル自体のバイト数**（確認済みのものだけ）です。BOOTHの表示MBとは精度が異なるため推測補完しません。
+
+`download_url` は通常 `.vrm` で終わる直接URLを記録しますが、制作者の公開索引が指す **Arweaveの拡張子なし直接URL** も記録します。リンク先のVRMバイナリが未取得なら `verification` で明記します。
 
 `distribution_filename` は公式の配布ファイル名（直接 `.vrm` またはVRMを含むと案内された `.zip`）です。**ZIP名はZIP内部のVRM名とは限りません。** 未確認のモデルでは省略します。
 

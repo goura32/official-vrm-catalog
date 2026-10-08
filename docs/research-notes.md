@@ -243,3 +243,22 @@ BOOTHの作者ページで0円のVRMまたはVRM入りZIPの掲載と個別の�
 **保留**：初音ミク、重音テト、Luce等、第三者のキャラクターをモチーフにした非公式二次創作VRMは権利者自身の配布であると確認できず除外。無料項目が利用規約PDF・ツール・衣装だけの商品も除外。
 
 **次回**：未登録VRMの追加調査を優先。原本の一括保存先 `/mnt/hdd/vrm`、実機確認はHermes Agentへまとめて依頼し、原本を公開GitHubへコミットしない。
+
+## 2026-10-08 新規作者配布の収録：981→1,005件（+24件）
+
+無料VRMの配布を公式GitHub 1リポジトリ・BOOTHの作者／公式ショップ17商品ページで確認し、重複しない24レコードを `data/models.json` に追加した。実ファイルのダウンロード・ZIP内部解析は未実施。
+
+| 配布元 | 追加 | 調査根拠と留意点 |
+| --- | ---: | --- |
+| [hinzka Perfect Sync サンプル](https://github.com/hinzka/52blendshapes-for-VRoid-face) | 2 | `VRoid_V110_Female_v1.1.3.vrm`（23,297,820バイト）と`VRoid_V110_Male_v1.1.3.vrm`（22,710,912バイト）を作者GitHub Contents APIで確認。52表情BlendShape対応。作者READMEに商用・改変・再配布等を許可する旨あり。ただしVRoid Studio由来の第三者権利・規約に従う条件がある。VRM仕様バージョンはバイナリ未解析につき`null`。 |
+| [Wanime](https://booth.pm/ja/items/8575773) | 3 | 通常衣装・リラックスウェア・素体の3 VRMを作者が同一無料ZIP内ファイル名付きで列挙。VRM 1.0と明記。 |
+| [moss](https://booth.pm/ja/items/8318734) | 2 | `moss.vrm`、`moss_sotai.vrm`を無料の別ファイルとして掲載。VRM 0.xと明記。外部VN3利用規約あり。 |
+| [撫子](https://booth.pm/ja/items/3845065) | 2 | 本体・素体の直接VRM 2種類。素体単独での公共利用不可など作者の利用条件に注意。 |
+| [ぴよたそ](https://booth.pm/ja/items/6433350) | 1 | キャラクター公式ショップの0円VRM ZIP。制作者や用途別クレジット条件は商品ページで確認。 |
+| [あづはちゃん](https://booth.pm/ja/items/8947261)・[ミニあづはちゃん](https://booth.pm/ja/items/8947514) | 2 | 作者自身による別商品・別VRMの無料ZIP。 |
+| [お墓アバター](https://booth.pm/ja/items/3921454)、[ぽたみ種 TECK](https://booth.pm/ja/items/5726412)、[キモネーゼちゃん](https://booth.pm/ja/items/4125225)、[Skelton](https://booth.pm/ja/items/7500530) | 4 | 0円のオリジナルVRM。TECK以外の有料派生や同一モデルのZIPまとめ売りは重複計上しない。 |
+| [ELISE](https://booth.pm/ja/items/3119855)、[ラウロシ](https://booth.pm/ja/items/7288825)、[Julius](https://booth.pm/ja/items/5380991)、[ayame（キャミソール）](https://booth.pm/ja/items/5476076) | 4 | 作者による0円VRMまたはVRM収録ZIP。別作者の既登録「彩瞳 Ayame」とは異なる。 |
+| [たびマル倉庫「とり」](https://booth.pm/ja/items/3898075) | 1 | 既登録「とり灯」3色の元モデルを作者から直接収録。派生配布の許可は後日再確認。 |
+| [ZEPTO002「あいすくりーす」](https://booth.pm/ja/items/4944771) | 3 | いちご・ナッツ・チョコミントの無料直接VRM 3本。¥300の3匹まとめセットは同一内容のため別件としない。 |
+
+**未検証**：認証が必要なBOOTHの実ダウンロード、ZIP内のVRMの正確なファイル構成、VRMバイナリメタデータと表示・動作、第三者権利の現在の規約。モデル入手に料金が不要ならログイン・会員登録・年齢確認の要否は問わない。収録拡充後、Hermes Agentで実機確認・原本`/mnt/hdd/vrm`への永続保存を一括で行い、GitHubにVRM/ZIP本体は追加しない。

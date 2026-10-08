@@ -27,6 +27,8 @@ VRM 0.x / 1.0のモデル、アバター型と機能検証用モデルを対象�
 - [キズナアイ KAMATTE AI](https://kizunaai.com/download/kamatteaimodel/) — VRM 1.x／0.x
 - [東北ずん子・ずんだもん公式BOOTH](https://tohozunko.booth.pm/) — 無料配布版のある公式3Dモデル
 - [BOOTHのクリエイター本人による無償VRM配布](https://booth.pm/ja/items/4911831) — 収録したモデルの個別ページと利用条件はJSONを参照
+- [「あいす」VRM 0.x / 1.0](https://booth.pm/ja/items/7938475)、[Frii（2 VRM）](https://booth.pm/ja/items/6168778) — 仕様版・ファイル名を区別して登録
+- [軽量ないものアバター](https://booth.pm/ja/items/8595180)、[standalone ALPHA試用版](https://booth.pm/ja/items/7851789) — 無料VRM版のみを収録
 
 「無料版」以外の有料編集データや有料機能は、モデルの収録対象に含めません。
 

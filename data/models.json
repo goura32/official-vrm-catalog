@@ -972,6 +972,181 @@
       "checked_at": "2026-10-08",
       "notes": "0円の「モデル単体」にType04sotai.vrmを掲載。公式記述「VRM 0.0」から0.xと分類（実ファイル未解析）。商用・改変可、再販禁止。 公開状況注意（2026-10-08）：booth.pm の共通商品ページに0円で掲載される一方、出品者ショップの個別ページには非公開表示がある。実際の取得可否は未検証。",
       "distribution_filename": "Type04sotai.vrm"
+    },
+    {
+      "id": "romanticspica-ice-vrm1",
+      "name": "あいす（VRM 1.0）",
+      "publisher": "RomanticSpica",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "1.0",
+      "source_url": "https://booth.pm/ja/items/7938475",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ICE-あいす-1.0.vrm",
+      "license_name": "作者BOOTH商品ページ掲載の利用条件",
+      "license_url": "https://booth.pm/ja/items/7938475",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "0円のVRM版。編集用.vroid版は500円。個人商用・改変可、再配布は禁止。利用条件の詳細は商品ページで配布している無料PDFを確認する必要あり。"
+    },
+    {
+      "id": "romanticspica-ice-vrm0",
+      "name": "あいす（VRM 0.x）",
+      "publisher": "RomanticSpica",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/7938475",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ICE-あいす-0.0.vrm",
+      "license_name": "作者BOOTH商品ページ掲載の利用条件",
+      "license_url": "https://booth.pm/ja/items/7938475",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "0円のVRM版。編集用.vroid版は500円。個人商用・改変可、再配布は禁止。利用条件の詳細は商品ページで配布している無料PDFを確認する必要あり。"
+    },
+    {
+      "id": "pates-oblivion-frii-vrm1",
+      "name": "Frii（VRM 1.0）",
+      "publisher": "Pate's Oblivion",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "1.0",
+      "source_url": "https://booth.pm/ja/items/6168778",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "Frii-vrm1.0.vrm",
+      "license_name": "作者BOOTH商品ページ掲載の利用条件",
+      "license_url": "https://booth.pm/ja/items/6168778",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "0円の作者配布。改変・収益化可。再アップロードに際しては原版そのままの再投稿を避け、原作者へのリンクを要望。実ファイル未取得。"
+    },
+    {
+      "id": "pates-oblivion-frii-other",
+      "name": "Frii（別VRM版）",
+      "publisher": "Pate's Oblivion",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/6168778",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "Frii.vrm",
+      "license_name": "作者BOOTH商品ページ掲載の利用条件",
+      "license_url": "https://booth.pm/ja/items/6168778",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "0円でFrii-vrm1.0.vrmとは別に公開。VRM仕様バージョンは公式説明に明示されていないため未確定。改変・収益化可、再アップロード条件あり。"
+    },
+    {
+      "id": "pyurin-bear-girl-black-white-1",
+      "name": "Small Black White Bear Girl",
+      "publisher": "pyurin-vtuber",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "1.0",
+      "source_url": "https://booth.pm/ja/items/6835336",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "Small_Black_White_Bear_Girl.vrm",
+      "license_name": "作者BOOTH商品ページ掲載の利用条件",
+      "license_url": "https://booth.pm/ja/items/6835336",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が0円のVRM 1.0モデルと明記。商用利用可。再配布などの詳細条件は個別確認が必要。"
+    },
+    {
+      "id": "pyurin-bear-girl-black-white-2",
+      "name": "Small Black and White Bear Girl 2",
+      "publisher": "pyurin-vtuber",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "1.0",
+      "source_url": "https://booth.pm/ja/items/6839545",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "Small_Black_White_Bear_Girl_SH.vrm",
+      "license_name": "作者BOOTH商品ページ掲載の利用条件",
+      "license_url": "https://booth.pm/ja/items/6839545",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が0円のVRM 1.0モデルと明記。VTuber向け、VRChat利用には変換が必要。"
+    },
+    {
+      "id": "pyurin-black-bear-practice",
+      "name": "Black Bear Girl（Practice）",
+      "publisher": "pyurin-vtuber",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "1.0",
+      "source_url": "https://booth.pm/ja/items/6820844",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "BlackBear.vrm",
+      "license_name": "作者BOOTH商品ページ掲載の利用条件",
+      "license_url": "https://booth.pm/ja/items/6820844",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "0円。VRMと.vroidを別ファイルで配布。練習・VTuber用途のモデル。"
+    },
+    {
+      "id": "ab1ex9museum-alpha-trial",
+      "name": "standalone ALPHA（試用版）",
+      "publisher": "ab1ex9museum / R-ray'text",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "mtoon",
+        "expressions"
+      ],
+      "vrm_version": "1.0",
+      "source_url": "https://booth.pm/ja/items/7851789",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "standalonALPHA1.3.vrm",
+      "license_name": "作者BOOTH商品ページ掲載の利用条件",
+      "license_url": "https://booth.pm/ja/items/7851789",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "0円の初期テストVRMモデル。有料のフルパッケージは3,500円。商用・収益化可、元データの再配布/販売禁止。将来更新は保証されない。"
+    },
+    {
+      "id": "shobonkun-potato-avatar",
+      "name": "いものアバター（無料・紅はるか）",
+      "publisher": "しょぼんくん",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "expressions",
+        "lightweight"
+      ],
+      "vrm_version": "1.0",
+      "source_url": "https://booth.pm/ja/items/8595180",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "いものアバター_v1.2.0.vrm",
+      "license_name": "作者BOOTH商品ページ掲載の利用条件",
+      "license_url": "https://booth.pm/ja/items/8595180",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "0円のVRM 1.0モデル。表情6種、約12,532ポリゴン。個人収益化・改変可、再配布禁止、クレジット表記要請。有料応援セットの別色は対象外。"
     }
   ]
 }

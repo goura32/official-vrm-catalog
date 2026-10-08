@@ -633,6 +633,321 @@
       "verification": "official_free_distribution_listed_download_untested",
       "checked_at": "2026-10-08",
       "notes": "公式サイトに無償配布。VRM形式は公開案内と二次利用事例で確認。配布アーカイブ内の実ファイルは未確認。"
+    },
+    {
+      "id": "an-springsnow-free",
+      "name": "SpringSnow（無料版）",
+      "publisher": "Anの何か",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5569795",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "license_name": "作者BOOTH商品ページ内の利用条件",
+      "license_url": "https://booth.pm/ja/items/5569795",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "無料ファイル: SpringSnow無料版.vrm (14.9 MB)。個人・非商用のみ、クレジット必須。改変・商用・再配布禁止。有料版とは権利条件が異なる。"
+    },
+    {
+      "id": "jessair-cute-model",
+      "name": "Cute_Model",
+      "publisher": "JessairArtShop",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "spring-bone"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/7100270",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "license_name": "作者BOOTH商品ページ内の利用条件",
+      "license_url": "https://booth.pm/ja/items/7100270",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "無料ファイル: Cute_Model.vrm (18.7 MB)。個人・商用可、改変可。再配布・転売・AI学習・NFT利用禁止。クレジットは任意のお願い。"
+    },
+    {
+      "id": "rurune-libby-free",
+      "name": "Libby（無料版）",
+      "publisher": "みずのと屋",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4893360",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "license_name": "作者BOOTH商品ページ内の利用条件",
+      "license_url": "https://booth.pm/ja/items/4893360",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "無料ファイル: Libby_free_.zip (24.9 MB)、VRM収録と商品ページに記載。改変・商用可、再販・再配布・AI利用・NFT禁止。高度なPerfect Sync設定版等は有料。"
+    },
+    {
+      "id": "mzn-ren-vrm",
+      "name": "れんくん（VRM無料版）",
+      "publisher": "みずのや",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/7447864",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "license_name": "作者BOOTH商品ページ内の利用条件",
+      "license_url": "https://booth.pm/ja/items/7447864",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "無料ファイル: れん.vrm (16.3 MB)。.vroidファイルは100円。再販・再配布、暴力・性的表現禁止。法人営利利用は事前問い合わせ。"
+    },
+    {
+      "id": "skktyu-toi",
+      "name": "とい",
+      "publisher": "そくかちゅう。",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/7203171",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "license_name": "作者BOOTH商品ページ内の利用条件",
+      "license_url": "https://booth.pm/ja/items/7203171",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "無料ファイル: toi.zip (12.7 MB)。VRMと.vroid両方を収録と商品ページに記載。改変可、再配布・販売不可。商用利用は要相談。"
+    },
+    {
+      "id": "marivudo-minamo",
+      "name": "minamo（水面）",
+      "publisher": "mariVudo official",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "expressions"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/6728662",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "license_name": "作者BOOTH商品ページ内の利用条件",
+      "license_url": "https://booth.pm/ja/items/6728662",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "無料ファイル: minamo.zip (52.5 KB)、中にminamo.vrmを収録と記載。JoyとFun時の水面表情演出。個人商用・法人可、改変可、再配布禁止。"
+    },
+    {
+      "id": "ffme-curry",
+      "name": "CURRY（通常版）",
+      "publisher": "FFME",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "expressions"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4146897",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "license_name": "作者BOOTH商品ページ内の利用条件",
+      "license_url": "https://booth.pm/ja/items/4146897",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "無料ファイル: curry_ver.2.0.vrm (20.8 MB)。任意の支援版は同一ファイル。アバター・配信・動画利用、改変可。再配布禁止。"
+    },
+    {
+      "id": "zunko-mini-zunko",
+      "name": "ミニ東北ずん子（公式3Dモデル）",
+      "publisher": "東北ずん子・ずんだもんプロジェクト",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "chibi"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/7304550",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "license_name": "東北ずん子・ずんだもん利用ガイドライン",
+      "license_url": "https://zunko.jp/guideline.html",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "無料ファイル: ミニずん子モデル_セット.zip (143 MB)。公式はVRM・MMD・VRChat対応と明示。ZIP内部および実ダウンロードは未確認。寄付版は別。"
+    },
+    {
+      "id": "zunko-mini-zundamon",
+      "name": "ミニずんだもん（公式3Dモデル）",
+      "publisher": "東北ずん子・ずんだもんプロジェクト",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "chibi"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/7304529",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "license_name": "東北ずん子・ずんだもん利用ガイドライン",
+      "license_url": "https://zunko.jp/guideline.html",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "無料ファイル: ミニずんだもん_モデルセット.zip (102 MB)。公式はVRM・MMD・VRChat対応と明示。ZIP内部および実ダウンロードは未確認。寄付版は別。"
+    },
+    {
+      "id": "yousoron-amane-type-1",
+      "name": "あまね Type-1",
+      "publisher": "yousoron-shop",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/4911831",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "license_name": "作者BOOTH商品ページ内の利用条件",
+      "license_url": "https://booth.pm/ja/items/4911831",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "0円の「モデル単体」にType01.vrmを掲載。公式記述「VRM 0.0」から0.xと分類（実ファイル未解析）。商用・改変可、再販禁止。"
+    },
+    {
+      "id": "yousoron-amane-type-1-body",
+      "name": "あまね Type-1（素体）",
+      "publisher": "yousoron-shop",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "base-body"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/4911831",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "license_name": "作者BOOTH商品ページ内の利用条件",
+      "license_url": "https://booth.pm/ja/items/4911831",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "0円の「モデル単体」にType01sotai.vrmを掲載。公式記述「VRM 0.0」から0.xと分類（実ファイル未解析）。商用・改変可、再販禁止。"
+    },
+    {
+      "id": "yousoron-amane-type-2",
+      "name": "あまね Type-2",
+      "publisher": "yousoron-shop",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/4911831",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "license_name": "作者BOOTH商品ページ内の利用条件",
+      "license_url": "https://booth.pm/ja/items/4911831",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "0円の「モデル単体」にType02.vrmを掲載。公式記述「VRM 0.0」から0.xと分類（実ファイル未解析）。商用・改変可、再販禁止。"
+    },
+    {
+      "id": "yousoron-amane-type-2-body",
+      "name": "あまね Type-2（素体）",
+      "publisher": "yousoron-shop",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "base-body"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/4911831",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "license_name": "作者BOOTH商品ページ内の利用条件",
+      "license_url": "https://booth.pm/ja/items/4911831",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "0円の「モデル単体」にType02sotai.vrmを掲載。公式記述「VRM 0.0」から0.xと分類（実ファイル未解析）。商用・改変可、再販禁止。"
+    },
+    {
+      "id": "yousoron-amane-type-3",
+      "name": "あまね Type-3",
+      "publisher": "yousoron-shop",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/4911831",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "license_name": "作者BOOTH商品ページ内の利用条件",
+      "license_url": "https://booth.pm/ja/items/4911831",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "0円の「モデル単体」にType03.vrmを掲載。公式記述「VRM 0.0」から0.xと分類（実ファイル未解析）。商用・改変可、再販禁止。"
+    },
+    {
+      "id": "yousoron-amane-type-3-body",
+      "name": "あまね Type-3（素体）",
+      "publisher": "yousoron-shop",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "base-body"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/4911831",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "license_name": "作者BOOTH商品ページ内の利用条件",
+      "license_url": "https://booth.pm/ja/items/4911831",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "0円の「モデル単体」にType03sotai.vrmを掲載。公式記述「VRM 0.0」から0.xと分類（実ファイル未解析）。商用・改変可、再販禁止。"
+    },
+    {
+      "id": "yousoron-amane-type-4",
+      "name": "あまね Type-4",
+      "publisher": "yousoron-shop",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/4911831",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "license_name": "作者BOOTH商品ページ内の利用条件",
+      "license_url": "https://booth.pm/ja/items/4911831",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "0円の「モデル単体」にType04.vrmを掲載。公式記述「VRM 0.0」から0.xと分類（実ファイル未解析）。商用・改変可、再販禁止。"
+    },
+    {
+      "id": "yousoron-amane-type-4-body",
+      "name": "あまね Type-4（素体）",
+      "publisher": "yousoron-shop",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "base-body"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/4911831",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "license_name": "作者BOOTH商品ページ内の利用条件",
+      "license_url": "https://booth.pm/ja/items/4911831",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "0円の「モデル単体」にType04sotai.vrmを掲載。公式記述「VRM 0.0」から0.xと分類（実ファイル未解析）。商用・改変可、再販禁止。"
     }
   ]
 }

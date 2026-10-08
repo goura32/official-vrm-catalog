@@ -23,7 +23,8 @@ VRM 0.x / 1.0のモデル、アバター型と機能検証用モデルを対象�
 ## 今回確認した主な公式・作者配布元
 
 - [VRM Consortium公式サンプル](https://github.com/vrm-c/vrm-specification/tree/master/samples) — アバターと機能テスト
-- [VRoid Studio AvatarSample A〜Z](https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z) — 無料公式サンプルをVRM出力
+- [VRoid Studio AvatarSample A〜Z](https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z) — 無料公式サンプルをVRM出力（A〜CのHub掲載版はVRM 0.x）
+- [旧ベータ版 AvatarSample 1〜4](https://vroid.pixiv.help/hc/ja/articles/4402614652569) — VRoid公式HubでVRM 0.xを公開。公式ヘルプ上のライセンスはCC0
 - [キズナアイ KAMATTE AI](https://kizunaai.com/download/kamatteaimodel/) — VRM 1.x／0.x
 - [東北ずん子・ずんだもん公式BOOTH](https://tohozunko.booth.pm/) — 無料配布版のある公式3Dモデル
 - [BOOTHのクリエイター本人による無償VRM配布](https://booth.pm/ja/items/4911831) — 収録したモデルの個別ページと利用条件はJSONを参照
@@ -43,13 +44,13 @@ VRM 0.x / 1.0のモデル、アバター型と機能検証用モデルを対象�
 
 `distribution_filename` は公式の配布ファイル名（直接 `.vrm` またはVRMを含むと案内された `.zip`）です。**ZIP名はZIP内部のVRM名とは限りません。** 未確認のモデルでは省略します。
 
-`vrm_version: null` は、配布モデルの実ファイルに含まれるVRM仕様バージョンが未確認であることを示します。既知の値も、公開された説明に基づくものがあり、全件についてバイナリ解析済みという意味ではありません。
+`vrm_version: null` は、配布モデルの実ファイルに含まれるVRM仕様バージョンが未確認であることを示します。VRoid Hubの表示値は**Hubで配布されるモデル**に対するもので、VRoid Studioから再書き出ししたファイルの版を保証しません。既知の値も公開された説明に基づくものがあり、全件についてバイナリ解析済みという意味ではありません。
 同じモデルに複数のVRM仕様版やLOW/HIGHなど異なる取得物がある場合は別レコードとします。
 
 ## 注意
 
 - 「公式配布」や「無料」は「無条件に商用利用・改変・再配布可能」という意味ではありません。**個別の利用条件を必ず確認**してください。
-- VRoid StudioのAvatarSample A〜Zは **CC0ではありません**。禁止事項もあります（[公式条件](https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z)）。
+- VRoid StudioのAvatarSample A〜Zは **CC0ではありません**（[公式条件](https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z)）。一方、旧ベータ版 AvatarSample_1〜4 は [CC0](https://vroid.pixiv.help/hc/ja/articles/4402614652569) です。両シリーズの利用条件を混同しないでください。
 - リンク先の条件・公開状況は変更される場合があります。BOOTHの無料ZIPにVRMが含まれる旨が公式説明に記載されていても、ZIP内部の解析まで完了しているとは限りません。**0円掲載はダウンロード成功の証明ではありません。** ショップ固有URLが非公開表示になる例があり、ログイン後の実際の取得可否は別途検証が必要です。
 - 本カタログはVRM Consortium、pixivなどの公式プロジェクトではありません。
 

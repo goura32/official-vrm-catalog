@@ -127,3 +127,13 @@ BOOTHの `booth.pm/ja/items/...` 共通ページは0円配布として表示さ�
 - [ARVENDAL](https://booth.pm/ja/items/8944341) は無料1体のみ（有料サポーターパックの15バリエーションは収録しない）。[Wolf Boy](https://booth.pm/ja/items/8949948) は作者が無料で2 VRMを直接公開し、VRM 0.xと記載する。
 - [仮想洋品](https://booth.pm/ja/items/8907607)の5商品、[ATOR工房](https://booth.pm/ja/items/8708753)の無料単体2モデル、[潮音こまり](https://booth.pm/ja/items/7034844)、[Miu](https://booth.pm/ja/items/8205729)、[そら](https://booth.pm/ja/items/7969137)を、公式商品ページの0円・VRM収録案内に基づき採録。無料ZIP・単体ファイル・有料の同一モデル追加形式の重複を避ける。
 - すべてログイン後の取得成功・ZIP内VRMの内容・実ファイル仕様は未確認であり、登録件数拡充後にHermes Agentで一括検証する。
+
+## Polygonal Mind・ToxSamの公開IPFS VRM（2026-10-08）
+
+- [Polygonal Mind公式100Avatars README](https://github.com/PolygonalMind/100Avatars/blob/master/README.md)には、CEOであるToxSam（Daniel Garcia）の署名があり、[ToxSamが管理するOpen Source Avatars](https://github.com/ToxSam/open-source-avatars)には作品・ライセンス・モデルURLの公開インデックスがある。
+- [Halloween Rising](https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/halloween-rising.json)（60件）と[Xmas Chibis](https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/xmas-chibis.json)（80件）は、同じインデックスの `projects.json` で `creator_id: Polygonal-Mind`、`license: CC0`、`is_public: true` と明示されている。100Avatars R1/R2の無改変再販制限は**別コレクション**のため引き継がない。
+- [ToxSam originals](https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/toxsam.json)（10件）は作者自身の作品として `creator_id: toxsam`、`license: CC0` と掲載されている。
+- 収録した各アイテムには `format: VRM`、`is_public: true`、NFT番号・メタデータ、`https://dweb.link/ipfs/...` または `https://gateway.pinata.cloud/ipfs/...` のVRMファイルURLがある。**カタログが扱うのは公開されたファイルの取得先**であり、NFTそのものの購入・保有・ミントは対象外。
+- **未確認事項**：IPFSゲートウェイの現在のHTTP応答、閲覧時のトークン認証や実ダウンロードの成否、ハッシュ照合、内部のVRM仕様バージョンとGLB検証、ライセンスの埋め込みメタデータ。公開URLの存在は購入不要な実取得に成功したことを意味しない。これらのモデルは `creator_index_direct_url_listed_download_untested` として記録する。
+- 将来的にモデルの取得にNFT購入・保有や有料会員資格が不可欠と判明した場合は収録対象から除外する。無料会員登録・ログイン・年齢確認のみなら除外しない。
+- 実ファイルを検証する際はHermes Agentが原本を `/mnt/hdd/vrm` 以下に保存する。NFT関連ページやIPFSリンクを経由して入手した場合も、ユーザーのカタログ上のIDと実ファイルのハッシュを対応させる。GitHubでのVRM/ZIP原本の公開はしない。

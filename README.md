@@ -20,6 +20,16 @@ VRM 0.x / 1.0のモデル、アバター型と機能検証用モデルを対象�
 
 **無料であればログイン、会員登録、年齢確認が必要でも収録します。** 各サービスの利用規約・年齢制限等に従って取得してください。料金が必要なモデルは対象外です。
 
+## 今回確認した主な公式・作者配布元
+
+- [VRM Consortium公式サンプル](https://github.com/vrm-c/vrm-specification/tree/master/samples) — アバターと機能テスト
+- [VRoid Studio AvatarSample A〜Z](https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z) — 無料公式サンプルをVRM出力
+- [キズナアイ KAMATTE AI](https://kizunaai.com/download/kamatteaimodel/) — VRM 1.x／0.x
+- [東北ずん子・ずんだもん公式BOOTH](https://tohozunko.booth.pm/) — 無料配布版のある公式3Dモデル
+- [BOOTHのクリエイター本人による無償VRM配布](https://booth.pm/ja/items/4911831) — 収録したモデルの個別ページと利用条件はJSONを参照
+
+「無料版」以外の有料編集データや有料機能は、モデルの収録対象に含めません。
+
 ## 確認レベル
 
 `verification` は、カタログへ登録した根拠の範囲を示します。実際のダウンロード・書き出しやVRMファイル内の権利情報まで検証済みとは限りません。
@@ -36,7 +46,7 @@ VRM 0.x / 1.0のモデル、アバター型と機能検証用モデルを対象�
 
 - 「公式配布」や「無料」は「無条件に商用利用・改変・再配布可能」という意味ではありません。**個別の利用条件を必ず確認**してください。
 - VRoid StudioのAvatarSample A〜Zは **CC0ではありません**。禁止事項もあります（[公式条件](https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z)）。
-- リンク先の条件・公開状況は変更される場合があります。
+- リンク先の条件・公開状況は変更される場合があります。BOOTHの無料ZIPにVRMが含まれる旨が公式説明に記載されていても、ZIP内部の解析まで完了しているとは限りません。
 - 本カタログはVRM Consortium、pixivなどの公式プロジェクトではありません。
 
 ## データ検証

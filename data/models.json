@@ -114,14 +114,15 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://hub.vroid.com/characters/2843975675147313744/models/5644550979324015604",
       "download_url": null,
       "access_method": "vroid_hub_vrm",
       "license_name": "VRoid Studio サンプルモデル利用条件（CC0ではない）",
       "license_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
       "verification": "official_hub_and_help_confirmed",
-      "checked_at": "2026-10-08"
+      "checked_at": "2026-10-08",
+      "notes": "公式VRoid Hub掲載の配布モデルは Format: VRM 0.0。VRoid Studioから別途書き出すVRMの仕様版は未確認。"
     },
     {
       "id": "vroid-avatarsample-b",
@@ -131,14 +132,15 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://hub.vroid.com/characters/7939147878897061040/models/2292219474373673889",
       "download_url": null,
       "access_method": "vroid_hub_vrm",
       "license_name": "VRoid Studio サンプルモデル利用条件（CC0ではない）",
       "license_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
       "verification": "official_hub_and_help_confirmed",
-      "checked_at": "2026-10-08"
+      "checked_at": "2026-10-08",
+      "notes": "公式VRoid Hub掲載の配布モデルは Format: VRM 0.0。VRoid Studioから別途書き出すVRMの仕様版は未確認。"
     },
     {
       "id": "vroid-avatarsample-c",
@@ -148,14 +150,15 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://hub.vroid.com/characters/1248981995540129234/models/8640547963669442173",
       "download_url": null,
       "access_method": "vroid_hub_vrm",
       "license_name": "VRoid Studio サンプルモデル利用条件（CC0ではない）",
       "license_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
       "verification": "official_hub_and_help_confirmed",
-      "checked_at": "2026-10-08"
+      "checked_at": "2026-10-08",
+      "notes": "公式VRoid Hub掲載の配布モデルは Format: VRM 0.0。VRoid Studioから別途書き出すVRMの仕様版は未確認。"
     },
     {
       "id": "vroid-avatarsample-d",
@@ -1147,6 +1150,78 @@
       "verification": "official_free_distribution_listed_download_untested",
       "checked_at": "2026-10-08",
       "notes": "0円のVRM 1.0モデル。表情6種、約12,532ポリゴン。個人収益化・改変可、再配布禁止、クレジット表記要請。有料応援セットの別色は対象外。"
+    },
+    {
+      "id": "vroid-beta-avatarsample-1",
+      "name": "β Ver AvatarSample_1",
+      "publisher": "VRoid Project / pixiv Inc.",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://hub.vroid.com/characters/675572020956181239/models/4479743608263344465",
+      "download_url": null,
+      "access_method": "vroid_hub_vrm",
+      "license_name": "CC0 1.0",
+      "license_url": "https://vroid.pixiv.help/hc/ja/articles/360012381793",
+      "verification": "official_hub_and_help_confirmed",
+      "checked_at": "2026-10-08",
+      "notes": "公式VRoid Hubに Format: VRM 0.0 / Can you use this model?: Yes と表示。公式ヘルプにCC0表記。ログイン後のVRMダウンロードは未実施。"
+    },
+    {
+      "id": "vroid-beta-avatarsample-2",
+      "name": "β Ver AvatarSample_2",
+      "publisher": "VRoid Project / pixiv Inc.",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://hub.vroid.com/characters/945152946522067123/models/1622417912888236740",
+      "download_url": null,
+      "access_method": "vroid_hub_vrm",
+      "license_name": "CC0 1.0",
+      "license_url": "https://vroid.pixiv.help/hc/ja/articles/360014900273",
+      "verification": "official_hub_and_help_confirmed",
+      "checked_at": "2026-10-08",
+      "notes": "公式VRoid Hubに Format: VRM 0.0 / Can you use this model?: Yes と表示。公式ヘルプにCC0表記。ログイン後のVRMダウンロードは未実施。"
+    },
+    {
+      "id": "vroid-beta-avatarsample-3",
+      "name": "β Ver AvatarSample_3",
+      "publisher": "VRoid Project / pixiv Inc.",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://hub.vroid.com/characters/6193066630030526355/models/3525604181073039892",
+      "download_url": null,
+      "access_method": "vroid_hub_vrm",
+      "license_name": "CC0 1.0",
+      "license_url": "https://vroid.pixiv.help/hc/ja/articles/360014900113",
+      "verification": "official_hub_and_help_confirmed",
+      "checked_at": "2026-10-08",
+      "notes": "公式VRoid Hubに Format: VRM 0.0 / Can you use this model?: Yes と表示。公式ヘルプにCC0表記。ログイン後のVRMダウンロードは未実施。"
+    },
+    {
+      "id": "vroid-beta-avatarsample-4",
+      "name": "β Ver AvatarSample_4",
+      "publisher": "VRoid Project / pixiv Inc.",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://hub.vroid.com/characters/2792872861023597723/models/5013769147837660446",
+      "download_url": null,
+      "access_method": "vroid_hub_vrm",
+      "license_name": "CC0 1.0",
+      "license_url": "https://vroid.pixiv.help/hc/ja/articles/360014900233",
+      "verification": "official_hub_and_help_confirmed",
+      "checked_at": "2026-10-08",
+      "notes": "公式VRoid Hubに Format: VRM 0.0 / Can you use this model?: Yes と表示。公式ヘルプにCC0表記。ログイン後のVRMダウンロードは未実施。"
     }
   ]
 }

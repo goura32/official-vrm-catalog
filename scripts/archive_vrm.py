@@ -90,8 +90,21 @@ def archive(args):
     info = checked[0]
     vrm_hash = info["sha256"]
     base = args.previews.resolve(strict=True)
+    manifest_path = base / (args.id + "-previews.json")
+    manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+    if manifest.get("catalog_id") != args.id or manifest.get("vrm_sha256") != vrm_hash:
+        raise ValueError("Preview provenance mismatch: ID or VRM SHA-256")
+    manifest_previews = {item["view"]: item for item in manifest["previews"]}
+    if set(manifest_previews) != {"tpose", "face"}:
+        raise ValueError("Expected exactly two preview records")
     pictures = {kind: base / f"{args.id}-{kind}.webp" for kind in ("tpose", "face")}
-    for preview in pictures.values():
+    for kind, preview in pictures.items():
+        if manifest_previews[kind].get("filename") != preview.name:
+            raise ValueError("Preview filename mismatch")
+        if tuple((manifest_previews[kind].get("width"), manifest_previews[kind].get("height"))) != (
+            (768, 1024) if kind == "tpose" else (512, 512)
+        ):
+            raise ValueError("Preview dimension metadata mismatch")
         check_webp(preview)
     root = args.nas_root.resolve()
     root.mkdir(parents=True, exist_ok=True)

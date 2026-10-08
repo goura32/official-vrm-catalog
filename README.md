@@ -6,7 +6,7 @@
 
 | ファイル | 収録範囲 | 件数 |
 | --- | --- | ---: |
-| [data/models.json](data/models.json) | 公式・作者配布モデル（過去の調査を含む） | 542 |
+| [data/models.json](data/models.json) | 公式・作者配布モデル（過去の調査を含む） | 561 |
 | [polygonalmind-001-050.json](data/collections/polygonalmind-001-050.json) | Polygonal Mind 001〜050・通常/Voxel | 100 |
 | [polygonalmind-051-100.json](data/collections/polygonalmind-051-100.json) | Polygonal Mind 051〜100・通常/Voxel | 100 |
 | [polygonalmind-101-150.json](data/collections/polygonalmind-101-150.json) | Polygonal Mind 101〜150・通常/Voxel | 100 |
@@ -17,7 +17,7 @@
 | [polygonalmind-xmas-chibis.json](data/collections/polygonalmind-xmas-chibis.json) | Xmas Chibis・Polygonal Mind制作CC0 VRMの公開IPFS URL | 80 |
 | [toxsam-originals.json](data/collections/toxsam-originals.json) | ToxSam本人によるCC0 VRMの公開IPFS URL | 10 |
 | [neonglitch86-models.json](data/collections/neonglitch86-models.json) | NeonGlitch86制作者GitHub・作者登録コレクションの無料公開VRM | 36 |
-| **合計** | **200キャラクター×2配布版を含む** | **1,246** |
+| **合計** | **200キャラクター×2配布版を含む** | **1,265** |
 
 [収録・検証方針](docs/collection-policy.md) ／ [追加調査・保留候補](docs/research-notes.md)
 
@@ -113,6 +113,9 @@ VRM 0.x / 1.0のモデル、アバター型と機能検証用モデルを対象�
 - [wondrous21](https://booth.pm/ja/items/4466505) — Diamond、Cesilia、Asteraなど無料の単体VRMを13件（Cellの眼鏡あり／なしを別カウント）
 - [junebunnyyy](https://booth.pm/ja/items/5391496) — パンダ、うさぎ、くま、ねこの無料VRM4件
 - [Tomboy](https://booth.pm/ja/items/8675244)、[Dolly Devil](https://booth.pm/ja/items/4795020)、[90s Anime Vibes](https://booth.pm/ja/items/8024833)、[youkihi](https://booth.pm/ja/items/3841471)ほか無料VRM配布
+- [公式ずんだもん](https://booth.pm/ja/items/2744821) — 歩行版・飛行版の無料VRM2体（公式の2025年版ZIP）
+- [バーチャルマンチカンよしだ](https://booth.pm/ja/items/6066401) — 基本版・[CHAOSの3体](https://booth.pm/ja/items/7379252)・学園祭・DIVE・BOOST・ACCELの無料VRM計8件
+- [こぎつねちゃん](https://booth.pm/ja/items/6339220)、[赤べこchan](https://booth.pm/ja/items/6580617)、[佐竹ナギサ](https://booth.pm/ja/items/8447196)、[こふみちゃん](https://booth.pm/ja/items/4945822)など作者の無料VRM
 
 「無料版」以外の有料編集データや有料機能は、モデルの収録対象に含めません。
 

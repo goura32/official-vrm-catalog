@@ -81,3 +81,14 @@ BOOTHの `booth.pm/ja/items/...` 共通ページは0円配布として表示さ�
 - VRMC_materials_mtoon_UV_Animation_Test.vrm（61,732バイト）
 
 残るSeed-san.vrm（10,917,800バイト）とVRM1_Constraint_Twist_Sample.vrm（10,776,032バイト）はGitHub API上で存在・サイズを確認したものの、読み取りAPIからバイナリ本文が返らず未解析。全ファイルの完全ハッシュ照合や描画・挙動テストは未実施。
+
+## ローカル実ファイル検証
+
+`python3 scripts/inspect_vrm.py <ファイル.vrm> [<配布ZIP> ...]` を使用して、GLBヘッダー、VRM拡張、メタデータ、実ファイル全体のSHA-256を確認する（ネットワーク・追加依存ライブラリ不要）。
+
+- **VRM 1.0**: `VRMC_vrm.specVersion` と `VRMC_vrm.meta` を取得。
+- **VRM 0.x**: `VRM.meta` を取得し、旧仕様であることを記録。
+- **ZIP**: ZIP内の各 `.vrm` を別々に調べる。ZIPそのものをVRMバイナリと見なさない。
+- 出力の `sha256` は実VRMファイル本体のSHA-256。既存の `github_blob_sha` はGitオブジェクトのIDであり同一ではない。
+- **ファイルを入手できない**場合は `verification` を昇格させない。VRM本体や配布ZIPをリポジトリへコミットしない。
+- メタデータ上の利用条件は配布元の規約と合わせて確認する。規約の解釈やレンダリング成功をスクリプトだけで証明しない。

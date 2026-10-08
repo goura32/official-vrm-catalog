@@ -19,9 +19,9 @@
 | [neonglitch86-models.json](data/collections/neonglitch86-models.json) | NeonGlitch86制作者GitHub・作者登録コレクションの無料公開VRM | 36 |
 | **合計** | **200キャラクター×2配布版を含む** | **1,297** |
 
-[収録・検証方針](docs/collection-policy.md) ／ [追加調査・保留候補](docs/research-notes.md) ／ [全体監査・人型ダウンロード方針](docs/download-scope-review.md) ／ **[NAS保存方式](docs/nas-storage.md)** ／ **[Hermes Agent継続一括実行指示（R3以降）](docs/hermes-bulk-resume.md)** ／ [初回の指示書](docs/hermes-bulk-run.md) ／ [一括検証実績・再開チェックポイント](docs/hermes-bulk-run-results.md)
+[収録・検証方針](docs/collection-policy.md) ／ [追加調査・保留候補](docs/research-notes.md) ／ [全体監査・人型ダウンロード方針](docs/download-scope-review.md) ／ **[NAS保存方式](docs/nas-storage.md)** ／ **[Hermes Agent継続一括実行指示（R1/R2・R3完了後）](docs/hermes-bulk-resume.md)** ／ [初回の指示書](docs/hermes-bulk-run.md) ／ [一括検証実績・再開チェックポイント](docs/hermes-bulk-run-results.md)
 
-**登録拡充はいったん1,297件で凍結しました。NASには人型VRMだけを個別に可逆圧縮して保存し、全身Tポーズ・顔のWebP画像をIDで対応付けます。実VRMのZIPとzstd比較を完了し、圧縮形式はZIPに統一しました。配布ZIP原本やその他同梱ファイルは残しません。** [選別IDリスト](data/download-scope.json)は人型候補545件、非人型候補243件、未判定509件です。R1/R2の400件は実VRMを個別確認し、人型243件（うち2件は先行保存済み）をNASへ保存、非人型150件を除外、形状保留4件・権利保留3件としました。NAS累計330件・WebP660枚で、最終監査は成功しています。残る509件には他コレクションの未検証分も含まれます。予備分類と実証済みIDは区別し、既知の非人型は取得せず、取得後に非人型と分かった一時ファイルも永続保存しません。
+**登録拡充はいったん1,297件で凍結しました。NASには人型VRMだけを個別に可逆圧縮して保存し、全身Tポーズ・顔のWebP画像をIDで対応付けます。実VRMのZIPとzstd比較を完了し、圧縮形式はZIPに統一しました。配布ZIP原本やその他同梱ファイルは残しません。** [選別IDリスト](data/download-scope.json)は人型候補545件、非人型候補243件、未判定509件です。R1/R2の400件は実VRMを個別確認し、人型243件（うち2件は先行保存済み）をNASへ保存、非人型150件を除外、形状保留4件・権利保留3件としました。NAS累計330件・WebP660枚で、最終監査は成功しています。次の実体検証対象は**R1/R2/R3以外の797件**で、優先はHalloween Rising 60件とXmas Chibis 80件（計140件）。**未判定509件とは集計の軸が異なり、重複して数えません。**予備分類と実証済みIDは区別し、既知の非人型は取得せず、取得後に非人型と分かった一時ファイルも永続保存しません。
 
 **画像・形状の根拠**： [R1/2 前半](docs/shape-review-100avatars-1-100.md) ／ [R1/2 後半](docs/shape-review-100avatars-101-200.md) ／ [R3](docs/shape-review-100avatars-r3.md) ／ [季節系・その他](docs/shape-review-indexed-other.md) ／ [MJMoonbow](docs/shape-review-mjmoonbow.md)。画像ファイル671件をIDに対応付けていますが、R1/R2のPNGはUVテクスチャで外形判定には使えません。画像対応付けは実VRMの形状確認やダウンロード許可を意味しません。
 

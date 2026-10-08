@@ -23,6 +23,7 @@
 - `license_url`: 公開された利用条件へのリンク。権利の許諾可否を推測して記載しない。
 - `notes`: 調査で確認した重要な制限や未確認事項。商用利用などはライセンス名称だけで判断しない。
 - `verification`: どこまで確認したかを過大に記載しない。
+- `binary_evidence`: VRMバイナリのGLBヘッダーとJSONチャンクを解析できた場合のみ記録。Git blob IDとファイル自体のSHA1を混同しない。
 
 ## 未検証事項
 
@@ -70,3 +71,13 @@ BOOTHの `booth.pm/ja/items/...` 共通ページは0円配布として表示さ�
 [VRoid公式ヘルプ](https://vroid.pixiv.help/hc/ja/articles/360013153714)では「モデル登録者以外の利用OK」はダウンロード可、「OK（ダウンロードはNG）」はSDK等の連携先利用のみ、と区別する。**実VRMファイルを取得できること**を目標とする本カタログでは後者は原則収録しない。Hubの「OK」表示は未ログインで確認できる掲載許可の根拠であり、実際のダウンロード成功と同一視しない。
 
 旧ベータ版サンプルのVRoid公式アカウントが公開する別衣装・別カラーも、Hub掲載のモデル利用条件とVRM版を個別確認した場合は別レコードとする。**オリジナル版のCC0表記を別衣装に無条件で転用せず**、そのHubページの利用条件にリンクする。
+
+## VRM実ファイルのメタデータ監査（2026-10-08）
+
+公式VRMサンプル5件のうち、次の3件はGitHubからバイナリを取得し、GLB v2ヘッダー・JSONチャンク・VRMC_vrm.specVersion=1.0・VRMライセンス設定を確認した。元のGitHub Contents APIで得たファイルサイズとも一致。
+
+- VRMC_vrm_expressions_isBinary_Overrides.vrm（21,184バイト）
+- VRMC_vrm_expressions_isBinary_Overridden.vrm（20,156バイト）
+- VRMC_materials_mtoon_UV_Animation_Test.vrm（61,732バイト）
+
+残るSeed-san.vrm（10,917,800バイト）とVRM1_Constraint_Twist_Sample.vrm（10,776,032バイト）はGitHub API上で存在・サイズを確認したものの、読み取りAPIからバイナリ本文が返らず未解析。全ファイルの完全ハッシュ照合や描画・挙動テストは未実施。

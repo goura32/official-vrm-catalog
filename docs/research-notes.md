@@ -216,3 +216,30 @@ BOOTHの作者ページで0円のVRMまたはVRM入りZIPの掲載と個別の�
 **調査時の除外**：BOOTHの商品一覧で無料と表示されても、実際にはPNGテクスチャだけの[Kissy Lips](https://booth.pm/ja/items/6702878)などはVRM本体がなく対象外。またVRM説明だけで中身を確認できない衣装・小物単体は積極的に除外し、ZIPを後で解析した際に実VRMがないと判明した暫定採録レコードは削除または保留へ移す。
 
 次工程は収録件数の拡充を優先。実機による一括ダウンロードはHermes Agentへ後日依頼し、原本は `/mnt/hdd/vrm` に永続保存する。ログイン・会員登録・年齢確認は購入不要であれば除外理由にしない。VRMやZIPの原本をGitHubへコミットしない。
+
+## 2026-10-08 追加収録：868→981件（+113件）
+
+**内訳は100Avatars R3 100件とBOOTH作者配布13件。** 実ファイルのダウンロードは未実施。今回確認したのは作者公開のモデル一覧・BOOTHの商品ページであり、VRMバイナリそのものの検査は後日のHermes Agent一括検証で行う。
+
+### Polygonal Mind 100Avatars R3（100件）
+
+- [Polygonal Mindの第3弾告知（v24.02.1）](https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1)でVRM配布とCC0を確認。既存GitHubの第1・第2弾（合計400 VRM）とは異なる第3弾。
+- [作者側公開JSON](https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json)には201〜300番の100件が揃い、`format: VRM`、個別Arweave URL、配布ファイル名が掲載されている。番号とモデルURLに重複はなかった。
+- `data/collections/polygonalmind-201-300.json` を追加。100件すべて直接URLを記録したが、Arweave URLは**拡張子を持たない43文字のコンテンツID**であり、実ファイルの取得可否、VRMとしての正当性、サイズ、バイナリ版番号は未確認。
+- R3作者の公開索引では1件につき1 VRM URLを確認できたため100件のみ収録。告知にVoxel版の説明はあるが、追加の個別URLやファイル名を今回確認できないため**R3のVoxel版は未登録**。
+- 本インデックスではR3をCC0として扱うが、R1/R2の元READMEの改変なし再販売制限と混同しない。
+
+### BOOTH作者配布（13件・12ページ）
+
+| 配布元 | 件数 | 収録根拠・除外 |
+| --- | ---: | --- |
+| [CecyliaMun ARVENDAL](https://booth.pm/ja/items/8944341)・[Wolf Boy](https://booth.pm/ja/items/8949948) | 3 | 無料のARVENDALは直接`arvendal.vrm`1件。Wolf Boyは`FoxBoy_final.vrm`・`FoxBoy_with_all_accessories.vrm`の2件（VRM 0.x）。ARVENDALの他14派生版は有料サポーターパックであり除外。 |
+| [仮想洋品 BREAK VENOM](https://booth.pm/ja/items/8907607)ほか | 5 | [還魂符](https://booth.pm/ja/items/8902791)、[88 Cherry Steps](https://booth.pm/ja/items/8893212)、[NOISE & FRILLS](https://booth.pm/ja/items/8866564)、[OXYGEN ERROR](https://booth.pm/ja/items/8866502)。すべて0円で作者がVRM本体を配布と明記。 |
+| [ATOR工房](https://booth.pm/ja/items/8708753) | 2 | クローモンスター`爪モンスター.vrm`、[コマンドーうさぎ](https://booth.pm/ja/items/8908754)`コマンドーうさぎ.vrm`。有料のVRM+FBX版は別カウントしない。 |
+| [潮音こまり](https://booth.pm/ja/items/7034844) | 1 | 無料VRM-onlyと無料VRM+VRoid版が並ぶが同一モデルとみなし1件。 |
+| [ドリドリshop Miu](https://booth.pm/ja/items/8205729) | 1 | 無料のVRM ZIPのみ計上。別の無料VRoid編集データは含まない。 |
+| [るてにうむ そら](https://booth.pm/ja/items/7969137) | 1 | `sora_v2.0.zip`に`sora_Naked.vrm`が含まれる旨を作者が明記。投げ銭版は同一モデルのため重複しない。 |
+
+**保留**：初音ミク、重音テト、Luce等、第三者のキャラクターをモチーフにした非公式二次創作VRMは権利者自身の配布であると確認できず除外。無料項目が利用規約PDF・ツール・衣装だけの商品も除外。
+
+**次回**：未登録VRMの追加調査を優先。原本の一括保存先 `/mnt/hdd/vrm`、実機確認はHermes Agentへまとめて依頼し、原本を公開GitHubへコミットしない。

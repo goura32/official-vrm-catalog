@@ -112,6 +112,8 @@ def decompressed_digest(archive_path, fmt, model_id):
 
 
 def archive_locked(args):
+    if not args.confirm_humanoid:
+        raise ValueError("Explicit 3D humanoid confirmation is required")
     if not re.fullmatch(r"[a-z0-9][a-z0-9-]*", args.id):
         raise ValueError("Unsafe catalog ID")
     source = args.vrm.resolve(strict=True)

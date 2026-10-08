@@ -34,6 +34,12 @@
 - β Ver AvatarSample_[2](https://hub.vroid.com/characters/945152946522067123/models/3383751442912063017)・[3](https://hub.vroid.com/characters/6193066630030526355/models/537531113514541613)・[4](https://hub.vroid.com/characters/2792872861023597723/models/9138892883072488102) の制服2019版
 - いずれもVRoid Project公式アカウント公開、「他の人の利用OK（ダウンロードNGではない）」、VRM 0.0を公開ページで確認。実ダウンロードは未実施。
 
+## バイナリメタデータ未解析の公式サンプル
+
+- [Seed-san](https://github.com/vrm-c/vrm-specification/tree/master/samples/Seed-san)：公式GitHubで10,917,800バイトの実ファイルを確認。大きいバイナリを読み取りAPIが返さないため内部未解析。
+- [VRM1 Constraint Twist](https://github.com/vrm-c/vrm-specification/tree/master/samples/VRM1_Constraint_Twist_Sample)：同様に10,776,032バイトを確認。内部未解析。
+- 残りの公式テスト3件はバイナリメタデータ解析済み（models.json の binary_evidence）。
+
 ## 次の確認
 
 - 公式配布ページの実ダウンロード／認証の要否（購入不要である限り認証は除外理由にしない）

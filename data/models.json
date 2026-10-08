@@ -65,10 +65,28 @@
       "access_method": "direct_vrm",
       "license_name": "VRM Public License 1.0",
       "license_url": "https://vrm.dev/licenses/1.0/",
-      "verification": "official_repository_file_listed",
+      "verification": "official_binary_metadata_confirmed",
       "checked_at": "2026-10-08",
       "distribution_filename": "VRMC_vrm_expressions_isBinary_Overrides.vrm",
-      "distribution_size_bytes": 21184
+      "distribution_size_bytes": 21184,
+      "binary_evidence": {
+        "checked_at": "2026-10-08",
+        "github_blob_sha": "4f280cb0732547d3789d69424aff6acfe14a0cf4",
+        "glb_version": 2,
+        "vrm_spec_version": "1.0",
+        "vrm_meta": {
+          "name": "isBinary overrides",
+          "authors": [
+            "pixiv Inc."
+          ],
+          "licenseUrl": "https://vrm.dev/licenses/1.0/",
+          "avatarPermission": "everyone",
+          "commercialUsage": "corporation",
+          "allowRedistribution": true,
+          "modification": "allowModificationRedistribution",
+          "creditNotation": "unnecessary"
+        }
+      }
     },
     {
       "id": "vrm-spec-vrmc-vrm-expressions-isbinary-overridden",
@@ -86,10 +104,28 @@
       "access_method": "direct_vrm",
       "license_name": "VRM Public License 1.0",
       "license_url": "https://vrm.dev/licenses/1.0/",
-      "verification": "official_repository_file_listed",
+      "verification": "official_binary_metadata_confirmed",
       "checked_at": "2026-10-08",
       "distribution_filename": "VRMC_vrm_expressions_isBinary_Overridden.vrm",
-      "distribution_size_bytes": 20156
+      "distribution_size_bytes": 20156,
+      "binary_evidence": {
+        "checked_at": "2026-10-08",
+        "github_blob_sha": "0dfc0265d0ce6f621b27ed0c1bdd8e2e66ea8ec5",
+        "glb_version": 2,
+        "vrm_spec_version": "1.0",
+        "vrm_meta": {
+          "name": "isBinary overridden",
+          "authors": [
+            "pixiv Inc."
+          ],
+          "licenseUrl": "https://vrm.dev/licenses/1.0/",
+          "avatarPermission": "everyone",
+          "commercialUsage": "corporation",
+          "allowRedistribution": true,
+          "modification": "allowModificationRedistribution",
+          "creditNotation": "unnecessary"
+        }
+      }
     },
     {
       "id": "vrm-spec-vrmc-materials-mtoon-uv-animation-test",
@@ -106,10 +142,28 @@
       "access_method": "direct_vrm",
       "license_name": "VRM Public License 1.0",
       "license_url": "https://vrm.dev/licenses/1.0/",
-      "verification": "official_repository_file_listed",
+      "verification": "official_binary_metadata_confirmed",
       "checked_at": "2026-10-08",
       "distribution_filename": "VRMC_materials_mtoon_UV_Animation_Test.vrm",
-      "distribution_size_bytes": 61732
+      "distribution_size_bytes": 61732,
+      "binary_evidence": {
+        "checked_at": "2026-10-08",
+        "github_blob_sha": "105319552be3625a2277627e79081ef34ca82a87",
+        "glb_version": 2,
+        "vrm_spec_version": "1.0",
+        "vrm_meta": {
+          "name": "VRMC_materials_mtoon UV Animation Test",
+          "authors": [
+            "pixiv Inc."
+          ],
+          "licenseUrl": "https://vrm.dev/licenses/1.0/",
+          "avatarPermission": "everyone",
+          "commercialUsage": "corporation",
+          "allowRedistribution": true,
+          "modification": "allowModificationRedistribution",
+          "creditNotation": "unnecessary"
+        }
+      }
     },
     {
       "id": "vroid-avatarsample-a",

@@ -56,3 +56,16 @@
 制作元の[Polygonal Mind 100Avatars](https://github.com/PolygonalMind/100Avatars) はGitツリー全件のパスとファイルサイズを確認できたため、200モデル×標準版・Voxel版 = 400件を `data/collections/polygonalmind-*.json` に分割収録。
 
 **未収録として調査継続**：夢ノ結唱PASTEL/HALO/AVERの公式サイトには無料の3DモデルZIPの案内があるが、各ZIPへのVRM同梱を今回明示的に確認できなかったため除外。Alicia Solidの権利条件・配布状態、東北ずん子/ずんだもんの一部商品のショップ側公開状態も保留のまま。
+
+## 追加収録（2026-10-08・無料作者配布30件）
+
+作者本人のBOOTH商品ページでVRM形式と0円配布を確認し、次の計30件を `data/models.json` に登録した（総数516→546）。
+
+- [kanon MK3D](https://booth.pm/ja/items/6179337)：動物・季節マスコット11件。利用条件はUVライセンス＋作者個別条項。小型VRMも含む。
+- [shop-perch](https://booth.pm/ja/items/6676231)：縦ロール（ZIP同梱）、[東雲ver.2](https://booth.pm/ja/items/6316885)、[時雨](https://booth.pm/ja/items/6444701)の3件。
+- [A.P.のおみせ](https://booth.pm/ja/items/6050266)：姐さん、[バトラーちゃん](https://booth.pm/ja/items/5980433)の小型VRM 2件。無料のVRM単体と編集用ZIPは**同一モデルとして数える**。
+- [そくかちゅう。「シロ」](https://booth.pm/ja/items/7234388)：VRM 1.0と0.xの別版2件（同じZIP）。
+- [CustomLive2DAvatar「めいどちゃん」](https://booth.pm/ja/items/2593934)：通常・黒服の2件を同一ZIPに収録。[くらんも「モブ」](https://booth.pm/ja/items/4136312)は2モデル入り無料ZIP。
+- その他：[Anime Student](https://booth.pm/ja/items/6018415)、[ちえり](https://booth.pm/ja/items/6076752)、[Nasha](https://booth.pm/ja/items/6095735)、[VTuberモデル](https://booth.pm/ja/items/5095913)、[Aidin](https://booth.pm/ja/items/3707650)、[まゆき](https://booth.pm/ja/items/4825706)、[Dalji](https://booth.pm/ja/items/4898876)、[ちょっとやんじゃった子](https://booth.pm/ja/items/3124874)。
+
+**実ファイル未確認**：BOOTHのログイン後ダウンロード、ZIP内部のVRMファイル名、仕様バージョン等は実機確認フェーズで調べる。NASの将来原本保存先は `/mnt/hdd/vrm`。

@@ -9656,6 +9656,474 @@
       "verification": "official_free_distribution_listed_download_untested",
       "checked_at": "2026-10-08",
       "notes": "作者が別々の無料VRMとして3種類を掲載。¥300の3匹セットは同一モデルのまとめ配布であり重複登録しない。 BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。"
+    },
+    {
+      "id": "ayasaki-john-doe-black",
+      "name": "ジョン・ドゥ（黒）",
+      "publisher": "あやさきの倉庫",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "color-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4927040",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ジョン_ドゥ_黒_.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/4927040",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が直接公開する透明人間VRMの独立した色違い。第三者によるパブリックアバター公開禁止、個人アバター利用のみ、法人・商用利用・再配布禁止。まとめ配布ZIPと重複計上しない。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+    },
+    {
+      "id": "ayasaki-john-doe-white",
+      "name": "ジョン・ドゥ（白）",
+      "publisher": "あやさきの倉庫",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "color-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4927040",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ジョン_ドゥ_白_.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/4927040",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が直接公開する透明人間VRMの独立した色違い。第三者によるパブリックアバター公開禁止、個人アバター利用のみ、法人・商用利用・再配布禁止。まとめ配布ZIPと重複計上しない。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+    },
+    {
+      "id": "ayasaki-john-doe-red",
+      "name": "ジョン・ドゥ（赤）",
+      "publisher": "あやさきの倉庫",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "color-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4927040",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ジョン_ドゥ_赤_.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/4927040",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が直接公開する透明人間VRMの独立した色違い。第三者によるパブリックアバター公開禁止、個人アバター利用のみ、法人・商用利用・再配布禁止。まとめ配布ZIPと重複計上しない。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+    },
+    {
+      "id": "ayasaki-john-doe-blue",
+      "name": "ジョン・ドゥ（青）",
+      "publisher": "あやさきの倉庫",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "color-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4927040",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ジョン_ドゥ_青_.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/4927040",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が直接公開する透明人間VRMの独立した色違い。第三者によるパブリックアバター公開禁止、個人アバター利用のみ、法人・商用利用・再配布禁止。まとめ配布ZIPと重複計上しない。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+    },
+    {
+      "id": "ayasaki-john-doe-cyan",
+      "name": "ジョン・ドゥ（水）",
+      "publisher": "あやさきの倉庫",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "color-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4927040",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ジョン_ドゥ_水_.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/4927040",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が直接公開する透明人間VRMの独立した色違い。第三者によるパブリックアバター公開禁止、個人アバター利用のみ、法人・商用利用・再配布禁止。まとめ配布ZIPと重複計上しない。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+    },
+    {
+      "id": "ayasaki-john-doe-green",
+      "name": "ジョン・ドゥ（緑）",
+      "publisher": "あやさきの倉庫",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "color-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4927040",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ジョン_ドゥ_緑_.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/4927040",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が直接公開する透明人間VRMの独立した色違い。第三者によるパブリックアバター公開禁止、個人アバター利用のみ、法人・商用利用・再配布禁止。まとめ配布ZIPと重複計上しない。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+    },
+    {
+      "id": "ayasaki-john-doe-purple",
+      "name": "ジョン・ドゥ（紫）",
+      "publisher": "あやさきの倉庫",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "color-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4927040",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ジョン_ドゥ_紫_.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/4927040",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が直接公開する透明人間VRMの独立した色違い。第三者によるパブリックアバター公開禁止、個人アバター利用のみ、法人・商用利用・再配布禁止。まとめ配布ZIPと重複計上しない。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+    },
+    {
+      "id": "ayasaki-john-doe-swim-gray",
+      "name": "ジョン・ドゥ 水着（灰）",
+      "publisher": "あやさきの倉庫",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "color-variant",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5010593",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ジョン_ドゥ_水着灰_.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/5010593",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者の水着アレンジVRM。単体7色とVRMセットZIPを無料公開しており、同一VRMを二重登録しない。個人の利用は許可、法人・商用・再配布・パブリック登録禁止。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+    },
+    {
+      "id": "ayasaki-john-doe-swim-yellow",
+      "name": "ジョン・ドゥ 水着（黄）",
+      "publisher": "あやさきの倉庫",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "color-variant",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5010593",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ジョン_ドゥ_水着黄_.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/5010593",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者の水着アレンジVRM。単体7色とVRMセットZIPを無料公開しており、同一VRMを二重登録しない。個人の利用は許可、法人・商用・再配布・パブリック登録禁止。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+    },
+    {
+      "id": "ayasaki-john-doe-swim-purple",
+      "name": "ジョン・ドゥ 水着（紫）",
+      "publisher": "あやさきの倉庫",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "color-variant",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5010593",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ジョン_ドゥ_水着紫_.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/5010593",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者の水着アレンジVRM。単体7色とVRMセットZIPを無料公開しており、同一VRMを二重登録しない。個人の利用は許可、法人・商用・再配布・パブリック登録禁止。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+    },
+    {
+      "id": "ayasaki-john-doe-swim-cyan",
+      "name": "ジョン・ドゥ 水着（水）",
+      "publisher": "あやさきの倉庫",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "color-variant",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5010593",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ジョン_ドゥ_水着水_.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/5010593",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者の水着アレンジVRM。単体7色とVRMセットZIPを無料公開しており、同一VRMを二重登録しない。個人の利用は許可、法人・商用・再配布・パブリック登録禁止。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+    },
+    {
+      "id": "ayasaki-john-doe-swim-blue",
+      "name": "ジョン・ドゥ 水着（青）",
+      "publisher": "あやさきの倉庫",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "color-variant",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5010593",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ジョン_ドゥ_水着青_.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/5010593",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者の水着アレンジVRM。単体7色とVRMセットZIPを無料公開しており、同一VRMを二重登録しない。個人の利用は許可、法人・商用・再配布・パブリック登録禁止。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+    },
+    {
+      "id": "ayasaki-john-doe-swim-green",
+      "name": "ジョン・ドゥ 水着（緑）",
+      "publisher": "あやさきの倉庫",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "color-variant",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5010593",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ジョン_ドゥ_水着緑_.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/5010593",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者の水着アレンジVRM。単体7色とVRMセットZIPを無料公開しており、同一VRMを二重登録しない。個人の利用は許可、法人・商用・再配布・パブリック登録禁止。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+    },
+    {
+      "id": "ayasaki-john-doe-swim-red",
+      "name": "ジョン・ドゥ 水着（赤）",
+      "publisher": "あやさきの倉庫",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "color-variant",
+        "outfit-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5010593",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ジョン_ドゥ_水着赤_.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/5010593",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者の水着アレンジVRM。単体7色とVRMセットZIPを無料公開しており、同一VRMを二重登録しない。個人の利用は許可、法人・商用・再配布・パブリック登録禁止。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+    },
+    {
+      "id": "busycreations-dona",
+      "name": "ドナ",
+      "publisher": "BUSY CREATIONS",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "sample"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4180044",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "_オリジナルキャラVRMモデル_ドナ_ドニー.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/4180044",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "VRoidとBlender製の作者オリジナル無料テストアバター。ドニーと同じZIPに同梱すると商品名・説明に記載。作者は著作権放棄・再配布可を表明するが、個別GLBのライセンス未確認。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+    },
+    {
+      "id": "busycreations-donny",
+      "name": "ドニー",
+      "publisher": "BUSY CREATIONS",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "sample"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4180044",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "_オリジナルキャラVRMモデル_ドナ_ドニー.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/4180044",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "ドナとは別キャラでポリゴン数も異なると作者が説明。ZIP内部の実ファイル名・VRM仕様版は未確認。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+    },
+    {
+      "id": "kagekin-nikuneko-fresh",
+      "name": "にくねこちゃん（生）",
+      "publisher": "猫人間カゲキンSHOP 2",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "mascot"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4330151",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "nikuneko.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/4330151",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者のオリジナル動物型VRM。無料の単体VRM。ウェルダン版の配布枠にも同じファイルが含まれるが、重複計上しない。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+    },
+    {
+      "id": "kagekin-nikuneko-welldone",
+      "name": "にくねこちゃん（ウェルダン）",
+      "publisher": "猫人間カゲキンSHOP 2",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "mascot",
+        "color-variant"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4330151",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "yakeneko.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/4330151",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が無料で公開する焼き上がった色違いの別VRM。『応援版』という配布枠も0円表示だがこのファイルを個別VRMとして収録。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+    },
+    {
+      "id": "yururea-riko-cat",
+      "name": "りこちゃん（黒猫付き）",
+      "publisher": "ゆるれあ",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "chibi"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/7517937",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "りこ.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/7517937",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "黒猫を頭に乗せたオリジナルアバター。VRoid Studio製、作者が直接無料VRM配布。表示の『KOHARUちゃん』というダウンロード枠名とモデル名の食い違いは後日確認。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+    },
+    {
+      "id": "loulouyurika-pippa",
+      "name": "Pippa（ピッパ）",
+      "publisher": "ねっこのバーチャルなみせ",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "cat"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4613310",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "08_Pippa.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/4613310",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者の汎用オリジナル猫耳アバター。2024年から0円のZIP形式で配布。ファイル構成・VRMバージョンは原本未取得。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+    },
+    {
+      "id": "ratenosu-untitled",
+      "name": "無題 ver1.1（猫のお兄さん）",
+      "publisher": "らてのすのショップ",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "cat"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/1571536",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "無題.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/1571536",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が2025年に無料化したオリジナル3Dモデル。無題.zipにはVRMとUnitypackageを同梱すると説明。おまけZIPは別モデルと数えない。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+    },
+    {
+      "id": "doridori-nanami",
+      "name": "Nanami（ナナミ）",
+      "publisher": "ドリドリshop",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://booth.pm/ja/items/7753385",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "nanami_v1.0.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/7753385",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者ショップが0円の直接VRMとして公開し、VRM0形式と記載。商品規約に別キャラクター名が混在するため適用規約の精査を残す。無料の.vroid形式は同一キャラとして除外。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+    },
+    {
+      "id": "tadapan-lowpoly-panda",
+      "name": "一般的なパンダ",
+      "publisher": "tadapan",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "animal",
+        "low-poly"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/3739414",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "SiroKumaa.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/3739414",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "原作者自身が無料ZIPを公開し、clusterでは含まれるVRMをアップロードする旨を明記。約1800ポリゴン、商用・改変・VRChatパブリック化可能と説明。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
     }
   ]
 }

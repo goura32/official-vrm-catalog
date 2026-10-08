@@ -119,3 +119,16 @@ BOOTHの商品ごとに「ダウンロード商品 ¥0」とVRM本体の配布�
 - [N](https://booth.pm/ja/items/6315693)、[△256穴子](https://booth.pm/ja/items/3983431)、[ぷち尚也／ぷち柚希](https://booth.pm/ja/items/6594471)、[紬たか](https://booth.pm/ja/items/3537750)、[PURIN／PURIN+](https://booth.pm/ja/items/5082441)も無償配布として登録。
 
 **保留**：配布名にVRMとある衣装・髪型のセットなど、モデル本体が含まれるか不明な商品は除外。第三者が制作したモデルの二次配布や非公開モデル、作者の許可が未確認な場合も保留する。購入不要であることは実ダウンロード成功と同義ではなく、後日のHermes実機確認で取得可否を確認し、原本を `/mnt/hdd/vrm` に保存する。
+
+## 2026-10-08 追加収録：無料VRM配布27件
+
+659→686件（+27件）。すべて配布者本人のBOOTH商品ページで0円のVRM本体またはVRM収録ZIPを確認。実ダウンロード・ZIP内部の全ファイル名・VRM仕様バージョンは未確認のまま、`data/models.json` に収録した。
+
+- [桜夜 Sakuya](https://booth.pm/ja/items/5513788)：作者が無料のVer.2／Ver.3.1 VRM ZIPを別々に公開（2件）。VRM仕様バージョンと作者の商品更新版番号は区別。
+- [Hatsuka](https://booth.pm/ja/items/3871143)：作者がPC用とQuest用の異なるVRMを明記（2件）。[鳥アバター](https://booth.pm/ja/items/5444666)：鳥8とテクスチャ改良版の別VRM（2件）。
+- [たぬきおにぎり](https://booth.pm/ja/items/7239598)：具切替対応VRMと「単体のもの」を同梱と説明（2件）。**単体版が別VRMとして独立しているかはZIP未解析につき要検証**。同一取得物の重複計上にならないか確認する。
+- [Quanstella](https://booth.pm/ja/items/5922294)、[Lua](https://booth.pm/ja/items/7682427)、[UMEKO](https://booth.pm/ja/items/2152422)、[さよ](https://booth.pm/ja/items/7185501)、[花圓](https://booth.pm/ja/items/4649018)、[あにゃめ](https://booth.pm/ja/items/6013393) の作者配布VRM（6件）。
+- [ほねまる家](https://booth.pm/ja/items/6530666)、[小動物系少女](https://booth.pm/ja/items/5094429)、[ゆるねこ](https://booth.pm/ja/items/8734821)、[たけぴよ](https://booth.pm/ja/items/5599857)、[なお](https://booth.pm/ja/items/6595645)、[こたつみかん](https://booth.pm/ja/items/6686224)、[もやし](https://booth.pm/ja/items/6859520) の作者配布VRM（7件）。
+- [普通の女の子アバター](https://booth.pm/ja/items/7392963)、[刃切 切乃](https://booth.pm/ja/items/6100467)、[323](https://booth.pm/ja/items/4637936)、[ねこみみキャラ（白）](https://booth.pm/ja/items/5305879)、[熊野ゆちゃ](https://booth.pm/ja/items/7039529)、[鬼の子キリ](https://booth.pm/ja/items/5189443) の作者配布VRM（6件）。ねこみみキャラは期間限定無料として扱い、次回以降の公開継続を確認する。
+
+共通注意：**無料配布は商用利用・再配布の自由を保証しない**。商品本文以外の同梱利用規約が存在する場合は後日の原本確認で照合する。原本保存と描画テストは登録件数拡充後、Hermes Agentが `/mnt/hdd/vrm` で一括実施し、GitHubにVRM/ZIP原本をコミットしない。

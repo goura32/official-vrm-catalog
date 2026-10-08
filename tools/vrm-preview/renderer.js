@@ -8,6 +8,12 @@ try {
   const params = new URLSearchParams(window.location.search);
   const view = params.get('view');
   if (!['tpose', 'face'].includes(view)) throw new Error('Invalid view');
+  const yawDegrees = Number(params.get('yaw') ?? 0);
+  if (!Number.isFinite(yawDegrees) || Math.abs(yawDegrees) > 360) throw new Error('Invalid yaw angle');
+  const faceYOffset = Number(params.get('faceY') ?? 0);
+  if (!Number.isFinite(faceYOffset) || Math.abs(faceYOffset) > 1) throw new Error('Invalid face Y offset');
+  const faceHeight = Number(params.get('faceHeight') ?? 0.34);
+  if (!Number.isFinite(faceHeight) || faceHeight < 0.1 || faceHeight > 1) throw new Error('Invalid face height fraction');
   const width = view === 'tpose' ? 768 : 512;
   const height = view === 'tpose' ? 1024 : 512;
   const renderer = new THREE.WebGLRenderer({ antialias: true, alpha: false });
@@ -30,6 +36,7 @@ try {
   const vrm = gltf.userData.vrm;
   if (!vrm?.humanoid) throw new Error('VRM humanoid could not be loaded');
   VRMUtils.rotateVRM0(vrm);
+  vrm.scene.rotation.y += THREE.MathUtils.degToRad(yawDegrees);
   vrm.humanoid.resetNormalizedPose();
   vrm.humanoid.update();
   vrm.update(0);
@@ -48,8 +55,8 @@ try {
     const head = vrm.humanoid.getNormalizedBoneNode('head');
     if (!head) throw new Error('Missing head bone; manual face capture required');
     const headPos = head.getWorldPosition(new THREE.Vector3());
-    target = new THREE.Vector3(headPos.x, headPos.y - boxSize.y * 0.035, headPos.z);
-    visibleHeight = Math.max(boxSize.y * 0.34, 0.2);
+    target = new THREE.Vector3(headPos.x, headPos.y - boxSize.y * 0.035 + boxSize.y * faceYOffset, headPos.z);
+    visibleHeight = Math.max(boxSize.y * faceHeight, 0.2);
   }
 
   const aspect = width / height;

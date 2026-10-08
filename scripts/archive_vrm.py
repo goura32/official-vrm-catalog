@@ -259,7 +259,8 @@ def archive(args):
     # is atomically replaced with os.replace by another process.
     root = args.nas_root.resolve()
     root.mkdir(parents=True, exist_ok=True)
-    with (root / ".index.lock").open("a+b") as lockfile:
+    # The lock inode may be write-only on NAS; flock does not need read access.
+    with (root / ".index.lock").open("ab") as lockfile:
         fcntl.flock(lockfile.fileno(), fcntl.LOCK_EX)
         try:
             return archive_locked(args)

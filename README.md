@@ -19,9 +19,9 @@
 | [neonglitch86-models.json](data/collections/neonglitch86-models.json) | NeonGlitch86制作者GitHub・作者登録コレクションの無料公開VRM | 36 |
 | **合計** | **200キャラクター×2配布版を含む** | **1,297** |
 
-[収録・検証方針](docs/collection-policy.md) ／ [追加調査・保留候補](docs/research-notes.md) ／ [全体監査・人型ダウンロード方針](docs/download-scope-review.md) ／ **[NAS保存方式](docs/nas-storage.md)** ／ **[Hermes Agent一括実機検証の指示](docs/hermes-bulk-run.md)**
+[収録・検証方針](docs/collection-policy.md) ／ [追加調査・保留候補](docs/research-notes.md) ／ [全体監査・人型ダウンロード方針](docs/download-scope-review.md) ／ **[NAS保存方式](docs/nas-storage.md)** ／ **[Hermes Agent一括実機検証の指示](docs/hermes-bulk-run.md)** ／ [一括検証実績・再開チェックポイント](docs/hermes-bulk-run-results.md)
 
-**登録拡充はいったん1,297件で凍結しました。NASには人型VRMだけを個別に可逆圧縮して保存し、全身Tポーズ・顔のWebP画像をIDで対応付けます。ZIPとzstdは実VRMで比較し、差が小さければZIPを採用します。配布ZIP原本やその他の同梱ファイルは残しません。** [選別IDリスト](data/download-scope.json)に人型候補214件、非人型候補81件を別管理し、その他1,002件は未判定です。予備分類は取得済み・外観確認済みを意味しません。**未判定は配布条件を確認したうえで検査目的の一時ダウンロードを認め、形状・VRM実体を確認後に永続保存の可否を判断**します。既知の非人型は取得せず、検査後に非人型と分かった一時ファイルも消去します。元のJSONは削除・移動しません。
+**登録拡充はいったん1,297件で凍結しました。NASには人型VRMだけを個別に可逆圧縮して保存し、全身Tポーズ・顔のWebP画像をIDで対応付けます。ZIPとzstdは実VRMで比較し、差が小さければZIPを採用します。配布ZIP原本やその他同梱ファイルは残しません。** [選別IDリスト](data/download-scope.json)に人型候補302件、非人型候補93件を別管理し、その他902件は未判定です。予備分類は取得済み・外観確認済みを意味しません。**未判定は配布条件を確認したうえで検査目的の一時ダウンロードを認め、形状・VRM実体を確認後に永続保存の可否を判断**します。既知の非人型は取得せず、検査後に非人型と分かった一時ファイルも消去します。元のJSONは削除・移動しません。
 
 **画像付き形状レビュー**： [R1/2 前半](docs/shape-review-100avatars-1-100.md) ／ [R1/2 後半](docs/shape-review-100avatars-101-200.md) ／ [R3](docs/shape-review-100avatars-r3.md) ／ [季節系・その他](docs/shape-review-indexed-other.md) ／ [MJMoonbow](docs/shape-review-mjmoonbow.md)。作者画像を671レコードに対応付けましたが、外観判定の確定やダウンロード許可を意味しません。
 
@@ -53,7 +53,7 @@ VRM 0.x / 1.0のモデル、アバター型と機能検証用モデルを対象�
 - [Sony mocopi「RAYNOSちゃん」](https://www.sony.co.jp/en/Products/mocopi-dev/jp/downloads/DownloadInfo.html) — 3種類の配布物
 - [夢ノ結唱 POPY/ROSE](https://yumenokessho.bang-dream.com/material/)・[ミライ小町](https://github.com/Miraikomachi/MiraikomachiVRM)・[AIニケちゃん](https://github.com/tegnike/nikechan-assets) — 公式配布モデル
 - [Polygonal Mind 100Avatars](https://github.com/PolygonalMind/100Avatars) — 作者GitHubのVRM 400ファイルを収録。通常/ボクセルの2種を区別
-- [Polygonal Mind 100Avatars R3](https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json) — 第3弾201〜300の100件。作者索引のArweave VRM直リンクを記録（実取得・バイナリ未検証）
+- [Polygonal Mind 100Avatars R3](https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json) — 第3弾201〜300の100件。実VRM 88件の描画・人型形状を確認し、87件をZIP/WebPでNASへ保存。非人型12件は作者プレビューで除外し、1件は正面プレビュー不良で保留。
 - [Halloween Rising](https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/halloween-rising.json)（60件）・[Xmas Chibis](https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/xmas-chibis.json)（80件） — Polygonal Mind制作でCC0と案内されたIPFS直リンク。NFT所有・購入による取得は検証していないが、公開索引に直接VRM URLがあるため収録
 - [ToxSamのオリジナルVRM](https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/toxsam.json) — 作者本人のCC0公開索引から10件を追加。IPFSゲートウェイからの実取得は未検証
 - [NeonGlitch86公開VRM](https://github.com/neonglitch86/vrm) — GitHubのVRM34件と[作者登録コレクション](https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/NeonGlitch86.json)由来のIPFS 2件。**うち33件はGitHubで無料公開されているが個別の利用許諾は未確認**で、CC0を一律適用しない
@@ -142,8 +142,9 @@ VRM 0.x / 1.0のモデル、アバター型と機能検証用モデルを対象�
 - `official_help_confirmed_export_untested`: 公式ヘルプが無料モデルと書き出し方法を案内。個別エクスポートは未検証
 - `official_free_distribution_listed_download_untested`: 公式配布元に無料のVRM配布案内を確認。個別の実ダウンロードは未検証
 - `creator_index_direct_url_listed_download_untested`: 制作者の公開モデル索引にVRM形式と直リンクを確認。リンク先バイナリは未取得
+- `creator_index_direct_binary_render_humanoid_confirmed`: 制作者索引の直リンクから実VRMを取得し、バイナリメタデータ、ローカル描画、人型外形を確認（NAS保存・全件監査の完了は別途記録）
 
-`binary_evidence` はGLBヘッダーと埋め込みVRMメタデータの解析結果。`github_blob_sha` はGitHubのGit blob IDで、VRMファイルそのもののSHA1ではありません。実際の描画・挙動検証やファイル全体のSHA1照合は未実施です。
+`binary_evidence` は一部の公式サンプルに記録したGLBヘッダーと埋め込みVRMメタデータの解析結果です。`github_blob_sha` はGitHubのGit blob IDで、VRMファイルそのもののSHA1ではありません。R3実VRMの描画・人型確認とファイル全体のSHA-256は、一括実機検証レポートとNAS `index.jsonl` に記録しています。
 
 `distribution_size_bytes` は公式GitHub APIで確認できた**配布VRMファイル自体のバイト数**（確認済みのものだけ）です。BOOTHの表示MBとは精度が異なるため推測補完しません。
 

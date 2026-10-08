@@ -22,6 +22,18 @@ function parseArgs(args) {
   }
   if (!/^[a-z0-9][a-z0-9-]*$/.test(result.id)) throw new Error('Unsafe catalog ID');
   if (path.extname(result.vrm).toLowerCase() !== '.vrm') throw new Error('Expected .vrm input');
+  if (result['front-yaw-deg'] !== undefined) {
+    const yaw = Number(result['front-yaw-deg']);
+    if (!Number.isFinite(yaw) || Math.abs(yaw) > 360) throw new Error('--front-yaw-deg must be between -360 and 360');
+  }
+  if (result['face-y-offset-frac'] !== undefined) {
+    const offset = Number(result['face-y-offset-frac']);
+    if (!Number.isFinite(offset) || Math.abs(offset) > 1) throw new Error('--face-y-offset-frac must be between -1 and 1');
+  }
+  if (result['face-height-frac'] !== undefined) {
+    const height = Number(result['face-height-frac']);
+    if (!Number.isFinite(height) || height < 0.1 || height > 1) throw new Error('--face-height-frac must be between 0.1 and 1');
+  }
   return result;
 }
 
@@ -79,7 +91,11 @@ async function main() {
     });
     const result = [];
     for (const view of ['tpose', 'face']) {
-      await page.goto(base + '?view=' + view, { waitUntil: 'domcontentloaded' });
+      const params = new URLSearchParams({ view });
+      if (args['front-yaw-deg'] !== undefined) params.set('yaw', args['front-yaw-deg']);
+      if (args['face-y-offset-frac'] !== undefined) params.set('faceY', args['face-y-offset-frac']);
+      if (args['face-height-frac'] !== undefined) params.set('faceHeight', args['face-height-frac']);
+      await page.goto(base + '?' + params, { waitUntil: 'domcontentloaded' });
       await page.waitForFunction(() => ['ready', 'error'].includes(window.previewStatus?.state), null, { timeout: 60000 });
       const status = await page.evaluate(() => window.previewStatus);
       if (status.state !== 'ready') throw new Error(view + ' rendering failed: ' + status.message);

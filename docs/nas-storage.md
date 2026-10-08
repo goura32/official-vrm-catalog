@@ -23,7 +23,7 @@
 └── index.jsonl                  # モデルと画像の対応表
 ```
 
-この構成は**提案する実保存先**であり、実ファイルはまだNASへ配置していない。登録IDは正本`data/models.json`および`data/collections/*.json`の`id`と一致させる。名前に日本語が含まれていてもIDはASCIIなのでパスが安定する。
+この構成は保存仕様であり、実際の配置状況は本書末尾と[実機検証レポート](hermes-bulk-run-results.md)を参照する。登録IDは正本`data/models.json`および`data/collections/*.json`の`id`と一致させる。名前に日本語が含まれていてもIDはASCIIなのでパスが安定する。
 
 ## 圧縮形式の決定
 
@@ -55,6 +55,8 @@ node generate.mjs --vrm /tmp/sample.vrm --id <catalog_id> \
     --out-dir /tmp/vrm-previews --browser /usr/bin/chromium
 cd ../..
 ```
+
+モデルの正面方向や頭部ボーン位置が標準カメラに合わない場合に限り、`--front-yaw-deg`（-360〜360度）、`--face-y-offset-frac`（全身高に対する顔中心の補正、-1〜1）、`--face-height-frac`（顔画像の縦画角、0.1〜1）を指定できる。補正後も全身Tポーズと顔を目視し、両方が適切でないモデルは保存しない。
 
 生成されるのは `<catalog_id>-tpose.webp`、`<catalog_id>-face.webp`、**`<catalog_id>-previews.json`**。最後のJSONに元VRMのSHA-256、画像名・画素サイズ・**画像ごとのSHA-256**を含め、取り違えや生成後のすり替わりを検知する。正面はVRM座標系に準拠した標準カメラとする。
 
@@ -107,5 +109,6 @@ python3 scripts/verify_nas.py --nas-root /mnt/hdd/vrm
 
 ## 実行状況
 
-- **完了**：保存仕様、圧縮比較スクリプト、Tポーズ・顔WebP生成ツール、対応付け・画像ハッシュ・排他更新・同一VRMの圧縮ファイル共有を実装。これらはソースコード上の実装で、まだ実機動作保証ではない。
-- **未完了**：GitHubに追加したユニットテストのリポジトリ環境での実行、VRM実物を用いた圧縮率比較、npm依存の導入、WebGLによる画像生成の実機テスト、NASへの保存。WebPの寸法パーサーは同等コードで実画像のローカルスモークテストを実施したが、**NAS保存スクリプト全体の実行完了とは扱わない**。GitHub ActionsやRDCは使わず、後日のHermes Agent実機検証で行う。
+- **完了**：実VRM 3件のZIP/zstd比較でZIPを採用。NASには87件のVRM ZIPとWebPプレビュー174枚を保存。`verify_nas.py`最終監査は`ok: true`、`errors: []`、ZIP 87件、プレビュー174枚。
+- **形状・プレビュー**：R3は88件の実VRMで人型外形を確認し、12件を作者画像から取得前に非人型として除外。1件は正面Tポーズと顔の向きが揃わず保存保留。圧縮前後の実サイズとSHA-256は[実機検証レポート](hermes-bulk-run-results.md)を参照。
+- **保留・未完了**：MJMoonbowの1件は公開CC0表示と埋込再配布禁止が矛盾し一時物を削除。R3以外の1,196件は未実体検証。NFS I/O待ちと書込み専用ロックファイルへの対応、タイムアウト後に整合性を確認して索引へ復旧した1件、再開方法は実機レポートを参照。GitHub ActionsやRDCは使用していない。

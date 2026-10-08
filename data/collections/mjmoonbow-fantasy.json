@@ -1,0 +1,380 @@
+{
+  "schema_version": 1,
+  "models": [
+    {
+      "id": "mjmoonbow-dragon-2-775e309",
+      "name": "dragon 2（MJMoonbow）",
+      "publisher": "MJMoonbow",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "fantasy"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/dragons/dragon%202.vrm",
+      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/dragons/dragon%202.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "dragon 2.vrm",
+      "distribution_size_bytes": 7468144,
+      "license_name": "CC0 1.0 Universal",
+      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08",
+      "notes": "作者公式のCC0配布コレクション。GitHubファイル一覧で存在とサイズを確認。VRM実体の内部仕様版・正常表示は未検証。"
+    },
+    {
+      "id": "mjmoonbow-dragon-3-dbede1e",
+      "name": "dragon 3（MJMoonbow）",
+      "publisher": "MJMoonbow",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "fantasy"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/dragons/dragon%203.vrm",
+      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/dragons/dragon%203.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "dragon 3.vrm",
+      "distribution_size_bytes": 7497060,
+      "license_name": "CC0 1.0 Universal",
+      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08",
+      "notes": "作者公式のCC0配布コレクション。GitHubファイル一覧で存在とサイズを確認。VRM実体の内部仕様版・正常表示は未検証。"
+    },
+    {
+      "id": "mjmoonbow-dragon-8-4-b210d8d",
+      "name": "dragon 8 4（MJMoonbow）",
+      "publisher": "MJMoonbow",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "fantasy"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/dragons/dragon%208_4.vrm",
+      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/dragons/dragon%208_4.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "dragon 8_4.vrm",
+      "distribution_size_bytes": 4846860,
+      "license_name": "CC0 1.0 Universal",
+      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08",
+      "notes": "作者公式のCC0配布コレクション。GitHubファイル一覧で存在とサイズを確認。VRM実体の内部仕様版・正常表示は未検証。"
+    },
+    {
+      "id": "mjmoonbow-dragon-9-3f69838",
+      "name": "dragon 9（MJMoonbow）",
+      "publisher": "MJMoonbow",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "fantasy"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/dragons/dragon%209.vrm",
+      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/dragons/dragon%209.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "dragon 9.vrm",
+      "distribution_size_bytes": 12578636,
+      "license_name": "CC0 1.0 Universal",
+      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08",
+      "notes": "作者公式のCC0配布コレクション。GitHubファイル一覧で存在とサイズを確認。VRM実体の内部仕様版・正常表示は未検証。"
+    },
+    {
+      "id": "mjmoonbow-goblin-elite-5-c01b977",
+      "name": "goblin elite 5（MJMoonbow）",
+      "publisher": "MJMoonbow",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "fantasy"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/goblins/goblin%20elite%205.vrm",
+      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/goblins/goblin%20elite%205.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "goblin elite 5.vrm",
+      "distribution_size_bytes": 5967628,
+      "license_name": "CC0 1.0 Universal",
+      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08",
+      "notes": "作者公式のCC0配布コレクション。GitHubファイル一覧で存在とサイズを確認。VRM実体の内部仕様版・正常表示は未検証。"
+    },
+    {
+      "id": "mjmoonbow-goblin-elite-6-09083a0",
+      "name": "goblin elite 6（MJMoonbow）",
+      "publisher": "MJMoonbow",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "fantasy"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/goblins/goblin%20elite%206.vrm",
+      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/goblins/goblin%20elite%206.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "goblin elite 6.vrm",
+      "distribution_size_bytes": 6263228,
+      "license_name": "CC0 1.0 Universal",
+      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08",
+      "notes": "作者公式のCC0配布コレクション。GitHubファイル一覧で存在とサイズを確認。VRM実体の内部仕様版・正常表示は未検証。"
+    },
+    {
+      "id": "mjmoonbow-kobold-2-1-deb8e71",
+      "name": "kobold 2 1（MJMoonbow）",
+      "publisher": "MJMoonbow",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "fantasy"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/kobolds/kobold%202_1.vrm",
+      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/kobolds/kobold%202_1.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "kobold 2_1.vrm",
+      "distribution_size_bytes": 5150828,
+      "license_name": "CC0 1.0 Universal",
+      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08",
+      "notes": "作者公式のCC0配布コレクション。GitHubファイル一覧で存在とサイズを確認。VRM実体の内部仕様版・正常表示は未検証。"
+    },
+    {
+      "id": "mjmoonbow-kobold-3-1-4920055",
+      "name": "kobold 3 1（MJMoonbow）",
+      "publisher": "MJMoonbow",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "fantasy"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/kobolds/kobold%203_1.vrm",
+      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/kobolds/kobold%203_1.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "kobold 3_1.vrm",
+      "distribution_size_bytes": 6013740,
+      "license_name": "CC0 1.0 Universal",
+      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08",
+      "notes": "作者公式のCC0配布コレクション。GitHubファイル一覧で存在とサイズを確認。VRM実体の内部仕様版・正常表示は未検証。"
+    },
+    {
+      "id": "mjmoonbow-kobold-4-adabccf",
+      "name": "kobold 4（MJMoonbow）",
+      "publisher": "MJMoonbow",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "fantasy"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/kobolds/kobold%204.vrm",
+      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/kobolds/kobold%204.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "kobold 4.vrm",
+      "distribution_size_bytes": 5806884,
+      "license_name": "CC0 1.0 Universal",
+      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08",
+      "notes": "作者公式のCC0配布コレクション。GitHubファイル一覧で存在とサイズを確認。VRM実体の内部仕様版・正常表示は未検証。"
+    },
+    {
+      "id": "mjmoonbow-kobold-elite-0-c2e4251",
+      "name": "Kobold Elite 0（MJMoonbow）",
+      "publisher": "MJMoonbow",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "fantasy"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/kobolds/Kobold%20Elite%200.vrm",
+      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/kobolds/Kobold%20Elite%200.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "Kobold Elite 0.vrm",
+      "distribution_size_bytes": 5452032,
+      "license_name": "CC0 1.0 Universal",
+      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08",
+      "notes": "作者公式のCC0配布コレクション。GitHubファイル一覧で存在とサイズを確認。VRM実体の内部仕様版・正常表示は未検証。"
+    },
+    {
+      "id": "mjmoonbow-minotaur-1-4-d310729",
+      "name": "minotaur 1 4（MJMoonbow）",
+      "publisher": "MJMoonbow",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "fantasy"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/minotaur%201_4.vrm",
+      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/minotaur%201_4.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "minotaur 1_4.vrm",
+      "distribution_size_bytes": 5978724,
+      "license_name": "CC0 1.0 Universal",
+      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08",
+      "notes": "作者公式のCC0配布コレクション。GitHubファイル一覧で存在とサイズを確認。VRM実体の内部仕様版・正常表示は未検証。"
+    },
+    {
+      "id": "mjmoonbow-orc-0-1-cdf335c",
+      "name": "Orc 0 1（MJMoonbow）",
+      "publisher": "MJMoonbow",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "fantasy"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/orcs/Orc%200_1.vrm",
+      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/orcs/Orc%200_1.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "Orc 0_1.vrm",
+      "distribution_size_bytes": 6000588,
+      "license_name": "CC0 1.0 Universal",
+      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08",
+      "notes": "作者公式のCC0配布コレクション。GitHubファイル一覧で存在とサイズを確認。VRM実体の内部仕様版・正常表示は未検証。"
+    },
+    {
+      "id": "mjmoonbow-orc-1-565b432",
+      "name": "Orc 1（MJMoonbow）",
+      "publisher": "MJMoonbow",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "fantasy"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/orcs/Orc%201.vrm",
+      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/orcs/Orc%201.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "Orc 1.vrm",
+      "distribution_size_bytes": 5684644,
+      "license_name": "CC0 1.0 Universal",
+      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08",
+      "notes": "作者公式のCC0配布コレクション。GitHubファイル一覧で存在とサイズを確認。VRM実体の内部仕様版・正常表示は未検証。"
+    },
+    {
+      "id": "mjmoonbow-orc-2-04c4a67",
+      "name": "Orc 2（MJMoonbow）",
+      "publisher": "MJMoonbow",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "fantasy"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/orcs/Orc%202.vrm",
+      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/orcs/Orc%202.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "Orc 2.vrm",
+      "distribution_size_bytes": 6667132,
+      "license_name": "CC0 1.0 Universal",
+      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08",
+      "notes": "作者公式のCC0配布コレクション。GitHubファイル一覧で存在とサイズを確認。VRM実体の内部仕様版・正常表示は未検証。"
+    },
+    {
+      "id": "mjmoonbow-wight-2-036d78f",
+      "name": "wight 2（MJMoonbow）",
+      "publisher": "MJMoonbow",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "fantasy"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/wight%202.vrm",
+      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/wight%202.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "wight 2.vrm",
+      "distribution_size_bytes": 5823580,
+      "license_name": "CC0 1.0 Universal",
+      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08",
+      "notes": "作者公式のCC0配布コレクション。GitHubファイル一覧で存在とサイズを確認。VRM実体の内部仕様版・正常表示は未検証。"
+    },
+    {
+      "id": "mjmoonbow-skinnie1-5-41eb4fe",
+      "name": "skinnie1 5（MJMoonbow）",
+      "publisher": "MJMoonbow",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/skinnie1_5.vrm",
+      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/skinnie1_5.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "skinnie1_5.vrm",
+      "distribution_size_bytes": 1349568,
+      "license_name": "CC0 1.0 Universal",
+      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08",
+      "notes": "作者公式のCC0配布コレクション。GitHubファイル一覧で存在とサイズを確認。VRM実体の内部仕様版・正常表示は未検証。"
+    },
+    {
+      "id": "mjmoonbow-skinnie3-1-f4b22ac",
+      "name": "skinnie3 1（MJMoonbow）",
+      "publisher": "MJMoonbow",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/skinnie3_1.vrm",
+      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/skinnie3_1.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "skinnie3_1.vrm",
+      "distribution_size_bytes": 2020588,
+      "license_name": "CC0 1.0 Universal",
+      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08",
+      "notes": "作者公式のCC0配布コレクション。GitHubファイル一覧で存在とサイズを確認。VRM実体の内部仕様版・正常表示は未検証。"
+    },
+    {
+      "id": "mjmoonbow-skinnie4-09f04df",
+      "name": "skinnie4（MJMoonbow）",
+      "publisher": "MJMoonbow",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/skinnie4.vrm",
+      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/skinnie4.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "skinnie4.vrm",
+      "distribution_size_bytes": 789936,
+      "license_name": "CC0 1.0 Universal",
+      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
+      "verification": "official_repository_file_listed",
+      "checked_at": "2026-10-08",
+      "notes": "作者公式のCC0配布コレクション。GitHubファイル一覧で存在とサイズを確認。VRM実体の内部仕様版・正常表示は未検証。"
+    }
+  ]
+}

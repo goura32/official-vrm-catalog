@@ -109,7 +109,7 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": "0.x",
+      "vrm_version": null,
       "source_url": "https://hub.vroid.com/characters/2843975675147313744/models/5644550979324015604",
       "download_url": null,
       "access_method": "vroid_hub_vrm",
@@ -126,7 +126,7 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": "0.x",
+      "vrm_version": null,
       "source_url": "https://hub.vroid.com/characters/7939147878897061040/models/2292219474373673889",
       "download_url": null,
       "access_method": "vroid_hub_vrm",
@@ -143,7 +143,7 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": "0.x",
+      "vrm_version": null,
       "source_url": "https://hub.vroid.com/characters/1248981995540129234/models/8640547963669442173",
       "download_url": null,
       "access_method": "vroid_hub_vrm",
@@ -542,6 +542,97 @@
       "license_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
       "verification": "official_help_confirmed_export_untested",
       "checked_at": "2026-10-08"
+    },
+    {
+      "id": "kizuna-ai-kamatte-vrm1",
+      "name": "KAMATTE AI (VRM 1.x)",
+      "publisher": "Kizuna AI",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "1.0",
+      "source_url": "https://kizunaai.com/download/kamatteaimodel/",
+      "download_url": null,
+      "access_method": "official_page_download",
+      "license_name": "Kizuna AI モデル配布規約・二次創作ガイドライン（配布ページから参照）",
+      "license_url": "https://kizunaai.com/download/kamatteaimodel/",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "公式配布ページの利用規約に同意後取得。実ダウンロード未確認。"
+    },
+    {
+      "id": "kizuna-ai-kamatte-vrm0",
+      "name": "KAMATTE AI (VRM 0.x)",
+      "publisher": "Kizuna AI",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://kizunaai.com/download/kamatteaimodel/",
+      "download_url": null,
+      "access_method": "official_page_download",
+      "license_name": "Kizuna AI モデル配布規約・二次創作ガイドライン（配布ページから参照）",
+      "license_url": "https://kizunaai.com/download/kamatteaimodel/",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "2026-03-02追加公開と公式ページに記載。実ダウンロード未確認。"
+    },
+    {
+      "id": "el-luna-monochrome-low",
+      "name": "モノ御楠ルナ（LOW版）",
+      "publisher": "エルルナプロジェクト / ブティック四ツ葉堂",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "lightweight"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/2091095",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "license_name": "モノ御楠ルナ利用条件（BOOTH商品説明）",
+      "license_url": "https://booth.pm/ja/items/2091095",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "LOW版は0円。個人商用・法人利用・再配布は禁止。ファイル形式・バージョンは実取得未確認。"
+    },
+    {
+      "id": "el-luna-monochrome-high",
+      "name": "モノ御楠ルナ（HIGH版）",
+      "publisher": "エルルナプロジェクト / ブティック四ツ葉堂",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/2091095",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "license_name": "モノ御楠ルナ利用条件（BOOTH商品説明）",
+      "license_url": "https://booth.pm/ja/items/2091095",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "HIGH版は0円。個人商用・法人利用・再配布は禁止。ファイル形式・バージョンは実取得未確認。"
+    },
+    {
+      "id": "zone-zonko-type-n",
+      "name": "ぞん子 ZONKO 3D MODEL type-N",
+      "publisher": "ZONeエナジー",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://zonko.zone-energy.jp/3dmodel",
+      "download_url": null,
+      "access_method": "official_page_download",
+      "license_name": "ぞん子3Dモデル利用規約（公式PDF）",
+      "license_url": "https://zone-energy.jp/3dmodel/terms.pdf",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "公式サイトに無償配布。VRM形式は公開案内と二次利用事例で確認。配布アーカイブ内の実ファイルは未確認。"
     }
   ]
 }

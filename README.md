@@ -13,7 +13,10 @@
 | [polygonalmind-151-200.json](data/collections/polygonalmind-151-200.json) | Polygonal Mind 151〜200・通常/Voxel | 100 |
 | [mjmoonbow-fantasy.json](data/collections/mjmoonbow-fantasy.json) | MJMoonbow原作者公開のCC0ファンタジー系VRM | 18 |
 | [polygonalmind-201-300.json](data/collections/polygonalmind-201-300.json) | 100Avatars R3・制作者公開のArweave VRM（201〜300） | 100 |
-| **合計** | **200キャラクター×2配布版を含む** | **1,060** |
+| [polygonalmind-halloween-rising.json](data/collections/polygonalmind-halloween-rising.json) | Halloween Rising・Polygonal Mind制作CC0 VRMの公開IPFS URL | 60 |
+| [polygonalmind-xmas-chibis.json](data/collections/polygonalmind-xmas-chibis.json) | Xmas Chibis・Polygonal Mind制作CC0 VRMの公開IPFS URL | 80 |
+| [toxsam-originals.json](data/collections/toxsam-originals.json) | ToxSam本人によるCC0 VRMの公開IPFS URL | 10 |
+| **合計** | **200キャラクター×2配布版を含む** | **1,210** |
 
 [収録・検証方針](docs/collection-policy.md) ／ [追加調査・保留候補](docs/research-notes.md)
 
@@ -46,6 +49,8 @@ VRM 0.x / 1.0のモデル、アバター型と機能検証用モデルを対象�
 - [夢ノ結唱 POPY/ROSE](https://yumenokessho.bang-dream.com/material/)・[ミライ小町](https://github.com/Miraikomachi/MiraikomachiVRM)・[AIニケちゃん](https://github.com/tegnike/nikechan-assets) — 公式配布モデル
 - [Polygonal Mind 100Avatars](https://github.com/PolygonalMind/100Avatars) — 作者GitHubのVRM 400ファイルを収録。通常/ボクセルの2種を区別
 - [Polygonal Mind 100Avatars R3](https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json) — 第3弾201〜300の100件。作者索引のArweave VRM直リンクを記録（実取得・バイナリ未検証）
+- [Halloween Rising](https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/halloween-rising.json)（60件）・[Xmas Chibis](https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/xmas-chibis.json)（80件） — Polygonal Mind制作でCC0と案内されたIPFS直リンク。NFT所有・購入による取得は検証していないが、公開索引に直接VRM URLがあるため収録
+- [ToxSamのオリジナルVRM](https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/toxsam.json) — 作者本人のCC0公開索引から10件を追加。IPFSゲートウェイからの実取得は未検証
 
 - [U-Stella NEW FEE（無料版）](https://booth.pm/ja/items/5447407) — 通常・軽量・shapeのVRM 3種
 - [パチモンしとちゃ](https://booth.pm/ja/items/8535916) — 同一無料ZIPにVRM 1.0／0.xの2種
@@ -109,7 +114,7 @@ VRM 0.x / 1.0のモデル、アバター型と機能検証用モデルを対象�
 
 「無料版」以外の有料編集データや有料機能は、モデルの収録対象に含めません。
 
-**データの正本は上記7つのJSONファイルです。** 200体×2バリエーションを含むため、収録件数は「独立したキャラクターの人数」ではなく「VRM配布物・バリエーションの件数」です。
+**データの正本は上記10個のJSONファイルです。** 200体×2バリエーションを含むため、収録件数は「独立したキャラクターの人数」ではなく「VRM配布物・バリエーションの件数」です。
 
 ## 確認レベル
 

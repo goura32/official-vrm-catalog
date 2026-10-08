@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 // Create preview WebP files from one local VRM, without publishing or rewriting it.
 import { createReadStream } from 'node:fs';
+import { createHash } from 'node:crypto';
 import { access, mkdir, stat, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -32,6 +33,9 @@ async function main() {
   if (!fileStat.isFile() || fileStat.size === 0) throw new Error('No local VRM file');
   const output = path.resolve(args['out-dir']);
   await mkdir(output, { recursive: true });
+  const checksum = createHash('sha256');
+  for await (const chunk of createReadStream(modelPath)) checksum.update(chunk);
+  const modelHash = checksum.digest('hex');
   const server = await createServer({
     root: here, configFile: false,
     server: { host: '127.0.0.1', port: 5186, strictPort: false },
@@ -86,7 +90,13 @@ async function main() {
       result.push({ view, path: target, width: metadata.width, height: metadata.height });
     }
     await page.close();
-    process.stdout.write(JSON.stringify({ catalog_id: args.id, previews: result }) + '\n');
+    const manifest = { catalog_id: args.id, vrm_sha256: modelHash,
+      previews: result.map(({ view, width, height }) => ({
+        view, width, height, filename: args.id + '-' + view + '.webp',
+      })) };
+    await writeFile(path.join(output, args.id + '-previews.json'),
+      JSON.stringify(manifest, null, 2) + '\n', 'utf8');
+    process.stdout.write(JSON.stringify(manifest) + '\n');
   } finally {
     if (browser) await browser.close();
     await server.close();

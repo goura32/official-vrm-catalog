@@ -6,12 +6,12 @@
 
 | ファイル | 収録範囲 | 件数 |
 | --- | --- | ---: |
-| [data/models.json](data/models.json) | 公式・作者配布モデル（過去の調査を含む） | 116 |
+| [data/models.json](data/models.json) | 公式・作者配布モデル（過去の調査を含む） | 146 |
 | [polygonalmind-001-050.json](data/collections/polygonalmind-001-050.json) | Polygonal Mind 001〜050・通常/Voxel | 100 |
 | [polygonalmind-051-100.json](data/collections/polygonalmind-051-100.json) | Polygonal Mind 051〜100・通常/Voxel | 100 |
 | [polygonalmind-101-150.json](data/collections/polygonalmind-101-150.json) | Polygonal Mind 101〜150・通常/Voxel | 100 |
 | [polygonalmind-151-200.json](data/collections/polygonalmind-151-200.json) | Polygonal Mind 151〜200・通常/Voxel | 100 |
-| **合計** | **200キャラクター×2配布版を含む** | **516** |
+| **合計** | **200キャラクター×2配布版を含む** | **546** |
 
 [収録・検証方針](docs/collection-policy.md) ／ [追加調査・保留候補](docs/research-notes.md)
 
@@ -49,6 +49,12 @@ VRM 0.x / 1.0のモデル、アバター型と機能検証用モデルを対象�
 - [TOKYO6公式モデル](https://hub.vroid.com/characters/1420006020727011145/models/3811297975865827284) — 小春六花・夏色花梨・花隈千冬
 - [AITuber OnAir ミコ](https://miko.aituberonair.com/downloads/) — 通常版・チア衣装版
 - [ENRAI 遠雷燕](https://note.com/enraise/n/naaf24a598be2)、[プロ生ちゃん](https://kei.pronama.jp/download/)、[作者・イベントの無料マスコット](https://booth.pm/ja/items/5821373)
+
+- [kanon MK3Dの動物・マスコット](https://booth.pm/ja/items/6179337) — ひよこ、ねこ、いぬ、うさぎ等の無料VRM 11件
+- [shop-perch](https://booth.pm/ja/items/6676231) — 縦ロール、東雲、時雨
+- [A.P.のおみせ](https://booth.pm/ja/items/6050266) — 身長80cm前後のミニアバター
+- [そくかちゅう。「シロ」](https://booth.pm/ja/items/7234388) — VRM 1.0／0.xの両方
+- [オリジナルの無料VRM](https://booth.pm/ja/items/6018415) — 人物型・マスコット・練習用など作者本人の配布物
 
 「無料版」以外の有料編集データや有料機能は、モデルの収録対象に含めません。
 

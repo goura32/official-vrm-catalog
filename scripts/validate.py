@@ -21,6 +21,14 @@ for item in items:
         assert urlparse(item["download_url"]).scheme == "https"
         assert item["download_url"].endswith(".vrm")
     assert item["vrm_version"] in ("0.x", "1.0", None)
+    if "distribution_size_bytes" in item:
+        assert type(item["distribution_size_bytes"]) is int and item["distribution_size_bytes"] > 0
+    if "binary_evidence" in item:
+        evidence = item["binary_evidence"]
+        assert item["verification"] == "official_binary_metadata_confirmed"
+        assert evidence["glb_version"] == 2
+        assert evidence["vrm_spec_version"] == item["vrm_version"]
+        assert len(evidence["github_blob_sha"]) == 40
     if "distribution_filename" in item:
         assert isinstance(item["distribution_filename"], str)
         assert "/" not in item["distribution_filename"]

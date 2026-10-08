@@ -6,13 +6,13 @@
 
 | ファイル | 収録範囲 | 件数 |
 | --- | --- | ---: |
-| [data/models.json](data/models.json) | 公式・作者配布モデル（過去の調査を含む） | 373 |
+| [data/models.json](data/models.json) | 公式・作者配布モデル（過去の調査を含む） | 415 |
 | [polygonalmind-001-050.json](data/collections/polygonalmind-001-050.json) | Polygonal Mind 001〜050・通常/Voxel | 100 |
 | [polygonalmind-051-100.json](data/collections/polygonalmind-051-100.json) | Polygonal Mind 051〜100・通常/Voxel | 100 |
 | [polygonalmind-101-150.json](data/collections/polygonalmind-101-150.json) | Polygonal Mind 101〜150・通常/Voxel | 100 |
 | [polygonalmind-151-200.json](data/collections/polygonalmind-151-200.json) | Polygonal Mind 151〜200・通常/Voxel | 100 |
 | [mjmoonbow-fantasy.json](data/collections/mjmoonbow-fantasy.json) | MJMoonbow原作者公開のCC0ファンタジー系VRM | 18 |
-| **合計** | **200キャラクター×2配布版を含む** | **791** |
+| **合計** | **200キャラクター×2配布版を含む** | **833** |
 
 [収録・検証方針](docs/collection-policy.md) ／ [追加調査・保留候補](docs/research-notes.md)
 
@@ -84,6 +84,9 @@ VRM 0.x / 1.0のモデル、アバター型と機能検証用モデルを対象�
 - [teoteomeの青年・女装・闇落ち](https://booth.pm/ja/items/3400424)、[VRM7種](https://booth.pm/ja/items/3406272)、[直接VRM9ファイル](https://booth.pm/ja/items/5152451) — 商品ページで無料公開される仕様・衣装違いのモデルを個別登録
 - [ねこみ商店 Fine](https://booth.pm/ja/items/8019545) — 5つの異なる無料配布版を収録（商品更新版番号とVRM規格は別）
 - [MAYURA](https://booth.pm/ja/items/6134913)、[(K)night](https://booth.pm/ja/items/8177922)、[アクシス](https://booth.pm/ja/items/8578608) — 作者配布の無料VRM、サイズ違い・利用条件を記録
+- [CLEAR Linkのシエル](https://booth.pm/ja/items/4588114)・[フルリール](https://booth.pm/ja/items/5105685)・[スミレ](https://booth.pm/ja/items/4657771)・[セドリック](https://booth.pm/ja/items/4642811) — 合計16件の無料VRM版・衣装違い
+- [完熟スライムの小屋のぷちくらげ](https://booth.pm/ja/items/7227119)・[ノッポスライム](https://booth.pm/ja/items/6037662)・[ヘンテココトリ](https://booth.pm/ja/items/5588580) — 色違いや機能違いを配布ファイル単位で登録
+- [Aisling](https://booth.pm/ja/items/3243995)・[ぽめ助](https://booth.pm/ja/items/5845815)・[SiNE DOLL 473おためし版](https://booth.pm/ja/items/4175132)・[Niumuの無料モデル](https://booth.pm/ja/items/7424576) — 無料版のみを収録
 
 「無料版」以外の有料編集データや有料機能は、モデルの収録対象に含めません。
 

@@ -6,12 +6,13 @@
 
 | ファイル | 収録範囲 | 件数 |
 | --- | --- | ---: |
-| [data/models.json](data/models.json) | 公式・作者配布モデル（過去の調査を含む） | 216 |
+| [data/models.json](data/models.json) | 公式・作者配布モデル（過去の調査を含む） | 241 |
 | [polygonalmind-001-050.json](data/collections/polygonalmind-001-050.json) | Polygonal Mind 001〜050・通常/Voxel | 100 |
 | [polygonalmind-051-100.json](data/collections/polygonalmind-051-100.json) | Polygonal Mind 051〜100・通常/Voxel | 100 |
 | [polygonalmind-101-150.json](data/collections/polygonalmind-101-150.json) | Polygonal Mind 101〜150・通常/Voxel | 100 |
 | [polygonalmind-151-200.json](data/collections/polygonalmind-151-200.json) | Polygonal Mind 151〜200・通常/Voxel | 100 |
-| **合計** | **200キャラクター×2配布版を含む** | **616** |
+| [mjmoonbow-fantasy.json](data/collections/mjmoonbow-fantasy.json) | MJMoonbow原作者公開のCC0ファンタジー系VRM | 18 |
+| **合計** | **200キャラクター×2配布版を含む** | **659** |
 
 [収録・検証方針](docs/collection-policy.md) ／ [追加調査・保留候補](docs/research-notes.md)
 
@@ -68,6 +69,12 @@ VRM 0.x / 1.0のモデル、アバター型と機能検証用モデルを対象�
 - [あいすくん](https://booth.pm/ja/items/5950129)・[冬版](https://booth.pm/ja/items/6419264)・[VOLO](https://booth.pm/ja/items/6139844) — 小型・ボクセルマスコット
 - [オリジナル無料VRM（たわショップ）](https://booth.pm/ja/items/5408796)・[ドールシープ](https://booth.pm/ja/items/4875752)・[魔法少女すもも](https://booth.pm/ja/items/8925032) — 直接VRMを配布
 
+- [MJMoonbowのCC0 VRM](https://github.com/MJMoonbow/VRMavatars) — ファンタジー系・スキニー系18件（2バイトの無効な.vrmファイル5件は除外）
+- [Kado購買部「フロウ」](https://booth.pm/ja/items/8118323) — 薄型、Ver.2/3、メモリアル衣装、Perfect Syncなど9件
+- [彩瞳 Ayame](https://booth.pm/ja/items/3126282) — 新旧の無料VRMセット2件（商品版番号はVRM仕様版とは別）
+- [ほしうさ](https://booth.pm/ja/items/2556708)・[リウォレ](https://booth.pm/ja/items/4458219) — 配布ZIPに複数VRMを明記
+- [小型VRM](https://booth.pm/ja/items/6594471)・[PURIN](https://booth.pm/ja/items/5082441) — VRM単体・複数バリエーションの無料配布
+
 「無料版」以外の有料編集データや有料機能は、モデルの収録対象に含めません。
 
 **データの正本は上記5つのJSONファイルです。** 200体×2バリエーションを含むため、収録件数は「独立したキャラクターの人数」ではなく「VRM配布物・バリエーションの件数」です。
@@ -114,7 +121,7 @@ python3 scripts/validate.py
 
 ## ローカル取得したVRMの調査
 
-GitHub経由でバイナリ本文を取得できなかった大型VRMや、ログインして入手したBOOTHのVRM/ZIPは、後日の実機確認でローカル解析できます。**原本の永続保存先は `/mnt/hdd/vrm` とし、収録拡充が済むまでダウンロード・実機確認を行いません。****VRMファイルやZIP本体はGitHubに追加しないでください。**
+GitHub経由でバイナリ本文を取得できなかった大型VRMや、ログインして入手したBOOTHのVRM/ZIPは、後日の実機確認でローカル解析できます。**原本の永続保存先は `/mnt/hdd/vrm` とし、収録拡充が済むまでダウンロード・実機確認を行いません。** **VRMファイルやZIP本体はGitHubに追加しないでください。**
 
 ```bash
 python3 scripts/inspect_vrm.py /path/to/Seed-san.vrm /path/to/model-pack.zip

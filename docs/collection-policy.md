@@ -104,7 +104,7 @@ BOOTHの `booth.pm/ja/items/...` 共通ページは0円配布として表示さ�
 
 ## NAS保存方式（2026-10-08決定）
 
-**保存ルールの正本は [NAS保存方式](nas-storage.md)。** `/mnt/hdd/vrm/files/<catalog_id>.vrm.zst` に**人型VRM本体だけ**をロスレス圧縮して保存し、`/mnt/hdd/vrm/index.jsonl` で元のモデル名、カタログID、配布先、未圧縮SHA-256と紐付ける。ZIP原本や非VRMファイルは一時取得・抽出後に削除する。元のVRMを再展開してハッシュが一致することを保存条件とする。実機検証は後日Hermes Agentが担当する。
+**保存ルールの正本は [NAS保存方式](nas-storage.md)。** `/mnt/hdd/vrm/models/` に**人型VRM本体だけ**を個別に可逆圧縮（ZIP/zstdは実測で選定）し、`/mnt/hdd/vrm/previews/` にTポーズ全身・顔のWebPを別保存する。`index.jsonl` でモデル名、カタログID、配布先、未圧縮SHA-256、画像パスを紐付ける。ZIP原本や非VRMファイルは一時取得・抽出後に削除する。元のVRMを再展開してハッシュが一致することを保存条件とする。実機検証は後日Hermes Agentが担当する。
 
 ## Polygonal Mind 100Avatarsについて
 
@@ -145,4 +145,4 @@ BOOTHの `booth.pm/ja/items/...` 共通ページは0円配布として表示さ�
 - 収録した各アイテムには `format: VRM`、`is_public: true`、NFT番号・メタデータ、`https://dweb.link/ipfs/...` または `https://gateway.pinata.cloud/ipfs/...` のVRMファイルURLがある。**カタログが扱うのは公開されたファイルの取得先**であり、NFTそのものの購入・保有・ミントは対象外。
 - **未確認事項**：IPFSゲートウェイの現在のHTTP応答、閲覧時のトークン認証や実ダウンロードの成否、ハッシュ照合、内部のVRM仕様バージョンとGLB検証、ライセンスの埋め込みメタデータ。公開URLの存在は購入不要な実取得に成功したことを意味しない。これらのモデルは `creator_index_direct_url_listed_download_untested` として記録する。
 - 将来的にモデルの取得にNFT購入・保有や有料会員資格が不可欠と判明した場合は収録対象から除外する。無料会員登録・ログイン・年齢確認のみなら除外しない。
-- 実機確認ではHermes Agentが人型VRMのみを個別にzstd圧縮し、`/mnt/hdd/vrm` 以下に保存する。NFT関連ページやIPFSリンクを経由した場合もカタログIDと未圧縮VRMのSHA-256を[保存索引](nas-storage.md)に対応させる。元の配布ZIPやVRM/圧縮実体をGitHubに公開しない。
+- 実機確認ではHermes Agentが人型VRMを個別にZIPまたはzstdで可逆圧縮し、Tポーズ・顔WebPとともに`/mnt/hdd/vrm`以下に保存する。圧縮方式は実測で決める。NFT関連ページやIPFSリンクを経由した場合もカタログIDと未圧縮VRMのSHA-256を[保存索引](nas-storage.md)に対応させる。元の配布ZIPやVRM/圧縮実体をGitHubに公開しない。

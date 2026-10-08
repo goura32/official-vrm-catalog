@@ -20,6 +20,14 @@
 - [ミニ東北ずん子](https://booth.pm/ja/items/7304550) と [ミニずんだもん](https://booth.pm/ja/items/7304529)：BOOTHの商品ページで公式配布の無料ZIPを確認。実ZIP未解析につきバージョンは不明。
 - [あまね](https://booth.pm/ja/items/4911831)：Type-1〜4の通常版と素体版、計8ファイルを0円で配布と明記。
 
+## 2026-10-08 追加収録・要注意
+
+- [あいす](https://booth.pm/ja/items/7938475)：無料のVRM 0.x / 1.0は別ファイル。VRoid編集データは有料で収録対象外。無料のPDF規約本文は未取得。
+- [Frii](https://booth.pm/ja/items/6168778)：無料のVRMが2種類あるが、`Frii.vrm` の規格版は未確認。
+- [Small Black White Bear Girl](https://booth.pm/ja/items/6835336) と [2](https://booth.pm/ja/items/6839545)、[練習用Black Bear](https://booth.pm/ja/items/6820844)：別商品・別VRMとして収録。
+- [standalone ALPHA](https://booth.pm/ja/items/7851789)：無料の試用版だけ収録（有料フルパッケージは対象外）。
+- [いものアバター](https://booth.pm/ja/items/8595180)：無料VRM本体のみ収録。有料の色違い・追加テクスチャは対象外。
+
 ## 次の確認
 
 - 公式配布ページの実ダウンロード／認証の要否（購入不要である限り認証は除外理由にしない）

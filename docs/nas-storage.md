@@ -105,10 +105,10 @@ python3 -m unittest discover -s tests -v
 python3 scripts/verify_nas.py --nas-root /mnt/hdd/vrm
 ```
 
-`ok: true`かつ`errors: []`であることをNAS処理の完了条件とする。**実行するまで検査済みと記載しない**。実機作業の継続指示は[Hermes Agent R3以降の一括プロンプト](hermes-bulk-resume.md)へ集約し、完了済み87件と保留IDを再処理しない。
+`ok: true`かつ`errors: []`であることをNAS処理の完了条件とする。**実行するまで検査済みと記載しない**。実機作業の継続指示は[Hermes Agent R3以降の一括プロンプト](hermes-bulk-resume.md)へ集約し、保存済みIDと権利保留IDを再処理しない。
 
 ## 実行状況
 
-- **完了**：実VRM 3件のZIP/zstd比較でZIPを採用。NASには87件のVRM ZIPとWebPプレビュー174枚を保存。`verify_nas.py`最終監査は`ok: true`、`errors: []`、ZIP 87件、プレビュー174枚。
-- **形状・プレビュー**：R3は88件の実VRMで人型外形を確認し、12件を作者画像から取得前に非人型として除外。1件は正面Tポーズと顔の向きが揃わず保存保留。圧縮前後の実サイズとSHA-256は[実機検証レポート](hermes-bulk-run-results.md)を参照。
-- **保留・未完了**：MJMoonbowの1件は公開CC0表示と埋込再配布禁止が矛盾し一時物を削除。R3以外の1,196件は未実体検証。NFS I/O待ちと書込み専用ロックファイルへの対応、タイムアウト後に整合性を確認して索引へ復旧した1件、再開方法は実機レポートを参照。GitHub ActionsやRDCは使用していない。
+- **完了**：ZIP Deflate level 6を統一採用。NASにはR3 87件とR1/R2 243件、計330件のVRM ZIPとWebPプレビュー660枚を保存。最終`verify_nas.py`監査は`ok: true`、`errors: []`、形式はZIPのみ。
+- **形状・プレビュー**：R3は88実VRM中87保存。R1/R2は400実VRM中397件を描画し、243人型保存、150非人型除外、4件形状保留。各保存物の実サイズ、SHA-256、プレビュー監査は[実機検証レポート](hermes-bulk-run-results.md)を参照。
+- **保留・未完了**：MJMoonbow 1件とR1/R2 3件は権利保留。R3-229はプレビュー品質保留。R3/R1/R2以外の797件は未実体検証。NFSの復旧記録・チェックポイントは実機レポート参照。GitHub ActionsやRDCは使用していない。

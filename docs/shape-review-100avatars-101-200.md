@@ -1,10 +1,10 @@
-# 100Avatars 101–200：形状確認用プレビュー
+# 100Avatars 101–200：作者PNGテクスチャとID対応
 
-原作者[Polygonal Mind/100Avatars](https://github.com/PolygonalMind/100Avatars)で確認した各番号のPNG画像。**VRMファイルをダウンロードせず、見た目の候補判定を行うための一覧**。
-ここに画像があることだけで「人型」と確定しない。標準版とVoxel版は同一番号に対応するが、構造差異があり得るため両方の分類は実際の形状証拠が必要。
-画像の表示可否、リンクの現在のHTTP状態は未検証。分類は[download-scope.json](../data/download-scope.json)で管理し、画像URLを取得許可と混同しない。
+原作者[Polygonal Mind/100Avatars](https://github.com/PolygonalMind/100Avatars)の各番号のPNGファイルとカタログIDの対応表。今回ダウンロードして確認したPNGはUV/アルベドテクスチャであり、**3Dモデルの作者プレビューや外形画像ではないため、人型・非人型の判定根拠に使わない**。
+標準版とVoxel版は同一番号に対応するが、別々のVRMとして個別に取得・描画・判定する。形状分類は[download-scope.json](../data/download-scope.json)で管理する。
+R1/R2の全400件は実VRMを取得してプレビューを生成済み。実機結果は[一括実行レポート](hermes-bulk-run-results.md)を参照。
 
-| 作者プレビュー | 対応するカタログID（未判定） |
+| 作者PNGテクスチャ | 対応するカタログID |
 | --- | --- |
 | [<img src="https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_101/100Avatars_101_EggBoy.png" alt="101 100Avatars 101 EggBOY" width="120">](https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_101/100Avatars_101_EggBoy.png) | **101 100Avatars 101 EggBOY**<br>`polygonalmind-100avatars-101-standard`<br>`polygonalmind-100avatars-101-voxel` |
 | [<img src="https://raw.githubusercontent.com/PolygonalMind/100Avatars/master/100Avatars_102/100Avatars_102_BizDude.png" alt="102 100Avatars 102 Bizdude" width="120">](https://github.com/PolygonalMind/100Avatars/blob/master/100Avatars_102/100Avatars_102_BizDude.png) | **102 100Avatars 102 Bizdude**<br>`polygonalmind-100avatars-102-standard`<br>`polygonalmind-100avatars-102-voxel` |

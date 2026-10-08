@@ -8,7 +8,7 @@ catalog = json.loads((Path(__file__).resolve().parents[1] / "data" / "models.jso
 assert catalog["schema_version"] == 1
 items = catalog["models"]
 ids = set()
-methods = {"direct_vrm", "vroid_hub_vrm", "vroid_studio_export"}
+methods = {"direct_vrm", "vroid_hub_vrm", "vroid_studio_export", "official_page_download", "booth_free_download"}
 for item in items:
     for field in ("id", "name", "publisher", "source_url", "access_method", "license_name", "license_url", "verification", "checked_at"):
         assert item.get(field), f"{item.get('id', '?')}: missing {field}"
@@ -21,4 +21,6 @@ for item in items:
         assert urlparse(item["download_url"]).scheme == "https"
         assert item["download_url"].endswith(".vrm")
     assert item["vrm_version"] in ("0.x", "1.0", None)
+    assert item["kind"] in ("avatar", "feature-test")
+    assert isinstance(item["features"], list)
 print(f"OK: {len(items)} models, {len(ids)} unique IDs")

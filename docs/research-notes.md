@@ -301,3 +301,19 @@ BOOTHの作者ページで0円のVRMまたはVRM入りZIPの掲載と個別の�
 **収録保留**：[skiyoshi Phoenix](https://booth.pm/ja/items/2329754)は商品共通ページに0円のVRM入りZIPが表示される一方、ショップトップのカードに500円と表示されていたため、公開状態・取得条件を再確認するまで収録しない。第三者作品の非公式ファンアバターや、テクスチャ・衣装だけのダウンロード商品も対象外。
 
 **実機確認待ち**：0円商品であっても取得成功を保証しない。認証・会員登録・年齢確認が必要でも購入不要なら収録対象。収録件数拡充後のHermes Agent一括検証でファイル内部と規約を確認し、原本を `/mnt/hdd/vrm` に永続保存する。原本のGitHubアップロードはしない。
+
+## 2026-10-08 追加収録：1,060→1,210件（+150件）
+
+制作者と関係するGitHub公開インデックス `ToxSam/open-source-avatars` の `projects.json` と個別 `data/avatars/*.json` を確認し、独立した3コレクションファイルに150件を追加した。GitHub掲載の各メタデータについてVRM形式、公開フラグ、直リンクURL、重複、ID/トークン番号を照合した。
+
+| コレクション | 新規件数 | 証拠・収録方法 |
+| --- | ---: | --- |
+| [Polygonal Mind Halloween Rising](https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/halloween-rising.json) | 60 | `projects.json` で `creator_id: Polygonal-Mind`, `license: CC0`, `is_public: true`。60件すべて `format: VRM`, `is_public: true`, `is_draft: false`、相異なるVRM直リンクであることを確認。トークン番号1〜60が揃い、`Avatar01_v1_Cute_Pink.vrm`等の実配布ファイル名を掲載。 |
+| [Polygonal Mind Xmas Chibis](https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/xmas-chibis.json) | 80 | 同じくCC0表記。80件のVRM形式・個別ファイル名とURL、番号1〜80の連続性とURL重複ゼロを確認。例：`Avatar01_Neutral.vrm`〜`Avatar16_Pastel.vrm`。 |
+| [ToxSam オリジナル](https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/toxsam.json) | 10 | `creator_id: toxsam`, `license: CC0`。Orion、Aurora、Chubby Tubby Cat、The Worm、EYE Zealot、FrostyBoogie、EYE Diviner、MaxHax、Crustybutt da king、King Mutatio。GitHubメタデータ上で10件すべて公開、VRM形式、URL一意であることを確認。 |
+
+制作者の公開作品索引（`projects.json`）は[ToxSamのリポジトリ](https://github.com/ToxSam/open-source-avatars)にあり、[Polygonal Mindの作者公式README](https://github.com/PolygonalMind/100Avatars/blob/master/README.md)にはToxSam（Daniel Garcia）とPolygonal Mindの関係が記載されている。ただし**掲載者・作品権利者の関係、および作品の現在のライセンス条件は原本取得時に再確認**する。
+
+**今回の対象選定**：両シリーズとToxSamオリジナルはNFTのメタデータを併記する一方、直接 `https://dweb.link/ipfs/...` あるいは `https://gateway.pinata.cloud/ipfs/...` にある `.vrm` ファイルのURLも公開されている。カタログはNFTの売買・所有情報を登録せず、無償で取得可能と案内されたVRMファイルの**公開取得先**を掲載する。実HTTP応答・NFT所有なしのダウンロード成功は未確認のため、 `verification: creator_index_direct_url_listed_download_untested` とする。
+
+**見送った候補**：ToxSam管理の他コレクション（VIPE Heroes、Grifters Squaddies、NeonGlitch86など）は、規約・権利者自身の配布か・多量のファイルURLの実在を今回独立に確認しきれないため未登録。VRM本体の実取得・VRM規格/GLB解析や表示・動作確認も今回の作業範囲外。後日のHermes Agent一括検証時に `/mnt/hdd/vrm` に原本を永続保存する。

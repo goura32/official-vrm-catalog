@@ -13,12 +13,13 @@
 
 ## 記録の原則
 
-- 1モデルを1レコードにする。データは `data/models.json` を正とし、スクリプトは補助。
+- 1つの取得物・仕様版を1レコードにする。同一キャラクターでもVRM 0.x/1.0やLOW/HIGHなど配布物が異なれば分ける。データは `data/models.json` を正とし、スクリプトは補助。
 - `source_url`: 配布根拠。個別モデルページがなければモデル群の公式説明ページ。
 - `download_url`: **確認できた直接VRMファイルURLだけ**を記録。ログイン画面や公式アプリの操作で取得するものは `null`。
-- `access_method`: 直接VRM取得・Hub経由・無料エディタ書き出しを区別。
+- `access_method`: 直接VRM取得・Hub経由・無料エディタ書き出し・公式ページ・BOOTH無料配布を区別。
 - `vrm_version`: 未検証なら `null`。旧形式は `0.x` と記録。
 - `license_url`: 公開された利用条件へのリンク。権利の許諾可否を推測して記載しない。
+- `notes`: 調査で確認した重要な制限や未確認事項。商用利用などはライセンス名称だけで判断しない。
 - `verification`: どこまで確認したかを過大に記載しない。
 
 ## 未検証事項
@@ -33,3 +34,9 @@
 - [VRoid StudioのAvatarSample A〜Z（無料・利用条件・HubのA〜C）](https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z)
 - [VRoid Studioのサンプルモデル利用方法](https://vroid.pixiv.help/hc/ja/articles/31627266179865)
 - [VRoid Studio公式サイト](https://vroid.com/studio)
+
+## 今回追加した公式配布元
+
+- [キズナアイ KAMATTE AI (VRM 1.x / 0.x)](https://kizunaai.com/download/kamatteaimodel/)
+- [モノ御楠ルナ（LOW / HIGH、BOOTHの各0円配布）](https://booth.pm/ja/items/2091095)
+- [ぞん子 3D MODEL type-N](https://zonko.zone-energy.jp/3dmodel) — [公式ライセンス](https://zone-energy.jp/3dmodel/terms.pdf)

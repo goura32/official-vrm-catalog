@@ -16,7 +16,8 @@
 | [polygonalmind-halloween-rising.json](data/collections/polygonalmind-halloween-rising.json) | Halloween Rising・Polygonal Mind制作CC0 VRMの公開IPFS URL | 60 |
 | [polygonalmind-xmas-chibis.json](data/collections/polygonalmind-xmas-chibis.json) | Xmas Chibis・Polygonal Mind制作CC0 VRMの公開IPFS URL | 80 |
 | [toxsam-originals.json](data/collections/toxsam-originals.json) | ToxSam本人によるCC0 VRMの公開IPFS URL | 10 |
-| **合計** | **200キャラクター×2配布版を含む** | **1,210** |
+| [neonglitch86-models.json](data/collections/neonglitch86-models.json) | NeonGlitch86制作者GitHub・作者登録コレクションの無料公開VRM | 36 |
+| **合計** | **200キャラクター×2配布版を含む** | **1,246** |
 
 [収録・検証方針](docs/collection-policy.md) ／ [追加調査・保留候補](docs/research-notes.md)
 
@@ -51,6 +52,7 @@ VRM 0.x / 1.0のモデル、アバター型と機能検証用モデルを対象�
 - [Polygonal Mind 100Avatars R3](https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json) — 第3弾201〜300の100件。作者索引のArweave VRM直リンクを記録（実取得・バイナリ未検証）
 - [Halloween Rising](https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/halloween-rising.json)（60件）・[Xmas Chibis](https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/xmas-chibis.json)（80件） — Polygonal Mind制作でCC0と案内されたIPFS直リンク。NFT所有・購入による取得は検証していないが、公開索引に直接VRM URLがあるため収録
 - [ToxSamのオリジナルVRM](https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/toxsam.json) — 作者本人のCC0公開索引から10件を追加。IPFSゲートウェイからの実取得は未検証
+- [NeonGlitch86公開VRM](https://github.com/neonglitch86/vrm) — GitHubのVRM34件と[作者登録コレクション](https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/NeonGlitch86.json)由来のIPFS 2件。**うち33件はGitHubで無料公開されているが個別の利用許諾は未確認**で、CC0を一律適用しない
 
 - [U-Stella NEW FEE（無料版）](https://booth.pm/ja/items/5447407) — 通常・軽量・shapeのVRM 3種
 - [パチモンしとちゃ](https://booth.pm/ja/items/8535916) — 同一無料ZIPにVRM 1.0／0.xの2種
@@ -114,7 +116,7 @@ VRM 0.x / 1.0のモデル、アバター型と機能検証用モデルを対象�
 
 「無料版」以外の有料編集データや有料機能は、モデルの収録対象に含めません。
 
-**データの正本は上記10個のJSONファイルです。** 200体×2バリエーションを含むため、収録件数は「独立したキャラクターの人数」ではなく「VRM配布物・バリエーションの件数」です。
+**データの正本は上記11個のJSONファイルです。** 200体×2バリエーションを含むため、収録件数は「独立したキャラクターの人数」ではなく「VRM配布物・バリエーションの件数」です。
 
 ## 確認レベル
 

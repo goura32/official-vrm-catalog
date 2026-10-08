@@ -8253,6 +8253,675 @@
       "verification": "official_free_distribution_listed_download_untested",
       "checked_at": "2026-10-08",
       "notes": "¥0でVRMのみのZIP。VRoid編集・PSD入り版は有料。商品版番号v1.0はVRM仕様バージョンではない。商用利用は禁止（要相談）。 商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。"
+    },
+    {
+      "id": "pike-choco-orange",
+      "name": "ChocoOrange",
+      "publisher": "ぴケの創作屋さん",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5514001",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "_free_VRoid_VRM_ChocoOrange_ぴケの創作屋さん_.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/5514001",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "オレンジチョコレート風のオリジナル3Dアバター。 作者ページで無料VRMと記載し、有料版のフルセットと区別。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+    },
+    {
+      "id": "pike-wings",
+      "name": "Wings",
+      "publisher": "ぴケの創作屋さん",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5578944",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "_free_VRoid_VRM_Wings_ぴケの創作屋さん_.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/5578944",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "天使・悪魔イメージのアバター。説明中のwhite wing/black wingが独立VRMかはZIP未解析のため1件のみ。 作者ページで無料VRMと記載し、有料版のフルセットと区別。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+    },
+    {
+      "id": "pike-yumeiro-rainy",
+      "name": "Yumeiro Rainy",
+      "publisher": "ぴケの創作屋さん",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4822659",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "_無料版_free_VRoid_VRM_Yumeiro_Rainy_ぴケの創作屋さん_.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/4822659",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "梅雨モチーフのVRM配布。Ajisai/Snailの各bodyが独立VRMか未確認。 作者ページで無料VRMと記載し、有料版のフルセットと区別。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+    },
+    {
+      "id": "pike-rainy-sunny",
+      "name": "Rainy Sunny",
+      "publisher": "ぴケの創作屋さん",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5895241",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "_free_VRoid_VRM_rainy_sunny_ぴケの創作屋さん_.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/5895241",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "晴れと雨をイメージしたVRM。作者説明中のRainy Cat/Sunny RabbitのVRM実体数は未確認。 作者ページで無料VRMと記載し、有料版のフルセットと区別。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+    },
+    {
+      "id": "pike-aurora",
+      "name": "Aurora",
+      "publisher": "ぴケの創作屋さん",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5353568",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "_無料版_free_VRoid_VRM_Aurora_ぴケの創作屋さん_.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/5353568",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "オーロラモチーフの無料アバター。 作者ページで無料VRMと記載し、有料版のフルセットと区別。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+    },
+    {
+      "id": "pike-sakura-uniform",
+      "name": "sakura uniform",
+      "publisher": "ぴケの創作屋さん",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5677182",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "_free_VRoid_VRM_sakura_uniform_ぴケの創作屋さん_.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/5677182",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "桜・制服のアバター。作者説明にA/Bがあるが独立VRM数は確認できないため一旦1件とする。 作者ページで無料VRMと記載し、有料版のフルセットと区別。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+    },
+    {
+      "id": "pike-clown-doll",
+      "name": "Clown doll",
+      "publisher": "ぴケの創作屋さん",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4244865",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "_free_VRoid_VRM_Clown_doll_ぴケの創作屋さん_.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/4244865",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "無料のClown doll A VRM版。有料版のdoll Bは収録しない。 作者ページで無料VRMと記載し、有料版のフルセットと区別。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+    },
+    {
+      "id": "pike-red-dragon",
+      "name": "赤龍",
+      "publisher": "ぴケの創作屋さん",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5452012",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "_free_VRoid_VRM_赤龍_ぴケの創作屋さん_.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/5452012",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "龍をイメージしたパンクアバター。説明上のA/BはZIP未解析で別VRMと断定しない。 作者ページで無料VRMと記載し、有料版のフルセットと区別。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+    },
+    {
+      "id": "pike-monster-animal",
+      "name": "Monster Animal",
+      "publisher": "ぴケの創作屋さん",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5107432",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "_無料版_free_VRoid_VRM_Monster_Animal_ぴケの創作屋さん_.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/5107432",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "ハロウィン動物キャラクター。Zombie Rabbit/Vampire Sheep各bodyが別VRMかは未確認。 作者ページで無料VRMと記載し、有料版のフルセットと区別。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+    },
+    {
+      "id": "pike-steam-punk-cat",
+      "name": "Steam Punk Cat",
+      "publisher": "ぴケの創作屋さん",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4748888",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "_無料版_free_VRoid_VRM_Steam_PunkCat_ぴケの創作屋さん_.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/4748888",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "すぐに使用できる猫人間のスチームパンクアバターと作者が説明。 作者ページで無料VRMと記載し、有料版のフルセットと区別。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+    },
+    {
+      "id": "pike-monotone-blossom",
+      "name": "Monotone Blossom",
+      "publisher": "ぴケの創作屋さん",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4680754",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "_無料版_free_VRoid_VRM_Monotone_Blossom_ぴケの創作屋さん_.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/4680754",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "モノクロ桜のアバターセット。作者説明にouter A/Bがあるが独立VRM数未確認。 作者ページで無料VRMと記載し、有料版のフルセットと区別。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+    },
+    {
+      "id": "pike-moon-night",
+      "name": "Moon night",
+      "publisher": "ぴケの創作屋さん",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5167120",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "_無料版_free_VRoid_VRM_Moon__night_ぴケの創作屋さん_.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/5167120",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "インナーカラーの魔女セット。blue/redの独立VRM有無は未確認。 作者ページで無料VRMと記載し、有料版のフルセットと区別。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+    },
+    {
+      "id": "pike-snowflake",
+      "name": "Snowflake",
+      "publisher": "ぴケの創作屋さん",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5295098",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "_無料版_free_VRoid_VRM_Snowflake_ぴケの創作屋さん_.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/5295098",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "雪の結晶をイメージした冬服VRM。説明中のA/Bが別VRMか未確認。 作者ページで無料VRMと記載し、有料版のフルセットと区別。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+    },
+    {
+      "id": "pike-steam-rabbit",
+      "name": "Steam Rabbit",
+      "publisher": "ぴケの創作屋さん",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4468213",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "_Free_VRoid_VRM_Steam_Rabbit_ぴケの創作屋さん_.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/4468213",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "うさぎ風スチームパンク衣装を含むVRM。White/Black追加色とPSDは有料版専用。 作者ページで無料VRMと記載し、有料版のフルセットと区別。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+    },
+    {
+      "id": "yonagi-emil",
+      "name": "エミル（#00）",
+      "publisher": "夜凪の隠れ家",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5361030",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "_00_emil_-エミル-.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/5361030",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者制作のVRoid Studio製VRM。 アバターの改変・配信・収益化配信可、再配布・自作発言禁止。有料.vroidは収録しない。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+    },
+    {
+      "id": "yonagi-haruko",
+      "name": "はる子（#01）",
+      "publisher": "夜凪の隠れ家",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5568171",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "_01_はる子_vrm.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/5568171",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者制作のVRoid Studio製VRM。 アバターの改変・配信・収益化配信可、再配布・自作発言禁止。有料.vroidは収録しない。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+    },
+    {
+      "id": "yonagi-kirari",
+      "name": "きらり（#02）",
+      "publisher": "夜凪の隠れ家",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5638883",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "きらり_vrm.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/5638883",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者制作のVRoid Studio製VRM。 アバターの改変・配信・収益化配信可、再配布・自作発言禁止。有料.vroidは収録しない。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+    },
+    {
+      "id": "yonagi-hayato-hifumi",
+      "name": "はやと＆ひふみ（#03）",
+      "publisher": "夜凪の隠れ家",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5655005",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "はやとひふみ_vrm.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/5655005",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者は双子2人と説明。ZIP内のVRMが2本かは未確認で1配布モデルとして仮登録。 アバターの改変・配信・収益化配信可、再配布・自作発言禁止。有料.vroidは収録しない。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+    },
+    {
+      "id": "yonagi-luna",
+      "name": "ルーナ（#04）",
+      "publisher": "夜凪の隠れ家",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5752643",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "_04_ルーナ.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/5752643",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者制作のVRoid Studio製VRM。 アバターの改変・配信・収益化配信可、再配布・自作発言禁止。有料.vroidは収録しない。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+    },
+    {
+      "id": "yonagi-mint",
+      "name": "みんと（#05）",
+      "publisher": "夜凪の隠れ家",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5940674",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "みんと_vrm.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/5940674",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者制作のVRoid Studio製VRM。 アバターの改変・配信・収益化配信可、再配布・自作発言禁止。有料.vroidは収録しない。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+    },
+    {
+      "id": "starria-mizki-00",
+      "name": "Mizki（0.0と表示されたVRM）",
+      "publisher": "star-ria",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "package-version"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/6016249",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "Gal_base_body0.0.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/6016249",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "原作者が0円のVRM版を2つ掲載したうち0.0と表示された版。『VRoid ver.』表記のみでVRM内部仕様バージョンの保証とはみなさない。VRoid Project File ZIPは同じキャラの編集用データなので別計上しない。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+    },
+    {
+      "id": "starria-mizki-10",
+      "name": "Mizki（1.0と表示されたVRM）",
+      "publisher": "star-ria",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "package-version"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/6016249",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "Gal_base_body1.0.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/6016249",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "原作者が0円で公開した1.0表示版。仕様バージョンはZIPのGLB未解析のためnull。再配布・作者詐称は禁止。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+    },
+    {
+      "id": "sanacou-homura-standard",
+      "name": "水瀬ほむら（通常）",
+      "publisher": "沙七の水面",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/6848740",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "水瀬ほむら.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/6848740",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が直接0円公開する3種の異なるVRM。人物型・商用利用可。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+    },
+    {
+      "id": "sanacou-homura-mesh-removed",
+      "name": "水瀬ほむら（メッシュ削除版）",
+      "publisher": "沙七の水面",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "lightweight"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/6848740",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "水瀬ほむら_メッシュ削除.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/6848740",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が直接0円公開する3種の異なるVRM。人物型・商用利用可。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+    },
+    {
+      "id": "sanacou-homura-perfect-sync",
+      "name": "水瀬ほむら（Perfect Sync版）",
+      "publisher": "沙七の水面",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "perfect-sync"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/6848740",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "水瀬ほむら_ps.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/6848740",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が直接0円公開する3種の異なるVRM。人物型・商用利用可。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+    },
+    {
+      "id": "avatarshop-rai",
+      "name": "らい",
+      "publisher": "Avatar Shop",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/8436605",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "らい.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/8436605",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者による0円の直接VRM。併売の.xavatarは同モデルの別形式として計上しない。改変可・再配布禁止。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+    },
+    {
+      "id": "avatarshop-sora",
+      "name": "そら",
+      "publisher": "Avatar Shop",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/8436291",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "そら.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/8436291",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者による0円の直接VRM。併売の.xavatarは同モデルの別形式として計上しない。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+    },
+    {
+      "id": "melonzzam-maid",
+      "name": "メイド Maid",
+      "publisher": "melonzzam",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4645887",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "maid.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/4645887",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が0円のmaid.vrmとmaid.vroidを別々に公開。VRMのみ収録。改変可・再配布禁止・配信時クレジット要。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+    },
+    {
+      "id": "0ctr4d-four",
+      "name": "四號",
+      "publisher": "0CTR4D",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/5820982",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "四號.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/5820982",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者による0円直接VRM。利用制限（権利表記・テクスチャ流用制限・公序良俗）あり。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+    },
+    {
+      "id": "jowa-ordinary-man",
+      "name": "一般男性アバター",
+      "publisher": "じょわの店",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/7128850",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "一般男性.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/7128850",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が0円ZIPに.vrmと.vroidを同梱と説明。ベースとして改変可、販売・自作発言禁止。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+    },
+    {
+      "id": "baby0to1-roidchan",
+      "name": "ロイドちゃん",
+      "publisher": "baby0to1",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/8117808",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ロイドちゃん.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/8117808",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者による0円VRMアバター。個人・配信利用可、商用利用不可、再配布不可。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+    },
+    {
+      "id": "canomdarra-alishernya",
+      "name": "アリシャーニャ",
+      "publisher": "Canomdarra",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/6386203",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "アリシャーニャver0.2.1.vrm",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/6386203",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者0円の直接VRM。商品更新版0.2.1とVRM仕様バージョンは別。商用規約に版による例外と更新があり、原文照合が必要。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+    },
+    {
+      "id": "hiraeth-samurai-boy",
+      "name": "Samurai Boy",
+      "publisher": "Hiraeth Create",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/4899143",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "Samurai_Boy_-_CH2.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/4899143",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が0円のVRMを収録するZIPと説明。VRoidチュートリアルも同梱。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+    },
+    {
+      "id": "wannpaku-hasshakusama",
+      "name": "八尺様（オリジナルVRoidアバター）",
+      "publisher": "わんぱくなアトリエ",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/3333412",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "haashaku.vrm.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/3333412",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "同一商品にhasshakusama.vrm.zipもあるが、作者は文字化け対策で別名にしたと説明。同一モデルなので重複計上しない。再配布不可、cluster/VRChat利用可。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+    },
+    {
+      "id": "tamirtg-belle-ball-gown",
+      "name": "Belle（Ball Gown着用VRM）",
+      "publisher": "tamir-tg",
+      "kind": "avatar",
+      "features": [
+        "avatar"
+      ],
+      "vrm_version": null,
+      "source_url": "https://booth.pm/ja/items/7663985",
+      "download_url": null,
+      "access_method": "booth_free_download",
+      "distribution_filename": "ball_gown_white_v1_VRM.zip",
+      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_url": "https://booth.pm/ja/items/7663985",
+      "verification": "official_free_distribution_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者が0円ZIPに衣装着用済みVRMアバターを明記。ほかのvroidcustomitemは同一アバターの衣装素材として重複登録しない。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
     }
   ]
 }

@@ -68,3 +68,13 @@ Python 3のみを使用します。外部ライブラリもGitHub Actionsも不�
 ```bash
 python3 scripts/validate.py
 ```
+
+## ローカル取得したVRMの調査
+
+GitHub経由でバイナリ本文を取得できなかった大型VRMや、ログインして入手したBOOTHのVRM/ZIPは、ローカルで調査できます。**VRMファイルやZIP本体はGitHubに追加しないでください。**
+
+```bash
+python3 scripts/inspect_vrm.py /path/to/Seed-san.vrm /path/to/model-pack.zip
+```
+
+外部ライブラリ不要。直接VRMまたはZIPに含まれる各VRMについて、GLBのサイズ整合性、VRM拡張のバージョン、埋め込みメタデータ、実ファイル全体のSHA-256をJSONで出力します。**メタデータ検証は実際の表示・動作検証ではありません。** 出力に基づいて `data/models.json` を手動で更新し、推測では検証済みに変更しません。

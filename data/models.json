@@ -22,7 +22,8 @@
       "license_url": "https://vrm.dev/licenses/1.0/",
       "verification": "official_repository_file_listed",
       "checked_at": "2026-10-08",
-      "distribution_filename": "Seed-san.vrm"
+      "distribution_filename": "Seed-san.vrm",
+      "distribution_size_bytes": 10917800
     },
     {
       "id": "vrm-spec-vrm1-constraint-twist-sample",
@@ -45,7 +46,8 @@
       "license_url": "https://vrm.dev/licenses/1.0/",
       "verification": "official_repository_file_listed",
       "checked_at": "2026-10-08",
-      "distribution_filename": "VRM1_Constraint_Twist_Sample.vrm"
+      "distribution_filename": "VRM1_Constraint_Twist_Sample.vrm",
+      "distribution_size_bytes": 10776032
     },
     {
       "id": "vrm-spec-vrmc-vrm-expressions-isbinary-overrides",
@@ -65,7 +67,8 @@
       "license_url": "https://vrm.dev/licenses/1.0/",
       "verification": "official_repository_file_listed",
       "checked_at": "2026-10-08",
-      "distribution_filename": "VRMC_vrm_expressions_isBinary_Overrides.vrm"
+      "distribution_filename": "VRMC_vrm_expressions_isBinary_Overrides.vrm",
+      "distribution_size_bytes": 21184
     },
     {
       "id": "vrm-spec-vrmc-vrm-expressions-isbinary-overridden",
@@ -85,7 +88,8 @@
       "license_url": "https://vrm.dev/licenses/1.0/",
       "verification": "official_repository_file_listed",
       "checked_at": "2026-10-08",
-      "distribution_filename": "VRMC_vrm_expressions_isBinary_Overridden.vrm"
+      "distribution_filename": "VRMC_vrm_expressions_isBinary_Overridden.vrm",
+      "distribution_size_bytes": 20156
     },
     {
       "id": "vrm-spec-vrmc-materials-mtoon-uv-animation-test",
@@ -104,7 +108,8 @@
       "license_url": "https://vrm.dev/licenses/1.0/",
       "verification": "official_repository_file_listed",
       "checked_at": "2026-10-08",
-      "distribution_filename": "VRMC_materials_mtoon_UV_Animation_Test.vrm"
+      "distribution_filename": "VRMC_materials_mtoon_UV_Animation_Test.vrm",
+      "distribution_size_bytes": 61732
     },
     {
       "id": "vroid-avatarsample-a",
@@ -1222,6 +1227,120 @@
       "verification": "official_hub_and_help_confirmed",
       "checked_at": "2026-10-08",
       "notes": "公式VRoid Hubに Format: VRM 0.0 / Can you use this model?: Yes と表示。公式ヘルプにCC0表記。ログイン後のVRMダウンロードは未実施。"
+    },
+    {
+      "id": "vroid-beta-avatarsample-1-darkness",
+      "name": "β Ver AvatarSample_1 — ダークネスバージョン",
+      "publisher": "VRoid Project / pixiv Inc.",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "variant"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://hub.vroid.com/characters/675572020956181239/models/6535695942068248968",
+      "download_url": null,
+      "access_method": "vroid_hub_vrm",
+      "license_name": "VRoid Hubモデル別利用条件",
+      "license_url": "https://hub.vroid.com/characters/675572020956181239/models/6535695942068248968",
+      "verification": "official_hub_permission_and_format_confirmed",
+      "checked_at": "2026-10-08",
+      "notes": "VRoid Project公式アカウント公開。VRoid Hubで「他の人の利用: OK」（ダウンロードNGではない）およびFormat: VRM 0.0、再配布/改変可を確認。元のβサンプルと別バリエーション。ログイン・実ダウンロード未実施。"
+    },
+    {
+      "id": "vroid-beta-avatarsample-1-uniform-2019",
+      "name": "β Ver AvatarSample_1 — Welcome School Uniform 2019",
+      "publisher": "VRoid Project / pixiv Inc.",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "variant"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://hub.vroid.com/characters/675572020956181239/models/7175071267176594918",
+      "download_url": null,
+      "access_method": "vroid_hub_vrm",
+      "license_name": "VRoid Hubモデル別利用条件",
+      "license_url": "https://hub.vroid.com/characters/675572020956181239/models/7175071267176594918",
+      "verification": "official_hub_permission_and_format_confirmed",
+      "checked_at": "2026-10-08",
+      "notes": "VRoid Project公式アカウント公開。VRoid Hubで「他の人の利用: OK」（ダウンロードNGではない）およびFormat: VRM 0.0、再配布/改変可を確認。元のβサンプルと別バリエーション。ログイン・実ダウンロード未実施。"
+    },
+    {
+      "id": "vroid-beta-avatarsample-1-uniform-2019-dark",
+      "name": "β Ver AvatarSample_1 — Welcome School Uniform ダークネス",
+      "publisher": "VRoid Project / pixiv Inc.",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "variant"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://hub.vroid.com/characters/675572020956181239/models/5306079829291212184",
+      "download_url": null,
+      "access_method": "vroid_hub_vrm",
+      "license_name": "VRoid Hubモデル別利用条件",
+      "license_url": "https://hub.vroid.com/characters/675572020956181239/models/5306079829291212184",
+      "verification": "official_hub_permission_and_format_confirmed",
+      "checked_at": "2026-10-08",
+      "notes": "VRoid Project公式アカウント公開。VRoid Hubで「他の人の利用: OK」（ダウンロードNGではない）およびFormat: VRM 0.0、再配布/改変可を確認。元のβサンプルと別バリエーション。ログイン・実ダウンロード未実施。"
+    },
+    {
+      "id": "vroid-beta-avatarsample-2-uniform-2019",
+      "name": "β Ver AvatarSample_2 — Welcome School Uniform 2019",
+      "publisher": "VRoid Project / pixiv Inc.",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "variant"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://hub.vroid.com/characters/945152946522067123/models/3383751442912063017",
+      "download_url": null,
+      "access_method": "vroid_hub_vrm",
+      "license_name": "VRoid Hubモデル別利用条件",
+      "license_url": "https://hub.vroid.com/characters/945152946522067123/models/3383751442912063017",
+      "verification": "official_hub_permission_and_format_confirmed",
+      "checked_at": "2026-10-08",
+      "notes": "VRoid Project公式アカウント公開。VRoid Hubで「他の人の利用: OK」（ダウンロードNGではない）およびFormat: VRM 0.0、再配布/改変可を確認。元のβサンプルと別バリエーション。ログイン・実ダウンロード未実施。"
+    },
+    {
+      "id": "vroid-beta-avatarsample-3-uniform-2019",
+      "name": "β Ver AvatarSample_3 — Welcome School Uniform 2019",
+      "publisher": "VRoid Project / pixiv Inc.",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "variant"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://hub.vroid.com/characters/6193066630030526355/models/537531113514541613",
+      "download_url": null,
+      "access_method": "vroid_hub_vrm",
+      "license_name": "VRoid Hubモデル別利用条件",
+      "license_url": "https://hub.vroid.com/characters/6193066630030526355/models/537531113514541613",
+      "verification": "official_hub_permission_and_format_confirmed",
+      "checked_at": "2026-10-08",
+      "notes": "VRoid Project公式アカウント公開。VRoid Hubで「他の人の利用: OK」（ダウンロードNGではない）およびFormat: VRM 0.0、再配布/改変可を確認。元のβサンプルと別バリエーション。ログイン・実ダウンロード未実施。"
+    },
+    {
+      "id": "vroid-beta-avatarsample-4-uniform-2019",
+      "name": "β Ver AvatarSample_4 — Welcome School Uniform 2019",
+      "publisher": "VRoid Project / pixiv Inc.",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "variant"
+      ],
+      "vrm_version": "0.x",
+      "source_url": "https://hub.vroid.com/characters/2792872861023597723/models/9138892883072488102",
+      "download_url": null,
+      "access_method": "vroid_hub_vrm",
+      "license_name": "VRoid Hubモデル別利用条件",
+      "license_url": "https://hub.vroid.com/characters/2792872861023597723/models/9138892883072488102",
+      "verification": "official_hub_permission_and_format_confirmed",
+      "checked_at": "2026-10-08",
+      "notes": "VRoid Project公式アカウント公開。VRoid Hubで「他の人の利用: OK」（ダウンロードNGではない）およびFormat: VRM 0.0、再配布/改変可を確認。元のβサンプルと別バリエーション。ログイン・実ダウンロード未実施。"
     }
   ]
 }

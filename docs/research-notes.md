@@ -69,3 +69,17 @@
 - その他：[Anime Student](https://booth.pm/ja/items/6018415)、[ちえり](https://booth.pm/ja/items/6076752)、[Nasha](https://booth.pm/ja/items/6095735)、[VTuberモデル](https://booth.pm/ja/items/5095913)、[Aidin](https://booth.pm/ja/items/3707650)、[まゆき](https://booth.pm/ja/items/4825706)、[Dalji](https://booth.pm/ja/items/4898876)、[ちょっとやんじゃった子](https://booth.pm/ja/items/3124874)。
 
 **実ファイル未確認**：BOOTHのログイン後ダウンロード、ZIP内部のVRMファイル名、仕様バージョン等は実機確認フェーズで調べる。NASの将来原本保存先は `/mnt/hdd/vrm`。
+
+## 作者配布モデルを追加（2026-10-08・35件）
+
+無料のVRMファイル、またはVRMを含むZIPと0円価格をBOOTHの商品単位で照合したうえで、35件を `data/models.json` に登録（総数546→581）。
+
+- [shop-perch](https://booth.pm/ja/items/8580892)：コトハ、コハク、エレイン、サキ、アイリーン、ヒスイ、ヒイラギ、スズナ、メティス、ユズ、ユウナギ、リーヤーの12モデル。VRM 0.x／1.0は商品説明に沿って記録。有料の `.vroid` は数えない。
+- [6666669 / ROLOCK](https://booth.pm/ja/items/6029627)：MIKKE、ペストマスクちゃん、黒曜VRM 0.x/1.0の4モデル。**黒曜の2版は同じ無料ZIPに同梱**。MIKKEのショップ固有URLに非公開表示があるためログイン後取得は要確認。
+- [RomanticSpicaの「りあん」](https://booth.pm/ja/items/8165924)：通常版・素体版それぞれにVRM 0.x／1.0があり4件。
+- [ドルミィのDoll me](https://booth.pm/ja/items/5173073)：002、006、007、008、009、010の計6件。すべて作者ページでは0円だが**期間限定無料**と記載。VRM1.0非対応を明記。
+- その他9件：[Ryuneru](https://booth.pm/ja/items/8824510)、[ぷろふぁむ](https://booth.pm/ja/items/8183172)、[クロエ](https://booth.pm/ja/items/6272301)、[春うさぎ](https://booth.pm/ja/items/8087217)、[綴よだか](https://booth.pm/ja/items/3822052)、[ロマンディ](https://booth.pm/ja/items/4036136)、[SAKURA](https://booth.pm/ja/items/4592729)、[雪音りう](https://booth.pm/ja/items/8519166)、[みやまる](https://booth.pm/ja/items/6867490)。
+
+**収録保留**：初音ミクなど第三者IPのファンモデルは権利元公式の配布ではないため、作者配布だけを根拠として今回は採録しない。VRoidアクセサリー、ポーズ集、VRM変換ツールもVRMモデルそのものではないので対象外。
+
+BOOTHの0円掲載を根拠とするが、ログイン後のダウンロード、期間限定商品の公開継続、ZIP内部構成は未検証。Hermesによる一括実機検証時は `/mnt/hdd/vrm` に原本を保存する。

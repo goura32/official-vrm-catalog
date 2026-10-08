@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "models": [
+    {
+      "id": "toxsam-original-c1def47c-0",
+      "name": "Orion",
+      "publisher": "ToxSam (Daniel Garcia)",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "toxsam-originals"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/toxsam.json",
+      "download_url": "https://gateway.pinata.cloud/ipfs/Qmed8jVF5FvBn6Jerxk8Wm5DwRjuAHRfBXgofTue37orBC/Avatar_Orion.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "Avatar_Orion.vrm",
+      "license_name": "CC0 (creator's Open Source Avatars registry)",
+      "license_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/projects.json",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者ToxSam（Polygonal MindのDaniel Garcia）が自身の公開VRM索引でCC0作品として掲載。IPFS直リンクとNFT識別情報を持つが、VRMファイルURLの参照自体はNFT購入を要求する形ではない。実際のHTTP応答・ダウンロード可否・バイナリと表示は未検証。"
+    },
+    {
+      "id": "toxsam-original-c1def47c-1",
+      "name": "Aurora",
+      "publisher": "ToxSam (Daniel Garcia)",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "toxsam-originals"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/toxsam.json",
+      "download_url": "https://gateway.pinata.cloud/ipfs/QmVvfCcAKYozNQwwxPbHyNohLyBJbTrCBSM1Ycck3ouJSj/Avartar_Aurora.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "Avartar_Aurora.vrm",
+      "license_name": "CC0 (creator's Open Source Avatars registry)",
+      "license_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/projects.json",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者ToxSam（Polygonal MindのDaniel Garcia）が自身の公開VRM索引でCC0作品として掲載。IPFS直リンクとNFT識別情報を持つが、VRMファイルURLの参照自体はNFT購入を要求する形ではない。実際のHTTP応答・ダウンロード可否・バイナリと表示は未検証。"
+    },
+    {
+      "id": "toxsam-original-bffd07cc-1101",
+      "name": "Chubby Tubby Cat",
+      "publisher": "ToxSam (Daniel Garcia)",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "toxsam-originals"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/toxsam.json",
+      "download_url": "https://gateway.pinata.cloud/ipfs/QmY4NQRArQaEWPgyzyTuCSvyAnBUhtsshFKPjJHbbzVKLL/ChubbyTubbyCat.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "ChubbyTubbyCat.vrm",
+      "license_name": "CC0 (creator's Open Source Avatars registry)",
+      "license_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/projects.json",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者ToxSam（Polygonal MindのDaniel Garcia）が自身の公開VRM索引でCC0作品として掲載。IPFS直リンクとNFT識別情報を持つが、VRMファイルURLの参照自体はNFT購入を要求する形ではない。実際のHTTP応答・ダウンロード可否・バイナリと表示は未検証。"
+    },
+    {
+      "id": "toxsam-original-bffd07cc-1201",
+      "name": "The Worm",
+      "publisher": "ToxSam (Daniel Garcia)",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "toxsam-originals"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/toxsam.json",
+      "download_url": "https://gateway.pinata.cloud/ipfs/QmVLhUz4mtr2RH5t5UKrig6s8MWRXy68MzTvfJvdkMefMt/TheWorm.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "TheWorm.vrm",
+      "license_name": "CC0 (creator's Open Source Avatars registry)",
+      "license_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/projects.json",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者ToxSam（Polygonal MindのDaniel Garcia）が自身の公開VRM索引でCC0作品として掲載。IPFS直リンクとNFT識別情報を持つが、VRMファイルURLの参照自体はNFT購入を要求する形ではない。実際のHTTP応答・ダウンロード可否・バイナリと表示は未検証。"
+    },
+    {
+      "id": "toxsam-original-bffd07cc-401",
+      "name": "EYE Zealot",
+      "publisher": "ToxSam (Daniel Garcia)",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "toxsam-originals"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/toxsam.json",
+      "download_url": "https://gateway.pinata.cloud/ipfs/QmYSHP8r4BKwyxMQwJMBWpJc1uE8EM7MDVXzNFhgFBesch/EyeZealot.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "EyeZealot.vrm",
+      "license_name": "CC0 (creator's Open Source Avatars registry)",
+      "license_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/projects.json",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者ToxSam（Polygonal MindのDaniel Garcia）が自身の公開VRM索引でCC0作品として掲載。IPFS直リンクとNFT識別情報を持つが、VRMファイルURLの参照自体はNFT購入を要求する形ではない。実際のHTTP応答・ダウンロード可否・バイナリと表示は未検証。"
+    },
+    {
+      "id": "toxsam-original-bffd07cc-501",
+      "name": "FrostyBoogie",
+      "publisher": "ToxSam (Daniel Garcia)",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "toxsam-originals"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/toxsam.json",
+      "download_url": "https://gateway.pinata.cloud/ipfs/QmbNqsuVYaVrYtC6ALeco3jogcSi4NbbzfrGJs5i7fjB26/FrostyBoogie.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "FrostyBoogie.vrm",
+      "license_name": "CC0 (creator's Open Source Avatars registry)",
+      "license_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/projects.json",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者ToxSam（Polygonal MindのDaniel Garcia）が自身の公開VRM索引でCC0作品として掲載。IPFS直リンクとNFT識別情報を持つが、VRMファイルURLの参照自体はNFT購入を要求する形ではない。実際のHTTP応答・ダウンロード可否・バイナリと表示は未検証。"
+    },
+    {
+      "id": "toxsam-original-bffd07cc-601",
+      "name": "EYE Diviner",
+      "publisher": "ToxSam (Daniel Garcia)",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "toxsam-originals"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/toxsam.json",
+      "download_url": "https://gateway.pinata.cloud/ipfs/QmbSvK3s7QF8SvAhAzaurR2jo1HmRgzShyq6d8N6DqsQin/EyeDiviner.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "EyeDiviner.vrm",
+      "license_name": "CC0 (creator's Open Source Avatars registry)",
+      "license_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/projects.json",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者ToxSam（Polygonal MindのDaniel Garcia）が自身の公開VRM索引でCC0作品として掲載。IPFS直リンクとNFT識別情報を持つが、VRMファイルURLの参照自体はNFT購入を要求する形ではない。実際のHTTP応答・ダウンロード可否・バイナリと表示は未検証。"
+    },
+    {
+      "id": "toxsam-original-bffd07cc-701",
+      "name": "MaxHax",
+      "publisher": "ToxSam (Daniel Garcia)",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "toxsam-originals"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/toxsam.json",
+      "download_url": "https://gateway.pinata.cloud/ipfs/QmZ5FRKE3jEAwiV2ryatqmrzcwAEa5sZrU4qqkzP9dqu7x/MaxHax.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "MaxHax.vrm",
+      "license_name": "CC0 (creator's Open Source Avatars registry)",
+      "license_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/projects.json",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者ToxSam（Polygonal MindのDaniel Garcia）が自身の公開VRM索引でCC0作品として掲載。IPFS直リンクとNFT識別情報を持つが、VRMファイルURLの参照自体はNFT購入を要求する形ではない。実際のHTTP応答・ダウンロード可否・バイナリと表示は未検証。"
+    },
+    {
+      "id": "toxsam-original-bffd07cc-801",
+      "name": "Crustybutt da king",
+      "publisher": "ToxSam (Daniel Garcia)",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "toxsam-originals"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/toxsam.json",
+      "download_url": "https://gateway.pinata.cloud/ipfs/QmZan3z9nMTmEKSf99bPb8crKcYm4scMJd5YpCTN14B9mn/Crustybutt_da_gobblin_king.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "Crustybutt_da_gobblin_king.vrm",
+      "license_name": "CC0 (creator's Open Source Avatars registry)",
+      "license_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/projects.json",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者ToxSam（Polygonal MindのDaniel Garcia）が自身の公開VRM索引でCC0作品として掲載。IPFS直リンクとNFT識別情報を持つが、VRMファイルURLの参照自体はNFT購入を要求する形ではない。実際のHTTP応答・ダウンロード可否・バイナリと表示は未検証。"
+    },
+    {
+      "id": "toxsam-original-59202483-0",
+      "name": "King Mutatio",
+      "publisher": "ToxSam (Daniel Garcia)",
+      "kind": "avatar",
+      "features": [
+        "avatar",
+        "toxsam-originals"
+      ],
+      "vrm_version": null,
+      "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/toxsam.json",
+      "download_url": "https://dweb.link/ipfs/QmVXPeQzJhhfjPJyeHdt4PfZddLSLPwNEHuPTu1RauLSsW/king_mutatio.vrm",
+      "access_method": "direct_vrm",
+      "distribution_filename": "king_mutatio.vrm",
+      "license_name": "CC0 (creator's Open Source Avatars registry)",
+      "license_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/projects.json",
+      "verification": "creator_index_direct_url_listed_download_untested",
+      "checked_at": "2026-10-08",
+      "notes": "作者ToxSam（Polygonal MindのDaniel Garcia）が自身の公開VRM索引でCC0作品として掲載。IPFS直リンクとNFT識別情報を持つが、VRMファイルURLの参照自体はNFT購入を要求する形ではない。実際のHTTP応答・ダウンロード可否・バイナリと表示は未検証。"
+    }
+  ]
+}

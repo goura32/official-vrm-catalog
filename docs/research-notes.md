@@ -329,3 +329,25 @@ BOOTHの作者ページで0円のVRMまたはVRM入りZIPの掲載と個別の�
 - **未検証**：GitHubツリー上の拡張子・サイズ・blobの識別は確認したが、VRM内部のGLB仕様・表情・表示・実取得は未確認。ライセンス本文の直接照合も未完了。 `official_repository_file_listed` または `creator_index_direct_url_listed_download_untested` として記録する。
 
 Hermes Agentによる一括検証は登録をさらに増やした後に実施し、原本を `/mnt/hdd/vrm` に保存する。GitHubへ実ファイルを転載しない。
+
+## 2026-10-08 無料VRM追加：1,246→1,265件（+19件）
+
+作者・キャラクター公式BOOTHの16商品ページから、0円のVRM配布枠が明記された19レコードを `data/models.json` に登録。購入が必要なエディション・衣装・編集用素材を除外し、同じモデルを別ZIPでも配るだけの重複掲載は計上しない。
+
+| 配布元 | 件数 | 根拠・留意点 |
+| --- | ---: | --- |
+| [東北ずん子・ずんだもん公式ショップ：マスコットずんだもん](https://booth.pm/ja/items/2744821) | 2 | 公式の¥0 `ずんだもん_通常_2025モデルセット.zip`に「歩行ver」「飛行ver」2つのVRMを収録と明記。2025年更新履歴にVRM 1.0対応と記載。既存の「ミニずんだもん」とは別モデル。[公式ガイドライン](https://zunko.jp/guideline.html)を適用。 |
+| [カボチャ紳士の宵：バーチャルマンチカンよしだ](https://booth.pm/ja/items/6066401) | 8 | 基本無料VRM1体、[DIVE](https://booth.pm/ja/items/8721471)1体、[CHAOS](https://booth.pm/ja/items/7379252)のロボット・マジック・ワイルド3体、[学園祭](https://booth.pm/ja/items/7164809)1体、[BOOST](https://booth.pm/ja/items/6694215)1体、[ACCEL](https://booth.pm/ja/items/5537883)1体。すべて作者ショップで¥0の個別VRMファイル名を確認。原案デザインは由宇霧、CHAOS改変ははましょー、各イベントロゴは別担当。商用利用・改変可、再配布禁止。各有料版は除外。 |
+| [こぎつねちゃん](https://booth.pm/ja/items/6339220) | 1 | 作者「幽霊人魚」が0円の `kogitsune_free.zip` にVRMのみ収録。有料版はVRoid編集可能データを追加する。 |
+| [赤べこchan](https://booth.pm/ja/items/6580617) | 1 | 作者「moopeeの店」が0円ZIP内の `akabeko.chan.vrm` を明記。首の揺れ・瞬き・リップシンクに対応、商用利用・改変可、再配布禁止。 |
+| [ななか](https://booth.pm/ja/items/6259209) | 1 | 「かわいいのお店lillian」による無料VRM・VRoid・テクスチャ同梱ZIP。支援版は色違いテクスチャ追加だけなので重複計上しない。 |
+| [きつねakyo](https://booth.pm/ja/items/5774980) | 1 | 「ささのき商店」が`きつねきつねVRM1.01.zip`を0円公開。改変可、再配布禁止、商用利用時クレジット必要。 |
+| [佐竹ナギサ](https://booth.pm/ja/items/8447196) | 1 | 制作者の無料`SatakeNagisa_0.4.zip`の内容物にVRMと明記。EX版限定の追加ギミックや装飾品は別VRMと数えない。VN3規約全文は別リンク。 |
+| [棒人間](https://booth.pm/ja/items/5208518) | 1 | 「チキン」作の低ポリ棒人間`棒人間.vrm`が0円。法人・個人商用可、再配布禁止。 |
+| [こふみちゃん](https://booth.pm/ja/items/4945822) | 1 | 「るるる商店」が眼鏡あり版`Kofumi-chan-1.0.0.vrm`を0円公開。眼鏡なしVRMは有料版のため除外。 |
+| [ちびキャラ 赤い子](https://booth.pm/ja/items/4610832) | 1 | 「まめニキのVroid工房」が`赤い子.vrm`を0円配布。 |
+| [きゅーぶ](https://booth.pm/ja/items/4121775) | 1 | 「たびマル倉庫」が浮遊掲示板サンプル用のVRM 0.xを0円ZIPで配布。VN3規約PDFは別モデルではない。 |
+
+**除外**：有料の眼鏡なしこふみちゃん、よしだイベント有料版、VRM変換ツールのみの無料商品、第三者IPファンモデル。BOOTH商品ページにVRM対応との文言があっても、無料ZIPにVRMを含むことが確認できなければ保留し、今回は佐竹ナギサの「無料版内容物：VRMファイル」の記載を確認してから追加した。
+
+**検証待ち**：ZIPの内部パス・実VRM数、更新により内容が変わっていないか、実際に無償取得可能か、VRM/GLBヘッダーと描画、適用ライセンス。Hermes Agentの後日の一括実機確認では原本を `/mnt/hdd/vrm` に永続保存する。

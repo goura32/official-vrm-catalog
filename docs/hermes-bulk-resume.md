@@ -1,47 +1,31 @@
-# Hermes Agent 継続一括実行指示（R1/R2・R3検証完了後）
+# Hermes Agent 継続一括指示（BOOTH第24バッチ完了後）
 
-2026-10-09の初回連続処理はmain `2d45b3d3e5d84223fd2642f3158c03fdcbfa0bd1`から開始し、結果更新をcommit `51a5d3451dfc0de5bfd68b9db73822d2fcebec99`に反映。その後のRetry-After継続結果はcommit `e39984779d01cbfbc1235d303c26f1f688455aa3`、追加の季節429履歴はcommit `778890ce5811cd5025a95115174858ea7f929f34`に反映。今回のHTTP 429再試行上限対応はその最新mainを基点とする。実行後の最新状態は[結果レポート](hermes-bulk-run-results.md)が正本。次回はこの文書とレポートを読み、`main`最新とNAS実体を再確認してから継続する。
+**最終確認コミット**: `92ca3a8cadeb544bd426c8f7a3d38800f7a36c86`（2026-10-10 JST）。
+これが次回実行の基準。実行前に最新 `main` と `docs/hermes-bulk-run-results.md` およびNAS実体を突き合わせ、より新しい確定実績があればそちらを優先する。古いR3/R1/R2/BOOTHバッチを**再実行しない**。この指示を一度渡したら、処理可能分は承認待ちを挟まず一括で進める。RDC/GitHub Actionsは使わない。
 
-## 目標・完了済みの扱い
+## 現在の確定実績
 
-`goura32/official-vrm-catalog`の実機未処理分を**一度のHermes依頼で可能な限り連続処理**する。最優先は作者公開の`data/collections/polygonalmind-halloween-rising.json` **60件**と`polygonalmind-xmas-chibis.json` **80件**（計140件）。同一実行で処理可能分を終えたら、他の公式・原作者が無償公開する直接VRMへ継続（ToxSam originals 10件、NeonGlitch86の許諾確認可能分、公式サンプル等）。認証が必要なBOOTH/Hub/Studio等は認証なしでの正規取得可否を確認し、必要なら対象だけ保留する。作者の無料公開でも利用権限が確認できない対象は取得・保存しない。
+- 登録正本: 1,297件。R1/R2/R3以外の対象797件の状態は以下の**排他的な9区分**。
+- NAS保存25、確定非人型4、権利保留65、別hostリダイレクト拒否2、dweb.link恒久ブロック141、**認証待ち466**、商品ページ404が3、VRoid Studioエクスポート専用23、**未試行または取得条件未確定68**。合計797。
+- NAS全体は**ZIP 355・WebP 710**。VRM未圧縮1,434,953,725 bytes、ZIP 750,627,115 bytes、WebP 9,116,306 bytes、ZIP削減率47.6898%。最終 `verify_nas.py` は `ok:true, errors:[]`、前回開始時351件の索引行は不変。
+- BOOTH第22〜24バッチで36商品ページ／60 IDを確認し、代表匿名URL36件がすべてログイン画面へHTTP 302で遷移。60件は認証待ちに移動。匿名経由のVRM取得とNAS追加は0。
+- 正しいチェックポイント: `/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-auth-checkpoint-20261009-batch24.json`。過去のcheckpointと`docs/hermes-bulk-run-results.md`も照合する。
 
-**不変の基準値**:
-- 登録総数**1,297**。R3 100件とR1/R2 400件の計500件は既に処理済み。R1/R2/R3**以外の797件**の現在の棚卸しは、保存25、確定非人型4、権利保留65（条件矛盾32、許諾未確認33）、別hostリダイレクト拒否2、`dweb.link`恒久ブロック141、明示的認証待ち466、商品ページ404 3、VRoid Studioエクスポート専用23、残り68件が未試行または取得条件未確定。797は「NASへ保存すべき797件」ではない。
-- 現在のNASは**ZIP 355件、WebP 710枚**。開始時351件の既存索引行・保存物は不変。現在の未圧縮合計**1,434,953,725 bytes** → ZIP **750,627,115 bytes**、削減率**47.6898%**、WebP **9,116,306 bytes**。最終`verify_nas.py`は`ok:true`・`errors:[]`。次回は355件を不変baselineとし、既存データを保全する。
-- 選別リストは**人型候補557、非人型243、未判定497**。今回の続行分は公式ページ候補11件を確認し、人型4件を描画・目視確認・NAS保存、権利保留6件、認証待ち1件とした。BOOTHは6件を代表プローブし、全件でログインへリダイレクトされた。ZIPは実VRM比較で採用済み、**圧縮比較を繰り返さず`--format zip`で統一**する。
+## この依頼で優先する作業
 
-**権利・取得上の保留（再配布許諾や正規URLの新証拠がない限り自動再取得しない）**:
-- R3のプレビュー品質: `polygonalmind-100avatars-r3-229`（1件、実VRM人型確認済み、NAS未保存）。
-- R1/R2の形状不明: `polygonalmind-100avatars-013-standard`、`-013-voxel`、`-034-standard`、`-034-voxel`（それぞれ完全な`polygonalmind-100avatars-...` ID、4件）。
-- R1/R2の埋込権利・作者表示矛盾: `polygonalmind-100avatars-132-standard`、`polygonalmind-100avatars-196-standard`、`polygonalmind-100avatars-166-voxel`（3件）。
-- MJMoonbow:既存`mjmoonbow-skinnie1-5-41eb4fe`に加え、今回取得した16件の埋込`Redistribution_Prohibited`（全IDは結果レポート、NAS未保存）。
-- 今回追加の権利矛盾: `neonglitch86-shapey`（埋込`allowRedistribution=false`）、`numinia-starter-avatar-01`・`numinia-avatar-arla`（埋込`CC_BY`対公開CC0、NAS未保存）、`tegnike-nikechan-v1`・`tegnike-nikechan-v2`・`tegnike-nikechan-v2-outerwear`（埋込再配布禁止/`allowRedistribution=false`）、`aituber-onair-miko-normal`・`aituber-onair-miko-cheer`（埋込`Redistribution_Prohibited`）、Kizuna AI 2件、Sony RAYNOS 3件、ZONe ぞん子1件、hinzka PerfectSync 2件（READMEの再配布許諾と実VRM埋込`Redistribution_Prohibited`の矛盾）。NeonGlitch86の残り33件は公式README/LICENSE不在で許諾未確認のため、別カテゴリの権利確認待ちとした。
-- URL制約: `neonglitch86-index-1`・`neonglitch86-index-3`は別hostへのリダイレクトを2回とも拒否。ミラー/ゲートウェイへ迂回しない。Halloween/Xmas 001、Halloween 002/003/004/005/006の過去再試行は旧方針下の履歴。Halloween 007は`2026-10-09T02:28:25.603909Z`の初回要求でHTTP 429（Retry-After: 900、当時の期限`02:43:25.603909Z`）となり、最新指示に従い再試行せず終端化。同じdweb.link hostは全IDについて恒久的にアクセス禁止。残る季節131 IDとToxSam `King Mutatio`は要求しない。
-- 今回の確定非人型は`toxsam-original-bffd07cc-601`、公式仕様サンプル3件、MJMoonbow Dragon 9（作者の実レンダー画像で四足を確認）。これらは人型保存キューへ戻さない。
-
-根拠とチェックポイントは`docs/hermes-bulk-run-results.md`にある。保留は次の一括処理の進捗を妨げない。根拠なしにライセンスを一括で`CC0`に置き換えない（R1/R2は作者README条件、R3は別条件）。
-
-## 作業上の絶対条件
-
-1. **カタログJSONが正本**（`data/models.json`、`data/collections/*.json`）。スクリプトに合わせた値やIDの改変禁止。検証済みメタデータ・選別IDと根拠の追記だけを実施し、モデル件数を増やすことを目的にしない。
-2. **取得対象は作者/公式が正規に無料公開したものだけ**。NFT購入・保有必須、第三者権利不明、利用条件の矛盾、ログイン障壁・利用者本人による認証が必要なもの、アクセス制限の回避が必要なものは個別保留。認証情報やVRMのバイナリ/画像を外部AI API・GitHubに送信しない。利用条件が途中で変われば新しい根拠を記録する。
-3. NAS永続化物は**人型VRMだけを1モデル1ZIP（内部`model.vrm`）**とし、正面Tポーズ`768×1024`・顔正面`512×512`のWebP2枚、`index.jsonl`、管理ロック以外の配布ZIP・VRM・不要ファイルを永続化しない。VRMや画像のSHA-256を索引に対応付け、展開後VRMハッシュが元ファイルと一致することを要求。
-4. 見た目の人型は頭/胴/両腕/両脚（亜人や人型ロボットも可）を根拠に判断。Humanoidリグのみで判断しない。**形状が不明なら無料取得条件確認の上、一時ダウンロード後にモデル実体を描画**。明確な非人型は取得前除外してよい。人型でも正面画像の品質を満たさないものは個別保留。
-5. 書込み前に**NAS実体・NFSマウントと空き容量**を`findmnt -T /mnt/hdd/vrm`等で確認。前回は`nas1.local:/volume1/hdd`へのNFSv3。マウント不在時に同名ディレクトリをローカル作成しない。**既存338件を絶対に上書き・削除しない**。始動時のNAS index各行とSHA-256を安全な場所に記録し、処理後に既存行が不変であることを検証。NFS遅延/タイムアウト時はファイル実体とindexを照合してから必要最小の復旧を行う。推測で再実行・削除しない。
-6. 作業機の`~/.local/state/official-vrm-catalog/`に中断再開用チェックポイント（処理日時、ID、出典、取得結果、GLB/VRM版、形状、権利・画像品質、NAS保存、SHA-256、理由）を残す。ログ・ZIP一時ファイルはNASには残さない。途中に失敗があっても次の安全な対象へ進む。**現行のHTTP 429方針（旧記録に優先）**: 429を返したIDは再試行せず失敗として終端化する。429が発生したhostはRetry-After経過後も含め恒久的にアクセス対象外とし、同hostの別IDへの初回要求も行わない。checkpointから429 hostを復元してネットワーク要求前に抑止する。別gateway/mirrorへ迂回しない。
-7. 未コミット変更があれば尊重し、作業に必要な差分だけ`commit/push`。**RDC・GitHub Actions不使用**。依存の大量アップグレード、テストの過剰追加、既に解消済みの圧縮実測・R1/R2形状レビューの再実施はしない。正常動作を阻害する不具合が出た時だけ最小修正と関連する対象テストを行う。
-
-## 一括作業の順序
-
-1. `git fetch`・最新main・`docs/nas-storage.md`・`docs/hermes-bulk-run-results.md`・NAS索引・保存済みモデル/画像・チェックポイントの整合を確認。`python3 scripts/verify_nas.py --nas-root /mnt/hdd/vrm`を実行し、**355件/710枚の開始時監査**を確認。NASマウント未確認なら書込み作業はしない。
-2. 季節140 IDを正本から確認。H001–006等の過去再試行は旧方針下の履歴。H007は初回429で最新指示により再試行せず終端化し、dweb.linkを恒久ブロックする。残る131季節IDとKing Mutatioも同hostのため要求しない。Retry-After期限待ちは行わない。
-3. 取得物ごとにGLB/VRM構造、実版、ライセンス/作者埋込情報、同一バイナリハッシュを検査。外形は作者プレビューまたは実VRM描画で人型/非人型/判定保留に分ける。人型はTポーズ・顔正面のWebPを生成し、実際に画像・画角を点検。NASに`scripts/archive_vrm.py --format zip --confirm-humanoid`で保存。元VRMと復元ZIPのSHA-256、プレビューID・画像SHAを照合。失敗IDを記録して進む。
-- 4. `dweb.link`対象を除外した後、公式ページ候補11件を確認した。LAUGH DiAMOND 4件は保存済み、Kizuna AI 2件・Sony 3件・ZONe 1件は権利保留、ENRAIは会員登録必須で認証待ち。追加でhinzka公式GitHub 2件を実体検査したが埋込権利情報がREADMEと矛盾し権利保留。BOOTHは代表16件（既存6件＋追加10商品ページ）を検査し、¥0表示でもダウンロードURLがログインへ遷移したため認証回避せず18件を認証待ちとして記録。VRoid Hubは3代表ページでpixiv IDログインを確認し、3件を認証待ちとした。既確認のToxSam、Neon CC0、MJMoonbow、Numinia、VRM仕様サンプルは再取得しない。ToxSam `King Mutatio`を含む429 host対象は永久除外する。新たな正規公開元と権利根拠が見つかった場合のみ、その候補を処理する。既保存・非人型・権利保留は処理キューから除外。
-5. 最後に全件`python3 scripts/verify_nas.py --nas-root /mnt/hdd/vrm`で`ok:true`・`errors:[]`を確認し、**開始時355件の索引行・保存ファイルハッシュが変わっていないこと**を確認。実績レポート・正本の根拠つき更新・選別リストを必要最小限の差分で整備。`git diff --check`・`scripts/validate.py`（必要なら既存4単体テスト）後にcommit/push。処理待ち・保留を再開可能な状態で残す。
+1. **状態とNAS保護の確認**。git`main`と作業ツリー、checkpointの最新バッチ、`findmnt -T /mnt/hdd/vrm`によるNAS実マウントを確認。`python3 scripts/verify_nas.py --nas-root /mnt/hdd/vrm`で**355 ZIP/710 WebP**を照合する。先に索引行と保存済み実体のSHA-256または不変性チェックポイントを退避し、**既存355件は上書き・削除しない**。一時的なNAS I/Oエラー時は復旧根拠を確認し、安易な再試行で重複登録しない。
+2. **残68 IDを厳密に抽出**。`batch24.json`、過去のcheckpoint、正本JSON、NAS `index.jsonl`を突合し、上記797件の9区分を**重複なく再計算**。`data/models.json`の単なる`verification=official_free_distribution_listed_download_untested`は別集計であり、残68件と同一とは仮定しない。68 IDの具体的な一覧、`access_method`、公式`source_url`、同一商品で共有するURL、分類根拠をローカル状態ファイルに残す。ここで既に処理済みのIDが見つかれば二重処理せず差異を修正する。
+3. **68件を配布元別・取得方式別に整理し、一括確認**。まず認証不要かつ作者/公式から正規入手可能なVRM/ZIPに絞る。すでに`booth.pm/users/sign_in`へ302遷移した商品/IDの匿名URLプローブを繰り返さない。BOOTHやVRoid Hubの**認証待ち466件は、ユーザーが許可した認証済みセッションが用意されない限り再取得・再プローブしない**。認証済みセッションが合法的に提供された場合のみ利用規約と利用権限に沿って処理し、Cookie/トークン/パスワードをログやGitHubに記録しない。ログイン回避、購入、有料取得、CAPTCHA突破、権限制限の回避は禁止。
+4. **429と権利保留は保護**。一度HTTP 429を返したホストへ再要求しない（同じhostの別IDも禁止）。`dweb.link`141件は引き続きネットワーク対象外、別ゲートウェイやミラーによる回避もしない。権利保留65、別hostへのリダイレクト拒否2、404の3件、非人型4、エクスポート専用23は既存根拠が変わらなければ無理に取得しない。過去の権利矛盾を、元ページの「CC0」といった説明だけで解決済みにしない。
+5. **可能な対象だけ実体処理**。GLB/VRM構造・埋込権利情報と作者・SHA-256を照合。外形は頭/胴体/両腕/両脚の有無と3D表示で人型/非人型/保留に分類する。人型に限って全身正面Tポーズ768×1024、顔正面512×512のWebPを生成・目視確認し、`scripts/archive_vrm.py --format zip --confirm-humanoid`でNASへ保存。モデルごとのカタログIDと元VRM・画像SHA-256を関連付ける。**配布ZIP原本、非人型、一時画像などはNASへ永続保存しない**。一件失敗でも次へ進み、状態と理由をチェックポイントに追記する。
+6. **最後まで連続処理・反映**。残68件で処理できる対象が尽きたら、未試行を残さないよう理由別に分類を確定。未知の取得経路を推測して探索し続けない。途中の細かな承認依頼・無限リトライ・重複レビュー・大量テスト追加を避ける。`verify_nas.py`で全件のハッシュとプレビュー寸法、開始時355件の不変性を確認し、`scripts/validate.py`、必要な既存テスト、`git diff --check`を実行。正本と`docs/hermes-bulk-run-results.md`、本再開文書の件数を新事実に合わせて整え、**実体・認証情報・ローカル生ログはpushせず**、変更を限定してcommit/pushする。
 
 ## 最終報告
 
-**直近実行分の新規実績**（公式ページ11件を確認、4件をNAS保存、6件を権利保留、1件を認証待ち。追加で公式GitHub 2件を権利保留、BOOTH 303プローブ・計406件を認証待ち、商品ページ404を3件、VRoid Hub 16件を認証待ち。NeonGlitch86のREADME/LICENSE不在を確認し、33件を許諾未確認として保留。権利保留は計65件、明示的認証待ちは466件。HTTP 429後の再試行なし、dweb.link恒久除外）と**現在累計355 ZIP/710 WebP**、NAS監査、既存351件の不変性、Git commit SHA、再開チェックポイントを日本語で簡潔にまとめる。
+- 今回の対象ID数／配布元ページ数／無料URL・アクセス条件の確認数
+- 実VRM取得・GLB検査・人型／非人型の分類数、プレビュー成功数、**NAS新規保存件数**
+- 797件の9区分（計797の検算）、残る本当の未試行数、匿名取得できない理由
+- NAS累計ZIP・WebP、VRM圧縮前後容量・削減率、`verify_nas.py`結果、旧355索引行の不変性
+- Git commit SHA、作業ツリー状態、最新チェックポイントパス、次回必要なユーザー対応（例: BOOTHの正規認証を用いた確認）
 
-本書は実行指示であり、**記載した時点ではHermesを起動していない**。実行時は合理的な範囲で**逐次の小分け依頼なしに実処理を続行**し、必要不可欠な利用者認証・権利判断のみ個別保留として報告する。
+**取得可能な候補が0なら0と報告してよい**。その場合は成功件数を増やすためだけに認証やレート制限を迂回せず、残件の分類と正確な終了条件を優先する。

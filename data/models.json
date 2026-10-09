@@ -624,9 +624,11 @@
       "access_method": "official_page_download",
       "license_name": "Kizuna AI モデル配布規約・二次創作ガイドライン（配布ページから参照）",
       "license_url": "https://kizunaai.com/download/kamatteaimodel/",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "公式配布ページの利用規約に同意後取得。実ダウンロード未確認。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-09",
+      "notes": "公式配布ページの利用規約に同意後取得。実ダウンロード未確認。埋込VRM 1.0がallowRedistribution=false・avatarPermission=onlyAuthorのためNAS未保存。",
+      "distribution_size_bytes": 19341528,
+      "distribution_filename": "Kizuna_AI_KAMATTE_VRM1.xMotion_v2.zip"
     },
     {
       "id": "kizuna-ai-kamatte-vrm0",
@@ -642,9 +644,11 @@
       "access_method": "official_page_download",
       "license_name": "Kizuna AI モデル配布規約・二次創作ガイドライン（配布ページから参照）",
       "license_url": "https://kizunaai.com/download/kamatteaimodel/",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "2026-03-02追加公開と公式ページに記載。実ダウンロード未確認。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-09",
+      "notes": "2026-03-02追加公開と公式ページに記載。実ダウンロード未確認。埋込VRM 0.xがlicenseName=Redistribution_ProhibitedのためNAS未保存。",
+      "distribution_size_bytes": 41066784,
+      "distribution_filename": "Kizuna_AI_KAMATTE_VRM0.xMotion_v2.zip"
     },
     {
       "id": "el-luna-monochrome-low",
@@ -693,15 +697,17 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://zonko.zone-energy.jp/3dmodel",
       "download_url": null,
       "access_method": "official_page_download",
       "license_name": "ぞん子3Dモデル利用規約（公式PDF）",
       "license_url": "https://zone-energy.jp/3dmodel/terms.pdf",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "公式サイトに無償配布。VRM形式は公開案内と二次利用事例で確認。配布アーカイブ内の実ファイルは未確認。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-09",
+      "notes": "公式サイトに無償配布。VRM形式は公開案内と二次利用事例で確認。配布アーカイブ内の実ファイルは未確認。公式利用規約は同一条件付き無償再配布を許可する一方、埋込VRMはRedistribution_Prohibitedのため権利情報が矛盾し、NAS未保存。",
+      "distribution_size_bytes": 22875304,
+      "distribution_filename": "3dmodel.zip"
     },
     {
       "id": "an-springsnow-free",
@@ -1404,15 +1410,17 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://www.konami.com/games/vp/guideline/img",
       "download_url": null,
       "access_method": "official_page_download",
       "license_name": "LAUGH DiAMOND VR用モデル利用規約",
       "license_url": "https://www.konami.com/games/vp/guideline/vrm",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "コナミ公式素材ページに個別のVRMダウンロードあり。VRM仕様版と実ファイル名は未確認。法人利用は規約に基づき事前相談が必要。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-09",
+      "notes": "コナミ公式素材ページに個別のVRMダウンロードあり。VRM仕様版と実ファイル名は未確認。法人利用は規約に基づき事前相談が必要。実機検証でGLB v2/VRM 0.x、人型形状、Tポーズ/顔WebPを確認しNASへZIP保存。",
+      "distribution_size_bytes": 9020076,
+      "distribution_filename": "vr_hibiki.zip"
     },
     {
       "id": "laugh-diamond-asahi",
@@ -1422,15 +1430,17 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://www.konami.com/games/vp/guideline/img",
       "download_url": null,
       "access_method": "official_page_download",
       "license_name": "LAUGH DiAMOND VR用モデル利用規約",
       "license_url": "https://www.konami.com/games/vp/guideline/vrm",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "コナミ公式素材ページに個別のVRMダウンロードあり。VRM仕様版と実ファイル名は未確認。法人利用は規約に基づき事前相談が必要。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-09",
+      "notes": "コナミ公式素材ページに個別のVRMダウンロードあり。VRM仕様版と実ファイル名は未確認。法人利用は規約に基づき事前相談が必要。実機検証でGLB v2/VRM 0.x、人型形状、Tポーズ/顔WebPを確認しNASへZIP保存。",
+      "distribution_size_bytes": 8592724,
+      "distribution_filename": "vr_asahi.zip"
     },
     {
       "id": "laugh-diamond-momoka",
@@ -1440,15 +1450,17 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://www.konami.com/games/vp/guideline/img",
       "download_url": null,
       "access_method": "official_page_download",
       "license_name": "LAUGH DiAMOND VR用モデル利用規約",
       "license_url": "https://www.konami.com/games/vp/guideline/vrm",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "コナミ公式素材ページに個別のVRMダウンロードあり。VRM仕様版と実ファイル名は未確認。法人利用は規約に基づき事前相談が必要。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-09",
+      "notes": "コナミ公式素材ページに個別のVRMダウンロードあり。VRM仕様版と実ファイル名は未確認。法人利用は規約に基づき事前相談が必要。実機検証でGLB v2/VRM 0.x、人型形状、Tポーズ/顔WebPを確認しNASへZIP保存。",
+      "distribution_size_bytes": 9349896,
+      "distribution_filename": "vr_momoka.zip"
     },
     {
       "id": "laugh-diamond-kanon",
@@ -1458,15 +1470,17 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://www.konami.com/games/vp/guideline/img",
       "download_url": null,
       "access_method": "official_page_download",
       "license_name": "LAUGH DiAMOND VR用モデル利用規約",
       "license_url": "https://www.konami.com/games/vp/guideline/vrm",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "コナミ公式素材ページに個別のVRMダウンロードあり。VRM仕様版と実ファイル名は未確認。法人利用は規約に基づき事前相談が必要。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-09",
+      "notes": "コナミ公式素材ページに個別のVRMダウンロードあり。VRM仕様版と実ファイル名は未確認。法人利用は規約に基づき事前相談が必要。実機検証でGLB v2/VRM 0.x、人型形状、Tポーズ/顔WebPを確認しNASへZIP保存。",
+      "distribution_size_bytes": 11697420,
+      "distribution_filename": "vr_kanon.zip"
     },
     {
       "id": "tsukuyomichan-type-a-normal-outline",
@@ -1693,16 +1707,17 @@
         "avatar",
         "perfect-sync"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://www.sony.co.jp/en/Products/mocopi-dev/jp/downloads/DownloadInfo.html",
       "download_url": null,
       "access_method": "official_page_download",
       "license_name": "RAYNOSちゃん キャラクター使用許諾契約書（公式ページ）",
       "license_url": "https://www.sony.co.jp/en/Products/mocopi-dev/jp/downloads/DownloadInfo.html",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-09",
       "distribution_filename": "RAYNOS-chan-avatar_v1.0.8.zip",
-      "notes": "ソニー公式サイトの無償配布ZIP (v1.0.8)。VRMを用いる公式アバターとして外部ソフトの説明にも登場。VRM仕様版とZIP内のファイル名は未確認。UE専用・Live2D配布物とは区別。"
+      "notes": "ソニー公式サイトの無償配布ZIP (v1.0.8)。VRMを用いる公式アバターとして外部ソフトの説明にも登場。VRM仕様版とZIP内のファイル名は未確認。UE専用・Live2D配布物とは区別。埋込VRM 0.xがlicenseName=Redistribution_Prohibited・allowedUserName=OnlyAuthorのためNAS未保存。",
+      "distribution_size_bytes": 21833632
     },
     {
       "id": "sony-mocopi-raynos-mini",
@@ -1714,16 +1729,17 @@
         "perfect-sync",
         "chibi"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://www.sony.co.jp/en/Products/mocopi-dev/jp/downloads/DownloadInfo.html",
       "download_url": null,
       "access_method": "official_page_download",
       "license_name": "RAYNOSちゃん キャラクター使用許諾契約書（公式ページ）",
       "license_url": "https://www.sony.co.jp/en/Products/mocopi-dev/jp/downloads/DownloadInfo.html",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-09",
       "distribution_filename": "mini-RAYNOS-chan-avatar_v1.0.8.zip",
-      "notes": "ソニー公式サイトの無償配布ZIP (v1.0.8)。VRMを用いる公式アバターとして外部ソフトの説明にも登場。VRM仕様版とZIP内のファイル名は未確認。UE専用・Live2D配布物とは区別。"
+      "notes": "ソニー公式サイトの無償配布ZIP (v1.0.8)。VRMを用いる公式アバターとして外部ソフトの説明にも登場。VRM仕様版とZIP内のファイル名は未確認。UE専用・Live2D配布物とは区別。埋込VRM 0.xがlicenseName=Redistribution_Prohibited・allowedUserName=OnlyAuthorのためNAS未保存。",
+      "distribution_size_bytes": 36594428
     },
     {
       "id": "sony-mocopi-raynos-sports",
@@ -1734,16 +1750,17 @@
         "avatar",
         "perfect-sync"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://www.sony.co.jp/en/Products/mocopi-dev/jp/downloads/DownloadInfo.html",
       "download_url": null,
       "access_method": "official_page_download",
       "license_name": "RAYNOSちゃん キャラクター使用許諾契約書（公式ページ）",
       "license_url": "https://www.sony.co.jp/en/Products/mocopi-dev/jp/downloads/DownloadInfo.html",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-09",
       "distribution_filename": "Sports-RAYNOS-chan-avatar_v1.0.8.zip",
-      "notes": "ソニー公式サイトの無償配布ZIP (v1.0.8)。VRMを用いる公式アバターとして外部ソフトの説明にも登場。VRM仕様版とZIP内のファイル名は未確認。UE専用・Live2D配布物とは区別。"
+      "notes": "ソニー公式サイトの無償配布ZIP (v1.0.8)。VRMを用いる公式アバターとして外部ソフトの説明にも登場。VRM仕様版とZIP内のファイル名は未確認。UE専用・Live2D配布物とは区別。埋込VRM 0.xがlicenseName=Redistribution_Prohibited・allowedUserName=OnlyAuthorのためNAS未保存。",
+      "distribution_size_bytes": 30900960
     },
     {
       "id": "yumenokessho-popy",
@@ -2161,9 +2178,9 @@
       "access_method": "official_page_download",
       "license_name": "公式利用条件",
       "license_url": "https://booklista.notion.site/enrai-character-license#1c1e172ebc4b8017a662f089c2669e17",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "運営公式がVRM形式の無償提供を告知。個人・法人・商用・非商用を問わず無料、改変可。実VRM取得・版は未確認。"
+      "verification": "official_free_download_auth_required_not_verified",
+      "checked_at": "2026-10-09",
+      "notes": "運営公式がVRM形式の無償提供を告知。個人・法人・商用・非商用を問わず無料、改変可。実VRM取得・版は未確認。公式0円作品ページでVRM配布を確認したが、購入/ダウンロードに会員登録が必要。ログインせず、実体取得は保留。"
     },
     {
       "id": "pronama-kurei-kei-vrm",

@@ -134,3 +134,14 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - R1/R2/R3以外の797件の棚卸しは、保存21、確定非人型4、権利保留24、別hostリダイレクト拒否2、`dweb.link`恒久ブロック対象141、残り605は未試行または取得条件未確定。明示的な認証待ちは0件。HTTP 429後の再試行、`dweb.link`への新規要求、迂回ゲートウェイ/ミラーは行っていない。
 - 選別リストは人型候補557、非人型243、未判定497。`pronama-kurei-kei-vrm`を実VRM描画確認に基づき人型候補へ追加した。
 - 継続チェックポイントは`archive-checkpoint-20261009.jsonl`、`nas-baseline-after-nonseasonal-direct-20261009.json`、`batch-status.json`。取得元ZIP/VRMはNASへ原本保存せず、GitHubにも含めない。
+
+## 2026-10-09 公式ページ候補とBOOTH取得可否の続行検証
+
+- 公式ページ候補11件を確認した。LAUGH DiAMOND 4件は公式ZIPから実VRMを検査し、4件すべて人型・Tポーズ・顔プレビュー合格としてNASへ保存した。
+- Kizuna AI 2件、Sony RAYNOS 3件、ZONe ぞん子1件は実VRMの埋込権利情報が再配布禁止または公式ページ条件と矛盾するため、6件すべてNAS未保存。新しい許諾根拠がない限り再取得しない。
+- ENRAI遠雷燕は公式0円作品ページを確認したが、購入/ダウンロードに会員登録が必要なため、ログインせず`auth_required`として保留した。
+- BOOTHは6件を代表プローブ（夢ノ結唱 POPY/ROSE、結月ゆかり麗、縦ロール、桜夜）した。各ページは¥0表示だったが、公開ダウンロードURLはHTTP 302で`/users/sign_in`へ遷移した。認証回避は行わず、6件を認証待ちとしてチェックポイントに記録した。残りのBOOTH無料商品へ無差別アクセスはしていない。
+- NASは351 ZIP・702 WebPから355 ZIP・710 WebPへ増加。今回分は未圧縮VRM 38,660,116 bytes、ZIP 25,423,802 bytes、WebP 287,962 bytes。全体は未圧縮1,434,953,725 bytes、ZIP 750,627,115 bytes、削減率47.6898%、WebP 9,116,306 bytes。
+- 最終`verify_nas.py`は`ok:true`、`errors:[]`、entries355、previews710、formats `zip`。351件の開始時indexを新規4行から除外したSHA-256は`06735d2ea2c9776c1fdc80b38957a0e902a27f61041ee8abe7b8bb03665c3375`で開始時baselineと一致した。
+- R1/R2/R3以外の797件の現在棚卸しは、保存25、確定非人型4、権利保留30、別hostリダイレクト拒否2、`dweb.link`恒久ブロック141、明示的認証待ち6、残り589件が未試行または取得条件未確定。今回もHTTP 429後の再試行、`dweb.link`アクセス、認証回避は行っていない。
+- 公式ページ続行チェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/official-page-20261009/official-page-checkpoint-20261009.jsonl`、BOOTHプローブは`booth-probe-checkpoint-20261009.jsonl`、NAS baselineは`nas-baseline-after-official-page-20261009.json`。

@@ -19,9 +19,9 @@
 | [neonglitch86-models.json](data/collections/neonglitch86-models.json) | NeonGlitch86制作者GitHub・作者登録コレクションの無料公開VRM | 36 |
 | **合計** | **200キャラクター×2配布版を含む** | **1,297** |
 
-[収録・検証方針](docs/collection-policy.md) ／ [追加調査・保留候補](docs/research-notes.md) ／ [全体監査・人型ダウンロード方針](docs/download-scope-review.md) ／ **[NAS保存方式](docs/nas-storage.md)** ／ **[Hermes Agent継続一括実行指示（BOOTH第24バッチ後）](docs/hermes-bulk-resume.md)** ／ [初回の指示書](docs/hermes-bulk-run.md) ／ [一括検証実績・再開チェックポイント](docs/hermes-bulk-run-results.md)
+[収録・検証方針](docs/collection-policy.md) ／ [追加調査・保留候補](docs/research-notes.md) ／ [全体監査・人型ダウンロード方針](docs/download-scope-review.md) ／ **[NAS保存方式](docs/nas-storage.md)** ／ **[Hermes Agent継続一括実行指示（BOOTH第29バッチ後）](docs/hermes-bulk-resume.md)** ／ [初回の指示書](docs/hermes-bulk-run.md) ／ [一括検証実績・再開チェックポイント](docs/hermes-bulk-run-results.md)
 
-**登録は1,297件で凍結中。** 最新の形状選別は[人型557・非人型243・未判定497](data/download-scope.json)（候補判定と実VRM検証を区別）。NASには**355 ZIP・全身/顔WebP 710枚**、未圧縮VRM 1,434,953,725 bytes → ZIP 750,627,115 bytes（47.6898%削減）を保管し、直近の[実機結果](docs/hermes-bulk-run-results.md)では`verify_nas.py`成功。R1/R2/R3以外の797件は、保存25・非人型4・権利保留65・別hostリダイレクト拒否2・dweb.linkブロック141・認証待ち466・404が3・VRoid Studioエクスポート専用23・**残り68件が条件未確定/未試行**。匿名BOOTHダウンロードはログインへ遷移するため、認証待ちを繰り返し匿名プローブせず、[第24バッチ後の再開指示](docs/hermes-bulk-resume.md)で残68件を優先する。
+**登録は1,297件で凍結中。** [形状選別](data/download-scope.json)は人型候補557・非人型候補243・未判定497（候補と実体確認を区別）。NASは**355 ZIP・Tポーズ/顔WebP 710枚**、未圧縮VRM 1,434,953,725 bytes → ZIP 750,627,115 bytes（削減率47.6898%）。直近の[実機レポート](docs/hermes-bulk-run-results.md)では`verify_nas.py`が`ok:true`、`errors:[]`。R1/R2/R3以外の797 IDは**保存25・確定非人型4・権利保留65・別hostリダイレクト拒否2・dweb.linkブロック141・認証待ち534・商品404が3・VRoid Studioエクスポート専用23・未試行/取得条件未確定0**（合計797）。BOOTH第25〜29バッチで匿名取得条件の残件を整理し、**匿名取得可能な未処理候補は0件**。次の実体取得には正規の認証済みセッション、または権利関係の新たな根拠が必要。詳細は[現在の継続指示](docs/hermes-bulk-resume.md)。
 
 **画像・形状の根拠**： [R1/2 前半](docs/shape-review-100avatars-1-100.md) ／ [R1/2 後半](docs/shape-review-100avatars-101-200.md) ／ [R3](docs/shape-review-100avatars-r3.md) ／ [季節系・その他](docs/shape-review-indexed-other.md) ／ [MJMoonbow](docs/shape-review-mjmoonbow.md)。画像ファイル671件をIDに対応付けていますが、R1/R2のPNGはUVテクスチャで外形判定には使えません。画像対応付けは実VRMの形状確認やダウンロード許可を意味しません。
 

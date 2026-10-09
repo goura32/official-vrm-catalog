@@ -5020,9 +5020,9 @@
       "distribution_filename": "Sakuya-v2-VRM.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5513788",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "0円VRMのみの配布Ver.2。配布物の版番号とVRM仕様版は区別する。有料のVRoid/VRChat同梱セットは対象外。 公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "0円VRMのみの配布Ver.2。配布物の版番号とVRM仕様版は区別する。有料のVRoid/VRChat同梱セットは対象外。公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "hiyoriya-sakuya-v31",
@@ -5041,9 +5041,9 @@
       "distribution_filename": "Sakuya-vrm-v3.1.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5513788",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "0円VRMのみの別配布ZIP。作者説明はver.3のVRM 0.0。ファイル内の仕様版は未解析。規約 https://fujihina.com/3d-riyoukiyaku/ を参照。 公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "0円VRMのみの別配布ZIP。作者説明はver.3のVRM 0.0。ファイル内の仕様版は未解析。規約 https://fujihina.com/3d-riyoukiyaku/ を参照。公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "lunalilo-takepiyo",
@@ -5062,9 +5062,9 @@
       "distribution_filename": "たけぴよ.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5599857",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者オリジナルのきのこ帽子を持つアヒル型VRM。0円のVRM本体のみ収録。 公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者オリジナルのきのこ帽子を持つアヒル型VRM。0円のVRM本体のみ収録。公式商品ページで0円のVRM配布を確認。実ダウンロード・内部VRM解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "hakase3dcluster-hakiri-kirino",
@@ -5081,9 +5081,9 @@
       "distribution_filename": "刃切_切乃.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6100467",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "原作者がcluster向けVRMファイルを0円公開。単体モデルの再配布禁止。 公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "原作者がcluster向けVRMファイルを0円公開。単体モデルの再配布禁止。公式商品ページで0円のVRM配布を確認。実ダウンロード・内部VRM解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "vroidshop-323",
@@ -5100,9 +5100,9 @@
       "distribution_filename": "323.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4637936",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者がVRoid Studio 1.20.2で制作、VRM形式のみを0円公開。政治・宗教・ヘイトスピーチ利用禁止。 公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者がVRoid Studio 1.20.2で制作、VRM形式のみを0円公開。政治・宗教・ヘイトスピーチ利用禁止。公式商品ページで0円のVRM配布を確認。実ダウンロード・内部VRM解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "yamaron-white-nekomimi",
@@ -5120,9 +5120,9 @@
       "distribution_filename": "yamaneko_white.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5305879",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者が期間限定で無料公開するVRMのみのZIP。個人のアバター・VRMアプリでの利用向け。無料公開の継続は要再確認。 公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者が期間限定で無料公開するVRMのみのZIP。個人のアバター・VRMアプリでの利用向け。無料公開の継続は要再確認。公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "branshop-nao",
@@ -5141,9 +5141,9 @@
       "distribution_filename": "Nao_Contents.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6595645",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者が0円ZIPにVRM形式モデルとVRChat用データを同梱と記載。2頭身の軽量モデル。UVライセンス条件を確認。 公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者が0円ZIPにVRM形式モデルとVRChat用データを同梱と記載。2頭身の軽量モデル。UVライセンス条件を確認。公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "cloodworks-hatsuka-pc",
@@ -5161,9 +5161,9 @@
       "distribution_filename": "Hatsuka.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/3871143",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者公式ZIPにPC用とQuest用の2 VRMを明記。これはPC用（約28,850ポリゴン）のレコード。ライセンスは同梱LICENCE.txtおよびVRoid Studio規約を参照。 公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者公式ZIPにPC用とQuest用の2 VRMを明記。これはPC用（約28,850ポリゴン）のレコード。ライセンスは同梱LICENCE.txtおよびVRoid Studio規約を参照。公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "cloodworks-hatsuka-quest",
@@ -5182,9 +5182,9 @@
       "distribution_filename": "Hatsuka.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/3871143",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者公式ZIPにPC用とQuest用の2 VRMを明記。これはQuest用（約15,016ポリゴン）のレコード。ライセンスは同梱LICENCE.txtおよびVRoid Studio規約を参照。 公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者公式ZIPにPC用とQuest用の2 VRMを明記。これはQuest用（約15,016ポリゴン）のレコード。ライセンスは同梱LICENCE.txtおよびVRoid Studio規約を参照。公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "kuasa-anyame",
@@ -5201,9 +5201,9 @@
       "distribution_filename": "あにゃめ_eight_key.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6013393",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者が0円の単体VRMとVRoid編集モデルを別ファイルで公開。VRMだけを1件登録。 公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。"
+      "verification": "official_free_page_not_found",
+      "checked_at": "2026-10-10",
+      "notes": "元の商品ページを匿名ブラウザで確認したところBOOTHの404（商品が削除または移動）を返した。無料ダウンロードURLは確認できず、ダウンロード要求・認証回避・実体取得は行っていない。"
     },
     {
       "id": "kumayui-kumano-yucha",
@@ -5220,9 +5220,9 @@
       "distribution_filename": "熊野ゆちゃ.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/7039529",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者が無料ZIPにVRM、VRoid、Unitypackageを同梱。VRMのみ登録。改変可、再配布禁止。 公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者が無料ZIPにVRM、VRoid、Unitypackageを同梱。VRMのみ登録。改変可、再配布禁止。公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "yuuritoka-hanamaru",
@@ -5239,9 +5239,9 @@
       "distribution_filename": "花圓.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4649018",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者が0円で公開したVRoid Studio製の少年キャラクターVRM。改変可・再配布禁止。 公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者が0円で公開したVRoid Studio製の少年キャラクターVRM。改変可・再配布禁止。公式商品ページで0円のVRM配布を確認。実ダウンロード・内部VRM解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "shounokoto-moyashi",
@@ -5260,9 +5260,9 @@
       "distribution_filename": "ver1_1.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6859520",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者が0円でVRM対応Humanoidモデルを配布。ファイル名はZIP。VRMの実ファイル名・仕様版は後日確認。 公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者が0円でVRM対応Humanoidモデルを配布。ファイル名はZIP。VRMの実ファイル名・仕様版は後日確認。公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "tatougai-oninoko-kiri",
@@ -5279,9 +5279,9 @@
       "distribution_filename": "oninoko_kiri_free_.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5189443",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者がVRoid/VRMの0円版を配布。第三者配布素材が一部含まれる旨と作者の免責・利用条件を確認。 公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者がVRoid/VRMの0円版を配布。第三者配布素材が一部含まれる旨と作者の免責・利用条件を確認。公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "shounokoto-kotatsu-mikan",

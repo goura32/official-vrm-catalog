@@ -2840,9 +2840,9 @@
       "distribution_filename": "さくらリクオ_フリーアバター_まゆき.zip",
       "license_name": "作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4825706",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "0円ZIPにVRMとVRoidを同梱。アバター/個人商用可、VTuber利用不可。法人利用はクレジット必須、再配布禁止。 実ダウンロード・実ファイルメタデータは未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "0円ZIPにVRMとVRoidを同梱。アバター/個人商用可、VTuber利用不可。法人利用はクレジット必須、再配布禁止。 実ダウンロード・実ファイルメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "hiraeth-dalji",
@@ -2860,9 +2860,9 @@
       "distribution_filename": "Dalji_-_CE1_FREE.zip",
       "license_name": "作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4898876",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "0円ZIPにVRMとVRoidカスタムアイテム、テクスチャを同梱。細かな利用条件は作者の商品ページで確認する。 実ダウンロード・実ファイルメタデータは未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "0円ZIPにVRMとVRoidカスタムアイテム、テクスチャを同梱。細かな利用条件は作者の商品ページで確認する。 実ダウンロード・実ファイルメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "teoteome-yanjatta",
@@ -2879,9 +2879,9 @@
       "distribution_filename": "やんじゃった.zip",
       "license_name": "作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/3124874",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "0円の作者商品はVRM形式モデルとして掲載。ZIP内の実ファイル名・利用権限の詳細は未確認。 実ダウンロード・実ファイルメタデータは未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "0円の作者商品はVRM形式モデルとして掲載。ZIP内の実ファイル名・利用権限の詳細は未確認。 実ダウンロード・実ファイルメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "shopperch-kotoha",
@@ -2898,9 +2898,9 @@
       "distribution_filename": "コトハ.vrm",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/8580892",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "shopperch-kohaku",
@@ -2917,9 +2917,9 @@
       "distribution_filename": "コハク.vrm",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/7704964",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "shopperch-elaine",
@@ -2936,9 +2936,9 @@
       "distribution_filename": "エレイン.vrm",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/8078128",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "shopperch-saki-v2",
@@ -2955,9 +2955,9 @@
       "distribution_filename": "サキ_ver.2.vrm",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/6550273",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "shopperch-irene",
@@ -2974,9 +2974,9 @@
       "distribution_filename": "アイリーン.vrm",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/6865593",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "shopperch-hisui-v15",
@@ -2993,9 +2993,9 @@
       "distribution_filename": "ヒスイ_ver.1.5.vrm",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/6649467",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "shopperch-hiiragi",
@@ -3012,9 +3012,9 @@
       "distribution_filename": "ヒイラギ.vrm",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/7105378",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "shopperch-suzuna",
@@ -3031,9 +3031,9 @@
       "distribution_filename": "スズナ.vrm",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/6740762",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "shopperch-metis",
@@ -3050,9 +3050,9 @@
       "distribution_filename": "メティス.vrm",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/7474279",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "shopperch-yuzu",

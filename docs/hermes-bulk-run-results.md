@@ -145,3 +145,13 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - 最終`verify_nas.py`は`ok:true`、`errors:[]`、entries355、previews710、formats `zip`。351件の開始時indexを新規4行から除外したSHA-256は`06735d2ea2c9776c1fdc80b38957a0e902a27f61041ee8abe7b8bb03665c3375`で開始時baselineと一致した。
 - R1/R2/R3以外の797件の現在棚卸しは、保存25、確定非人型4、権利保留30、別hostリダイレクト拒否2、`dweb.link`恒久ブロック141、明示的認証待ち6、残り589件が未試行または取得条件未確定。今回もHTTP 429後の再試行、`dweb.link`アクセス、認証回避は行っていない。
 - 公式ページ続行チェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/official-page-20261009/official-page-checkpoint-20261009.jsonl`、BOOTHプローブは`booth-probe-checkpoint-20261009.jsonl`、NAS baselineは`nas-baseline-after-official-page-20261009.json`。
+
+## 2026-10-09 直接GitHub・BOOTH・VRoid Hubの追加棚卸し
+
+- `hinzka/52blendshapes-for-VRoid-face`のmainをcommit `756f5abab7d2295ad5b5dbc2cd86972c388c48d2`へ固定し、女性/男性PerfectSync VRM 2件を実取得・検査した。両方ともサイズと固定ソースを照合し、GLB v2/VRM 0.x、人型候補の実体であることを確認した。
+- 作者READMEは再配布・販売を許可し、VRoid公式サンプル利用条件も出力VRMの利用・配布を許可する一方、実VRMの埋込`licenseName=Redistribution_Prohibited`が矛盾するため、2件とも権利保留・プレビュー生成/NAS保存なし。女性SHA-256は`36d6d242999d580bd0d3bcd8656bb2d4d5d4839f187d8198226bda905e1d9114`、男性は`7526838f4a45086a1d0abb23e9f38ad3f0103889f1efa70d2605ef25e7e6ef99`。
+- BOOTHの追加10商品ページ（12カタログID：ミニずん子/ずんだもん、NEW FEE 3種、パチモンしとちゃ2種、minamo、れん、天羽ソラ、ぱペコ、とべ～るくん）を確認した。全て商品ページは¥0だが、匿名の無料ダウンロードURLはHTTP 302で`https://booth.pm/users/sign_in`へ遷移した。認証回避はせず、12件を認証待ちとして記録した。
+- VRoid HubはAvatarSample_A、β AvatarSample_1、TOKYO6小春六花の3ページを匿名確認した。各ページでpixiv IDログインが表示され、匿名ダウンロードリンクを取得できなかったため、3件を認証待ちとして記録した。残りのVRoid Hub候補へログインなしの無差別アクセスは行っていない。
+- NASは新規保存なし。355 ZIP・710 WebP、未圧縮1,434,953,725 bytes、ZIP 750,627,115 bytes、削減率47.6898%、WebP 9,116,306 bytesを維持した。
+- R1/R2/R3以外の797件の棚卸しは、保存25、確定非人型4、権利保留32、別hostリダイレクト拒否2、`dweb.link`恒久ブロック141、明示的認証待ち22、残り571件が未試行または取得条件未確定。今回も429後の再試行、`dweb.link`、認証回避、ミラー/プロキシ迂回は行っていない。
+- 追加チェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/hinzka-direct-20261009/rights-checkpoint-20261009.jsonl`、`official-page-20261009/vroid-probe-checkpoint-20261009.jsonl`。

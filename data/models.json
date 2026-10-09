@@ -179,9 +179,9 @@
       "access_method": "vroid_hub_vrm",
       "license_name": "VRoid Studio サンプルモデル利用条件（CC0ではない）",
       "license_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
-      "verification": "official_hub_and_help_confirmed",
-      "checked_at": "2026-10-08",
-      "notes": "公式VRoid Hub掲載の配布モデルは Format: VRM 0.0。VRoid Studioから別途書き出すVRMの仕様版は未確認。"
+      "verification": "official_hub_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "公式VRoid Hub掲載の配布モデルは Format: VRM 0.0。匿名ページではpixiv IDログインが表示され、ダウンロードリンクを取得できなかったため、ログインせず実体取得を保留。利用条件は公式ヘルプ記載に従う。"
     },
     {
       "id": "vroid-avatarsample-b",
@@ -781,9 +781,9 @@
       "access_method": "booth_free_download",
       "license_name": "作者BOOTH商品ページ内の利用条件",
       "license_url": "https://booth.pm/ja/items/7447864",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "無料ファイル: れん.vrm (16.3 MB)。.vroidファイルは100円。再販・再配布、暴力・性的表現禁止。法人営利利用は事前問い合わせ。",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "無料ファイル: れん.vrm (16.3 MB)。.vroidファイルは100円。再販・再配布、暴力・性的表現禁止。法人営利利用は事前問い合わせ。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。",
       "distribution_filename": "れん.vrm"
     },
     {
@@ -820,9 +820,9 @@
       "access_method": "booth_free_download",
       "license_name": "作者BOOTH商品ページ内の利用条件",
       "license_url": "https://booth.pm/ja/items/6728662",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "無料ファイル: minamo.zip (52.5 KB)、中にminamo.vrmを収録と記載。JoyとFun時の水面表情演出。個人商用・法人可、改変可、再配布禁止。",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "無料ファイル: minamo.zip (52.5 KB)、中にminamo.vrmを収録と記載。JoyとFun時の水面表情演出。個人商用・法人可、改変可、再配布禁止。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。",
       "distribution_filename": "minamo.zip"
     },
     {
@@ -860,9 +860,9 @@
       "access_method": "booth_free_download",
       "license_name": "東北ずん子・ずんだもん利用ガイドライン",
       "license_url": "https://zunko.jp/guideline.html",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "無料ファイル: ミニずん子モデル_セット.zip (143 MB)。公式はVRM・MMD・VRChat対応と明示。ZIP内部および実ダウンロードは未確認。寄付版は別。 公開状況注意（2026-10-08）：booth.pm の共通商品ページに0円で掲載される一方、出品者ショップの個別ページには非公開表示がある。実際の取得可否は未検証。",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "無料ファイル: ミニずん子モデル_セット.zip (143 MB)。公式はVRM・MMD・VRChat対応と明示。寄付版は別。公開商品ページの無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。",
       "distribution_filename": "ミニずん子モデル_セット.zip"
     },
     {
@@ -880,9 +880,9 @@
       "access_method": "booth_free_download",
       "license_name": "東北ずん子・ずんだもん利用ガイドライン",
       "license_url": "https://zunko.jp/guideline.html",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "無料ファイル: ミニずんだもん_モデルセット.zip (102 MB)。公式はVRM・MMD・VRChat対応と明示。ZIP内部および実ダウンロードは未確認。寄付版は別。 公開状況注意（2026-10-08）：booth.pm の共通商品ページに0円で掲載される一方、出品者ショップの個別ページには非公開表示がある。実際の取得可否は未検証。",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "無料ファイル: ミニずんだもん_モデルセット.zip (102 MB)。公式はVRM・MMD・VRChat対応と明示。寄付版は別。公開商品ページの無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。",
       "distribution_filename": "ミニずんだもん_モデルセット.zip"
     },
     {
@@ -1230,9 +1230,9 @@
       "access_method": "vroid_hub_vrm",
       "license_name": "CC0 1.0",
       "license_url": "https://vroid.pixiv.help/hc/ja/articles/360012381793",
-      "verification": "official_hub_and_help_confirmed",
-      "checked_at": "2026-10-08",
-      "notes": "公式VRoid Hubに Format: VRM 0.0 / Can you use this model?: Yes と表示。公式ヘルプにCC0表記。ログイン後のVRMダウンロードは未実施。"
+      "verification": "official_hub_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "公式VRoid Hubに Format: VRM 0.0 / Can you use this model?: Yes と表示。匿名ページではpixiv IDログインが表示され、ダウンロードリンクを取得できなかったため、ログインせず実体取得を保留。"
     },
     {
       "id": "vroid-beta-avatarsample-2",
@@ -1934,10 +1934,10 @@
       "access_method": "booth_free_download",
       "license_name": "作者・公式BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5447407",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
       "distribution_filename": "二次創作用VRM3DモデルNEW_FEE_v0.0.0.zip",
-      "notes": "0円の公式ZIP内のNEW_Fee.vrm。通常版。軽量版・shape版も同じZIPに同梱。支援版のみPSD追加。作者二次創作ガイドラインに従う。"
+      "notes": "0円の公式ZIP内のNEW_Fee.vrm。通常版。軽量版・shape版も同じZIPに同梱。支援版のみPSD追加。作者二次創作ガイドラインに従う。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "ustella-new-fee-light",
@@ -1954,10 +1954,10 @@
       "access_method": "booth_free_download",
       "license_name": "作者・公式BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5447407",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
       "distribution_filename": "二次創作用VRM3DモデルNEW_FEE_v0.0.0.zip",
-      "notes": "0円の公式ZIP内のNEW_Fee_Light.vrm。通常版とは別の軽量VRM。実ZIP・モデル内部は未確認。"
+      "notes": "0円の公式ZIP内のNEW_Fee_Light.vrm。通常版とは別の軽量VRM。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "ustella-new-fee-shape",
@@ -1974,10 +1974,10 @@
       "access_method": "booth_free_download",
       "license_name": "作者・公式BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5447407",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
       "distribution_filename": "二次創作用VRM3DモデルNEW_FEE_v0.0.0.zip",
-      "notes": "0円の公式ZIPに貫通防止シェイプキーなどを適用していないVRMを同梱。公式説明の内部名『NEW_Fee_ shape.vrm』。実際のファイル名はZIP未確認。"
+      "notes": "0円の公式ZIPに貫通防止シェイプキーなどを適用していないVRMを同梱。公式説明の内部名『NEW_Fee_ shape.vrm』。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "pachimon-shitocha-vrm1",
@@ -1995,10 +1995,10 @@
       "access_method": "booth_free_download",
       "license_name": "作者・公式BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/8535916",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
       "distribution_filename": "pachimon_shitocha_free_v1.0.zip",
-      "notes": "0円の個人活動向けZIPにVRM 1.0と0.xの両方を収録。表情計88キー・iFacialMocap52キー。個人の動画・配信収益化可。クレジット必須、法人・企業案件・ゲーム/アプリ組込み不可、再配布禁止。"
+      "notes": "0円の個人活動向けZIPにVRM 1.0と0.xの両方を収録。表情計88キー・iFacialMocap52キー。個人の動画・配信収益化可。クレジット必須、法人・企業案件・ゲーム/アプリ組込み不可、再配布禁止。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "pachimon-shitocha-vrm0",
@@ -2016,10 +2016,10 @@
       "access_method": "booth_free_download",
       "license_name": "作者・公式BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/8535916",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
       "distribution_filename": "pachimon_shitocha_free_v1.0.zip",
-      "notes": "VRM 1.0版と同じ無料ZIP内の0.x互換版。個人活動向け、クレジット必須、法人・企業案件・ゲーム/アプリ組込み不可、再配布禁止。"
+      "notes": "VRM 1.0版と同じ無料ZIP内の0.x互換版。個人活動向け、クレジット必須、法人・企業案件・ゲーム/アプリ組込み不可、再配布禁止。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "madananitoberu-vrm",
@@ -2037,10 +2037,10 @@
       "access_method": "booth_free_download",
       "license_name": "作者・公式BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5821373",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
       "distribution_filename": "toberu_ver1.vrm",
-      "notes": "作者の0円公式マスコットVRM（約1.23 MB）。作者案内ではcluster等での利用可、モデル自体の再配布・販売禁止。有料の応援版は収録しない。"
+      "notes": "作者の0円公式マスコットVRM（約1.23 MB）。作者案内ではcluster等での利用可、モデル自体の再配布・販売禁止。有料の応援版は収録しない。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "virtual-snow-festival-vyuki",
@@ -2077,10 +2077,10 @@
       "access_method": "booth_free_download",
       "license_name": "作者・公式BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6199261",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
       "distribution_filename": "sore_set1.zip",
-      "notes": "0円の作者配布ZIPにPMX×7とVRMを同梱と明記。無料版以外の800円支援版は対象外。商用利用・再配布禁止。ZIP内VRM名と版は未確認。"
+      "notes": "0円の作者配布ZIPにPMX×7とVRMを同梱と明記。無料版以外の800円支援版は対象外。商用利用・再配布禁止。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "asahikawa-yukara-matsumotokun",
@@ -2159,10 +2159,10 @@
       "access_method": "booth_free_download",
       "license_name": "作者・公式BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4524770",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
       "distribution_filename": "vrd000_papeco_ver3.zip",
-      "notes": "公式ショップの0円配布ZIPにVRMと.vroid・テクスチャ・PSDを収録。名称変更・個人活動利用の制限を含む独自規約。VRM Hubにも公式掲載。"
+      "notes": "公式ショップの0円配布ZIPにVRMと.vroid・テクスチャ・PSDを収録。名称変更・個人活動利用の制限を含む独自規約。VRM Hubにも公式掲載。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "enrai-tsubame-official-vrm",
@@ -2256,9 +2256,9 @@
       "access_method": "vroid_hub_vrm",
       "license_name": "TOKYO6キャラクターガイドラインとVRoid Hub掲載モデル個別許諾",
       "license_url": "https://tokyo6.tokyo/guidelines/",
-      "verification": "official_hub_permission_and_format_confirmed",
-      "checked_at": "2026-10-08",
-      "notes": "TOKYO6公式アカウントのVRoid Hubモデル。使用可(ダウンロードNGではない)、VRM 0.0、個人非営利利用、法人利用NG、再配布NG、クレジット必要。公式ガイドライン遵守。ログイン後の実取得未実施。"
+      "verification": "official_hub_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "TOKYO6公式アカウントのVRoid Hubモデル。ページはVRM 0.0、個人非営利利用・再配布NG・クレジット必要を表示。匿名ページではpixiv IDログインが表示され、ダウンロードリンクを取得できなかったため、ログインせず実体取得を保留。"
     },
     {
       "id": "tokyo6-karin-official-vrm0",
@@ -9232,9 +9232,9 @@
       "distribution_size_bytes": 23297820,
       "license_name": "作者GitHub READMEの利用許諾（原型VRoid Studio等第三者規約に従う）",
       "license_url": "https://github.com/hinzka/52blendshapes-for-VRoid-face/blob/main/README.md",
-      "verification": "official_repository_file_listed",
-      "checked_at": "2026-10-08",
-      "notes": "作者自身がVRoid Studio正式版素体から制作したPerfect Sync用52表情シェイプのVRM。GitHub APIでファイルパスとバイト数を確認。作者は再配布・販売可能と説明するが元素体など第三者の権利と規約は別途必要。GLB内部未解析。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-09",
+      "notes": "作者READMEは再配布・販売可能と説明し、VRoid公式サンプル条件も出力VRMの配布を許可する。一方、実VRMはGLB v2/VRM 0.xで埋込licenseName=Redistribution_Prohibited。公開許諾と埋込権利情報が矛盾するためNAS未保存。ソース固定commit: 756f5abab7d2295ad5b5dbc2cd86972c388c48d2、SHA-256: 36d6d242999d580bd0d3bcd8656bb2d4d5d4839f187d8198226bda905e1d9114。"
     },
     {
       "id": "hinzka-perfect-sync-male-v113",
@@ -9255,9 +9255,9 @@
       "distribution_size_bytes": 22710912,
       "license_name": "作者GitHub READMEの利用許諾（原型VRoid Studio等第三者規約に従う）",
       "license_url": "https://github.com/hinzka/52blendshapes-for-VRoid-face/blob/main/README.md",
-      "verification": "official_repository_file_listed",
-      "checked_at": "2026-10-08",
-      "notes": "作者自身がVRoid Studio正式版素体から制作したPerfect Sync用52表情シェイプのVRM。GitHub APIでファイルパスとバイト数を確認。作者は再配布・販売可能と説明するが元素体など第三者の権利と規約は別途必要。GLB内部未解析。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-09",
+      "notes": "作者READMEは再配布・販売可能と説明し、VRoid公式サンプル条件も出力VRMの配布を許可する。一方、実VRMはGLB v2/VRM 0.xで埋込licenseName=Redistribution_Prohibited。公開許諾と埋込権利情報が矛盾するためNAS未保存。ソース固定commit: 756f5abab7d2295ad5b5dbc2cd86972c388c48d2、SHA-256: 7526838f4a45086a1d0abb23e9f38ad3f0103889f1efa70d2605ef25e7e6ef99。"
     },
     {
       "id": "mossinpc-wanime-neonmoss",

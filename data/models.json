@@ -197,9 +197,9 @@
       "access_method": "vroid_hub_vrm",
       "license_name": "VRoid Studio サンプルモデル利用条件（CC0ではない）",
       "license_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
-      "verification": "official_hub_and_help_confirmed",
-      "checked_at": "2026-10-08",
-      "notes": "公式VRoid Hub掲載の配布モデルは Format: VRM 0.0。VRoid Studioから別途書き出すVRMの仕様版は未確認。"
+      "verification": "official_hub_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "公式VRoid Hubの匿名ページを実ブラウザで確認。pixiv IDログインが表示され、VRMダウンロードリンクは取得できなかったため、ログインせず実体取得を保留。"
     },
     {
       "id": "vroid-avatarsample-c",
@@ -215,9 +215,9 @@
       "access_method": "vroid_hub_vrm",
       "license_name": "VRoid Studio サンプルモデル利用条件（CC0ではない）",
       "license_url": "https://vroid.pixiv.help/hc/ja/articles/4402394424089-AvatarSample-A-Z",
-      "verification": "official_hub_and_help_confirmed",
-      "checked_at": "2026-10-08",
-      "notes": "公式VRoid Hub掲載の配布モデルは Format: VRM 0.0。VRoid Studioから別途書き出すVRMの仕様版は未確認。"
+      "verification": "official_hub_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "公式VRoid Hubの匿名ページを実ブラウザで確認。pixiv IDログインが表示され、VRMダウンロードリンクは取得できなかったため、ログインせず実体取得を保留。"
     },
     {
       "id": "vroid-avatarsample-d",
@@ -1248,9 +1248,9 @@
       "access_method": "vroid_hub_vrm",
       "license_name": "CC0 1.0",
       "license_url": "https://vroid.pixiv.help/hc/ja/articles/360014900273",
-      "verification": "official_hub_and_help_confirmed",
-      "checked_at": "2026-10-08",
-      "notes": "公式VRoid Hubに Format: VRM 0.0 / Can you use this model?: Yes と表示。公式ヘルプにCC0表記。ログイン後のVRMダウンロードは未実施。"
+      "verification": "official_hub_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "公式VRoid Hubの匿名ページを実ブラウザで確認。Format: VRM 0.0、利用条件OK、pixiv IDログイン、利用ボタンは表示されるがVRMダウンロードリンクは取得できなかったため、ログインせず実体取得を保留。"
     },
     {
       "id": "vroid-beta-avatarsample-3",
@@ -1266,9 +1266,9 @@
       "access_method": "vroid_hub_vrm",
       "license_name": "CC0 1.0",
       "license_url": "https://vroid.pixiv.help/hc/ja/articles/360014900113",
-      "verification": "official_hub_and_help_confirmed",
-      "checked_at": "2026-10-08",
-      "notes": "公式VRoid Hubに Format: VRM 0.0 / Can you use this model?: Yes と表示。公式ヘルプにCC0表記。ログイン後のVRMダウンロードは未実施。"
+      "verification": "official_hub_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "公式VRoid Hubの匿名ページを実ブラウザで確認。Format: VRM 0.0、利用条件OK、pixiv IDログイン、利用ボタンは表示されるがVRMダウンロードリンクは取得できなかったため、ログインせず実体取得を保留。"
     },
     {
       "id": "vroid-beta-avatarsample-4",
@@ -1284,9 +1284,9 @@
       "access_method": "vroid_hub_vrm",
       "license_name": "CC0 1.0",
       "license_url": "https://vroid.pixiv.help/hc/ja/articles/360014900233",
-      "verification": "official_hub_and_help_confirmed",
-      "checked_at": "2026-10-08",
-      "notes": "公式VRoid Hubに Format: VRM 0.0 / Can you use this model?: Yes と表示。公式ヘルプにCC0表記。ログイン後のVRMダウンロードは未実施。"
+      "verification": "official_hub_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "公式VRoid Hubの匿名ページを実ブラウザで確認。Format: VRM 0.0、利用条件OK、pixiv IDログイン、利用ボタンは表示されるがVRMダウンロードリンクは取得できなかったため、ログインせず実体取得を保留。"
     },
     {
       "id": "vroid-beta-avatarsample-1-darkness",
@@ -1303,9 +1303,9 @@
       "access_method": "vroid_hub_vrm",
       "license_name": "VRoid Hubモデル別利用条件",
       "license_url": "https://hub.vroid.com/characters/675572020956181239/models/6535695942068248968",
-      "verification": "official_hub_permission_and_format_confirmed",
-      "checked_at": "2026-10-08",
-      "notes": "VRoid Project公式アカウント公開。VRoid Hubで「他の人の利用: OK」（ダウンロードNGではない）およびFormat: VRM 0.0、再配布/改変可を確認。元のβサンプルと別バリエーション。ログイン・実ダウンロード未実施。"
+      "verification": "official_hub_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "VRoid Project公式アカウント公開。匿名ページではpixiv IDログインが表示され、VRMダウンロードリンクを取得できなかったため、ログインせず実体取得を保留。"
     },
     {
       "id": "vroid-beta-avatarsample-1-uniform-2019",
@@ -1322,9 +1322,9 @@
       "access_method": "vroid_hub_vrm",
       "license_name": "VRoid Hubモデル別利用条件",
       "license_url": "https://hub.vroid.com/characters/675572020956181239/models/7175071267176594918",
-      "verification": "official_hub_permission_and_format_confirmed",
-      "checked_at": "2026-10-08",
-      "notes": "VRoid Project公式アカウント公開。VRoid Hubで「他の人の利用: OK」（ダウンロードNGではない）およびFormat: VRM 0.0、再配布/改変可を確認。元のβサンプルと別バリエーション。ログイン・実ダウンロード未実施。"
+      "verification": "official_hub_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "VRoid Project公式アカウント公開。匿名ページではpixiv IDログインが表示され、VRMダウンロードリンクを取得できなかったため、ログインせず実体取得を保留。"
     },
     {
       "id": "vroid-beta-avatarsample-1-uniform-2019-dark",
@@ -1341,9 +1341,9 @@
       "access_method": "vroid_hub_vrm",
       "license_name": "VRoid Hubモデル別利用条件",
       "license_url": "https://hub.vroid.com/characters/675572020956181239/models/5306079829291212184",
-      "verification": "official_hub_permission_and_format_confirmed",
-      "checked_at": "2026-10-08",
-      "notes": "VRoid Project公式アカウント公開。VRoid Hubで「他の人の利用: OK」（ダウンロードNGではない）およびFormat: VRM 0.0、再配布/改変可を確認。元のβサンプルと別バリエーション。ログイン・実ダウンロード未実施。"
+      "verification": "official_hub_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "VRoid Project公式アカウント公開。匿名ページではpixiv IDログインが表示され、VRMダウンロードリンクを取得できなかったため、ログインせず実体取得を保留。"
     },
     {
       "id": "vroid-beta-avatarsample-2-uniform-2019",
@@ -1360,9 +1360,9 @@
       "access_method": "vroid_hub_vrm",
       "license_name": "VRoid Hubモデル別利用条件",
       "license_url": "https://hub.vroid.com/characters/945152946522067123/models/3383751442912063017",
-      "verification": "official_hub_permission_and_format_confirmed",
-      "checked_at": "2026-10-08",
-      "notes": "VRoid Project公式アカウント公開。VRoid Hubで「他の人の利用: OK」（ダウンロードNGではない）およびFormat: VRM 0.0、再配布/改変可を確認。元のβサンプルと別バリエーション。ログイン・実ダウンロード未実施。"
+      "verification": "official_hub_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "VRoid Project公式アカウント公開。匿名ページではpixiv IDログインが表示され、VRMダウンロードリンクを取得できなかったため、ログインせず実体取得を保留。"
     },
     {
       "id": "vroid-beta-avatarsample-3-uniform-2019",
@@ -1379,9 +1379,9 @@
       "access_method": "vroid_hub_vrm",
       "license_name": "VRoid Hubモデル別利用条件",
       "license_url": "https://hub.vroid.com/characters/6193066630030526355/models/537531113514541613",
-      "verification": "official_hub_permission_and_format_confirmed",
-      "checked_at": "2026-10-08",
-      "notes": "VRoid Project公式アカウント公開。VRoid Hubで「他の人の利用: OK」（ダウンロードNGではない）およびFormat: VRM 0.0、再配布/改変可を確認。元のβサンプルと別バリエーション。ログイン・実ダウンロード未実施。"
+      "verification": "official_hub_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "VRoid Project公式アカウント公開。匿名ページではpixiv IDログインが表示され、VRMダウンロードリンクを取得できなかったため、ログインせず実体取得を保留。"
     },
     {
       "id": "vroid-beta-avatarsample-4-uniform-2019",
@@ -1398,9 +1398,9 @@
       "access_method": "vroid_hub_vrm",
       "license_name": "VRoid Hubモデル別利用条件",
       "license_url": "https://hub.vroid.com/characters/2792872861023597723/models/9138892883072488102",
-      "verification": "official_hub_permission_and_format_confirmed",
-      "checked_at": "2026-10-08",
-      "notes": "VRoid Project公式アカウント公開。VRoid Hubで「他の人の利用: OK」（ダウンロードNGではない）およびFormat: VRM 0.0、再配布/改変可を確認。元のβサンプルと別バリエーション。ログイン・実ダウンロード未実施。"
+      "verification": "official_hub_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "VRoid Project公式アカウント公開。匿名ページではpixiv IDログインが表示され、VRMダウンロードリンクを取得できなかったため、ログインせず実体取得を保留。"
     },
     {
       "id": "laugh-diamond-hibiki",
@@ -2274,9 +2274,9 @@
       "access_method": "vroid_hub_vrm",
       "license_name": "TOKYO6キャラクターガイドラインとVRoid Hub掲載モデル個別許諾",
       "license_url": "https://tokyo6.tokyo/guidelines/",
-      "verification": "official_hub_permission_and_format_confirmed",
-      "checked_at": "2026-10-08",
-      "notes": "TOKYO6公式アカウントのVRoid Hubモデル。使用可(ダウンロードNGではない)、VRM 0.0、個人非営利利用、法人利用NG、再配布NG、クレジット必要。公式ガイドライン遵守。ログイン後の実取得未実施。"
+      "verification": "official_hub_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "TOKYO6公式アカウントのVRoid Hubモデル。匿名ページではpixiv IDログインが表示され、VRMダウンロードリンクを取得できなかったため、ログインせず実体取得を保留。利用条件は公式ページに表示された個別条件とガイドラインに従う。"
     },
     {
       "id": "tokyo6-chifuyu-official-vrm0",
@@ -2292,9 +2292,9 @@
       "access_method": "vroid_hub_vrm",
       "license_name": "TOKYO6キャラクターガイドラインとVRoid Hub掲載モデル個別許諾",
       "license_url": "https://tokyo6.tokyo/guidelines/",
-      "verification": "official_hub_permission_and_format_confirmed",
-      "checked_at": "2026-10-08",
-      "notes": "TOKYO6公式アカウントのVRoid Hubモデル。使用可(ダウンロードNGではない)、VRM 0.0、個人非営利利用、法人利用NG、再配布NG、クレジット必要。公式ガイドライン遵守。ログイン後の実取得未実施。"
+      "verification": "official_hub_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "TOKYO6公式アカウントのVRoid Hubモデル。匿名ページではpixiv IDログインが表示され、VRMダウンロードリンクを取得できなかったため、ログインせず実体取得を保留。利用条件は公式ページに表示された個別条件とガイドラインに従う。"
     },
     {
       "id": "kanonmk3d-bear",

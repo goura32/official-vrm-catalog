@@ -160,5 +160,11 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 
 - NeonGlitch86公式GitHubリポジトリのREADMEとルート一覧を確認した。READMEはrawリンクのみで、LICENSEファイルは存在しなかった。
 - `neonglitch86-shapey`（既存の埋込権利矛盾）と別hostリダイレクト拒否2件を除く33件を、バイナリ取得なしで`rights_unverified_hold`に分類した。許諾根拠がないため、VRM取得・描画・NAS保存は行っていない。
-- NASは新規保存なし。797件の現在棚卸しは、保存25、確定非人型4、権利保留65（条件矛盾32、許諾未確認33）、別hostリダイレクト拒否2、`dweb.link`恒久ブロック141、認証待ち22、VRoid Studioエクスポート専用23、残り515件が未試行または取得条件未確定。
-- チェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/neonglitch86-rights-checkpoint-20261009.json`、`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/vroid-studio-export-checkpoint-20261009.json`。
+- NASは新規保存なし。797件の現在棚卸しは、保存25、確定非人型4、権利保留65（条件矛盾32、許諾未確認33）、別hostリダイレクト拒否2、`dweb.link`恒久ブロック141、認証待ち35、VRoid Studioエクスポート専用23、残り502件が未試行または取得条件未確定。
+- チェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/neonglitch86-rights-checkpoint-20261009.json`、`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/vroid-studio-export-checkpoint-20261009.json`、`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/vroid-hub-auth-checkpoint-20261009.json`。
+
+## 2026-10-09 VRoid Hub残り13件の匿名確認
+
+- AvatarSample_B/C、β AvatarSample_2/3/4、各ダークネス・制服バリエーション、TOKYO6夏色花梨/花隈千冬の計13ページを実ブラウザで一度だけ確認した。
+- 全13件でpixiv IDログインが表示され、VRMダウンロードリンクは0件だった。利用ボタンや利用条件が表示されるページもあったが、ログインなしで実体取得できないため、13件を認証待ちに変更した。
+- 認証回避、再試行ループ、ミラー/プロキシ利用、VRM取得・描画・NAS保存は行っていない。

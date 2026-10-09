@@ -5300,9 +5300,9 @@
       "distribution_filename": "kotatsumikan.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6686224",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者がVRMモデルの0円ZIPを公開。作者はVRMからVRChatへ変換した旨を記載。商用・改変可。詳細ライセンスは配布ZIP内。 公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者がVRMモデルの0円ZIPを公開。作者はVRMからVRChatへ変換した旨を記載。商用・改変可。詳細ライセンスは配布ZIP内。公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "hiyoriya-miu-standard",
@@ -5320,9 +5320,9 @@
       "distribution_filename": "Miu-vrm.zip",
       "license_name": "作者の公式利用規約（配布ページに案内）",
       "license_url": "https://fujihina.com/3d-riyoukiyaku/",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者の0円VRM-only ZIPには通常VRMと _ps.vrm（Perfect Sync版）が記載されている。通常版の内部ファイル名は未確認。 原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者の0円VRM-only ZIPには通常VRMと _ps.vrm（Perfect Sync版）が記載されている。通常版の内部ファイル名は未確認。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "hiyoriya-miu-perfect-sync",
@@ -5340,9 +5340,9 @@
       "distribution_filename": "Miu-vrm.zip",
       "license_name": "作者の公式利用規約（配布ページに案内）",
       "license_url": "https://fujihina.com/3d-riyoukiyaku/",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "同じ0円VRM ZIPの _ps.vrm と案内されたPerfect Sync別VRM。具体的なZIP内パスは未確認。 原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "同じ0円VRM ZIPの _ps.vrm と案内されたPerfect Sync別VRM。具体的なZIP内パスは未確認。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "hiyoriya-kotoha-standard",
@@ -5359,9 +5359,9 @@
       "distribution_filename": "Kotoha-vrm.zip",
       "license_name": "作者の公式利用規約（配布ページに案内）",
       "license_url": "https://fujihina.com/3d-riyoukiyaku/",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "0円のVRM-only ZIPに通常VRMと _ps.vrm（Perfect Sync版）の記載あり。 原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "0円のVRM-only ZIPに通常VRMと _ps.vrm（Perfect Sync版）の記載あり。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "hiyoriya-kotoha-perfect-sync",
@@ -5379,9 +5379,9 @@
       "distribution_filename": "Kotoha-vrm.zip",
       "license_name": "作者の公式利用規約（配布ページに案内）",
       "license_url": "https://fujihina.com/3d-riyoukiyaku/",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "同一無料ZIPに _ps.vrm のPerfect Sync版があると説明。ZIP内の正確なファイル名未確認。 原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "同一無料ZIPに _ps.vrm のPerfect Sync版があると説明。ZIP内の正確なファイル名未確認。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "hiyoriya-shino-v2",
@@ -5399,9 +5399,9 @@
       "distribution_filename": "Shino-VRM2.zip",
       "license_name": "作者の公式利用規約（配布ページに案内）",
       "license_url": "https://fujihina.com/3d-riyoukiyaku/",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "無料の旧VRM配布ZIP。配布物のVer.2はVRM仕様バージョンではない。商品説明はVRM 0.0、実解析未実施。 原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "無料の旧VRM配布ZIP。配布物のVer.2はVRM仕様バージョンではない。商品説明はVRM 0.0、実解析未実施。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "hiyoriya-shino-v21",
@@ -5419,9 +5419,9 @@
       "distribution_filename": "Shino-vrm-v2.1.zip",
       "license_name": "作者の公式利用規約（配布ページに案内）",
       "license_url": "https://fujihina.com/3d-riyoukiyaku/",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "旧版とは別に0円公開された更新ZIP。内部の通常/Perfect Sync構成は実ダウンロード時確認。 原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "旧版とは別に0円公開された更新ZIP。内部の通常/Perfect Sync構成は実ダウンロード時確認。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "hiyoriya-asumi-v1",
@@ -5439,9 +5439,9 @@
       "distribution_filename": "Asumi-vrm.zip",
       "license_name": "作者の公式利用規約（配布ページに案内）",
       "license_url": "https://fujihina.com/3d-riyoukiyaku/",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "0円VRM-only旧配布ZIP。新しいAsumi-vrm-v2.1.zipと異なる配布物。 原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "0円VRM-only旧配布ZIP。新しいAsumi-vrm-v2.1.zipと異なる配布物。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "hiyoriya-asumi-v21",
@@ -5459,9 +5459,9 @@
       "distribution_filename": "Asumi-vrm-v2.1.zip",
       "license_name": "作者の公式利用規約（配布ページに案内）",
       "license_url": "https://fujihina.com/3d-riyoukiyaku/",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者が別に無料公開したアップデート版VRM ZIP。商品版番号とVRM規格版は異なる。 原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者が別に無料公開したアップデート版VRM ZIP。商品版番号とVRM規格版は異なる。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "sakurabido-bluebell",
@@ -5478,9 +5478,9 @@
       "distribution_filename": "さくらリクオ_フリーアバター_ブルーベル.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5375274",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者制作の無料VRoid・VRM同梱アバター。VTuber用途は利用条件で禁止。 原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者制作の無料VRoid・VRM同梱アバター。VTuber用途は利用条件で禁止。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "sakurabido-meimei",
@@ -5497,9 +5497,9 @@
       "distribution_filename": "さくらリクオ_フリーアバター_50F_めいめい.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6516048",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "50フォロワー記念として無料のVRMを配布。VRoid編集ファイルの支援・投げ銭版とは区別。 原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "50フォロワー記念として無料のVRMを配布。VRoid編集ファイルの支援・投げ銭版とは区別。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "sakurabido-kamiya",
@@ -5516,9 +5516,9 @@
       "distribution_filename": "さくらリクオ_フリーアバター_50F_かみや.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6046175",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "50フォロワー記念の無料VRM入りZIP。VRoid編集ファイルの別支援版は対象外。 原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "50フォロワー記念の無料VRM入りZIP。VRoid編集ファイルの別支援版は対象外。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "sakurabido-mirucchi",
@@ -5535,9 +5535,9 @@
       "distribution_filename": "さくらリクオ_フリーアバター_50F_みるっち.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5715397",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "原作者がVRM同梱を明記した0円フリーアバター。 原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "原作者がVRM同梱を明記した0円フリーアバター。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "sakurabido-megumicchi",
@@ -5554,9 +5554,9 @@
       "distribution_filename": "さくらリクオ_フリーアバター_50F_めぐみっち.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5689713",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "原作者がVRM同梱を明記した0円フリーアバター。 原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "原作者がVRM同梱を明記した0円フリーアバター。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "sakurabido-makinocchi",
@@ -5573,9 +5573,9 @@
       "distribution_filename": "さくらリクオ_フリーアバター_50F_まきのっち.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5597575",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者公式の50フォロワー記念フリーアバター。VRM入りの無料ZIP。 原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者公式の50フォロワー記念フリーアバター。VRM入りの無料ZIP。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "kuranmo-jellyfish-static",
@@ -5593,9 +5593,9 @@
       "distribution_filename": "kurage-f.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4150979",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者が無料ZIPにノーマル色クラゲの頭ゆれない版を収録と明記。同内容の無料版が商品4150961にもあるが重複計上しない。有料6色版は除外。 原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者が無料ZIPにノーマル色クラゲの頭ゆれない版を収録と明記。同内容の無料版が商品4150961にもあるが重複計上しない。有料6色版は除外。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "kuranmo-jellyfish-sway",
@@ -5614,9 +5614,9 @@
       "distribution_filename": "kurage-f.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4150979",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "0円ZIPの頭ゆれる版。頭が揺れない版とは異なるVRM。無料版の別商品ページ4150961は同じZIP。 原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "0円ZIPの頭ゆれる版。頭が揺れない版とは異なるVRM。無料版の別商品ページ4150961は同じZIP。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "kuranmo-elf-archer",

@@ -265,3 +265,11 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - 認証回避、購入・ログイン、VRM取得・描画・NAS保存は行わず、13件を認証待ち、1件を商品ページ404として記録した。
 - 現在の797件棚卸しは、保存25、確定非人型4、権利保留65、別hostリダイレクト拒否2、`dweb.link`恒久ブロック141、認証待ち216、商品ページ404 1、VRoid Studioエクスポート専用23、残り320件。
 - チェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-auth-checkpoint-20261009-batch12.json`。
+
+## 2026-10-10 BOOTH追加12商品ページの匿名取得確認（第13バッチ）
+
+- こたつみかん、海羽、琴華、梓乃、杏澄、桜美堂のブルーベル/めいめい/かみや/みるっち/めぐみっち/まきのっち、クラゲの12商品ページを確認した。複数VRM版を含む関連17カタログIDに対応する。
+- 各商品から無料ダウンロードリンクを確認し、14 URLを匿名要求したところ、全14件がHTTP 302で`https://booth.pm/users/sign_in`へ遷移した。HTTP 429は発生していない。
+- 認証回避、購入・ログイン、VRM取得・描画・NAS保存は行わず、関連17件を認証待ちへ変更した。
+- 現在の797件棚卸しは、保存25、確定非人型4、権利保留65、別hostリダイレクト拒否2、`dweb.link`恒久ブロック141、認証待ち233、商品ページ404 1、VRoid Studioエクスポート専用23、残り303件。
+- チェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-auth-checkpoint-20261009-batch13.json`。

@@ -39,9 +39,9 @@
       "distribution_filename": "Avatar02_Neutral.vrm",
       "license_name": "CC0 1.0 (Polygonal Mind, creator-managed Open Source Avatars registry)",
       "license_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/projects.json",
-      "verification": "creator_index_direct_url_rate_limited_pending",
-      "checked_at": "2026-10-08",
-      "notes": "Polygonal Mind制作・CC0掲載。元VRM直URLの初回要求は2026-10-08T23:15:07.128451ZにHTTP 429（Retry-After: 900）。Halloween 003の許可された再試行も2026-10-09T00:15:38.771996Zに429となり、同じdweb.link hostの最新期限は2026-10-09T00:30:38.771996Z。Xmas 002の許可された1回の再試行は未実施で、host期限後にのみ可能。再試行が成功しなければHTTP statusにかかわらず終了する。未取得・未検査。ゲートウェイ迂回はしない。"
+      "verification": "creator_index_direct_url_rate_limit_retry_exhausted",
+      "checked_at": "2026-10-09",
+      "notes": "Polygonal Mind制作・CC0掲載。元VRM直URLは初回要求2026-10-08T23:15:07.128451Zと許可された1回の再試行2026-10-09T00:33:14.336020Zの計2回ともHTTP 429（再試行のRetry-After: 900、応答時刻00:33:14.536015Z）。再試行上限に達したため以後自動取得しない。その応答でのhost期限は2026-10-09T00:48:14.536015Z。その後Halloween 004も初回429となり、現在の同host期限は2026-10-09T01:07:33.621620Z。未取得・未検査。ゲートウェイ迂回はしない。"
     },
     {
       "id": "polygonalmind-xmas-chibis-003",

@@ -50,16 +50,16 @@
         "avatar",
         "toxsam-originals"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/toxsam.json",
       "download_url": "https://gateway.pinata.cloud/ipfs/QmY4NQRArQaEWPgyzyTuCSvyAnBUhtsshFKPjJHbbzVKLL/ChubbyTubbyCat.vrm",
       "access_method": "direct_vrm",
       "distribution_filename": "ChubbyTubbyCat.vrm",
       "license_name": "CC0 (creator's Open Source Avatars registry)",
       "license_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/projects.json",
-      "verification": "creator_index_direct_url_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者ToxSam（Polygonal MindのDaniel Garcia）が自身の公開VRM索引でCC0作品として掲載。IPFS直リンクとNFT識別情報を持つが、VRMファイルURLの参照自体はNFT購入を要求する形ではない。実際のHTTP応答・ダウンロード可否・バイナリと表示は未検証。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-09",
+      "notes": "作者ToxSam（Polygonal MindのDaniel Garcia）の公開索引でCC0作品として掲載。作者プレビューと実VRMレンダーで頭・胴・両腕・両脚を持つ二足人型と確認。直接取得2,615,112 bytes、GLB v2/VRM 0.x、埋込author=ToxSam・licenseName=CC0。Tポーズ768×1024と顔512×512のWebPを生成・目視し、元VRM SHA-256一致の個別ZIPをNASへ保存。"
     },
     {
       "id": "toxsam-original-bffd07cc-1201",

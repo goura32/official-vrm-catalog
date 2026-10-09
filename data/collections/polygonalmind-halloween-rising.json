@@ -60,9 +60,9 @@
       "distribution_filename": "Avatar03_v1_Cute_Green.vrm",
       "license_name": "CC0 1.0 (Polygonal Mind, creator-managed Open Source Avatars registry)",
       "license_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/projects.json",
-      "verification": "creator_index_direct_url_rate_limited_pending",
-      "checked_at": "2026-10-08",
-      "notes": "Polygonal Mind制作・CC0掲載。元VRM直URLの初回要求は2026-10-08T23:59:02.838137ZにHTTP 429（Retry-After: 900）、期限は2026-10-09T00:14:02.838137Z。期限後に同一IDを最大1回だけ再試行する。再試行が成功しなければHTTP statusにかかわらず自動取得を終了する。未取得・未検査。ゲートウェイ迂回はしない。"
+      "verification": "creator_index_direct_url_rate_limit_retry_exhausted",
+      "checked_at": "2026-10-09",
+      "notes": "Polygonal Mind制作・CC0掲載。元VRM直URLは初回要求2026-10-08T23:59:02.838137Zと、許可された1回の再試行2026-10-09T00:15:38.771996Zの計2回ともHTTP 429（各Retry-After: 900）。再試行上限に達したため自動取得を終了し、今後再試行しない。最新host期限は2026-10-09T00:30:38.771996Z。未取得・未検査。ゲートウェイ迂回はしない。"
     },
     {
       "id": "polygonalmind-halloween-rising-004",

@@ -41,7 +41,7 @@
       "license_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/projects.json",
       "verification": "creator_index_direct_url_rate_limited_pending",
       "checked_at": "2026-10-08",
-      "notes": "Polygonal Mind制作・CC0掲載。元VRM直URLの初回要求は2026-10-08T23:15:07.128451ZにHTTP 429（Retry-After: 900）。同じdweb.link hostのHalloween 002再試行に続くHalloween 003要求も2026-10-08T23:59:02.838137Zに429となり、最新host期限は2026-10-09T00:14:02.838137Z。Xmas 002の許可された再試行は未実施で、期限後に1回だけ可能。再試行が成功しなければHTTP statusにかかわらず終了する。未取得・未検査。ゲートウェイ迂回はしない。"
+      "notes": "Polygonal Mind制作・CC0掲載。元VRM直URLの初回要求は2026-10-08T23:15:07.128451ZにHTTP 429（Retry-After: 900）。Halloween 003の許可された再試行も2026-10-09T00:15:38.771996Zに429となり、同じdweb.link hostの最新期限は2026-10-09T00:30:38.771996Z。Xmas 002の許可された1回の再試行は未実施で、host期限後にのみ可能。再試行が成功しなければHTTP statusにかかわらず終了する。未取得・未検査。ゲートウェイ迂回はしない。"
     },
     {
       "id": "polygonalmind-xmas-chibis-003",

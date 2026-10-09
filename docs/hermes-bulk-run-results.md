@@ -88,11 +88,11 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 
 ## Retry-After順守の再開とMJMoonbow追加候補（2026-10-09）
 
-- Halloween/Xmas Chibis 001は履歴上各6回HTTP 429のため再試行終了。Halloween 002は初回`2026-10-08T23:15:06.179514Z`と許可済み再試行`23:37:16.736058Z`がともに429で終了。Halloween 003は初回`2026-10-08T23:59:02.838137Z`に429。Xmas 002は初回`23:15:07.128451Z`後の1回再試行が未実施。同じdweb.link hostの最新期限は`2026-10-09T00:14:02.838137Z`。季節残り135 IDは未試行、別ゲートウェイへ迂回しない。
+- Halloween/Xmas Chibis 001は履歴上各6回HTTP 429のため再試行終了。Halloween 002は初回`2026-10-08T23:15:06.179514Z`と許可済み再試行`23:37:16.736058Z`がともに429で終了。Halloween 003は初回`2026-10-08T23:59:02.838137Z`と許可済み再試行`2026-10-09T00:15:38.771996Z`が429で終了。Xmas 002は初回`2026-10-08T23:15:07.128451Z`後の1回再試行が未実施。同じdweb.link hostの最新期限は`2026-10-09T00:30:38.771996Z`。季節残り135 IDは未試行、別ゲートウェイへ迂回しない。
 - MJMoonbowの固定コミット`6af59479c61ab13b6caa96a9b915498489f2b9cd`にあるDragon画像4件を確認。Dragon 2/3は頭・胴・両腕・両脚のある人型候補、Dragon 8は翼以外の腕が画像で明瞭でないため保留、Dragon 9は四足の非人型として取得前に除外した。
 - `mjmoonbow-dragon-2-775e309`、`mjmoonbow-dragon-3-dbede1e`、`mjmoonbow-dragon-8-4-b210d8d`は固定コミットの元VRMを直接取得・検査した。全件VRM 0.xで、埋込`licenseName=Redistribution_Prohibited`が公開リポジトリのCC0表示と矛盾したため、3件とも権利保留・プレビュー生成なし・一時VRM破棄・NAS未保存。正確なSHA-256と取得バイト数はローカルの`holiday-batch-mj-extra-worker.log`に記録。`mjmoonbow-dragon-9-3f69838`のVRM本体は取得していない。
-- 累計の直接公開候補は33件（31件取得・検査、19件権利保留、12件描画レビュー、うち人型8/非人型4、別host redirect拒否2）。季節5 IDを含む直接URL試行はユニーク38 ID、R1/R2/R3以外の797件中759件は直接VRM未リクエスト。季節では001両IDとHalloween 002が再試行終了、Halloween 003/Xmas 002は初回429後の各1回再試行未実施、135 IDは未試行。選別数は人型555、非人型244、未判定498。NASへの追加はなく338 ZIP・676 WebPのまま。
-- 再開用ログ: `/home/ws2/.local/state/official-vrm-catalog/holiday-batch-resume-worker.log`、`holiday-batch-mj-extra-worker.log`、`holiday-batch-final-seasonal-worker.log`、`holiday-batch-postcooldown-worker.log`、`holiday-batch-postcooldown2-worker.log`、`holiday-batch-seasonal-retrycap-worker.log`、`holiday-batch-seasonal-retrycap2-worker.log`。統合checkpointは`holiday-batch-checkpoint.jsonl`、画面分類/固定commit根拠は`work/holiday-batch/source-validation.json`。最新host期限は`2026-10-09T00:14:02.838137Z`。次回は001とHalloween 002を除外し、期限後にHalloween 003/Xmas 002を各1回だけ再試行し、その後に未試行季節IDとToxSam King Mutatioを進める。
+- 累計の直接公開候補は33件（31件取得・検査、19件権利保留、12件描画レビュー、うち人型8/非人型4、別host redirect拒否2）。季節5 IDを含む直接URL試行はユニーク38 ID、R1/R2/R3以外の797件中759件は直接VRM未リクエスト。季節では001両IDとHalloween 002/003が再試行終了、Xmas 002は初回429後の再試行1回未実施、135 IDは未試行。選別数は人型555、非人型244、未判定498。NASへの追加はなく338 ZIP・676 WebPのまま。
+- 再開用ログ: `/home/ws2/.local/state/official-vrm-catalog/holiday-batch-resume-worker.log`、`holiday-batch-mj-extra-worker.log`、`holiday-batch-final-seasonal-worker.log`、`holiday-batch-postcooldown-worker.log`、`holiday-batch-postcooldown2-worker.log`、`holiday-batch-seasonal-retrycap-worker.log`、`holiday-batch-seasonal-retrycap2-worker.log`、`holiday-batch-seasonal-retrycap3-worker.log`。統合checkpointは`holiday-batch-checkpoint.jsonl`、画面分類/固定commit根拠は`work/holiday-batch/source-validation.json`。最新host期限は`2026-10-09T00:30:38.771996Z`。次回は001とHalloween 002/003を除外し、期限後にXmas 002だけを1回再試行し、その後に未試行季節IDとToxSam King Mutatioを進める。
 
 再開用チェックポイント（GitHubには含めない）:
 
@@ -113,4 +113,4 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - `/home/ws2/.local/state/official-vrm-catalog/run_mj_extra_batch.py`
 - `/home/ws2/.local/state/official-vrm-catalog/run_seasonal_retry.py`
 
-最新Retry-After期限は`2026-10-09T00:14:02.838137Z`。上限超過済みのHalloween/Xmas 001とHalloween 002は除外し、期限後にHalloween 003/Xmas 002を各1回だけ再試行する。再試行が成功しなければHTTP statusにかかわらず終了状態を記録し、残る135 IDから未試行分を進める。ゲートウェイ切替えはしない。R1/R2/R3以外で直接VRM未試行の759 IDは権利と公式URLを確認し、既保存・非人型・権利保留を除外して継続する。
+最新Retry-After期限は`2026-10-09T00:30:38.771996Z`。上限超過済みのHalloween/Xmas 001とHalloween 002/003は除外し、期限後にXmas 002だけを1回再試行する。再試行が成功しなければHTTP statusにかかわらず終了状態を記録し、残る135 IDから未試行分を進める。ゲートウェイ切替えはしない。R1/R2/R3以外で直接VRM未試行の759 IDは権利と公式URLを確認し、既保存・非人型・権利保留を除外して継続する。

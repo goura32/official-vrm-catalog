@@ -1151,9 +1151,9 @@
       "distribution_filename": "Small_Black_White_Bear_Girl_SH.vrm",
       "license_name": "作者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/6839545",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者が0円のVRM 1.0モデルと明記。VTuber向け、VRChat利用には変換が必要。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "作者が0円のVRM 1.0モデルと明記。VTuber向け、VRChat利用には変換が必要。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "pyurin-black-bear-practice",
@@ -1170,9 +1170,9 @@
       "distribution_filename": "BlackBear.vrm",
       "license_name": "作者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/6820844",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "0円。VRMと.vroidを別ファイルで配布。練習・VTuber用途のモデル。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "0円。VRMと.vroidを別ファイルで配布。練習・VTuber用途のモデル。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "ab1ex9museum-alpha-trial",
@@ -1191,9 +1191,9 @@
       "distribution_filename": "standalonALPHA1.3.vrm",
       "license_name": "作者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/7851789",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "0円の初期テストVRMモデル。有料のフルパッケージは3,500円。商用・収益化可、元データの再配布/販売禁止。将来更新は保証されない。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "0円の初期テストVRMモデル。有料のフルパッケージは3,500円。商用・収益化可、元データの再配布/販売禁止。将来更新は保証されない。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "shobonkun-potato-avatar",
@@ -1212,9 +1212,9 @@
       "distribution_filename": "いものアバター_v1.2.0.vrm",
       "license_name": "作者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/8595180",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "0円のVRM 1.0モデル。表情6種、約12,532ポリゴン。個人収益化・改変可、再配布禁止、クレジット表記要請。有料応援セットの別色は対象外。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "0円のVRM 1.0モデル。表情6種、約12,532ポリゴン。個人収益化・改変可、再配布禁止、クレジット表記要請。有料応援セットの別色は対象外。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "vroid-beta-avatarsample-1",
@@ -1776,10 +1776,10 @@
       "access_method": "booth_free_download",
       "license_name": "夢ノ結唱 素材利用ガイドライン",
       "license_url": "https://yumenokessho.bang-dream.com/guideline/guideline-material/",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
       "distribution_filename": "POPY.zip",
-      "notes": "夢ノ結唱公式ショップの0円配布ZIP。商品説明に .vrm を含むと明記。実ZIP未取得・VRM仕様版未確認。"
+      "notes": "夢ノ結唱公式ショップの0円配布ZIP。商品説明に .vrm を含むと明記。実ZIP未取得・VRM仕様版未確認。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "yumenokessho-rose",
@@ -1795,10 +1795,10 @@
       "access_method": "booth_free_download",
       "license_name": "夢ノ結唱 素材利用ガイドライン",
       "license_url": "https://yumenokessho.bang-dream.com/guideline/guideline-material/",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
       "distribution_filename": "ROSE.zip",
-      "notes": "夢ノ結唱公式ショップの0円配布ZIP。商品説明に .vrm を含むと明記。実ZIP未取得・VRM仕様版未確認。"
+      "notes": "夢ノ結唱公式ショップの0円配布ZIP。商品説明に .vrm を含むと明記。実ZIP未取得・VRM仕様版未確認。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "bandainamco-mirai-komachi",
@@ -1895,10 +1895,10 @@
       "access_method": "booth_free_download",
       "license_name": "VOCALOMAKETS 結月ゆかり 麗 公式3Dモデル使用ガイドライン",
       "license_url": "https://booth.pm/ja/items/3965033",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
       "distribution_filename": "結月ゆかり麗_V1_0_s2k_19.zip",
-      "notes": "VOCALOMAKETS公式BOOTHが0円で配布。商品説明にVRM形式のアバターと明記。ZIP内のVRM仕様版・ファイル名は未確認。"
+      "notes": "VOCALOMAKETS公式BOOTHが0円で配布。商品説明にVRM形式のアバターと明記。ZIP内のVRM仕様版・ファイル名は未確認。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "tamyuu-faafaa-free-vrm",
@@ -1914,10 +1914,10 @@
       "access_method": "booth_free_download",
       "license_name": "ふぁふぁ無料VRM版 利用規約（作者商品ページ）",
       "license_url": "https://booth.pm/ja/items/5614226",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
       "distribution_filename": "faafaa-vrm_free.zip",
-      "notes": "作者BOOTHのVRMモデル(.vrm)無料版が0円。VRC用無料試用版とは別商品バリエーション。ZIPの内部VRMファイル・VRM仕様版は未確認。"
+      "notes": "作者BOOTHのVRMモデル(.vrm)無料版が0円。VRC用無料試用版とは別商品バリエーション。ZIPの内部VRMファイル・VRM仕様版は未確認。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "ustella-new-fee-normal",
@@ -2058,10 +2058,10 @@
       "access_method": "booth_free_download",
       "license_name": "作者・公式BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/2852441",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
       "distribution_filename": "vyukichan.zip",
-      "notes": "0円の公式イベントキャラVRMを含むZIP。身長約2mの異尺度モデル。改変可、商用・原本/改変版再配布禁止。VRM内部未確認。"
+      "notes": "0円の公式イベントキャラVRMを含むZIP。身長約2mの異尺度モデル。改変可、商用・原本/改変版再配布禁止。VRM内部未確認。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "isao-amaha-sora-free",
@@ -2098,10 +2098,10 @@
       "access_method": "booth_free_download",
       "license_name": "作者・公式BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5930377",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
       "distribution_filename": "matsumoto_kun_3D.vrm",
-      "notes": "公式の0円VRM（約2.95MB）。アバター使用時に『マツモトくん』という名前を使わないことが条件。実ダウンロード・バージョン未確認。"
+      "notes": "公式の0円VRM（約2.95MB）。アバター使用時に『マツモトくん』という名前を使わないことが条件。実ダウンロード・バージョン未確認。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "yaminabe-fukki",
@@ -2119,10 +2119,10 @@
       "access_method": "booth_free_download",
       "license_name": "作者・公式BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6084628",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
       "distribution_filename": "フッキーVRM.zip",
-      "notes": "公式マスコットの0円VRM版ZIP（144KB）。VRChat用別ZIPや有料のテクスチャ応援版と区別。再配布、自作発言、政治・宗教用途など禁止。"
+      "notes": "公式マスコットの0円VRM版ZIP（144KB）。VRChat用別ZIPや有料のテクスチャ応援版と区別。再配布、自作発言、政治・宗教用途など禁止。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "molz-avatar-sample",
@@ -2139,10 +2139,10 @@
       "access_method": "booth_free_download",
       "license_name": "作者・公式BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4979470",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
       "distribution_filename": "molz-sample.vrm",
-      "notes": "0円のVRMサンプル、約9.97MB。商品説明にはイベント開催時のみ限定無料配布との文言もあり、実取得可能性の確認を保留。商用利用は個別問い合わせ。"
+      "notes": "0円のVRMサンプル、約9.97MB。商品説明にはイベント開催時のみ限定無料配布との文言もあり、実取得可能性の確認を保留。商用利用は個別問い合わせ。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "puppet-end-papeco-vrm",

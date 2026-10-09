@@ -176,3 +176,11 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - 認証回避、購入・ログイン、VRM取得・描画・NAS保存は行わず、20件を認証待ちへ変更した。商品説明上の利用条件・再配布制限は各カタログnotesに保持した。
 - 現在の797件棚卸しは、保存25、確定非人型4、権利保留65、別hostリダイレクト拒否2、`dweb.link`恒久ブロック141、認証待ち55、VRoid Studioエクスポート専用23、残り482件。
 - チェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-auth-checkpoint-20261009.json`。
+
+## 2026-10-09 BOOTH追加12商品ページの匿名取得確認
+
+- Pyurin Bear Girl系、standalone ALPHA試用版、いものアバター、夢ノ結唱 POPY/ROSE、結月ゆかり 麗、ふぁふぁ、V雪ちゃん、マツモトくん、フッキー、molzの12商品ページを確認した。無料ダウンロード対象は12カタログIDに対応する。
+- 無料ダウンロードリンクを各商品から直接確認し、代表12 URLを匿名要求したところ、全12件がHTTP 302で`https://booth.pm/users/sign_in`へ遷移した。HTTP 429は発生していない。
+- 認証回避、購入・ログイン、VRM取得・描画・NAS保存は行わず、12件を認証待ちへ変更した。
+- 現在の797件棚卸しは、保存25、確定非人型4、権利保留65、別hostリダイレクト拒否2、`dweb.link`恒久ブロック141、認証待ち67、VRoid Studioエクスポート専用23、残り470件。
+- チェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-auth-checkpoint-20261009-batch2.json`。

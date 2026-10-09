@@ -105,7 +105,7 @@ python3 -m unittest discover -s tests -v
 python3 scripts/verify_nas.py --nas-root /mnt/hdd/vrm
 ```
 
-`ok: true`かつ`errors: []`であることをNAS処理の完了条件とする。**実行するまで検査済みと記載しない**。実機作業の継続指示は[Hermes Agent BOOTH第24バッチ後の一括プロンプト](hermes-bulk-resume.md)へ集約し、保存済みIDと権利保留IDを再処理しない。
+`ok: true`かつ`errors: []`であることをNAS処理の完了条件とする。**実行するまで検査済みと記載しない**。実機作業の継続指示は[Hermes Agent BOOTH第29バッチ後の一括プロンプト](hermes-bulk-resume.md)へ集約し、保存済みIDと権利保留IDを再処理しない。
 
 ## 実行状況（2026-10-10更新）
 

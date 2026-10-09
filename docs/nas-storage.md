@@ -105,10 +105,10 @@ python3 -m unittest discover -s tests -v
 python3 scripts/verify_nas.py --nas-root /mnt/hdd/vrm
 ```
 
-`ok: true`かつ`errors: []`であることをNAS処理の完了条件とする。**実行するまで検査済みと記載しない**。実機作業の継続指示は[Hermes Agent R1/R2・R3完了後の一括プロンプト](hermes-bulk-resume.md)へ集約し、保存済みIDと権利保留IDを再処理しない。
+`ok: true`かつ`errors: []`であることをNAS処理の完了条件とする。**実行するまで検査済みと記載しない**。実機作業の継続指示は[Hermes Agent BOOTH第24バッチ後の一括プロンプト](hermes-bulk-resume.md)へ集約し、保存済みIDと権利保留IDを再処理しない。
 
-## 実行状況
+## 実行状況（2026-10-10更新）
 
-- **完了**：ZIP Deflate level 6を統一採用。NASにはR3 87件、R1/R2 243件、ToxSam 7件、VRM公式サンプル2件、計339件のVRM ZIPとWebPプレビュー678枚を保存。最終`verify_nas.py`監査は`ok: true`、`errors: []`、形式はZIPのみ。今回開始時338件と当初330件の索引行は不変。
-- **形状・プレビュー**：R3は88実VRM中87保存。R1/R2は400実VRM中397件を描画し、243人型保存、150非人型除外、4件形状保留。今回の追加描画13件は人型9、非人型4。Chubby Tubby Catは頭・胴・両腕・両脚の二足人型。各保存物の実サイズ、SHA-256、プレビュー監査は[実機検証レポート](hermes-bulk-run-results.md)を参照。
-- **保留・未完了**：R3-229のプレビュー品質保留、従来の権利保留に加えて、今回19件の埋込権利矛盾、NeonGlitch86のリダイレクト拒否2件、季節系のdweb.link 429がある。Halloween/Xmas 001は履歴上各6回、Halloween 002/003、Xmas 002、Halloween 004/005/006は旧方針下で再試行後に終了。Halloween 007は2026-10-09 02:28:25.603909 UTCの初回429後、最新指示に従い再試行せず終端化した。dweb.linkはRetry-After経過後もアクセスしない恒久ブロック対象。残る季節131件とKing Mutatioも要求しない。R1/R2/R3以外の797件のうち754件は直接VRM未試行。Actions/RDCは使用していない。
+- **保存実績**：ZIP Deflate level 6で**355モデル・WebP 710枚**。未圧縮VRM 1,434,953,725 bytes、ZIP 750,627,115 bytes、WebP 9,116,306 bytes。ZIPによる削減率47.6898%。直近のHermes実績では`verify_nas.py`が`ok:true`、`errors:[]`、旧351件の索引行は不変。NAS実体の次回監査は実機で実施する。
+- **現在の残件**：R1/R2/R3以外の797件は、保存25、非人型4、権利保留65、別hostリダイレクト拒否2、dweb.link恒久ブロック141、認証待ち466、商品ページ404が3、VRoid Studioエクスポート専用23、未試行/取得条件未確定68に分類。**認証待ち466件は匿名再プローブ対象に戻さない**。詳細と継続指示は[実績レポート](hermes-bulk-run-results.md)と[第24バッチ後の再開文書](hermes-bulk-resume.md)を参照。
+- **保護方針**：NAS保存済み355件のZIP/WebPと索引行を不変とし、正常な既存データを削除・上書きせず、必要な場合だけ対象ID単位で復旧する。GitHub Actions・RDCは使わない。

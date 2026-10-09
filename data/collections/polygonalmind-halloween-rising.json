@@ -62,7 +62,7 @@
       "license_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/projects.json",
       "verification": "creator_index_direct_url_rate_limit_retry_exhausted",
       "checked_at": "2026-10-09",
-      "notes": "Polygonal Mind制作・CC0掲載。元VRM直URLは初回要求2026-10-08T23:59:02.838137Zと、許可された1回の再試行2026-10-09T00:15:38.771996Zの計2回ともHTTP 429（各Retry-After: 900）。再試行上限に達したため自動取得を終了し、今後再試行しない。当時のhost期限は2026-10-09T00:30:38.771996Z。その後の同host H004/H005/H006の429を受けた現在期限は2026-10-09T02:27:28.993693Z。未取得・未検査。ゲートウェイ迂回はしない。"
+      "notes": "Polygonal Mind制作・CC0掲載。元VRM直URLは初回要求2026-10-08T23:59:02.838137Zと、許可された1回の再試行2026-10-09T00:15:38.771996Zの計2回ともHTTP 429（各Retry-After: 900）。再試行上限に達したため自動取得を終了し、今後再試行しない。当時のhost期限は2026-10-09T00:30:38.771996Z。その後の同host H004/H005/H006の429を受けた現在期限は2026-10-09T02:43:25.603909Z。未取得・未検査。ゲートウェイ迂回はしない。"
     },
     {
       "id": "polygonalmind-halloween-rising-004",
@@ -83,7 +83,7 @@
       "license_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/projects.json",
       "verification": "creator_index_direct_url_rate_limit_retry_exhausted",
       "checked_at": "2026-10-09",
-      "notes": "Polygonal Mind制作・CC0掲載。元VRM直URLの初回要求は2026-10-09T00:52:33.621620Z、許可された1回の再試行は01:08:15.257082Zに開始し、両方HTTP 429。再試行応答は01:08:15.455858Z（Retry-After: 900）、当時のhost期限は2026-10-09T01:23:15.455858Z。その後Halloween 005の初回・許可済み再試行、Halloween 006初回・再試行も429となり、現在のhost期限は2026-10-09T02:27:28.993693Z。再試行上限に達したため以後自動取得しない。未取得・未検査。ゲートウェイ迂回はしない。"
+      "notes": "Polygonal Mind制作・CC0掲載。元VRM直URLの初回要求は2026-10-09T00:52:33.621620Z、許可された1回の再試行は01:08:15.257082Zに開始し、両方HTTP 429。再試行応答は01:08:15.455858Z（Retry-After: 900）、当時のhost期限は2026-10-09T01:23:15.455858Z。その後Halloween 005の初回・許可済み再試行、Halloween 006初回・再試行も429となり、現在のhost期限は2026-10-09T02:43:25.603909Z。再試行上限に達したため以後自動取得しない。未取得・未検査。ゲートウェイ迂回はしない。"
     },
     {
       "id": "polygonalmind-halloween-rising-005",
@@ -144,9 +144,9 @@
       "distribution_filename": "Avatar02_v1_Cute_Pink.vrm",
       "license_name": "CC0 1.0 (Polygonal Mind, creator-managed Open Source Avatars registry)",
       "license_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/projects.json",
-      "verification": "creator_index_direct_url_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "Polygonal Mind制作・CC0掲載のhalloween-risingコレクション。制作者が運営する公開インデックスでVRM形式、IPFS直リンク、個別ファイル名を確認。NFT掲載ページも併記されるが、モデルへの直接URL自体は公開されている。IPFSゲートウェイの実HTTP応答・購入不要で取得成功するか・GLB/VRM解析と描画は未確認。"
+      "verification": "creator_index_direct_url_rate_limited_pending",
+      "checked_at": "2026-10-09",
+      "notes": "Polygonal Mind制作・CC0掲載。正規の元VRM直URLは2026-10-09T02:28:25.603909Zに初回要求されHTTP 429（Retry-After: 900、dweb.link期限2026-10-09T02:43:25.603909Z）。同一IDの許可された再試行は1回だけ残り、期限後に実施可能。未取得・未検査。期限中は同hostの他IDを含めHTTP要求を行わず、ゲートウェイ迂回もしない。"
     },
     {
       "id": "polygonalmind-halloween-rising-008",

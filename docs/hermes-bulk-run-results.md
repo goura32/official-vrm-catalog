@@ -168,3 +168,11 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - AvatarSample_B/C、β AvatarSample_2/3/4、各ダークネス・制服バリエーション、TOKYO6夏色花梨/花隈千冬の計13ページを実ブラウザで一度だけ確認した。
 - 全13件でpixiv IDログインが表示され、VRMダウンロードリンクは0件だった。利用ボタンや利用条件が表示されるページもあったが、ログインなしで実体取得できないため、13件を認証待ちに変更した。
 - 認証回避、再試行ループ、ミラー/プロキシ利用、VRM取得・描画・NAS保存は行っていない。
+
+## 2026-10-09 BOOTH追加10商品ページの匿名取得確認
+
+- エルルナ、SpringSnow、Jessair Cute_Model、Libby、toi、CURRY、あまねType-1〜4、RomanticSpicaあいす、Pate's Oblivion Frii、Pyurin Bear Girlの10商品ページを確認した。無料ダウンロード対象は計20カタログIDに対応する。
+- 無料ダウンロードリンクを各商品から直接確認し、代表10 URLを匿名要求したところ、全10件がHTTP 302で`https://booth.pm/users/sign_in`へ遷移した。HTTP 429は発生していない。
+- 認証回避、購入・ログイン、VRM取得・描画・NAS保存は行わず、20件を認証待ちへ変更した。商品説明上の利用条件・再配布制限は各カタログnotesに保持した。
+- 現在の797件棚卸しは、保存25、確定非人型4、権利保留65、別hostリダイレクト拒否2、`dweb.link`恒久ブロック141、認証待ち55、VRoid Studioエクスポート専用23、残り482件。
+- チェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-auth-checkpoint-20261009.json`。

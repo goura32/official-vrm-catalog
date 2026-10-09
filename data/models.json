@@ -665,9 +665,9 @@
       "access_method": "booth_free_download",
       "license_name": "モノ御楠ルナ利用条件（BOOTH商品説明）",
       "license_url": "https://booth.pm/ja/items/2091095",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "LOW版は0円。個人商用・法人利用・再配布は禁止。ファイル形式・バージョンは実取得未確認。",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "LOW版は0円。個人商用・法人利用・再配布は禁止。ファイル形式・バージョンは実取得未確認。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。",
       "distribution_filename": "oxlunamonolow.zip"
     },
     {
@@ -684,9 +684,9 @@
       "access_method": "booth_free_download",
       "license_name": "モノ御楠ルナ利用条件（BOOTH商品説明）",
       "license_url": "https://booth.pm/ja/items/2091095",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "HIGH版は0円。個人商用・法人利用・再配布は禁止。ファイル形式・バージョンは実取得未確認。",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "HIGH版は0円。個人商用・法人利用・再配布は禁止。ファイル形式・バージョンは実取得未確認。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。",
       "distribution_filename": "oxlunamonohigh.zip"
     },
     {
@@ -723,9 +723,9 @@
       "access_method": "booth_free_download",
       "license_name": "作者BOOTH商品ページ内の利用条件",
       "license_url": "https://booth.pm/ja/items/5569795",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "無料ファイル: SpringSnow無料版.vrm (14.9 MB)。個人・非商用のみ、クレジット必須。改変・商用・再配布禁止。有料版とは権利条件が異なる。",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "無料ファイル: SpringSnow無料版.vrm (14.9 MB)。個人・非商用のみ、クレジット必須。改変・商用・再配布禁止。有料版とは権利条件が異なる。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。",
       "distribution_filename": "SpringSnow無料版.vrm"
     },
     {
@@ -743,9 +743,9 @@
       "access_method": "booth_free_download",
       "license_name": "作者BOOTH商品ページ内の利用条件",
       "license_url": "https://booth.pm/ja/items/7100270",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "無料ファイル: Cute_Model.vrm (18.7 MB)。個人・商用可、改変可。再配布・転売・AI学習・NFT利用禁止。クレジットは任意のお願い。",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "無料ファイル: Cute_Model.vrm (18.7 MB)。個人・商用可、改変可。再配布・転売・AI学習・NFT利用禁止。クレジットは任意のお願い。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。",
       "distribution_filename": "Cute_Model.vrm"
     },
     {
@@ -762,9 +762,9 @@
       "access_method": "booth_free_download",
       "license_name": "作者BOOTH商品ページ内の利用条件",
       "license_url": "https://booth.pm/ja/items/4893360",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "無料ファイル: Libby_free_.zip (24.9 MB)、VRM収録と商品ページに記載。改変・商用可、再販・再配布・AI利用・NFT禁止。高度なPerfect Sync設定版等は有料。 公開状況注意（2026-10-08）：booth.pm の共通商品ページに0円で掲載される一方、出品者ショップの個別ページには非公開表示がある。実際の取得可否は未検証。",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "無料ファイル: Libby_free_.zip (24.9 MB)、VRM収録と商品ページに記載。改変・商用可、再販・再配布・AI利用・NFT禁止。高度なPerfect Sync設定版等は有料。 公開状況注意（2026-10-08）：booth.pm の共通商品ページに0円で掲載される一方、出品者ショップの個別ページには非公開表示がある。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。",
       "distribution_filename": "Libby_free_.zip"
     },
     {
@@ -800,9 +800,9 @@
       "access_method": "booth_free_download",
       "license_name": "作者BOOTH商品ページ内の利用条件",
       "license_url": "https://booth.pm/ja/items/7203171",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "無料ファイル: toi.zip (12.7 MB)。VRMと.vroid両方を収録と商品ページに記載。改変可、再配布・販売不可。商用利用は要相談。",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "無料ファイル: toi.zip (12.7 MB)。VRMと.vroid両方を収録と商品ページに記載。改変可、再配布・販売不可。商用利用は要相談。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。",
       "distribution_filename": "toi.zip"
     },
     {
@@ -840,9 +840,9 @@
       "access_method": "booth_free_download",
       "license_name": "作者BOOTH商品ページ内の利用条件",
       "license_url": "https://booth.pm/ja/items/4146897",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "無料ファイル: curry_ver.2.0.vrm (20.8 MB)。任意の支援版は同一ファイル。アバター・配信・動画利用、改変可。再配布禁止。",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "無料ファイル: curry_ver.2.0.vrm (20.8 MB)。任意の支援版は同一ファイル。アバター・配信・動画利用、改変可。再配布禁止。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。",
       "distribution_filename": "curry_ver.2.0.vrm"
     },
     {
@@ -899,9 +899,9 @@
       "access_method": "booth_free_download",
       "license_name": "作者BOOTH商品ページ内の利用条件",
       "license_url": "https://booth.pm/ja/items/4911831",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "0円の「モデル単体」にType01.vrmを掲載。公式記述「VRM 0.0」から0.xと分類（実ファイル未解析）。商用・改変可、再販禁止。 公開状況注意（2026-10-08）：booth.pm の共通商品ページに0円で掲載される一方、出品者ショップの個別ページには非公開表示がある。実際の取得可否は未検証。",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "0円の「モデル単体」にType01.vrmを掲載。公式記述「VRM 0.0」から0.xと分類（実ファイル未解析）。商用・改変可、再販禁止。 公開状況注意（2026-10-08）：booth.pm の共通商品ページに0円で掲載される一方、出品者ショップの個別ページには非公開表示がある。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。",
       "distribution_filename": "Type01.vrm"
     },
     {
@@ -919,9 +919,9 @@
       "access_method": "booth_free_download",
       "license_name": "作者BOOTH商品ページ内の利用条件",
       "license_url": "https://booth.pm/ja/items/4911831",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "0円の「モデル単体」にType01sotai.vrmを掲載。公式記述「VRM 0.0」から0.xと分類（実ファイル未解析）。商用・改変可、再販禁止。 公開状況注意（2026-10-08）：booth.pm の共通商品ページに0円で掲載される一方、出品者ショップの個別ページには非公開表示がある。実際の取得可否は未検証。",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "0円の「モデル単体」にType01sotai.vrmを掲載。公式記述「VRM 0.0」から0.xと分類（実ファイル未解析）。商用・改変可、再販禁止。 公開状況注意（2026-10-08）：booth.pm の共通商品ページに0円で掲載される一方、出品者ショップの個別ページには非公開表示がある。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。",
       "distribution_filename": "Type01sotai.vrm"
     },
     {
@@ -938,9 +938,9 @@
       "access_method": "booth_free_download",
       "license_name": "作者BOOTH商品ページ内の利用条件",
       "license_url": "https://booth.pm/ja/items/4911831",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "0円の「モデル単体」にType02.vrmを掲載。公式記述「VRM 0.0」から0.xと分類（実ファイル未解析）。商用・改変可、再販禁止。 公開状況注意（2026-10-08）：booth.pm の共通商品ページに0円で掲載される一方、出品者ショップの個別ページには非公開表示がある。実際の取得可否は未検証。",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "0円の「モデル単体」にType02.vrmを掲載。公式記述「VRM 0.0」から0.xと分類（実ファイル未解析）。商用・改変可、再販禁止。 公開状況注意（2026-10-08）：booth.pm の共通商品ページに0円で掲載される一方、出品者ショップの個別ページには非公開表示がある。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。",
       "distribution_filename": "Type02.vrm"
     },
     {
@@ -958,9 +958,9 @@
       "access_method": "booth_free_download",
       "license_name": "作者BOOTH商品ページ内の利用条件",
       "license_url": "https://booth.pm/ja/items/4911831",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "0円の「モデル単体」にType02sotai.vrmを掲載。公式記述「VRM 0.0」から0.xと分類（実ファイル未解析）。商用・改変可、再販禁止。 公開状況注意（2026-10-08）：booth.pm の共通商品ページに0円で掲載される一方、出品者ショップの個別ページには非公開表示がある。実際の取得可否は未検証。",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "0円の「モデル単体」にType02sotai.vrmを掲載。公式記述「VRM 0.0」から0.xと分類（実ファイル未解析）。商用・改変可、再販禁止。 公開状況注意（2026-10-08）：booth.pm の共通商品ページに0円で掲載される一方、出品者ショップの個別ページには非公開表示がある。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。",
       "distribution_filename": "Type02sotai.vrm"
     },
     {
@@ -977,9 +977,9 @@
       "access_method": "booth_free_download",
       "license_name": "作者BOOTH商品ページ内の利用条件",
       "license_url": "https://booth.pm/ja/items/4911831",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "0円の「モデル単体」にType03.vrmを掲載。公式記述「VRM 0.0」から0.xと分類（実ファイル未解析）。商用・改変可、再販禁止。 公開状況注意（2026-10-08）：booth.pm の共通商品ページに0円で掲載される一方、出品者ショップの個別ページには非公開表示がある。実際の取得可否は未検証。",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "0円の「モデル単体」にType03.vrmを掲載。公式記述「VRM 0.0」から0.xと分類（実ファイル未解析）。商用・改変可、再販禁止。 公開状況注意（2026-10-08）：booth.pm の共通商品ページに0円で掲載される一方、出品者ショップの個別ページには非公開表示がある。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。",
       "distribution_filename": "Type03.vrm"
     },
     {
@@ -997,9 +997,9 @@
       "access_method": "booth_free_download",
       "license_name": "作者BOOTH商品ページ内の利用条件",
       "license_url": "https://booth.pm/ja/items/4911831",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "0円の「モデル単体」にType03sotai.vrmを掲載。公式記述「VRM 0.0」から0.xと分類（実ファイル未解析）。商用・改変可、再販禁止。 公開状況注意（2026-10-08）：booth.pm の共通商品ページに0円で掲載される一方、出品者ショップの個別ページには非公開表示がある。実際の取得可否は未検証。",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "0円の「モデル単体」にType03sotai.vrmを掲載。公式記述「VRM 0.0」から0.xと分類（実ファイル未解析）。商用・改変可、再販禁止。 公開状況注意（2026-10-08）：booth.pm の共通商品ページに0円で掲載される一方、出品者ショップの個別ページには非公開表示がある。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。",
       "distribution_filename": "Type03sotai.vrm"
     },
     {
@@ -1016,9 +1016,9 @@
       "access_method": "booth_free_download",
       "license_name": "作者BOOTH商品ページ内の利用条件",
       "license_url": "https://booth.pm/ja/items/4911831",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "0円の「モデル単体」にType04.vrmを掲載。公式記述「VRM 0.0」から0.xと分類（実ファイル未解析）。商用・改変可、再販禁止。 公開状況注意（2026-10-08）：booth.pm の共通商品ページに0円で掲載される一方、出品者ショップの個別ページには非公開表示がある。実際の取得可否は未検証。",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "0円の「モデル単体」にType04.vrmを掲載。公式記述「VRM 0.0」から0.xと分類（実ファイル未解析）。商用・改変可、再販禁止。 公開状況注意（2026-10-08）：booth.pm の共通商品ページに0円で掲載される一方、出品者ショップの個別ページには非公開表示がある。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。",
       "distribution_filename": "Type04.vrm"
     },
     {
@@ -1036,9 +1036,9 @@
       "access_method": "booth_free_download",
       "license_name": "作者BOOTH商品ページ内の利用条件",
       "license_url": "https://booth.pm/ja/items/4911831",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "0円の「モデル単体」にType04sotai.vrmを掲載。公式記述「VRM 0.0」から0.xと分類（実ファイル未解析）。商用・改変可、再販禁止。 公開状況注意（2026-10-08）：booth.pm の共通商品ページに0円で掲載される一方、出品者ショップの個別ページには非公開表示がある。実際の取得可否は未検証。",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "0円の「モデル単体」にType04sotai.vrmを掲載。公式記述「VRM 0.0」から0.xと分類（実ファイル未解析）。商用・改変可、再販禁止。 公開状況注意（2026-10-08）：booth.pm の共通商品ページに0円で掲載される一方、出品者ショップの個別ページには非公開表示がある。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。",
       "distribution_filename": "Type04sotai.vrm"
     },
     {
@@ -1056,9 +1056,9 @@
       "distribution_filename": "ICE-あいす-1.0.vrm",
       "license_name": "作者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/7938475",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "0円のVRM版。編集用.vroid版は500円。個人商用・改変可、再配布は禁止。利用条件の詳細は商品ページで配布している無料PDFを確認する必要あり。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "0円のVRM版。編集用.vroid版は500円。個人商用・改変可、再配布は禁止。利用条件の詳細は商品ページで配布している無料PDFを確認する必要あり。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "romanticspica-ice-vrm0",
@@ -1075,9 +1075,9 @@
       "distribution_filename": "ICE-あいす-0.0.vrm",
       "license_name": "作者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/7938475",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "0円のVRM版。編集用.vroid版は500円。個人商用・改変可、再配布は禁止。利用条件の詳細は商品ページで配布している無料PDFを確認する必要あり。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "0円のVRM版。編集用.vroid版は500円。個人商用・改変可、再配布は禁止。利用条件の詳細は商品ページで配布している無料PDFを確認する必要あり。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "pates-oblivion-frii-vrm1",
@@ -1094,9 +1094,9 @@
       "distribution_filename": "Frii-vrm1.0.vrm",
       "license_name": "作者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/6168778",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "0円の作者配布。改変・収益化可。再アップロードに際しては原版そのままの再投稿を避け、原作者へのリンクを要望。実ファイル未取得。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "0円の作者配布。改変・収益化可。再アップロードに際しては原版そのままの再投稿を避け、原作者へのリンクを要望。実ファイル未取得。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "pates-oblivion-frii-other",
@@ -1113,9 +1113,9 @@
       "distribution_filename": "Frii.vrm",
       "license_name": "作者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/6168778",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "0円でFrii-vrm1.0.vrmとは別に公開。VRM仕様バージョンは公式説明に明示されていないため未確定。改変・収益化可、再アップロード条件あり。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "0円でFrii-vrm1.0.vrmとは別に公開。VRM仕様バージョンは公式説明に明示されていないため未確定。改変・収益化可、再アップロード条件あり。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "pyurin-bear-girl-black-white-1",
@@ -1132,9 +1132,9 @@
       "distribution_filename": "Small_Black_White_Bear_Girl.vrm",
       "license_name": "作者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/6835336",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者が0円のVRM 1.0モデルと明記。商用利用可。再配布などの詳細条件は個別確認が必要。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "作者が0円のVRM 1.0モデルと明記。商用利用可。再配布などの詳細条件は個別確認が必要。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "pyurin-bear-girl-black-white-2",

@@ -18,9 +18,9 @@
       "distribution_filename": "Avatar01_Neutral.vrm",
       "license_name": "CC0 1.0 (Polygonal Mind, creator-managed Open Source Avatars registry)",
       "license_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/projects.json",
-      "verification": "creator_index_direct_url_rate_limited_pending",
+      "verification": "creator_index_direct_url_rate_limit_retry_exhausted",
       "checked_at": "2026-10-08",
-      "notes": "Polygonal Mind制作・CC0掲載。固定mainで元VRM直URLを確認。元URLのVRM要求は初回と5回の再試行で計6回HTTP 429。最新応答は2026-10-08T22:57:20.697076Z（Retry-After: 900）、期限は2026-10-08T23:12:20.697076Z。未取得・未検査。期限後も同じURLだけを試行し、代替ゲートウェイへ切替えない。"
+      "notes": "Polygonal Mind制作・CC0掲載。固定mainで元VRM直URLを確認。履歴上このIDは計6回HTTP 429（初回+5再試行）。最新応答は2026-10-08T22:57:20.697076Z（Retry-After: 900）。同一IDの自動再試行を初回+1回に制限する方針に更新したため、このURLは打ち切り、今後自動取得しない。残りの季節IDは未取得・未検査。"
     },
     {
       "id": "polygonalmind-xmas-chibis-002",
@@ -39,9 +39,9 @@
       "distribution_filename": "Avatar02_Neutral.vrm",
       "license_name": "CC0 1.0 (Polygonal Mind, creator-managed Open Source Avatars registry)",
       "license_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/projects.json",
-      "verification": "creator_index_direct_url_listed_download_untested",
+      "verification": "creator_index_direct_url_rate_limited_pending",
       "checked_at": "2026-10-08",
-      "notes": "Polygonal Mind制作・CC0掲載のxmas-chibisコレクション。制作者が運営する公開インデックスでVRM形式、IPFS直リンク、個別ファイル名を確認。NFT掲載ページも併記されるが、モデルへの直接URL自体は公開されている。IPFSゲートウェイの実HTTP応答・購入不要で取得成功するか・GLB/VRM解析と描画は未確認。"
+      "notes": "Polygonal Mind制作・CC0掲載。元VRM直URLの初回要求は2026-10-08T23:15:07.128451ZにHTTP 429（Retry-After: 900）。同じdweb.link hostのHalloween 002再試行に続くHalloween 003要求も2026-10-08T23:59:02.838137Zに429となり、最新host期限は2026-10-09T00:14:02.838137Z。Xmas 002の許可された再試行は未実施で、期限後に1回だけ可能。再試行が成功しなければHTTP statusにかかわらず終了する。未取得・未検査。ゲートウェイ迂回はしない。"
     },
     {
       "id": "polygonalmind-xmas-chibis-003",

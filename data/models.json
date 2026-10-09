@@ -9114,8 +9114,8 @@
       "distribution_filename": "OXYGEN_ERROR.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/8866502",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
       "notes": "作者オリジナルVRoid基盤の無料VRMアバター。配信・ゲーム等で商用利用可、改変可。VRM自体の再配布・販売不可。ZIPにはVRM本体を含むと明記。 公開ページで0円配布を確認したが実ダウンロード・ZIP内部・VRMバイナリは未確認。"
     },
     {
@@ -9133,8 +9133,8 @@
       "distribution_filename": "爪モンスター.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/8708753",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
       "notes": "無料VRM単体のみ。¥500のVRM+FBXセットは同一VRMを含むため重複登録しない。 公開ページで0円配布を確認したが実ダウンロード・ZIP内部・VRMバイナリは未確認。"
     },
     {
@@ -9152,8 +9152,8 @@
       "distribution_filename": "コマンドーうさぎ.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/8908754",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
       "notes": "作者オリジナルの直接配布VRM。¥500の別パッケージは無料モデルの追加カウントに含めない。 公開ページで0円配布を確認したが実ダウンロード・ZIP内部・VRMバイナリは未確認。"
     },
     {
@@ -9171,8 +9171,8 @@
       "distribution_filename": "潮音こまり_VRM.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/7034844",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
       "notes": "作者（モデル制作）とキャラクターデザイナー共同のオリジナルモデル。無料VRMのみ版と無料VRM+VRoid版は同一キャラクターであり1件のみ登録。 公開ページで0円配布を確認したが実ダウンロード・ZIP内部・VRMバイナリは未確認。"
     },
     {
@@ -9190,8 +9190,8 @@
       "distribution_filename": "Miu_girl_Vrm.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/8205729",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
       "notes": "無料VRMデータのZIP。VRoidプロジェクトZIPも無料だが同じアバターをVRM別件には数えない。再配布・転売不可。 公開ページで0円配布を確認したが実ダウンロード・ZIP内部・VRMバイナリは未確認。"
     },
     {
@@ -9209,8 +9209,8 @@
       "distribution_filename": "sora_v2.0.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/7969137",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
       "notes": "作者オリジナル無料ZIP中にsora_Naked.vrm（着せ替え素体）を明記。投げ銭版も同じモデルデータ。 公開ページで0円配布を確認したが実ダウンロード・ZIP内部・VRMバイナリは未確認。"
     },
     {
@@ -9275,9 +9275,9 @@
       "distribution_filename": "wanime_vrm_1_1.zip",
       "license_name": "作者の案内する利用規約",
       "license_url": "https://drive.google.com/file/d/1cIgRVAQXmGSXWKwY_krzBKAxzg4vNGnd/view",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者が同じ無料ZIPの中にWanime_neonmoss.vrmを個別VRMとして明示。VN3規約適用。 BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者が同じ無料ZIPの中にWanime_neonmoss.vrmを個別VRMとして明示。VN3規約適用。BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "mossinpc-wanime-relaxwear",
@@ -9295,9 +9295,9 @@
       "distribution_filename": "wanime_vrm_1_1.zip",
       "license_name": "作者の案内する利用規約",
       "license_url": "https://drive.google.com/file/d/1cIgRVAQXmGSXWKwY_krzBKAxzg4vNGnd/view",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者が同じ無料ZIPの中にWanime_relaxwear.vrmを個別VRMとして明示。VN3規約適用。 BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者が同じ無料ZIPの中にWanime_relaxwear.vrmを個別VRMとして明示。VN3規約適用。BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "mossinpc-wanime-basebody",
@@ -9315,9 +9315,9 @@
       "distribution_filename": "wanime_vrm_1_1.zip",
       "license_name": "作者の案内する利用規約",
       "license_url": "https://drive.google.com/file/d/1cIgRVAQXmGSXWKwY_krzBKAxzg4vNGnd/view",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者が同じ無料ZIPの中にWanime_basebody.vrmを個別VRMとして明示。VN3規約適用。 BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者が同じ無料ZIPの中にWanime_basebody.vrmを個別VRMとして明示。VN3規約適用。BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "mossinpc-moss-normal",
@@ -9335,9 +9335,9 @@
       "distribution_filename": "moss.vrm",
       "license_name": "作者の案内する利用規約",
       "license_url": "https://drive.google.com/file/d/1kIJIRdQDKn44X5JgP28ryiHZH5cGB2Rd/view",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者が0円で直接公開。Blender制作の独立VRM、VN3利用規約を適用。素体と通常版は別ファイル。 BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者が0円で直接公開。Blender制作の独立VRM、VN3利用規約を適用。素体と通常版は別ファイル。BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "mossinpc-moss-base",
@@ -9355,9 +9355,9 @@
       "distribution_filename": "moss_sotai.vrm",
       "license_name": "作者の案内する利用規約",
       "license_url": "https://drive.google.com/file/d/1kIJIRdQDKn44X5JgP28ryiHZH5cGB2Rd/view",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者が0円で直接公開。Blender制作の独立VRM、VN3利用規約を適用。素体と通常版は別ファイル。 BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者が0円で直接公開。Blender制作の独立VRM、VN3利用規約を適用。素体と通常版は別ファイル。BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "schoolroid-nadeshiko-full",
@@ -9375,9 +9375,9 @@
       "distribution_filename": "nadeshiko_v2.0.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/3845065",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者が0円で直接公開。本体と素体を別配布。素体単独での公共利用は禁止、再配布・譲渡不可。 BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者が0円で直接公開。本体と素体を別配布。素体単独での公共利用は禁止、再配布・譲渡不可。BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "schoolroid-nadeshiko-body",
@@ -9395,9 +9395,9 @@
       "distribution_filename": "nadeshiko_body_v2.0.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/3845065",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者が0円で直接公開。本体と素体を別配布。素体単独での公共利用は禁止、再配布・譲渡不可。 BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者が0円で直接公開。本体と素体を別配布。素体単独での公共利用は禁止、再配布・譲渡不可。BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "piyotaso-official-piyotaso",
@@ -9416,8 +9416,8 @@
       "distribution_filename": "3Dpiyotaso-vrm.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6433350",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
       "notes": "キャラクター公式ショップが無料のVRMモデルを公開。モデル制作担当すぐねる氏。キャラクター著作権は維持、再配布・販売禁止。商品説明のクレジット条件には用途による記述差があるため原文参照。 BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。"
     },
     {
@@ -9435,8 +9435,8 @@
       "distribution_filename": "あづはちゃん.vrm.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/8947261",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
       "notes": "作者によるVRoid Studio製アバターの無料配布。ZIP内の実VRM名は未確認。 BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。"
     },
     {
@@ -9455,8 +9455,8 @@
       "distribution_filename": "ミニあづはちゃん.vrm.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/8947514",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
       "notes": "同一作者が通常モデルとは別商品として0円公開する小型モデル。 BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。"
     },
     {

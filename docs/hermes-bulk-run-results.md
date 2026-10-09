@@ -338,3 +338,11 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - 認証回避、購入・ログイン、VRM取得・描画・NAS保存は行わず、関連13件を認証待ちへ変更した。
 - 現在の797件棚卸しは、保存25、確定非人型4、権利保留65、別hostリダイレクト拒否2、`dweb.link`恒久ブロック141、認証待ち406、商品ページ404 3、VRoid Studioエクスポート専用23、残り128件。
 - チェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-auth-checkpoint-20261009-batch21.json`。
+
+## 2026-10-10 BOOTH追加12商品ページの匿名取得確認（第22バッチ）
+
+- kasou-youhin OXYGEN ERROR、ATOR爪モンスター/コマンドーうさぎ、潮音こまり、Miu、るてにうむそら、mossinpc Wanime/moss、すく～るろいど撫子、ぴよたそ、和菓子製作所あづは/ミニあづはの12商品ページを確認した。複数VRMを含む関連16カタログIDに対応する。
+- 各商品から代表無料ダウンロードリンクを確認し、12 URLを匿名要求したところ、全12件がHTTP 302で`https://booth.pm/users/sign_in`へ遷移した。HTTP 429は発生していない。
+- 認証回避、購入・ログイン、VRM取得・描画・NAS保存は行わず、関連16件を認証待ちへ変更した。
+- 現在の797件棚卸しは、保存25、確定非人型4、権利保留65、別hostリダイレクト拒否2、`dweb.link`恒久ブロック141、認証待ち422、商品ページ404 3、VRoid Studioエクスポート専用23、残り112件。
+- チェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-auth-checkpoint-20261009-batch22.json`。

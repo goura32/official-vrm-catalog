@@ -155,3 +155,10 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - NASは新規保存なし。355 ZIP・710 WebP、未圧縮1,434,953,725 bytes、ZIP 750,627,115 bytes、削減率47.6898%、WebP 9,116,306 bytesを維持した。
 - R1/R2/R3以外の797件の棚卸しは、保存25、確定非人型4、権利保留32、別hostリダイレクト拒否2、`dweb.link`恒久ブロック141、明示的認証待ち22、残り571件が未試行または取得条件未確定。今回も429後の再試行、`dweb.link`、認証回避、ミラー/プロキシ迂回は行っていない。
 - 追加チェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/hinzka-direct-20261009/rights-checkpoint-20261009.jsonl`、`official-page-20261009/vroid-probe-checkpoint-20261009.jsonl`。
+
+## 2026-10-09 NeonGlitch86権利確認の追加棚卸し
+
+- NeonGlitch86公式GitHubリポジトリのREADMEとルート一覧を確認した。READMEはrawリンクのみで、LICENSEファイルは存在しなかった。
+- `neonglitch86-shapey`（既存の埋込権利矛盾）と別hostリダイレクト拒否2件を除く33件を、バイナリ取得なしで`rights_unverified_hold`に分類した。許諾根拠がないため、VRM取得・描画・NAS保存は行っていない。
+- NASは新規保存なし。797件の現在棚卸しは、保存25、確定非人型4、権利保留65（条件矛盾32、許諾未確認33）、別hostリダイレクト拒否2、`dweb.link`恒久ブロック141、認証待ち22、残り538件が未試行または取得条件未確定。
+- チェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/neonglitch86-rights-checkpoint-20261009.json`。

@@ -7375,9 +7375,9 @@
       "distribution_filename": "まゆら.vrm.zip",
       "license_name": "制作者の配布ページで案内された利用条件",
       "license_url": "https://booth.pm/ja/items/6134913",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者オリジナルのケモノアバター。0円のVRM ZIPのみ、寄付は任意。商用改変可・再配布販売不可。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者オリジナルのケモノアバター。0円のVRM ZIPのみ、寄付は任意。商用改変可・再配布販売不可。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "darthpock-knight-2m",
@@ -7395,9 +7395,9 @@
       "distribution_filename": "_K_night_VRM1.0.zip",
       "license_name": "制作者の配布ページで案内された利用条件",
       "license_url": "https://booth.pm/ja/items/8177922",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "1mと2mの2サイズVRMを同じ0円ZIPに収録と説明。モデルの再配布不可。作者が別の楽器規約の適用を記載しており、規約本文の照合が必要。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+      "verification": "official_free_page_not_found",
+      "checked_at": "2026-10-10",
+      "notes": "商品ページURLを匿名で確認したが、BOOTHがHTTP 404（商品が削除または移動された可能性）を返した。無料配布表示、実ダウンロード、ZIP内部、VRMファイルの仕様版と描画は確認できない。推測URLや代替ホストは試行しない。"
     },
     {
       "id": "darthpock-knight-1m",
@@ -7415,9 +7415,9 @@
       "distribution_filename": "_K_night_VRM1.0.zip",
       "license_name": "制作者の配布ページで案内された利用条件",
       "license_url": "https://booth.pm/ja/items/8177922",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "1mと2mの2サイズVRMを同じ0円ZIPに収録と説明。モデルの再配布不可。作者が別の楽器規約の適用を記載しており、規約本文の照合が必要。 商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。"
+      "verification": "official_free_page_not_found",
+      "checked_at": "2026-10-10",
+      "notes": "商品ページURLを匿名で確認したが、BOOTHがHTTP 404（商品が削除または移動された可能性）を返した。無料配布表示、実ダウンロード、ZIP内部、VRMファイルの仕様版と描画は確認できない。推測URLや代替ホストは試行しない。"
     },
     {
       "id": "clearlink-ciel-14",
@@ -7435,9 +7435,9 @@
       "distribution_filename": "泣き虫アリス_シエル_1.4.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4588114",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "同一作者の異なる無料VRM。1.5はVRoid新プリセット利用の顔更新版で、1.4も継続配布。販売バージョンはVRM仕様バージョンとは異なる。再配布禁止、配信・商用利用は要相談。 商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "同一作者の異なる無料VRM。1.5はVRoid新プリセット利用の顔更新版で、1.4も継続配布。販売バージョンはVRM仕様バージョンとは異なる。再配布禁止、配信・商用利用は要相談。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "clearlink-ciel-15",
@@ -7455,9 +7455,9 @@
       "distribution_filename": "泣き虫アリス_シエル_1.5.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4588114",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "同一作者の異なる無料VRM。1.5はVRoid新プリセット利用の顔更新版で、1.4も継続配布。販売バージョンはVRM仕様バージョンとは異なる。再配布禁止、配信・商用利用は要相談。 商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "同一作者の異なる無料VRM。1.5はVRoid新プリセット利用の顔更新版で、1.4も継続配布。販売バージョンはVRM仕様バージョンとは異なる。再配布禁止、配信・商用利用は要相談。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "clearlink-fleurir-13",
@@ -7476,9 +7476,9 @@
       "distribution_filename": "フルリール.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5105685",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "花の精霊。1.4は顔・バランス・瞳エミッション更新。動画制作時クレジット必須、配信・商用利用は作者に要相談。 商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "花の精霊。1.4は顔・バランス・瞳エミッション更新。動画制作時クレジット必須、配信・商用利用は作者に要相談。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "clearlink-fleurir-14",
@@ -7497,9 +7497,9 @@
       "distribution_filename": "フルリール_1.4.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5105685",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "花の精霊。1.4は顔・バランス・瞳エミッション更新。動画制作時クレジット必須、配信・商用利用は作者に要相談。 商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "花の精霊。1.4は顔・バランス・瞳エミッション更新。動画制作時クレジット必須、配信・商用利用は作者に要相談。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "clearlink-sumire-11-battle",
@@ -7518,9 +7518,9 @@
       "distribution_filename": "スミレ_戦闘服.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4657771",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者が2配布版で合計5つの異なるVRMを0円公開。有料支援ZIPは同じ内容のため対象外。再配布禁止・配信商用利用は要相談。 商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者が2配布版で合計5つの異なるVRMを0円公開。有料支援ZIPは同じ内容のため対象外。再配布禁止・配信商用利用は要相談。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "clearlink-sumire-11-inner",
@@ -7539,9 +7539,9 @@
       "distribution_filename": "スミレ_インナー.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4657771",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者が2配布版で合計5つの異なるVRMを0円公開。有料支援ZIPは同じ内容のため対象外。再配布禁止・配信商用利用は要相談。 商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者が2配布版で合計5つの異なるVRMを0円公開。有料支援ZIPは同じ内容のため対象外。再配布禁止・配信商用利用は要相談。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "clearlink-sumire-11-dress",
@@ -7560,9 +7560,9 @@
       "distribution_filename": "スミレ_ドレス.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4657771",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者が2配布版で合計5つの異なるVRMを0円公開。有料支援ZIPは同じ内容のため対象外。再配布禁止・配信商用利用は要相談。 商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者が2配布版で合計5つの異なるVRMを0円公開。有料支援ZIPは同じ内容のため対象外。再配布禁止・配信商用利用は要相談。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "clearlink-sumire-12-battle",
@@ -7581,9 +7581,9 @@
       "distribution_filename": "スミレ_1.2.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4657771",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者が2配布版で合計5つの異なるVRMを0円公開。有料支援ZIPは同じ内容のため対象外。再配布禁止・配信商用利用は要相談。 商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者が2配布版で合計5つの異なるVRMを0円公開。有料支援ZIPは同じ内容のため対象外。再配布禁止・配信商用利用は要相談。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "clearlink-sumire-12-yukata",
@@ -7602,9 +7602,9 @@
       "distribution_filename": "スミレ_1.2_浴衣.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4657771",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者が2配布版で合計5つの異なるVRMを0円公開。有料支援ZIPは同じ内容のため対象外。再配布禁止・配信商用利用は要相談。 商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者が2配布版で合計5つの異なるVRMを0円公開。有料支援ZIPは同じ内容のため対象外。再配布禁止・配信商用利用は要相談。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "clearlink-cedric-11-prince",
@@ -7623,9 +7623,9 @@
       "distribution_filename": "セドリック王子_1.1.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4642811",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "旧・新版と衣装違いで計7 VRMが無料。支援ZIPは同じモデルをまとめただけ。VRM仕様版不明、商用・配信・大幅改変は要相談。 商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "旧・新版と衣装違いで計7 VRMが無料。支援ZIPは同じモデルをまとめただけ。VRM仕様版不明、商用・配信・大幅改変は要相談。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "clearlink-cedric-11-uniform",
@@ -7644,9 +7644,9 @@
       "distribution_filename": "セドリック王子_制服_.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4642811",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "旧・新版と衣装違いで計7 VRMが無料。支援ZIPは同じモデルをまとめただけ。VRM仕様版不明、商用・配信・大幅改変は要相談。 商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "旧・新版と衣装違いで計7 VRMが無料。支援ZIPは同じモデルをまとめただけ。VRM仕様版不明、商用・配信・大幅改変は要相談。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "clearlink-cedric-11-skirt",
@@ -7665,9 +7665,9 @@
       "distribution_filename": "セドリック王子_制服スカート.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4642811",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "旧・新版と衣装違いで計7 VRMが無料。支援ZIPは同じモデルをまとめただけ。VRM仕様版不明、商用・配信・大幅改変は要相談。 商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "旧・新版と衣装違いで計7 VRMが無料。支援ZIPは同じモデルをまとめただけ。VRM仕様版不明、商用・配信・大幅改変は要相談。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "clearlink-cedric-12-prince",
@@ -7686,9 +7686,9 @@
       "distribution_filename": "セドリック_1.2.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4642811",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "旧・新版と衣装違いで計7 VRMが無料。支援ZIPは同じモデルをまとめただけ。VRM仕様版不明、商用・配信・大幅改変は要相談。 商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "旧・新版と衣装違いで計7 VRMが無料。支援ZIPは同じモデルをまとめただけ。VRM仕様版不明、商用・配信・大幅改変は要相談。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "clearlink-cedric-12-skirt",
@@ -7707,9 +7707,9 @@
       "distribution_filename": "セドリック_1.2_制服_スカート_.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4642811",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "旧・新版と衣装違いで計7 VRMが無料。支援ZIPは同じモデルをまとめただけ。VRM仕様版不明、商用・配信・大幅改変は要相談。 商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "旧・新版と衣装違いで計7 VRMが無料。支援ZIPは同じモデルをまとめただけ。VRM仕様版不明、商用・配信・大幅改変は要相談。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "clearlink-cedric-12-pants",
@@ -7728,9 +7728,9 @@
       "distribution_filename": "セドリック_1.2_制服_ズボン_.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4642811",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "旧・新版と衣装違いで計7 VRMが無料。支援ZIPは同じモデルをまとめただけ。VRM仕様版不明、商用・配信・大幅改変は要相談。 商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "旧・新版と衣装違いで計7 VRMが無料。支援ZIPは同じモデルをまとめただけ。VRM仕様版不明、商用・配信・大幅改変は要相談。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "clearlink-cedric-12-jinbei",
@@ -7749,9 +7749,9 @@
       "distribution_filename": "セドリック_1.2_甚平.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4642811",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "旧・新版と衣装違いで計7 VRMが無料。支援ZIPは同じモデルをまとめただけ。VRM仕様版不明、商用・配信・大幅改変は要相談。 商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "旧・新版と衣装違いで計7 VRMが無料。支援ZIPは同じモデルをまとめただけ。VRM仕様版不明、商用・配信・大幅改変は要相談。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "kanjukuslime-rabbit-white",
@@ -7769,9 +7769,9 @@
       "distribution_filename": "うさぎさん.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5872452",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "白いうさぎ単体VRMのみ無料。FBXとテクスチャの有料セットは対象外。無断配布・政治利用・転売を禁止。 商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "白いうさぎ単体VRMのみ無料。FBXとテクスチャの有料セットは対象外。無断配布・政治利用・転売を禁止。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "kanjukuslime-little-death",
@@ -7790,9 +7790,9 @@
       "distribution_filename": "リトルデス.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/7467859",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "無料の直接VRMと同モデルのZIPを掲載。重複登録しない。再配布、転売、政治利用を禁止。 商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "無料の直接VRMと同モデルのZIPを掲載。重複登録しない。再配布、転売、政治利用を禁止。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "kanjukuslime-petit-jellyfish-default",
@@ -7811,9 +7811,9 @@
       "distribution_filename": "ぷちくらげ.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/7227119",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者が同一無料商品で異なる色のVRMを6ファイル公開。VRChat用の併売ZIPには同じVRMが含まれる可能性があるため別モデルとして追加しない。 商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者が同一無料商品で異なる色のVRMを6ファイル公開。VRChat用の併売ZIPには同じVRMが含まれる可能性があるため別モデルとして追加しない。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "kanjukuslime-petit-jellyfish-white",
@@ -7832,9 +7832,9 @@
       "distribution_filename": "ぷちくらげ_白.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/7227119",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者が同一無料商品で異なる色のVRMを6ファイル公開。VRChat用の併売ZIPには同じVRMが含まれる可能性があるため別モデルとして追加しない。 商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者が同一無料商品で異なる色のVRMを6ファイル公開。VRChat用の併売ZIPには同じVRMが含まれる可能性があるため別モデルとして追加しない。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "kanjukuslime-petit-jellyfish-pink",
@@ -7853,9 +7853,9 @@
       "distribution_filename": "ぷちくらげ_ピンク.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/7227119",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者が同一無料商品で異なる色のVRMを6ファイル公開。VRChat用の併売ZIPには同じVRMが含まれる可能性があるため別モデルとして追加しない。 商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者が同一無料商品で異なる色のVRMを6ファイル公開。VRChat用の併売ZIPには同じVRMが含まれる可能性があるため別モデルとして追加しない。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "kanjukuslime-petit-jellyfish-green",
@@ -7874,9 +7874,9 @@
       "distribution_filename": "ぷちくらげ_グリーン.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/7227119",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者が同一無料商品で異なる色のVRMを6ファイル公開。VRChat用の併売ZIPには同じVRMが含まれる可能性があるため別モデルとして追加しない。 商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者が同一無料商品で異なる色のVRMを6ファイル公開。VRChat用の併売ZIPには同じVRMが含まれる可能性があるため別モデルとして追加しない。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "kanjukuslime-petit-jellyfish-orange",
@@ -7895,9 +7895,9 @@
       "distribution_filename": "ぷちくらげ_オレンジ.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/7227119",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者が同一無料商品で異なる色のVRMを6ファイル公開。VRChat用の併売ZIPには同じVRMが含まれる可能性があるため別モデルとして追加しない。 商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者が同一無料商品で異なる色のVRMを6ファイル公開。VRChat用の併売ZIPには同じVRMが含まれる可能性があるため別モデルとして追加しない。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "kanjukuslime-petit-jellyfish-yellow",
@@ -7916,9 +7916,9 @@
       "distribution_filename": "ぷちくらげ_イエロー.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/7227119",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者が同一無料商品で異なる色のVRMを6ファイル公開。VRChat用の併売ZIPには同じVRMが含まれる可能性があるため別モデルとして追加しない。 商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者が同一無料商品で異なる色のVRMを6ファイル公開。VRChat用の併売ZIPには同じVRMが含まれる可能性があるため別モデルとして追加しない。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "kanjukuslime-tall-slime-base",
@@ -7937,9 +7937,9 @@
       "distribution_filename": "ノッポスライム無料.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6037662",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "無料で直接配布される4色の独立VRM。VRChat向けZIPは別モデルの証拠がないため数えない。 商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "無料で直接配布される4色の独立VRM。VRChat向けZIPは別モデルの証拠がないため数えない。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "kanjukuslime-tall-slime-green",
@@ -7958,9 +7958,9 @@
       "distribution_filename": "ノッポスライム緑_無料.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6037662",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "無料で直接配布される4色の独立VRM。VRChat向けZIPは別モデルの証拠がないため数えない。 商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "無料で直接配布される4色の独立VRM。VRChat向けZIPは別モデルの証拠がないため数えない。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "kanjukuslime-tall-slime-red",
@@ -7979,9 +7979,9 @@
       "distribution_filename": "ノッポスライム赤_無料.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6037662",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "無料で直接配布される4色の独立VRM。VRChat向けZIPは別モデルの証拠がないため数えない。 商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "無料で直接配布される4色の独立VRM。VRChat向けZIPは別モデルの証拠がないため数えない。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "kanjukuslime-tall-slime-yellow",
@@ -8000,9 +8000,9 @@
       "distribution_filename": "ノッポスライム黄_無料.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6037662",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "無料で直接配布される4色の独立VRM。VRChat向けZIPは別モデルの証拠がないため数えない。 商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "無料で直接配布される4色の独立VRM。VRChat向けZIPは別モデルの証拠がないため数えない。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "kanjukuslime-pudding-slime",
@@ -8021,9 +8021,9 @@
       "distribution_filename": "プリンスライム.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5937357",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者の¥0直接VRM。VRCプリンスライム.zipを追加モデルとは数えない。 商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者の¥0直接VRM。VRCプリンスライム.zipを追加モデルとは数えない。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "kanjukuslime-strange-bird-2",
@@ -8042,9 +8042,9 @@
       "distribution_filename": "ヘンテココトリ2.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5588580",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "同一¥0商品に2種類の直接VRMを掲載。アイコン反応版はclusterのアイコンに応じて色が変わると作者説明。VRC用ZIPは二重計上しない。 商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "同一¥0商品に2種類の直接VRMを掲載。アイコン反応版はclusterのアイコンに応じて色が変わると作者説明。VRC用ZIPは二重計上しない。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "kanjukuslime-strange-bird-icon",
@@ -8063,9 +8063,9 @@
       "distribution_filename": "ヘンテココトリアイコン.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5588580",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "同一¥0商品に2種類の直接VRMを掲載。アイコン反応版はclusterのアイコンに応じて色が変わると作者説明。VRC用ZIPは二重計上しない。 商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "同一¥0商品に2種類の直接VRMを掲載。アイコン反応版はclusterのアイコンに応じて色が変わると作者説明。VRC用ZIPは二重計上しない。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "loulouyurika-aisling-12",

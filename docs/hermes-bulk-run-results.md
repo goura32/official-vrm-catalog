@@ -297,3 +297,12 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - 認証回避、購入・ログイン、VRM取得・描画・NAS保存は行わず、関連22件を認証待ちへ変更した。
 - 現在の797件棚卸しは、保存25、確定非人型4、権利保留65、別hostリダイレクト拒否2、`dweb.link`恒久ブロック141、認証待ち321、商品ページ404 1、VRoid Studioエクスポート専用23、残り215件。
 - チェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-auth-checkpoint-20261009-batch16.json`。
+
+## 2026-10-10 BOOTH追加12商品ページの匿名取得確認（第17バッチ）
+
+- Bless Beeまゆら、DarthPockナイト、CLEAR Linkシエル/フルリール/スミレ/セドリック、完熟スライムの小屋のうさぎ/リトルデス/ぷちくらげ/ノッポスライム/プリンスライム/ヘンテココトリの12商品ページを確認した。関連34カタログIDに対応する。
+- DarthPock商品ページはHTTP 404となったため、関連2件を`official_free_page_not_found`へ分類した。商品削除・移動の可能性があり、推測URLや代替ホストは試行していない。
+- 残る11商品から代表ダウンロードURLを各1件、計11 URLを匿名要求したところ、全11件がHTTP 302で`https://booth.pm/users/sign_in`へ遷移した。HTTP 429は発生していない。
+- 認証回避、購入・ログイン、VRM取得・描画・NAS保存は行わず、関連32件を認証待ちへ変更した。
+- 現在の797件棚卸しは、保存25、確定非人型4、権利保留65、別hostリダイレクト拒否2、`dweb.link`恒久ブロック141、認証待ち353、商品ページ404 3、VRoid Studioエクスポート専用23、残り181件。
+- チェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-auth-checkpoint-20261009-batch17.json`。

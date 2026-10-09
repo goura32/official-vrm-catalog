@@ -122,3 +122,15 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - Halloween 007は`2026-10-09T02:28:25.603909Z`の初回HTTP 429で終端化し、1回も再試行していない。dweb.linkを恒久ブロックし、残る季節131 IDとToxSam King Mutatioを未要求のまま除外する。
 - `run_open_cc0_batch.py`はcheckpoint内のHTTP 429 hostを再起動後も復元して、同hostの全要求をネットワーク前に抑止する。新規HTTP 429要求上限は1回（再試行0回）。2026-10-09T02:56:47Zのseasonal workerはprimary queue 0、seasonal target 132（未要求131件+King Mutatio）、seasonal network attempts 0で終了し、132件すべて`network_attempted:false`で記録。新たなHTTP要求・429はない。無通信の回帰テスト、`scripts/validate.py`、`git diff --check`は成功。
 - 非季節の未保存直接候補21 IDは権利矛盾19件と別host redirect拒否2件で、追加取得可能候補は0件。よってこの更新で新規取得・NAS保存はない。NASは339 ZIP/678 WebPのまま。
+
+## 2026-10-09 非季節直接配布の続行実機検証
+
+- `/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/nonseasonal-direct-20261009/` の17件をバイナリ検査。12件は実VRMを描画し、頭・胴・両腕・両脚、全身Tポーズ、顔正面をカード単位で確認してNASへ保存した。5件は埋込権利情報によりプレビュー生成・保存を行わず保留した。
+- 新規NAS保存12件：`pronama-kurei-kei-vrm`、`bandainamco-mirai-komachi`、つくよみちゃんタイプAの通常・スパッツ・Recotte Studio・着せ替え・マテリアル削減の輪郭線あり／なし10件。
+- 権利保留5件：`tegnike-nikechan-v1`、`tegnike-nikechan-v2`、`tegnike-nikechan-v2-outerwear`、`aituber-onair-miko-normal`、`aituber-onair-miko-cheer`。前3件は埋込再配布禁止/`allowRedistribution=false`、後2件は埋込`Redistribution_Prohibited`。新しい許諾根拠がない限り再取得しない。
+- TYC ZIPの「顔だけ輪郭線あり」余剰VRMはカタログIDへ対応付けず、保存していない。取得失敗0件、描画失敗0件、今回の非人型0件。
+- NASは開始339 ZIP・678 WebPから、351 ZIP・702 WebPへ増加。今回分は未圧縮VRM 157,765,676 bytes、ZIP 128,134,928 bytes、WebP 391,474 bytes。全体は未圧縮1,396,293,609 bytes、ZIP 725,203,313 bytes、削減率48.0623%、WebP 8,828,344 bytes。
+- 最終`verify_nas.py`は`ok:true`、`errors:[]`、entries351、previews702、formats `zip`。339件の開始時indexを新規12行から除外して再構成したSHA-256は`06e51fd04961c4d1963336b75047d19dee51d6390855c1ed7ca0d43bcb222f6d`で、開始時baselineと一致した。
+- R1/R2/R3以外の797件の棚卸しは、保存21、確定非人型4、権利保留24、別hostリダイレクト拒否2、`dweb.link`恒久ブロック対象141、残り605は未試行または取得条件未確定。明示的な認証待ちは0件。HTTP 429後の再試行、`dweb.link`への新規要求、迂回ゲートウェイ/ミラーは行っていない。
+- 選別リストは人型候補557、非人型243、未判定497。`pronama-kurei-kei-vrm`を実VRM描画確認に基づき人型候補へ追加した。
+- 継続チェックポイントは`archive-checkpoint-20261009.jsonl`、`nas-baseline-after-nonseasonal-direct-20261009.json`、`batch-status.json`。取得元ZIP/VRMはNASへ原本保存せず、GitHubにも含めない。

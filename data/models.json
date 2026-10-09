@@ -1477,15 +1477,17 @@
         "avatar",
         "outline"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://tyc.rei-yumesaki.net/material/avatar/3d-a/",
       "download_url": null,
       "access_method": "official_page_download",
       "license_name": "つくよみちゃん公式3Dモデル タイプA利用規約",
       "license_url": "https://tyc.rei-yumesaki.net/material/avatar/3d-a/",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "公式説明に5つのVRMバリエーションと輪郭線あり／なしの各版を掲載。配布ファイル名・実ZIP内の対応は未検証。クレジット表記が必須。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-09",
+      "notes": "公式説明に5つのVRMバリエーションと輪郭線あり／なしの各版を掲載。配布ファイル名・実ZIP内の対応を確認。クレジット表記が必須。実機検証（2026-10-09）でGLB v2/VRM 0.x、人型形状、Tポーズ/顔WebPを確認し、NASへZIP保存。",
+      "distribution_size_bytes": 14483360,
+      "distribution_filename": "tyc-3d-a.zip"
     },
     {
       "id": "tsukuyomichan-type-a-normal-no-outline",
@@ -1496,15 +1498,17 @@
         "avatar",
         "no-outline"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://tyc.rei-yumesaki.net/material/avatar/3d-a/",
       "download_url": null,
       "access_method": "official_page_download",
       "license_name": "つくよみちゃん公式3Dモデル タイプA利用規約",
       "license_url": "https://tyc.rei-yumesaki.net/material/avatar/3d-a/",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "公式説明に5つのVRMバリエーションと輪郭線あり／なしの各版を掲載。配布ファイル名・実ZIP内の対応は未検証。クレジット表記が必須。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-09",
+      "notes": "公式説明に5つのVRMバリエーションと輪郭線あり／なしの各版を掲載。配布ファイル名・実ZIP内の対応を確認。クレジット表記が必須。実機検証（2026-10-09）でGLB v2/VRM 0.x、人型形状、Tポーズ/顔WebPを確認し、NASへZIP保存。",
+      "distribution_size_bytes": 14511800,
+      "distribution_filename": "tyc-3d-a.zip"
     },
     {
       "id": "tsukuyomichan-type-a-spats-outline",
@@ -1515,15 +1519,17 @@
         "avatar",
         "outline"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://tyc.rei-yumesaki.net/material/avatar/3d-a/",
       "download_url": null,
       "access_method": "official_page_download",
       "license_name": "つくよみちゃん公式3Dモデル タイプA利用規約",
       "license_url": "https://tyc.rei-yumesaki.net/material/avatar/3d-a/",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "公式説明に5つのVRMバリエーションと輪郭線あり／なしの各版を掲載。配布ファイル名・実ZIP内の対応は未検証。クレジット表記が必須。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-09",
+      "notes": "公式説明に5つのVRMバリエーションと輪郭線あり／なしの各版を掲載。配布ファイル名・実ZIP内の対応を確認。クレジット表記が必須。実機検証（2026-10-09）でGLB v2/VRM 0.x、人型形状、Tポーズ/顔WebPを確認し、NASへZIP保存。",
+      "distribution_size_bytes": 14958064,
+      "distribution_filename": "tyc-3d-a.zip"
     },
     {
       "id": "tsukuyomichan-type-a-spats-no-outline",
@@ -1534,15 +1540,17 @@
         "avatar",
         "no-outline"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://tyc.rei-yumesaki.net/material/avatar/3d-a/",
       "download_url": null,
       "access_method": "official_page_download",
       "license_name": "つくよみちゃん公式3Dモデル タイプA利用規約",
       "license_url": "https://tyc.rei-yumesaki.net/material/avatar/3d-a/",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "公式説明に5つのVRMバリエーションと輪郭線あり／なしの各版を掲載。配布ファイル名・実ZIP内の対応は未検証。クレジット表記が必須。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-09",
+      "notes": "公式説明に5つのVRMバリエーションと輪郭線あり／なしの各版を掲載。配布ファイル名・実ZIP内の対応を確認。クレジット表記が必須。実機検証（2026-10-09）でGLB v2/VRM 0.x、人型形状、Tポーズ/顔WebPを確認し、NASへZIP保存。",
+      "distribution_size_bytes": 14494640,
+      "distribution_filename": "tyc-3d-a.zip"
     },
     {
       "id": "tsukuyomichan-type-a-recotte-outline",
@@ -1554,15 +1562,17 @@
         "recotte-studio",
         "outline"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://tyc.rei-yumesaki.net/material/avatar/3d-a/",
       "download_url": null,
       "access_method": "official_page_download",
       "license_name": "つくよみちゃん公式3Dモデル タイプA利用規約",
       "license_url": "https://tyc.rei-yumesaki.net/material/avatar/3d-a/",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "公式説明に5つのVRMバリエーションと輪郭線あり／なしの各版を掲載。配布ファイル名・実ZIP内の対応は未検証。クレジット表記が必須。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-09",
+      "notes": "公式説明に5つのVRMバリエーションと輪郭線あり／なしの各版を掲載。配布ファイル名・実ZIP内の対応を確認。クレジット表記が必須。実機検証（2026-10-09）でGLB v2/VRM 0.x、人型形状、Tポーズ/顔WebPを確認し、NASへZIP保存。",
+      "distribution_size_bytes": 14749224,
+      "distribution_filename": "tyc-3d-a.zip"
     },
     {
       "id": "tsukuyomichan-type-a-recotte-no-outline",
@@ -1574,15 +1584,17 @@
         "recotte-studio",
         "no-outline"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://tyc.rei-yumesaki.net/material/avatar/3d-a/",
       "download_url": null,
       "access_method": "official_page_download",
       "license_name": "つくよみちゃん公式3Dモデル タイプA利用規約",
       "license_url": "https://tyc.rei-yumesaki.net/material/avatar/3d-a/",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "公式説明に5つのVRMバリエーションと輪郭線あり／なしの各版を掲載。配布ファイル名・実ZIP内の対応は未検証。クレジット表記が必須。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-09",
+      "notes": "公式説明に5つのVRMバリエーションと輪郭線あり／なしの各版を掲載。配布ファイル名・実ZIP内の対応を確認。クレジット表記が必須。実機検証（2026-10-09）でGLB v2/VRM 0.x、人型形状、Tポーズ/顔WebPを確認し、NASへZIP保存。",
+      "distribution_size_bytes": 15161264,
+      "distribution_filename": "tyc-3d-a.zip"
     },
     {
       "id": "tsukuyomichan-type-a-dress-up-outline",
@@ -1594,15 +1606,17 @@
         "dress-up",
         "outline"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://tyc.rei-yumesaki.net/material/avatar/3d-a/",
       "download_url": null,
       "access_method": "official_page_download",
       "license_name": "つくよみちゃん公式3Dモデル タイプA利用規約",
       "license_url": "https://tyc.rei-yumesaki.net/material/avatar/3d-a/",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "公式説明に5つのVRMバリエーションと輪郭線あり／なしの各版を掲載。配布ファイル名・実ZIP内の対応は未検証。クレジット表記が必須。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-09",
+      "notes": "公式説明に5つのVRMバリエーションと輪郭線あり／なしの各版を掲載。配布ファイル名・実ZIP内の対応を確認。クレジット表記が必須。実機検証（2026-10-09）でGLB v2/VRM 0.x、人型形状、Tポーズ/顔WebPを確認し、NASへZIP保存。",
+      "distribution_size_bytes": 15504156,
+      "distribution_filename": "tyc-3d-a.zip"
     },
     {
       "id": "tsukuyomichan-type-a-dress-up-no-outline",
@@ -1614,15 +1628,17 @@
         "dress-up",
         "no-outline"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://tyc.rei-yumesaki.net/material/avatar/3d-a/",
       "download_url": null,
       "access_method": "official_page_download",
       "license_name": "つくよみちゃん公式3Dモデル タイプA利用規約",
       "license_url": "https://tyc.rei-yumesaki.net/material/avatar/3d-a/",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "公式説明に5つのVRMバリエーションと輪郭線あり／なしの各版を掲載。配布ファイル名・実ZIP内の対応は未検証。クレジット表記が必須。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-09",
+      "notes": "公式説明に5つのVRMバリエーションと輪郭線あり／なしの各版を掲載。配布ファイル名・実ZIP内の対応を確認。クレジット表記が必須。実機検証（2026-10-09）でGLB v2/VRM 0.x、人型形状、Tポーズ/顔WebPを確認し、NASへZIP保存。",
+      "distribution_size_bytes": 15491552,
+      "distribution_filename": "tyc-3d-a.zip"
     },
     {
       "id": "tsukuyomichan-type-a-low-material-outline",
@@ -1634,15 +1650,17 @@
         "optimized",
         "outline"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://tyc.rei-yumesaki.net/material/avatar/3d-a/",
       "download_url": null,
       "access_method": "official_page_download",
       "license_name": "つくよみちゃん公式3Dモデル タイプA利用規約",
       "license_url": "https://tyc.rei-yumesaki.net/material/avatar/3d-a/",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "公式説明に5つのVRMバリエーションと輪郭線あり／なしの各版を掲載。配布ファイル名・実ZIP内の対応は未検証。クレジット表記が必須。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-09",
+      "notes": "公式説明に5つのVRMバリエーションと輪郭線あり／なしの各版を掲載。配布ファイル名・実ZIP内の対応を確認。クレジット表記が必須。実機検証（2026-10-09）でGLB v2/VRM 0.x、人型形状、Tポーズ/顔WebPを確認し、NASへZIP保存。",
+      "distribution_size_bytes": 10826888,
+      "distribution_filename": "tyc-3d-a.zip"
     },
     {
       "id": "tsukuyomichan-type-a-low-material-no-outline",
@@ -1654,15 +1672,17 @@
         "optimized",
         "no-outline"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://tyc.rei-yumesaki.net/material/avatar/3d-a/",
       "download_url": null,
       "access_method": "official_page_download",
       "license_name": "つくよみちゃん公式3Dモデル タイプA利用規約",
       "license_url": "https://tyc.rei-yumesaki.net/material/avatar/3d-a/",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "公式説明に5つのVRMバリエーションと輪郭線あり／なしの各版を掲載。配布ファイル名・実ZIP内の対応は未検証。クレジット表記が必須。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-09",
+      "notes": "公式説明に5つのVRMバリエーションと輪郭線あり／なしの各版を掲載。配布ファイル名・実ZIP内の対応を確認。クレジット表記が必須。実機検証（2026-10-09）でGLB v2/VRM 0.x、人型形状、Tポーズ/顔WebPを確認し、NASへZIP保存。",
+      "distribution_size_bytes": 10578432,
+      "distribution_filename": "tyc-3d-a.zip"
     },
     {
       "id": "sony-mocopi-raynos-original",
@@ -1778,11 +1798,11 @@
       "access_method": "direct_vrm",
       "license_name": "ミライ小町ライセンス",
       "license_url": "https://github.com/Miraikomachi/MiraikomachiVRM/blob/master/LICENSE",
-      "verification": "official_repository_file_listed",
-      "checked_at": "2026-10-08",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-09",
       "distribution_filename": "Miraikomachi.vrm",
       "distribution_size_bytes": 7900248,
-      "notes": "公式READMEにVRMエクスポート版0.51とver 0.82、SpringBone修正履歴を記載。利用条件は研究・制作などに限定。VTuberやゲーム/SNSアバターとしての利用、商用利用、モデルの再配布は禁止。"
+      "notes": "公式READMEにVRMエクスポート版0.51とver 0.82、SpringBone修正履歴を記載。利用条件は研究・制作などに限定。VTuberやゲーム/SNSアバターとしての利用、商用利用、モデルの再配布は禁止。実機検証（2026-10-09）でGLB v2/VRM 0.x、人型形状、Tポーズ/顔WebPを確認し、NASへZIP保存。"
     },
     {
       "id": "tegnike-nikechan-v1",
@@ -1792,17 +1812,17 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://github.com/tegnike/nikechan-assets/blob/main/vrms/nikechan_v1.vrm",
       "download_url": "https://raw.githubusercontent.com/tegnike/nikechan-assets/main/vrms/nikechan_v1.vrm",
       "access_method": "direct_vrm",
       "license_name": "AIニケちゃん公式二次創作・VRM配布利用条件",
       "license_url": "https://nikechan.com/guidelines/derivative",
-      "verification": "official_repository_file_listed",
-      "checked_at": "2026-10-08",
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-09",
       "distribution_filename": "nikechan_v1.vrm",
       "distribution_size_bytes": 19532128,
-      "notes": "権利者公式GitHubで配布。一般原則非営利・法人利用不可・再配布不可。作者はVRM内の旧メタデータを適用せず、公式サイトの現在のガイドラインを優先すると明記。バイナリ未解析。"
+      "notes": "権利者公式GitHubで配布。一般原則非営利・法人利用不可・再配布不可。作者はVRM内の旧メタデータを適用せず、公式サイトの現在のガイドラインを優先すると明記。実機検証（2026-10-09）でGLB v2/VRM 0.xと埋込権利情報を確認したが、再配布禁止または許諾矛盾のためNAS未保存。"
     },
     {
       "id": "tegnike-nikechan-v2",
@@ -1812,17 +1832,17 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "1.0",
       "source_url": "https://github.com/tegnike/nikechan-assets/blob/main/vrms/nikechan_v2.vrm",
       "download_url": "https://raw.githubusercontent.com/tegnike/nikechan-assets/main/vrms/nikechan_v2.vrm",
       "access_method": "direct_vrm",
       "license_name": "AIニケちゃん公式二次創作・VRM配布利用条件",
       "license_url": "https://nikechan.com/guidelines/derivative",
-      "verification": "official_repository_file_listed",
-      "checked_at": "2026-10-08",
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-09",
       "distribution_filename": "nikechan_v2.vrm",
       "distribution_size_bytes": 41163416,
-      "notes": "権利者公式GitHubで配布。一般原則非営利・法人利用不可・再配布不可。作者はVRM内の旧メタデータを適用せず、公式サイトの現在のガイドラインを優先すると明記。バイナリ未解析。"
+      "notes": "権利者公式GitHubで配布。一般原則非営利・法人利用不可・再配布不可。作者はVRM内の旧メタデータを適用せず、公式サイトの現在のガイドラインを優先すると明記。実機検証（2026-10-09）でGLB v2/VRM 1.0と埋込権利情報を確認したが、再配布禁止または許諾矛盾のためNAS未保存。"
     },
     {
       "id": "tegnike-nikechan-v2-outerwear",
@@ -1832,17 +1852,17 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "1.0",
       "source_url": "https://github.com/tegnike/nikechan-assets/blob/main/vrms/nikechan_v2_outerwear.vrm",
       "download_url": "https://raw.githubusercontent.com/tegnike/nikechan-assets/main/vrms/nikechan_v2_outerwear.vrm",
       "access_method": "direct_vrm",
       "license_name": "AIニケちゃん公式二次創作・VRM配布利用条件",
       "license_url": "https://nikechan.com/guidelines/derivative",
-      "verification": "official_repository_file_listed",
-      "checked_at": "2026-10-08",
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-09",
       "distribution_filename": "nikechan_v2_outerwear.vrm",
       "distribution_size_bytes": 44187428,
-      "notes": "権利者公式GitHubで配布。一般原則非営利・法人利用不可・再配布不可。作者はVRM内の旧メタデータを適用せず、公式サイトの現在のガイドラインを優先すると明記。バイナリ未解析。"
+      "notes": "権利者公式GitHubで配布。一般原則非営利・法人利用不可・再配布不可。作者はVRM内の旧メタデータを適用せず、公式サイトの現在のガイドラインを優先すると明記。実機検証（2026-10-09）でGLB v2/VRM 1.0と埋込権利情報を確認したが、再配布禁止または許諾矛盾のためNAS未保存。"
     },
     {
       "id": "vocalomakets-yuzuki-yukari-rei",
@@ -2153,15 +2173,17 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://kei.pronama.jp/download/",
       "download_url": null,
       "access_method": "official_page_download",
       "license_name": "公式利用条件",
       "license_url": "https://kei.pronama.jp/guideline/",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "公式ダウンロード案内にBlender/FBX/VRM配布を明記。OneDrive／ニコニ立体から正規に取得する方式。最新モデルはVer.4系、VRMファイルの具体的な版は未確認。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-09",
+      "notes": "公式ダウンロード案内にBlender/FBX/VRM配布を明記。OneDrive／ニコニ立体から正規に取得する方式。最新モデルはVer.4系。実機検証（2026-10-09）でGLB v2/VRM 0.x、人型形状、Tポーズ/顔WebPを確認し、NASへZIP保存。",
+      "distribution_size_bytes": 9106048,
+      "distribution_filename": "Pronama-chan_Ver4.3.zip"
     },
     {
       "id": "aituber-onair-miko-normal",
@@ -2171,16 +2193,17 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://miko.aituberonair.com/downloads/",
       "download_url": null,
       "access_method": "official_page_download",
       "license_name": "公式利用条件",
       "license_url": "https://miko.aituberonair.com/",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-09",
       "distribution_filename": "miko.vrm",
-      "notes": "公式ページで無料VRM『miko.vrm』を公開。現行利用ガイドライン下で商用可、素材単体での再配布は禁止。"
+      "notes": "公式ページで無料VRM『miko.vrm』を公開。現行利用ガイドライン下で商用可、素材単体での再配布は禁止。実機検証（2026-10-09）でGLB v2/VRM 0.xと埋込権利情報を確認したが、再配布禁止または許諾矛盾のためNAS未保存。",
+      "distribution_size_bytes": 15379048
     },
     {
       "id": "aituber-onair-miko-cheer",
@@ -2190,16 +2213,17 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://miko.aituberonair.com/downloads/",
       "download_url": null,
       "access_method": "official_page_download",
       "license_name": "公式利用条件",
       "license_url": "https://miko.aituberonair.com/",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-09",
       "distribution_filename": "miko-cheer.vrm",
-      "notes": "公式ページで通常版とは別の無料VRM『miko-cheer.vrm』を公開。利用条件は通常版と同じ。"
+      "notes": "公式ページで通常版とは別の無料VRM『miko-cheer.vrm』を公開。利用条件は通常版と同じ。実機検証（2026-10-09）でGLB v2/VRM 0.xと埋込権利情報を確認したが、再配布禁止または許諾矛盾のためNAS未保存。",
+      "distribution_size_bytes": 15510628
     },
     {
       "id": "tokyo6-rikka-official-vrm0",

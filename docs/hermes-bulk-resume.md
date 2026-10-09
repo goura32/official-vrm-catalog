@@ -7,16 +7,16 @@
 `goura32/official-vrm-catalog`の実機未処理分を**一度のHermes依頼で可能な限り連続処理**する。最優先は作者公開の`data/collections/polygonalmind-halloween-rising.json` **60件**と`polygonalmind-xmas-chibis.json` **80件**（計140件）。同一実行で処理可能分を終えたら、他の公式・原作者が無償公開する直接VRMへ継続（ToxSam originals 10件、NeonGlitch86の許諾確認可能分、公式サンプル等）。認証が必要なBOOTH/Hub/Studio等は認証なしでの正規取得可否を確認し、必要なら対象だけ保留する。作者の無料公開でも利用権限が確認できない対象は取得・保存しない。
 
 **不変の基準値**:
-- 登録総数**1,297**。R3 100件とR1/R2 400件の計500件は既に処理済み。R1/R2/R3**以外の797件**が探索集合で、43 IDは直接VRM取得を試行、残る754 IDは本実行で直接リクエスト未試行。季節140件のうち9 IDに直接要求済み（Halloween/Xmas 001、Halloween 002/003/004/005/006/007、Xmas 002）。H001–006等の過去再試行は旧方針下の履歴。H007は初回429で最新指示により再試行なしで終端化。dweb.linkは恒久的にアクセス対象外とし、残る131季節IDとKing Mutatioも要求しない。797は「NASへ保存すべき797件」ではない。
-- 現在のNASは**ZIP 339件、WebP 678枚**（今回9件追加）。今回の開始時338件と当初330件の全既存索引行が不変。現在の未圧縮合計**1,238,527,933 bytes** → ZIP **597,068,385 bytes**、削減率**51.7921%**。最終`verify_nas.py`は`ok:true`・`errors:[]`。次回は339件を不変baselineとし、既存データを保全。
-- 選別リストは**人型候補556、非人型候補243、未判定498**。今回新規の実VRM目視分類は人型9・非人型4。ToxSam Chubby Tubby Catは作者プレビューと実VRM描画で二足人型を確認、The Wormは作者プレビューで手足のない虫状のため取得前除外。MJMoonbow Dragon 2/3も作者PNGから人型候補、Dragon 8は保留、Dragon 9は四足の非人型。候補分類は全件の実物確認ではない。ZIPは実VRM比較で採用済み、**圧縮比較を繰り返さず`--format zip`で統一**する。
+- 登録総数**1,297**。R3 100件とR1/R2 400件の計500件は既に処理済み。R1/R2/R3**以外の797件**の現在の棚卸しは、保存21、確定非人型4、権利保留24、別hostリダイレクト拒否2、`dweb.link`恒久ブロック141、残り605件が未試行または取得条件未確定。797は「NASへ保存すべき797件」ではない。
+- 現在のNASは**ZIP 351件、WebP 702枚**。開始時339件の既存索引行・保存物は不変。現在の未圧縮合計**1,396,293,609 bytes** → ZIP **725,203,313 bytes**、削減率**48.0623%**、WebP **8,828,344 bytes**。最終`verify_nas.py`は`ok:true`・`errors:[]`。次回は351件を不変baselineとし、既存データを保全する。
+- 選別リストは**人型候補557、非人型候補243、未判定497**。今回の続行分は17件をバイナリ検査し、人型12件を描画・目視確認・NAS保存、5件を埋込権利情報により保留した。ZIPは実VRM比較で採用済み、**圧縮比較を繰り返さず`--format zip`で統一**する。
 
 **権利・取得上の保留（再配布許諾や正規URLの新証拠がない限り自動再取得しない）**:
 - R3のプレビュー品質: `polygonalmind-100avatars-r3-229`（1件、実VRM人型確認済み、NAS未保存）。
 - R1/R2の形状不明: `polygonalmind-100avatars-013-standard`、`-013-voxel`、`-034-standard`、`-034-voxel`（それぞれ完全な`polygonalmind-100avatars-...` ID、4件）。
 - R1/R2の埋込権利・作者表示矛盾: `polygonalmind-100avatars-132-standard`、`polygonalmind-100avatars-196-standard`、`polygonalmind-100avatars-166-voxel`（3件）。
 - MJMoonbow:既存`mjmoonbow-skinnie1-5-41eb4fe`に加え、今回取得した16件の埋込`Redistribution_Prohibited`（全IDは結果レポート、NAS未保存）。
-- 今回追加の権利矛盾: `neonglitch86-shapey`（埋込`allowRedistribution=false`）、`numinia-starter-avatar-01`・`numinia-avatar-arla`（埋込`CC_BY`対公開CC0、NAS未保存）。
+- 今回追加の権利矛盾: `neonglitch86-shapey`（埋込`allowRedistribution=false`）、`numinia-starter-avatar-01`・`numinia-avatar-arla`（埋込`CC_BY`対公開CC0、NAS未保存）、`tegnike-nikechan-v1`・`tegnike-nikechan-v2`・`tegnike-nikechan-v2-outerwear`（埋込再配布禁止/`allowRedistribution=false`）、`aituber-onair-miko-normal`・`aituber-onair-miko-cheer`（埋込`Redistribution_Prohibited`）。
 - URL制約: `neonglitch86-index-1`・`neonglitch86-index-3`は別hostへのリダイレクトを2回とも拒否。ミラー/ゲートウェイへ迂回しない。Halloween/Xmas 001、Halloween 002/003/004/005/006の過去再試行は旧方針下の履歴。Halloween 007は`2026-10-09T02:28:25.603909Z`の初回要求でHTTP 429（Retry-After: 900、当時の期限`02:43:25.603909Z`）となり、最新指示に従い再試行せず終端化。同じdweb.link hostは全IDについて恒久的にアクセス禁止。残る季節131 IDとToxSam `King Mutatio`は要求しない。
 - 今回の確定非人型は`toxsam-original-bffd07cc-601`、公式仕様サンプル3件、MJMoonbow Dragon 9（作者の実レンダー画像で四足を確認）。これらは人型保存キューへ戻さない。
 
@@ -34,14 +34,14 @@
 
 ## 一括作業の順序
 
-1. `git fetch`・最新main・`docs/nas-storage.md`・`docs/hermes-bulk-run-results.md`・NAS索引・保存済みモデル/画像・チェックポイントの整合を確認。`python3 scripts/verify_nas.py --nas-root /mnt/hdd/vrm`を実行し、**339件/678枚の開始時監査**を確認。NASマウント未確認なら書込み作業はしない。
+1. `git fetch`・最新main・`docs/nas-storage.md`・`docs/hermes-bulk-run-results.md`・NAS索引・保存済みモデル/画像・チェックポイントの整合を確認。`python3 scripts/verify_nas.py --nas-root /mnt/hdd/vrm`を実行し、**351件/702枚の開始時監査**を確認。NASマウント未確認なら書込み作業はしない。
 2. 季節140 IDを正本から確認。H001–006等の過去再試行は旧方針下の履歴。H007は初回429で最新指示により再試行せず終端化し、dweb.linkを恒久ブロックする。残る131季節IDとKing Mutatioも同hostのため要求しない。Retry-After期限待ちは行わない。
 3. 取得物ごとにGLB/VRM構造、実版、ライセンス/作者埋込情報、同一バイナリハッシュを検査。外形は作者プレビューまたは実VRM描画で人型/非人型/判定保留に分ける。人型はTポーズ・顔正面のWebPを生成し、実際に画像・画角を点検。NASに`scripts/archive_vrm.py --format zip --confirm-humanoid`で保存。元VRMと復元ZIPのSHA-256、プレビューID・画像SHAを照合。失敗IDを記録して進む。
-4. dweb.link対象を除外した後、今回未試行の公式/作者公開VRMを続けて確認する。ToxSam Chubby Tubby Catは画像上の人型候補からVRM実体・権利・描画を検査し保存済み。The Wormは作者画像で手足のない虫状のため事前除外。既確認のToxSam、Neon CC0、MJMoonbow、Numinia、VRM仕様サンプルは再取得しない。ToxSam `King Mutatio`は429 hostのため永久除外。現在の非季節直接候補21 IDは権利矛盾19件と別host redirect拒否2件で、追加取得可能なキューは0件。新たな正規公開元と権利根拠が見つかった場合のみ、その候補を処理する。累計結果は保存9、非人型4、権利矛盾19、リダイレクト拒否2。認証必要のBOOTH商品は`auth_required`として保留。既保存・非人型・権利保留は処理キューから除外。
-5. 最後に全件`python3 scripts/verify_nas.py --nas-root /mnt/hdd/vrm`で`ok:true`・`errors:[]`を確認し、**開始時339件の索引行・保存ファイルハッシュが変わっていないこと**を確認。実績レポート・正本の根拠つき更新・選別リストを必要最小限の差分で整備。`git diff --check`・`scripts/validate.py`（必要なら既存4単体テスト）後にcommit/push。処理待ち・保留を再開可能な状態で残す。
+- 4. `dweb.link`対象を除外した後、今回の公式/作者公開17件を確認した。12件（Pronama、ミライ小町、つくよみちゃん10件）は保存済み、5件（AIニケちゃん3件、ミコ2件）は埋込権利情報により保留。既確認のToxSam、Neon CC0、MJMoonbow、Numinia、VRM仕様サンプルは再取得しない。ToxSam `King Mutatio`を含む429 host対象は永久除外する。新たな正規公開元と権利根拠が見つかった場合のみ、その候補を処理する。認証が必要と実際に確認したBOOTH商品は0件だが、未試行の無料商品は認証要否未確認として残す。既保存・非人型・権利保留は処理キューから除外。
+5. 最後に全件`python3 scripts/verify_nas.py --nas-root /mnt/hdd/vrm`で`ok:true`・`errors:[]`を確認し、**開始時351件の索引行・保存ファイルハッシュが変わっていないこと**を確認。実績レポート・正本の根拠つき更新・選別リストを必要最小限の差分で整備。`git diff --check`・`scripts/validate.py`（必要なら既存4単体テスト）後にcommit/push。処理待ち・保留を再開可能な状態で残す。
 
 ## 最終報告
 
-**直近実行分の新規実績**（Halloween 007は初回429後に最新指示で再試行せず終端化。dweb.link全体を恒久除外。残る季節131 IDを要求せず、非季節の取得可能候補も0件。今回のNAS新規保存0）と**現在累計339 ZIP/678 WebP**、NAS監査、既存330件の不変性、Git commit SHA、再開チェックポイントを日本語で簡潔にまとめる。
+**直近実行分の新規実績**（17件を検査、12件をNAS保存、5件を権利保留。HTTP 429後の再試行なし、dweb.link恒久除外）と**現在累計351 ZIP/702 WebP**、NAS監査、既存339件の不変性、Git commit SHA、再開チェックポイントを日本語で簡潔にまとめる。
 
 本書は実行指示であり、**記載した時点ではHermesを起動していない**。実行時は合理的な範囲で**逐次の小分け依頼なしに実処理を続行**し、必要不可欠な利用者認証・権利判断のみ個別保留として報告する。

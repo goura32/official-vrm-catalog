@@ -10001,9 +10001,9 @@
       "distribution_filename": "_オリジナルキャラVRMモデル_ドナ_ドニー.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4180044",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "VRoidとBlender製の作者オリジナル無料テストアバター。ドニーと同じZIPに同梱すると商品名・説明に記載。作者は著作権放棄・再配布可を表明するが、個別GLBのライセンス未確認。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "VRoidとBlender製の作者オリジナル無料テストアバター。ドニーと同じZIPに同梱すると商品名・説明に記載。作者は著作権放棄・再配布可を表明するが、個別GLBのライセンス未確認。公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "busycreations-donny",
@@ -10021,9 +10021,9 @@
       "distribution_filename": "_オリジナルキャラVRMモデル_ドナ_ドニー.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4180044",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "ドナとは別キャラでポリゴン数も異なると作者が説明。ZIP内部の実ファイル名・VRM仕様版は未確認。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "ドナとは別キャラでポリゴン数も異なると作者が説明。ZIP内部の実ファイル名・VRM仕様版は未確認。公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "kagekin-nikuneko-fresh",
@@ -10041,9 +10041,9 @@
       "distribution_filename": "nikuneko.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4330151",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者のオリジナル動物型VRM。無料の単体VRM。ウェルダン版の配布枠にも同じファイルが含まれるが、重複計上しない。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者のオリジナル動物型VRM。無料の単体VRM。ウェルダン版の配布枠にも同じファイルが含まれるが、重複計上しない。公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "kagekin-nikuneko-welldone",
@@ -10062,9 +10062,9 @@
       "distribution_filename": "yakeneko.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4330151",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者が無料で公開する焼き上がった色違いの別VRM。『応援版』という配布枠も0円表示だがこのファイルを個別VRMとして収録。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者が無料で公開する焼き上がった色違いの別VRM。『応援版』という配布枠も0円表示だがこのファイルを個別VRMとして収録。公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "yururea-riko-cat",
@@ -10082,8 +10082,8 @@
       "distribution_filename": "りこ.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/7517937",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
       "notes": "黒猫を頭に乗せたオリジナルアバター。VRoid Studio製、作者が直接無料VRM配布。表示の『KOHARUちゃん』というダウンロード枠名とモデル名の食い違いは後日確認。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
     },
     {
@@ -10102,8 +10102,8 @@
       "distribution_filename": "08_Pippa.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4613310",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
       "notes": "作者の汎用オリジナル猫耳アバター。2024年から0円のZIP形式で配布。ファイル構成・VRMバージョンは原本未取得。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
     },
     {
@@ -10122,8 +10122,8 @@
       "distribution_filename": "無題.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/1571536",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
       "notes": "作者が2025年に無料化したオリジナル3Dモデル。無題.zipにはVRMとUnitypackageを同梱すると説明。おまけZIPは別モデルと数えない。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
     },
     {
@@ -10141,8 +10141,8 @@
       "distribution_filename": "nanami_v1.0.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/7753385",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
       "notes": "作者ショップが0円の直接VRMとして公開し、VRM0形式と記載。商品規約に別キャラクター名が混在するため適用規約の精査を残す。無料の.vroid形式は同一キャラとして除外。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
     },
     {
@@ -10162,8 +10162,8 @@
       "distribution_filename": "SiroKumaa.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/3739414",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
       "notes": "原作者自身が無料ZIPを公開し、clusterでは含まれるVRMをアップロードする旨を明記。約1800ポリゴン、商用・改変・VRChatパブリック化可能と説明。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
     },
     {
@@ -10183,9 +10183,9 @@
       "distribution_filename": "casual_fashion_Ver0.0_20240421.vrm",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/5658696",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者が無料の別VRMファイル2本を公開。編集可能な.vroidは有料。VRoid StudioやAvatarSample_C由来のテクスチャ利用条件に注意。VRM仕様版は名称に基づく案内のみで未解析。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者が無料の別VRMファイル2本を公開。編集可能な.vroidは有料。VRoid StudioやAvatarSample_C由来のテクスチャ利用条件に注意。VRM仕様版は名称に基づく案内のみで未解析。公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "siroihakumai-casual-fashion-vrm1",
@@ -10204,9 +10204,9 @@
       "distribution_filename": "casual_fashion_Ver1.0_20240421.vrm",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/5658696",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者が無料の別VRMファイル2本を公開。編集可能な.vroidは有料。VRoid StudioやAvatarSample_C由来のテクスチャ利用条件に注意。VRM仕様版は名称に基づく案内のみで未解析。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者が無料の別VRMファイル2本を公開。編集可能な.vroidは有料。VRoid StudioやAvatarSample_C由来のテクスチャ利用条件に注意。VRM仕様版は名称に基づく案内のみで未解析。公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "siroihakumai-maid-vrm0",
@@ -10224,9 +10224,9 @@
       "distribution_filename": "maid_model_Ver0.0_20240421.vrm",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/5674587",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者が¥0配布する2つの直接VRM（通常VRM 0.x/1.0向けのファイル名）。有料のVRoid編集データとは区別。個人商用利用可、法人商用は作者に要相談。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者が¥0配布する2つの直接VRM（通常VRM 0.x/1.0向けのファイル名）。有料のVRoid編集データとは区別。個人商用利用可、法人商用は作者に要相談。公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "siroihakumai-maid-vrm1",
@@ -10244,9 +10244,9 @@
       "distribution_filename": "maid_model_Ver1.0_20240421.vrm",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/5674587",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者が¥0配布する2つの直接VRM（通常VRM 0.x/1.0向けのファイル名）。有料のVRoid編集データとは区別。個人商用利用可、法人商用は作者に要相談。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者が¥0配布する2つの直接VRM（通常VRM 0.x/1.0向けのファイル名）。有料のVRoid編集データとは区別。個人商用利用可、法人商用は作者に要相談。公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "siroihakumai-ao-quest",
@@ -10265,8 +10265,8 @@
       "distribution_filename": "Quest_20240515.vrm",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/5718823",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
       "notes": "作者が同一モデルのVRChat Unitypackageとは別に無料のQuest向け直接VRMを配布。作者自身はQuest実機で未検証と明記。VRoid Studio/AvatarSample_Cの一部テクスチャ由来ライセンスを参照。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。"
     },
     {
@@ -10285,9 +10285,9 @@
       "distribution_filename": "Savi.vrm",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/6799874",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者のVRChat用Saviの無料VRM欄に3色の直接VRMファイル。無料VRChat Unitypackageと有料編集用.vroidを同じモデルとして重複登録しない。VN3形式の利用規約PDFを参照。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者のVRChat用Saviの無料VRM欄に3色の直接VRMファイル。無料VRChat Unitypackageと有料編集用.vroidを同じモデルとして重複登録しない。VN3形式の利用規約PDFを参照。公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "siroihakumai-savi-black",
@@ -10305,9 +10305,9 @@
       "distribution_filename": "Savi_black.vrm",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/6799874",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者のVRChat用Saviの無料VRM欄に3色の直接VRMファイル。無料VRChat Unitypackageと有料編集用.vroidを同じモデルとして重複登録しない。VN3形式の利用規約PDFを参照。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者のVRChat用Saviの無料VRM欄に3色の直接VRMファイル。無料VRChat Unitypackageと有料編集用.vroidを同じモデルとして重複登録しない。VN3形式の利用規約PDFを参照。公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "siroihakumai-savi-gray",
@@ -10325,9 +10325,9 @@
       "distribution_filename": "Savi_gray.vrm",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/6799874",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者のVRChat用Saviの無料VRM欄に3色の直接VRMファイル。無料VRChat Unitypackageと有料編集用.vroidを同じモデルとして重複登録しない。VN3形式の利用規約PDFを参照。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
+      "notes": "作者のVRChat用Saviの無料VRM欄に3色の直接VRMファイル。無料VRChat Unitypackageと有料編集用.vroidを同じモデルとして重複登録しない。VN3形式の利用規約PDFを参照。公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "shadowshop-tomboy",
@@ -10344,8 +10344,8 @@
       "distribution_filename": "Tomboy.vrm",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/8675244",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-10",
       "notes": "無料VRMと無料VRoidファイルを作者が別配布。商用・配信・改変可、再販売・共有は禁止。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。"
     },
     {

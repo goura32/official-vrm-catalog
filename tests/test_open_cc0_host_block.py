@@ -4,17 +4,24 @@ import json
 import tempfile
 import unittest
 from pathlib import Path
+from typing import Any
 from unittest.mock import patch
 
 STATE = Path(__file__).resolve().parents[2]
 RUNNER_PATH = STATE / "run_open_cc0_batch.py"
-SPEC = importlib.util.spec_from_file_location("cc0_batch_under_test", RUNNER_PATH)
-if SPEC is None or SPEC.loader is None:
-    raise RuntimeError(f"cannot load batch runner from {RUNNER_PATH}")
-worker = importlib.util.module_from_spec(SPEC)
-SPEC.loader.exec_module(worker)
+RUNNER_AVAILABLE = RUNNER_PATH.is_file()
+worker: Any
+if RUNNER_AVAILABLE:
+    SPEC = importlib.util.spec_from_file_location("cc0_batch_under_test", RUNNER_PATH)
+    if SPEC is None or SPEC.loader is None:
+        raise RuntimeError(f"cannot load batch runner from {RUNNER_PATH}")
+    worker = importlib.util.module_from_spec(SPEC)
+    SPEC.loader.exec_module(worker)
+else:
+    worker = None
 
 
+@unittest.skipUnless(RUNNER_AVAILABLE, "local batch runner is stored outside the catalog repository")
 class Host429BlockTests(unittest.TestCase):
     def test_persisted_429_blocks_all_later_requests_to_that_host(self):
         with tempfile.TemporaryDirectory(prefix="vrm-host429-test-") as tmp:

@@ -306,3 +306,11 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - 認証回避、購入・ログイン、VRM取得・描画・NAS保存は行わず、関連32件を認証待ちへ変更した。
 - 現在の797件棚卸しは、保存25、確定非人型4、権利保留65、別hostリダイレクト拒否2、`dweb.link`恒久ブロック141、認証待ち353、商品ページ404 3、VRoid Studioエクスポート専用23、残り181件。
 - チェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-auth-checkpoint-20261009-batch17.json`。
+
+## 2026-10-10 BOOTH追加12商品ページの匿名取得確認（第18バッチ）
+
+- Aisling、ぽめ助、ハーシーとチェイス、SiNE DOLL 473 SD、韓国海苔、ローポリRem、Niumuのしのっち/ぽす太/とろぽり、アシュリー、ChocoOrange、Wingsの12商品ページを確認した。版違いを含む関連13カタログIDに対応する。
+- 各商品から代表無料ダウンロードリンクを確認し、12 URLを匿名要求したところ、全12件がHTTP 302で`https://booth.pm/users/sign_in`へ遷移した。HTTP 429は発生していない。
+- 認証回避、購入・ログイン、VRM取得・描画・NAS保存は行わず、関連13件を認証待ちへ変更した。
+- 現在の797件棚卸しは、保存25、確定非人型4、権利保留65、別hostリダイレクト拒否2、`dweb.link`恒久ブロック141、認証待ち366、商品ページ404 3、VRoid Studioエクスポート専用23、残り168件。
+- チェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-auth-checkpoint-20261009-batch18.json`。

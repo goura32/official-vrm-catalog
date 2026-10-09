@@ -3380,9 +3380,9 @@
       "distribution_filename": "Romandi_3D.zip",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/4036136",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "0円ZIPにVRM・FBX・テクスチャを収録。個人商用・改変可、原本/改変版の再配布・販売禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "0円ZIPにVRM・FBX・テクスチャを収録。個人商用・改変可、原本/改変版の再配布・販売禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "3dmodelharuka-sakura",
@@ -3400,9 +3400,9 @@
       "distribution_filename": "SAKURA.zip",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/4592729",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "0円ZIPにSAKURA.vrmとVRChat用Unitypackageを同梱。個人・法人の商用利用と改変可、再配布禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "0円ZIPにSAKURA.vrmとVRChat用Unitypackageを同梱。個人・法人の商用利用と改変可、再配布禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "unreally-yukine-riu",
@@ -3419,9 +3419,9 @@
       "distribution_filename": "雪音りう3D.zip",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/8519166",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "0円のVRMモデル配布ZIP。無料公開ページとVRM形式を確認。ZIP内部・細かな権利条件は実取得時に確認。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "0円のVRMモデル配布ZIP。無料公開ページとVRM形式を確認。ZIP内部・細かな権利条件は実取得時に確認。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "niumu-miyamaru",
@@ -3439,9 +3439,9 @@
       "distribution_filename": "みやまる_Miyamaru_Niumu.zip",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/6867490",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者が0円で公開するVRMモデル。Perfect Sync対応と記載。商用・法人利用NG、改変可、再配布NG。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "作者が0円で公開するVRMモデル。Perfect Sync対応と記載。商用・法人利用NG、改変可、再配布NG。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "dollme-002",
@@ -3459,9 +3459,9 @@
       "distribution_filename": "Dollme_002.zip",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/5173073",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "期間限定無料配布（現在の商品ページは0円表示）。ZIPにVRMを含むと作者明記し、VRM1.0ではないと明記。個人商用・改変可、原本/改変版の再配布禁止。無料配布終了の可能性がある。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "期間限定無料配布（現在の商品ページは0円表示）。ZIPにVRMを含むと作者明記し、VRM1.0ではないと明記。個人商用・改変可、原本/改変版の再配布禁止。無料配布終了の可能性がある。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "dollme-006",
@@ -3479,9 +3479,9 @@
       "distribution_filename": "Dollme_006.zip",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/5207993",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "期間限定無料配布（現在の商品ページは0円表示）。ZIPにVRMを含むと作者明記し、VRM1.0ではないと明記。個人商用・改変可、原本/改変版の再配布禁止。無料配布終了の可能性がある。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "期間限定無料配布（現在の商品ページは0円表示）。ZIPにVRMを含むと作者明記し、VRM1.0ではないと明記。個人商用・改変可、原本/改変版の再配布禁止。無料配布終了の可能性がある。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "dollme-007",
@@ -3499,9 +3499,9 @@
       "distribution_filename": "Dollme_007.zip",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/5208006",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "期間限定無料配布（現在の商品ページは0円表示）。ZIPにVRMを含むと作者明記し、VRM1.0ではないと明記。個人商用・改変可、原本/改変版の再配布禁止。無料配布終了の可能性がある。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "期間限定無料配布（現在の商品ページは0円表示）。ZIPにVRMを含むと作者明記し、VRM1.0ではないと明記。個人商用・改変可、原本/改変版の再配布禁止。無料配布終了の可能性がある。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "dollme-008",
@@ -3519,9 +3519,9 @@
       "distribution_filename": "Dollme_008.zip",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/5208010",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "期間限定無料配布（現在の商品ページは0円表示）。ZIPにVRMを含むと作者明記し、VRM1.0ではないと明記。個人商用・改変可、原本/改変版の再配布禁止。無料配布終了の可能性がある。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "期間限定無料配布（現在の商品ページは0円表示）。ZIPにVRMを含むと作者明記し、VRM1.0ではないと明記。個人商用・改変可、原本/改変版の再配布禁止。無料配布終了の可能性がある。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "dollme-009",
@@ -3539,9 +3539,9 @@
       "distribution_filename": "Dollme_009.zip",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/5208021",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "期間限定無料配布（現在の商品ページは0円表示）。ZIPにVRMを含むと作者明記し、VRM1.0ではないと明記。個人商用・改変可、原本/改変版の再配布禁止。無料配布終了の可能性がある。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "期間限定無料配布（現在の商品ページは0円表示）。ZIPにVRMを含むと作者明記し、VRM1.0ではないと明記。個人商用・改変可、原本/改変版の再配布禁止。無料配布終了の可能性がある。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "dollme-010",
@@ -3559,9 +3559,9 @@
       "distribution_filename": "Dollme_010_.zip",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/5208023",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "期間限定無料配布（現在の商品ページは0円表示）。ZIPにVRMを含むと作者明記し、VRM1.0ではないと明記。個人商用・改変可、原本/改変版の再配布禁止。無料配布終了の可能性がある。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "期間限定無料配布（現在の商品ページは0円表示）。ZIPにVRMを含むと作者明記し、VRM1.0ではないと明記。個人商用・改変可、原本/改変版の再配布禁止。無料配布終了の可能性がある。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "naoya-model-pack01-aquamarine",
@@ -3579,9 +3579,9 @@
       "distribution_filename": "7a04m_Model-Pack_01_vrm.zip",
       "license_name": "作者BOOTHの商品説明・利用規約",
       "license_url": "https://booth.pm/ja/items/4935982",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "公式販売者が0円ZIPに4人のVRM 0形式を収録と記載。.vroid編集データは別途500円。ZIP内部の個々のファイル名は未確認。実ダウンロードとVRM内部解析は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "公式販売者が0円ZIPに4人のVRM 0形式を収録と記載。.vroid編集データは別途500円。ZIP内部の個々のファイル名は未確認。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "naoya-model-pack01-ametrine",
@@ -3599,9 +3599,9 @@
       "distribution_filename": "7a04m_Model-Pack_01_vrm.zip",
       "license_name": "作者BOOTHの商品説明・利用規約",
       "license_url": "https://booth.pm/ja/items/4935982",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "公式販売者が0円ZIPに4人のVRM 0形式を収録と記載。.vroid編集データは別途500円。ZIP内部の個々のファイル名は未確認。実ダウンロードとVRM内部解析は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "公式販売者が0円ZIPに4人のVRM 0形式を収録と記載。.vroid編集データは別途500円。ZIP内部の個々のファイル名は未確認。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "naoya-model-pack01-rubellite",
@@ -3619,9 +3619,9 @@
       "distribution_filename": "7a04m_Model-Pack_01_vrm.zip",
       "license_name": "作者BOOTHの商品説明・利用規約",
       "license_url": "https://booth.pm/ja/items/4935982",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "公式販売者が0円ZIPに4人のVRM 0形式を収録と記載。.vroid編集データは別途500円。ZIP内部の個々のファイル名は未確認。実ダウンロードとVRM内部解析は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "公式販売者が0円ZIPに4人のVRM 0形式を収録と記載。.vroid編集データは別途500円。ZIP内部の個々のファイル名は未確認。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "naoya-model-pack01-peridot",
@@ -3639,9 +3639,9 @@
       "distribution_filename": "7a04m_Model-Pack_01_vrm.zip",
       "license_name": "作者BOOTHの商品説明・利用規約",
       "license_url": "https://booth.pm/ja/items/4935982",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "公式販売者が0円ZIPに4人のVRM 0形式を収録と記載。.vroid編集データは別途500円。ZIP内部の個々のファイル名は未確認。実ダウンロードとVRM内部解析は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "公式販売者が0円ZIPに4人のVRM 0形式を収録と記載。.vroid編集データは別途500円。ZIP内部の個々のファイル名は未確認。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "shiroten-macherie-sailor",
@@ -3658,9 +3658,9 @@
       "distribution_filename": "FD1000M.macherie-01.vrm",
       "license_name": "作者BOOTHの商品説明・利用規約",
       "license_url": "https://booth.pm/ja/items/4921493",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "無料版に直接VRM 2ファイル。500円製品版に編集用VRoidを追加。個人利用・配信等可、再配布は禁止。無料版の改変条件は作者説明に従う。実ダウンロードとVRM内部解析は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "無料版に直接VRM 2ファイル。500円製品版に編集用VRoidを追加。個人利用・配信等可、再配布は禁止。無料版の改変条件は作者説明に従う。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "shiroten-macherie-rabbit",
@@ -3677,9 +3677,9 @@
       "distribution_filename": "FD1000M.macherie-02.vrm",
       "license_name": "作者BOOTHの商品説明・利用規約",
       "license_url": "https://booth.pm/ja/items/4921493",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "無料版に直接VRM 2ファイル。500円製品版に編集用VRoidを追加。個人利用・配信等可、再配布は禁止。無料版の改変条件は作者説明に従う。実ダウンロードとVRM内部解析は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "無料版に直接VRM 2ファイル。500円製品版に編集用VRoidを追加。個人利用・配信等可、再配布は禁止。無料版の改変条件は作者説明に従う。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "vtubershop-openpose-original",

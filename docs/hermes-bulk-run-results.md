@@ -216,3 +216,11 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - 認証回避、購入・ログイン、VRM取得・描画・NAS保存は行わず、関連16件を認証待ちへ変更した。
 - 現在の797件棚卸しは、保存25、確定非人型4、権利保留65、別hostリダイレクト拒否2、`dweb.link`恒久ブロック141、認証待ち121、VRoid Studioエクスポート専用23、残り416件。
 - チェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-auth-checkpoint-20261009-batch6.json`。
+
+## 2026-10-09 BOOTH追加12商品ページの匿名取得確認（第7バッチ）
+
+- Romandi、SAKURA、雪音りう、みやまる、Dollme 002/006/007/008/009/010、7a04m Model Pack 01、マシェリの12商品ページを確認した。無料ダウンロード対象は関連16カタログIDに対応する。
+- 各商品から無料ダウンロードリンクを確認し、代表12 URLを匿名要求したところ、全12件がHTTP 302で`https://booth.pm/users/sign_in`へ遷移した。HTTP 429は発生していない。
+- 認証回避、購入・ログイン、VRM取得・描画・NAS保存は行わず、関連16件を認証待ちへ変更した。
+- 現在の797件棚卸しは、保存25、確定非人型4、権利保留65、別hostリダイレクト拒否2、`dweb.link`恒久ブロック141、認証待ち137、VRoid Studioエクスポート専用23、残り400件。
+- チェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-auth-checkpoint-20261009-batch7.json`。

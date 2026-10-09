@@ -3697,9 +3697,9 @@
       "distribution_filename": "openposeVRM.zip",
       "license_name": "作者BOOTHの商品説明・利用規約",
       "license_url": "https://booth.pm/ja/items/4716893",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "0円ZIPのVRMアバター。ポーズ画像生成向けに作者が無料公開。ZIP内部のモデルファイル名・仕様版は未確認。実ダウンロードとVRM内部解析は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "0円ZIPのVRMアバター。ポーズ画像生成向けに作者が無料公開。ZIP内部のモデルファイル名・仕様版は未確認。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "toriniku-openpose-vrm1",
@@ -3717,9 +3717,9 @@
       "distribution_filename": "openpose.vrm",
       "license_name": "作者BOOTHの商品説明・利用規約",
       "license_url": "https://booth.pm/ja/items/5451378",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "0円でVRM 1.0の改変版を配布。商用・改変・ソフト同梱・再配布時は作者クレジット『@dansingsinghk』が必須。元モデルとのライセンス整合性も将来確認。実ダウンロードとVRM内部解析は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "0円でVRM 1.0の改変版を配布。商用・改変・ソフト同梱・再配布時は作者クレジット『@dansingsinghk』が必須。元モデルとのライセンス整合性も将来確認。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "toriniku-openpose-vrm0",
@@ -3737,9 +3737,9 @@
       "distribution_filename": "openpose_v0.9.vrm",
       "license_name": "作者BOOTHの商品説明・利用規約",
       "license_url": "https://booth.pm/ja/items/5451378",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "同じ0円商品でVRM 0.9の改変版も配布。商用・改変・ソフト同梱・再配布時は作者クレジット必須。実ダウンロードとVRM内部解析は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "同じ0円商品でVRM 0.9の改変版も配布。商用・改変・ソフト同梱・再配布時は作者クレジット必須。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "hakase3d-icekun",
@@ -3758,9 +3758,9 @@
       "distribution_filename": "あいすくん.vrm",
       "license_name": "作者BOOTHの商品説明・利用規約",
       "license_url": "https://booth.pm/ja/items/5950129",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者オリジナルの無料Cluster向け小型VRM。モデル自体の再配布は禁止。実ダウンロードとVRM内部解析は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "作者オリジナルの無料Cluster向け小型VRM。モデル自体の再配布は禁止。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "hakase3d-icekun-winter",
@@ -3779,9 +3779,9 @@
       "distribution_filename": "あいすくん_冬ver.vrm",
       "license_name": "作者BOOTHの商品説明・利用規約",
       "license_url": "https://booth.pm/ja/items/6419264",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "同作者の冬・クリスマス衣装差分。無料VRM、再配布禁止。実ダウンロードとVRM内部解析は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "同作者の冬・クリスマス衣装差分。無料VRM、再配布禁止。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "aaaavrm-volo",
@@ -3800,9 +3800,9 @@
       "distribution_filename": "VOLO.vrm",
       "license_name": "作者BOOTHの商品説明・利用規約",
       "license_url": "https://booth.pm/ja/items/6139844",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者が無料配布するボクセルアバターVRM、588KB。実ダウンロードとVRM内部解析は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "作者が無料配布するボクセルアバターVRM、588KB。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "ittokazetau-tikuenn",
@@ -3819,9 +3819,9 @@
       "distribution_filename": "tikuenn.zip",
       "license_name": "作者BOOTHの商品説明・利用規約",
       "license_url": "https://booth.pm/ja/items/8629412",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "0円ZIPにVRMとVRoidプロジェクトを同梱。個人商用可・作者表記必要、法人利用/モデル再配布禁止。実ダウンロードとVRM内部解析は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "0円ZIPにVRMとVRoidプロジェクトを同梱。個人商用可・作者表記必要、法人利用/モデル再配布禁止。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "atelier-yozora-sumomo",
@@ -3839,9 +3839,9 @@
       "distribution_filename": "魔法少女すもも.vrm",
       "license_name": "作者BOOTHの商品説明・利用規約",
       "license_url": "https://booth.pm/ja/items/8925032",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "無料VRMは有料フルセット内のVRMと同一と作者説明。ポリゴン10,806、VRChat/cluster向け。Unityパッケージ等は有料版のみ。実ダウンロードとVRM内部解析は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "無料VRMは有料フルセット内のVRMと同一と作者説明。ポリゴン10,806、VRChat/cluster向け。Unityパッケージ等は有料版のみ。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "deadend-doll-sheap",
@@ -3859,9 +3859,9 @@
       "distribution_filename": "model_sheep2.vrm",
       "license_name": "作者BOOTHの商品説明・利用規約",
       "license_url": "https://booth.pm/ja/items/4875752",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "0円の作者オリジナル羊モチーフVRM。個人・商用可、改変可、再配布禁止。有料支援版にVRoidファイルが付く。実ダウンロードとVRM内部解析は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "0円の作者オリジナル羊モチーフVRM。個人・商用可、改変可、再配布禁止。有料支援版にVRoidファイルが付く。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "poeale-anzu",
@@ -3878,9 +3878,9 @@
       "distribution_filename": "蓮辺_杏1_2配布用_修正版.vrm",
       "license_name": "作者BOOTHの商品説明・利用規約",
       "license_url": "https://booth.pm/ja/items/5182153",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "修正版VRMが0円。VRoid編集用ヘアは有料。現行利用条件の詳細は販売ページ参照。実ダウンロードとVRM内部解析は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "修正版VRMが0円。VRoid編集用ヘアは有料。現行利用条件の詳細は販売ページ参照。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "hirunegoya-lulu",
@@ -3899,9 +3899,9 @@
       "distribution_filename": "lulu_v10001.vrm",
       "license_name": "作者BOOTHの商品説明・利用規約",
       "license_url": "https://booth.pm/ja/items/3372986",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "0円の白い猫型VRM。MMD・VRChat版も別途無償配布されるが同一VRMではないため数えない。音素モーフ13種の説明あり。実ダウンロードとVRM内部解析は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "0円の白い猫型VRM。MMD・VRChat版も別途無償配布されるが同一VRMではないため数えない。音素モーフ13種の説明あり。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "hokekiyo-iroha-v2",
@@ -3919,9 +3919,9 @@
       "distribution_filename": "いろはver2________________VRMモデル_________MMDモデル_.zip",
       "license_name": "作者BOOTHの商品説明・利用規約",
       "license_url": "https://booth.pm/ja/items/2349118",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者が0円ZIPにVRMとMMDモデルを明示。旧VRoid Studio v0.11.1によるVRMで、旧版として互換性確認向け。商用・改変可、モデル再配布禁止。実ダウンロードとVRM内部解析は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "作者が0円ZIPにVRMとMMDモデルを明示。旧VRoid Studio v0.11.1によるVRMで、旧版として互換性確認向け。商用・改変可、モデル再配布禁止。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "monotone-diva",
@@ -3939,9 +3939,9 @@
       "distribution_filename": "Diva_ver1.0.zip",
       "license_name": "作者BOOTHの商品説明・利用規約",
       "license_url": "https://booth.pm/ja/items/5808954",
-      "verification": "official_free_distribution_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者が0円ZIPにVRM/UnityPackage/FBX等を収録と明記。VRM 0.x（1.0非対応）を明示。VN3利用規約に従う。実ダウンロードとVRM内部解析は未実施。"
+      "verification": "official_free_download_auth_required",
+      "checked_at": "2026-10-09",
+      "notes": "作者が0円ZIPにVRM/UnityPackage/FBX等を収録と明記。VRM 0.x（1.0非対応）を明示。VN3利用規約に従う。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
     },
     {
       "id": "declab-mira",

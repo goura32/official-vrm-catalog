@@ -142,6 +142,7 @@ VRM 0.x / 1.0のモデル、アバター型と機能検証用モデルを対象�
 - `official_help_confirmed_export_untested`: 公式ヘルプが無料モデルと書き出し方法を案内。個別エクスポートは未検証
 - `official_free_distribution_listed_download_untested`: 公式配布元に無料のVRM配布案内を確認。個別の実ダウンロードは未検証
 - `creator_index_direct_url_listed_download_untested`: 制作者の公開モデル索引にVRM形式と直リンクを確認。リンク先バイナリは未取得
+- `creator_index_shape_non_humanoid_not_archived`: 作者公開プレビュー等の外観根拠で非人型と判定。VRM実体は未取得のため未保存
 - `creator_index_direct_url_rate_limited_pending`: 元の直接URLがHTTP 429を返し、`Retry-After`を記録。未取得のまま再開待ち
 - `creator_index_direct_download_redirect_blocked_pending`: 直接URLが別ホストへのリダイレクトを要求したため追跡せず保留（ミラー・別ゲートウェイへ切替えない）
 - `creator_index_direct_binary_render_humanoid_confirmed`: 制作者索引の直リンクから実VRMを取得し、バイナリメタデータ、ローカル描画、人型外形を確認（NAS保存・全件監査の完了は別途記録）

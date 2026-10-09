@@ -77,9 +77,9 @@
       "distribution_filename": "TheWorm.vrm",
       "license_name": "CC0 (creator's Open Source Avatars registry)",
       "license_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/projects.json",
-      "verification": "creator_index_direct_url_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "作者ToxSam（Polygonal MindのDaniel Garcia）が自身の公開VRM索引でCC0作品として掲載。IPFS直リンクとNFT識別情報を持つが、VRMファイルURLの参照自体はNFT購入を要求する形ではない。実際のHTTP応答・ダウンロード可否・バイナリと表示は未検証。"
+      "verification": "creator_index_shape_non_humanoid_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "作者ToxSam（Polygonal MindのDaniel Garcia）が自身の公開VRM索引でCC0作品として掲載。作者プレビューでは手足のない虫状の外形で、既存の外観根拠のみで非人型と判定した。実VRM・埋込メタデータ・表示は未取得のため、Pinata gatewayへ追加アクセスせずNAS保存しない。"
     },
     {
       "id": "toxsam-original-bffd07cc-401",

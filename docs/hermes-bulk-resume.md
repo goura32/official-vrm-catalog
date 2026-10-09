@@ -6,19 +6,19 @@
 ## 現在の確定実績
 
 - 登録正本: 1,297件。R1/R2/R3以外の対象797件の状態は以下の**排他的な9区分**。
-- NAS保存25、確定非人型4、権利保留65、別hostリダイレクト拒否2、dweb.link恒久ブロック141、**認証待ち466**、商品ページ404が3、VRoid Studioエクスポート専用23、**未試行または取得条件未確定68**。合計797。
+- NAS保存25、確定非人型4、権利保留65、別hostリダイレクト拒否2、dweb.link恒久ブロック141、**認証待ち534**、商品ページ404が3、VRoid Studioエクスポート専用23、**未試行または取得条件未確定0**。合計797。
 - NAS全体は**ZIP 355・WebP 710**。VRM未圧縮1,434,953,725 bytes、ZIP 750,627,115 bytes、WebP 9,116,306 bytes、ZIP削減率47.6898%。最終 `verify_nas.py` は `ok:true, errors:[]`、前回開始時351件の索引行は不変。
-- BOOTH第22〜24バッチで36商品ページ／60 IDを確認し、代表匿名URL36件がすべてログイン画面へHTTP 302で遷移。60件は認証待ちに移動。匿名経由のVRM取得とNAS追加は0。
-- 正しいチェックポイント: `/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-auth-checkpoint-20261009-batch24.json`。過去のcheckpointと`docs/hermes-bulk-run-results.md`も照合する。
+- BOOTH第22〜24バッチに続き、第25〜29バッチで58商品ページ／72カタログIDを確認し、代表匿名URL58件がすべてログイン画面へHTTP 302で遷移。履歴台帳上の残68件を認証待ちへ移動し、正本JSONで未試行だった72行も全件にアクセス条件を記録した。匿名経由のVRM取得とNAS追加は0。
+- 正しい最新チェックポイント: `/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-auth-checkpoint-20261010-batch29.json`。前処理の照合結果は`unresolved-reconciliation-20261010.json`、完了結果は`unresolved-reconciliation-result-20261010.json`に記録した。正本JSONの旧`official_free_distribution_listed_download_untested`は文書記載の68件より4行多い72行だったため、72行を重複なく処理し、差異を残件集計に明記する。
 
 ## この依頼で優先する作業
 
 1. **状態とNAS保護の確認**。Git `main`と作業ツリー、checkpointの最新バッチ、`findmnt -T /mnt/hdd/vrm`によるNAS実マウントを確認。`python3 scripts/verify_nas.py --nas-root /mnt/hdd/vrm`で**355 ZIP/710 WebP**を照合する。先に索引行と保存済み実体のSHA-256または不変性チェックポイントを退避し、**既存355件は上書き・削除しない**。一時的なNAS I/Oエラー時は復旧根拠を確認し、安易な再試行で重複登録しない。
-2. **残68 IDを厳密に抽出**。`batch24.json`、過去のcheckpoint、正本JSON、NAS `index.jsonl`を突合し、上記797件の9区分を**重複なく再計算**。`data/models.json`の単なる`verification=official_free_distribution_listed_download_untested`は別集計であり、残68件と同一とは仮定しない。68 IDの具体的な一覧、`access_method`、公式`source_url`、同一商品で共有するURL、分類根拠をローカル状態ファイルに残す。ここで既に処理済みのIDが見つかれば二重処理せず差異を修正する。
-3. **68件を配布元別・取得方式別に整理し、一括確認**。まず認証不要かつ作者/公式から正規入手可能なVRM/ZIPに絞る。すでに`booth.pm/users/sign_in`へ302遷移した商品/IDの匿名URLプローブを繰り返さない。BOOTHやVRoid Hubの**認証待ち466件は、ユーザーが許可した認証済みセッションが用意されない限り再取得・再プローブしない**。認証済みセッションが合法的に提供された場合のみ利用規約と利用権限に沿って処理し、Cookie/トークン/パスワードをログやGitHubに記録しない。ログイン回避、購入、有料取得、CAPTCHA突破、権限制限の回避は禁止。
+2. **残68件の処理結果を確定**。`batch24.json`、過去のcheckpoint、正本JSON、NAS `index.jsonl`を突合した。文書台帳の残68件はすべて無料BOOTH配布ページの匿名代表URLを確認し、全件HTTP 302でログインへ遷移した。正本JSONの未試行ラベルは72行だったため、同一商品内の複数VRMを含む72行も追加で確認し、未試行ラベルを0にした。確認結果・URL・ID・理由は`booth-auth-checkpoint-20261010-batch25.json`〜`batch29.json`に残した。
+3. **次回は認証待ちを再プローブしない**。BOOTHやVRoid Hubの**認証待ち534件は、ユーザーが許可した認証済みセッションが用意されない限り再取得・再プローブしない**。認証済みセッションが合法的に提供された場合のみ利用規約と利用権限に沿って処理し、Cookie/トークン/パスワードをログやGitHubに記録しない。ログイン回避、購入、有料取得、CAPTCHA突破、権限制限の回避は禁止。
 4. **429と権利保留は保護**。一度HTTP 429を返したホストへ再要求しない（同じhostの別IDも禁止）。`dweb.link`141件は引き続きネットワーク対象外、別ゲートウェイやミラーによる回避もしない。権利保留65、別hostへのリダイレクト拒否2、404の3件、非人型4、エクスポート専用23は既存根拠が変わらなければ無理に取得しない。過去の権利矛盾を、元ページの「CC0」といった説明だけで解決済みにしない。
 5. **可能な対象だけ実体処理**。GLB/VRM構造・埋込権利情報と作者・SHA-256を照合。外形は頭/胴体/両腕/両脚の有無と3D表示で人型/非人型/保留に分類する。人型に限って全身正面Tポーズ768×1024、顔正面512×512のWebPを生成・目視確認し、`scripts/archive_vrm.py --format zip --confirm-humanoid`でNASへ保存。モデルごとのカタログIDと元VRM・画像SHA-256を関連付ける。**配布ZIP原本、非人型、一時画像などはNASへ永続保存しない**。一件失敗でも次へ進み、状態と理由をチェックポイントに追記する。
-6. **最後まで連続処理・反映**。残68件で処理できる対象が尽きたら、未試行を残さないよう理由別に分類を確定。未知の取得経路を推測して探索し続けない。途中の細かな承認依頼・無限リトライ・重複レビュー・大量テスト追加を避ける。`verify_nas.py`で全件のハッシュとプレビュー寸法、開始時355件の不変性を確認し、`scripts/validate.py`、必要な既存テスト、`git diff --check`を実行。正本と`docs/hermes-bulk-run-results.md`、本再開文書の件数を新事実に合わせて整え、**実体・認証情報・ローカル生ログはpushせず**、変更を限定してcommit/pushする。
+6. **処理完了後の反映**。残68件の実体取得可能性確認は終了し、匿名取得できる候補は0件だった。未知の取得経路を推測して探索し続けない。途中の細かな承認依頼・無限リトライ・重複レビュー・大量テスト追加を避ける。`verify_nas.py`で全件のハッシュとプレビュー寸法、開始時355件の不変性を確認し、`scripts/validate.py`、必要な既存テスト、`git diff --check`を実行。正本と`docs/hermes-bulk-run-results.md`、本再開文書の件数を新事実に合わせて整え、**実体・認証情報・ローカル生ログはpushせず**、変更を限定してcommit/pushする。
 
 ## 最終報告
 

@@ -360,5 +360,16 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - BUSY CREATIONSドナ/ドニー、にくねこちゃん、りこちゃん、Pippa、無題、Nanami、一般的なパンダ、siroihakumaiカジュアル/メイド/Ao/Savi、Shadow Shop Tomboyの12商品ページを確認した。版違い・色違いを含む関連18カタログIDに対応する。
 - 各商品から代表無料ダウンロードリンクを確認し、12 URLを匿名要求したところ、全12件がHTTP 302で`https://booth.pm/users/sign_in`へ遷移した。HTTP 429は発生していない。
 - 認証回避、購入・ログイン、VRM取得・描画・NAS保存は行わず、関連18件を認証待ちへ変更した。
-- 現在の797件棚卸しは、保存25、確定非人型4、権利保留65、別hostリダイレクト拒否2、`dweb.link`恒久ブロック141、認証待ち466、商品ページ404 3、VRoid Studioエクスポート専用23、残り68件。
+- 第24バッチ終了時点の797件棚卸しは、保存25、確定非人型4、権利保留65、別hostリダイレクト拒否2、`dweb.link`恒久ブロック141、認証待ち466、商品ページ404 3、VRoid Studioエクスポート専用23、残り68件だった。
 - チェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-auth-checkpoint-20261009-batch24.json`。
+
+## 2026-10-10 BOOTH未試行候補の匿名取得確認（第25〜29バッチ）
+
+- 第25〜29バッチで58商品ページを確認した。正本JSONの`official_free_distribution_listed_download_untested`は、文書の残68件より4行多い72行だったため、同一商品内の複数VRM・色違いを含む72カタログIDを重複なく対象化した。
+- 商品ページ上の無料VRM/VRM入りZIPと代表無料ダウンロードURLを確認し、58 URLを匿名要求した。全58件がHTTP 302で`https://booth.pm/users/sign_in`へ遷移した。HTTP 429は発生していない。
+- 認証回避、購入・ログイン、CAPTCHA突破、別host・ミラー・プロキシ経由の迂回は行っていない。VRM/GLB実体取得、埋込メタデータ検査、人型判定、WebP生成、NAS保存は0件。
+- 履歴台帳の残68件はすべて認証待ちへ分類し、正本JSONの未試行ラベル72行も全件にアクセス条件を反映した。次回再プローブ対象には戻さない。
+- ToxSamの`toxsam-original-bffd07cc-1201`（The Worm）は既存作者プレビューで手足のない虫状と確認できるため、Pinata gatewayへアクセスせず`creator_index_shape_non_humanoid_not_archived`へ分類した。
+- 現在の797件棚卸しは、保存25、確定非人型4、権利保留65、別hostリダイレクト拒否2、`dweb.link`恒久ブロック141、認証待ち534、商品ページ404 3、VRoid Studioエクスポート専用23、未試行または取得条件未確定0。合計797。
+- NASは355 ZIP・710 WebPから変化なし。第25〜29バッチのチェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-auth-checkpoint-20261010-batch25.json`〜`batch29.json`。照合差異と完了結果はローカル`unresolved-reconciliation-20261010.json`／`unresolved-reconciliation-result-20261010.json`に記録した。
+- HTTP 429発生ホスト、`dweb.link`、既存権利保留65件、認証待ち534件は再アクセスしない。

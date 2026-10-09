@@ -240,3 +240,11 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - 認証回避、購入・ログイン、VRM取得・描画・NAS保存は行わず、関連15件を認証待ちへ変更した。
 - 現在の797件棚卸しは、保存25、確定非人型4、権利保留65、別hostリダイレクト拒否2、`dweb.link`恒久ブロック141、認証待ち165、VRoid Studioエクスポート専用23、残り372件。
 - チェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-auth-checkpoint-20261009-batch9.json`。
+
+## 2026-10-10 BOOTH追加12商品ページの匿名取得確認（第10バッチ）
+
+- 泉淳也、フロウ各版、彩瞳-Ayame-、ほしうさ、ぜろに、VRMアバターN、256穴子、リウォレ、ぷち尚也/ぷち柚希の12商品ページを確認した。無料ダウンロード対象は複数版を含む関連23カタログIDに対応する。
+- 各商品から無料ダウンロードリンクを確認し、VRM/ZIP版が複数ある商品は各代表URLを含めて18 URLを匿名要求したところ、全18件がHTTP 302で`https://booth.pm/users/sign_in`へ遷移した。HTTP 429は発生していない。
+- 認証回避、購入・ログイン、VRM取得・描画・NAS保存は行わず、関連23件を認証待ちへ変更した。
+- 現在の797件棚卸しは、保存25、確定非人型4、権利保留65、別hostリダイレクト拒否2、`dweb.link`恒久ブロック141、認証待ち188、VRoid Studioエクスポート専用23、残り349件。
+- チェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-auth-checkpoint-20261009-batch10.json`。

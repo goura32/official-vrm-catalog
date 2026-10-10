@@ -3871,16 +3871,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/5182153",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "蓮辺_杏1_2配布用_修正版.vrm",
       "license_name": "作者BOOTHの商品説明・利用規約",
       "license_url": "https://booth.pm/ja/items/5182153",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "修正版VRMが0円。VRoid編集用ヘアは有料。現行利用条件の詳細は販売ページ参照。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "蓮辺_杏1_2配布用_修正版.vrmをBOOTH認証済み無料ダウンロードから実取得・検査。GLB v2/VRM 0.x、VRM SHA-256=62115d6fd47065510adb1b77a591a80769e625d7fe0b5f92f3b2bfaafbda7543。埋込author=ぽえる、allowedUserName=Everyone、commercialUssageName=Allow、licenseName=Redistribution_Prohibited。商品規約はアバター改変・商用利用・AI生成作品利用を許可し、当方のモデル/アイテムの再配布と未購入者へのモデル販売を禁止。公開条件と整合。人型Tポーズ/顔を目視後NAS保存。"
     },
     {
       "id": "hirunegoya-lulu",
@@ -3892,16 +3892,16 @@
         "animal",
         "expressions"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/3372986",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "lulu_v10001.vrm",
       "license_name": "作者BOOTHの商品説明・利用規約",
       "license_url": "https://booth.pm/ja/items/3372986",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円の白い猫型VRM。MMD・VRChat版も別途無償配布されるが同一VRMではないため数えない。音素モーフ13種の説明あり。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "lulu_v10001.vrmをBOOTH認証済み無料ダウンロードから実取得・検査。GLB v2/VRM 0.x、VRM SHA-256=a5fa188ca91bbdb275b558961f32d5f1a3f4d14af0d3a73a4b58d9b49d01d6bd。埋込author=睡犬、allowedUserName=Everyone、commercialUssageName=Allow、licenseName=CC_BY。商品は無料VRMを配布し、別途説明されたMMD専用の使用条件はVRMと区別。埋込CC_BYに従う利用（クレジット表記）と矛盾なし。二足の猫型人型Tポーズ/顔を目視後NAS保存。"
     },
     {
       "id": "hokekiyo-iroha-v2",
@@ -3912,16 +3912,16 @@
         "avatar",
         "legacy"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/2349118",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "いろはver2________________VRMモデル_________MMDモデル_.zip",
       "license_name": "作者BOOTHの商品説明・利用規約",
       "license_url": "https://booth.pm/ja/items/2349118",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者が0円ZIPにVRMとMMDモデルを明示。旧VRoid Studio v0.11.1によるVRMで、旧版として互換性確認向け。商用・改変可、モデル再配布禁止。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "いろはVer.2.vrmをBOOTH認証済み無料ダウンロードから実取得・検査。GLB v2/VRM 0.x、VRM SHA-256=a759f3e047fe586ead58c067b629d06d1d65fea34aef54fda4baa2ebbf8a4879。商品規約は商用利用・改変を許可し、再配布/販売禁止、クレジット表記不要。埋込licenseName=OtherのVRoid Hub license URLはEveryone/商用可/改変可/再配布不可だがcredit=necessaryを要求し、公開商品条件の「クレジット不要」と矛盾。権利矛盾のためプレビュー生成・NAS保存なし。ZIP内の追加「geme用 軽めモデル.vrm」は一致する既存catalog IDがなく別IDへ推測割当しないため保存なし。"
     },
     {
       "id": "monotone-diva",
@@ -3939,9 +3939,9 @@
       "distribution_filename": "Diva_ver1.0.zip",
       "license_name": "作者BOOTHの商品説明・利用規約",
       "license_url": "https://booth.pm/ja/items/5808954",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者が0円ZIPにVRM/UnityPackage/FBX等を収録と明記。VRM 0.x（1.0非対応）を明示。VN3利用規約に従う。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "Diva/Diva VRM.vrmをBOOTH認証済み無料ダウンロードから実取得・検査。GLB v2/VRM 0.x、VRM SHA-256=8ebfb6be7bf89d07fcafbfafa46843b2141796d5be5af57d927b9c789cd304bb。作者VN3規約は個人の営利/非営利利用、アバター利用とソーシャルプラットフォームへのアップロードを許可し、配信/映像は改変版を原本と明確に区別する条件。埋込allowedUserName=OnlyAuthor、commercialUssageName=Disallow、Redistribution_Prohibitedで公開許可と矛盾。権利矛盾のためプレビュー生成・NAS保存なし。"
     },
     {
       "id": "declab-mira",
@@ -3959,9 +3959,9 @@
       "distribution_filename": "Mira_3Dmodel.zip",
       "license_name": "作者BOOTHの商品説明・利用規約",
       "license_url": "https://deci-mal.github.io/-VN3-License_Mira/",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円ZIPにVRM0.0とVRChat用UnityPackage。利用条件は作者VN3ライセンスPDF等で確認。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "Mira_3Dmodel/Mira.vrmをBOOTH認証済み無料ダウンロードから実取得・検査。GLB v2/VRM 0.x、VRM SHA-256=71a4a6fe38f0d4b33a3e6ce228c1fed01beda59fdaf765ed7c6e133ca20d85f2。作者VN3規約は個人/法人の営利・非営利利用、アバター利用、改変、映像/配信を許可し、未改変再配布は禁止。埋込allowedUserName=OnlyAuthor、commercialUssageName=Disallow、Redistribution_Prohibitedが個人/法人利用許可と矛盾。権利矛盾のためプレビュー生成・NAS保存なし。"
     },
     {
       "id": "romanticspica-dark-ice-vrm1",

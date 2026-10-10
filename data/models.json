@@ -2071,16 +2071,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/6199261",
       "download_url": null,
       "access_method": "booth_free_download",
       "license_name": "作者・公式BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6199261",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
       "distribution_filename": "sore_set1.zip",
-      "notes": "0円の作者配布ZIPにPMX×7とVRMを同梱と明記。無料版以外の800円支援版は対象外。商用利用・再配布禁止。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "0円の作者配布ZIPにPMX×7とVRMを同梱。無料版以外の800円支援版は対象外。商用利用・再配布禁止。2026-10-10に正規無料ZIPからsora_V3.vrmを抽出し、GLB v2/VRM 0.x、埋込author=ISAO、commercialUssageName=Disallow、licenseName=Redistribution_Prohibited、VRM SHA-256=3a14a837ce549af88e7517067e528755f1a34d9930166f076c531531954697ebを確認。人型外形、正面Tポーズ768x1024、顔512x512を目視確認し、NASへ保存。再配布しない。"
     },
     {
       "id": "asahikawa-yukara-matsumotokun",
@@ -2113,16 +2113,16 @@
         "mascot",
         "lightweight"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/6084628",
       "download_url": null,
       "access_method": "booth_free_download",
       "license_name": "作者・公式BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6084628",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
+      "verification": "official_binary_inspected_non_humanoid_not_archived",
+      "checked_at": "2026-10-10",
       "distribution_filename": "フッキーVRM.zip",
-      "notes": "公式マスコットの0円VRM版ZIP（144KB）。VRChat用別ZIPや有料のテクスチャ応援版と区別。再配布、自作発言、政治・宗教用途など禁止。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "公式マスコットの0円VRM版ZIP。フッキー1.vrmを実取得・検査し、GLB v2/VRM 0.x、埋込author=志熊ルニ、commercialUssageName=Allow、licenseName=Redistribution_Prohibited、VRM SHA-256=0761134c17b911d0d5e2689e9e20d208edc7309a29268c366cad0774648c88e0を確認。全身画像は平たい箱状マスコットで、頭・胴体・両腕・両脚の人型外形を満たさないためNAS保存しない。"
     },
     {
       "id": "molz-avatar-sample",
@@ -2153,16 +2153,16 @@
         "avatar",
         "perfect-sync"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/4524770",
       "download_url": null,
       "access_method": "booth_free_download",
       "license_name": "作者・公式BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4524770",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
       "distribution_filename": "vrd000_papeco_ver3.zip",
-      "notes": "公式ショップの0円配布ZIPにVRMと.vroid・テクスチャ・PSDを収録。名称変更・個人活動利用の制限を含む独自規約。VRM Hubにも公式掲載。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "公式ショップの0円配布ZIPにVRMと.vroid・テクスチャ・PSDを収録。名称変更・個人活動利用の制限を含む独自規約。2026-10-10にvrd000_papeco_ver2_ps.vrmを抽出し、GLB v2/VRM 0.x、埋込author=naaro、commercialUssageName=Disallow、licenseName=Redistribution_Prohibited、VRM SHA-256=4c54d759d853e55780e7e14d38355760404d8ce78ac28797660e3c719a843788を確認。商品独自規約と埋込権利条件の対応を確定できないため権利保留。プレビュー生成・NAS保存は行わない。"
     },
     {
       "id": "enrai-tsubame-official-vrm",

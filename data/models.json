@@ -2955,9 +2955,9 @@
       "distribution_filename": "サキ_ver.2.vrm",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/6550273",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円VRMを実取得・検査。GLB v2/VRM 0.x、埋込author=avalon、allowedUserName=OnlyAuthor、commercialUssageName=Disallow、licenseName=Redistribution_Prohibited、VRM SHA-256=c61197d0d712b7ecc6b371c10b208d0c25b5fec7c9c6aa442c06f53646f43deb。商品説明は無料版を一般利用者向けアバターとして示し、商用利用も許可する一方、埋込値は作者のみ・商用不可のため権利矛盾として保留。プレビュー/NAS保存なし。"
     },
     {
       "id": "shopperch-irene",
@@ -2974,9 +2974,9 @@
       "distribution_filename": "アイリーン.vrm",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/6865593",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円VRMを実取得・検査。GLB v2/VRM 0.x、埋込author=avalon、allowedUserName=OnlyAuthor、commercialUssageName=Disallow、licenseName=Redistribution_Prohibited、VRM SHA-256=d826f02fee689ae970de5f5fb3e9abcc9dcbc4616683ccb0f78def7f958fe285。商品説明は無料版アバターの商用利用を許可する一方、埋込値は作者のみ・商用不可のため権利矛盾として保留。プレビュー/NAS保存なし。"
     },
     {
       "id": "shopperch-hisui-v15",
@@ -2993,9 +2993,9 @@
       "distribution_filename": "ヒスイ_ver.1.5.vrm",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/6649467",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円VRMを実取得・検査。GLB v2/VRM 0.x、埋込author=avalon、allowedUserName=OnlyAuthor、commercialUssageName=Disallow、licenseName=Redistribution_Prohibited、VRM SHA-256=d54d06313fa40c6c8ec23bff8dbfdb6c493b90c5b870ffaced5cdf3b16a9b894。商品説明は無料版アバターの商用利用を許可する一方、埋込値は作者のみ・商用不可のため権利矛盾として保留。プレビュー/NAS保存なし。"
     },
     {
       "id": "shopperch-hiiragi",
@@ -3012,9 +3012,9 @@
       "distribution_filename": "ヒイラギ.vrm",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/7105378",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円VRMを実取得・検査。GLB v2/VRM 0.x、埋込author=avalon、allowedUserName=OnlyAuthor、commercialUssageName=Disallow、licenseName=Redistribution_Prohibited、VRM SHA-256=59e1bb5b427954ca2e05467e634193466b08b4e0c4066e36f9b4862a446e13ed。商品説明は無料版アバターの商用利用を許可する一方、埋込値は作者のみ・商用不可のため権利矛盾として保留。プレビュー/NAS保存なし。"
     },
     {
       "id": "shopperch-suzuna",
@@ -3031,9 +3031,9 @@
       "distribution_filename": "スズナ.vrm",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/6740762",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円VRMを実取得・検査。GLB v2/VRM 0.x、埋込author=avalon、allowedUserName=OnlyAuthor、commercialUssageName=Disallow、licenseName=Redistribution_Prohibited、VRM SHA-256=d3e7f73b68be001372f7393ceb9e56d78756154a810d01bb454b55cc174f0f89。商品説明は無料版アバターの商用利用を許可する一方、埋込値は作者のみ・商用不可のため権利矛盾として保留。プレビュー/NAS保存なし。"
     },
     {
       "id": "shopperch-metis",

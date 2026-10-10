@@ -466,3 +466,11 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - 現在の累計は商品ページ52、カタログID73件、物理VRM78件、検査78件、NAS新規44件、非人型5件、権利矛盾22件。NASは399 ZIP・798 WebP、未圧縮VRM 2,308,794,341 bytes、ZIP 1,234,050,813 bytes、WebP 11,163,116 bytes、削減1,074,743,528 bytes（46.55%）。`verify_nas.py`は`ok:true`、`errors:[]`。
 - 797件の現行内訳はNAS保存69、確定非人型6、作者索引由来非人型1、埋込権利矛盾52、許諾未確認33、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち445、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2。合計797、未分類0。
 - 旧355件の索引を今回の44新規保存IDから除外したSHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`でbaselineと一致。
+
+## 2026-10-10 BOOTH認証済み追加バッチ14
+
+- サキ ver.2、アイリーン、ヒスイ ver.1.5、ヒイラギ、スズナの5商品ページから、無料版VRMを各1件取得・検査した。配布バイト合計78,223,396 bytes。商品説明は商用利用とアバター利用を許可する一方、全5 VRMは`allowedUserName=OnlyAuthor`/`commercialUssageName=Disallow`で権利条件が矛盾したため、5件とも保留。プレビュー生成・NAS保存は行わず、HTTP 429は0件。
+- バッチ14は5商品ページ、5ダウンロード試行、5カタログID、5 VRM検査、NAS純増0件、非人型0件、権利保留5件。詳細チェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261010-14.json`。
+- 累計は商品ページ57、カタログID78件、物理VRM83件、検査83件、NAS新規44件、非人型5件、権利矛盾27件。NASは399 ZIP・798 WebP、未圧縮VRM 2,308,794,341 bytes、ZIP 1,234,050,813 bytes、WebP 11,163,116 bytes、削減1,074,743,528 bytes（46.55%）。`verify_nas.py`は`ok:true`、`errors:[]`。
+- 797件の現行内訳はNAS保存69、確定非人型6、作者索引由来非人型1、埋込権利矛盾57、許諾未確認33、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち440、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2。合計797、未分類0。
+- 旧355件の索引を今回の44新規保存IDから除外したSHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`でbaselineと一致。

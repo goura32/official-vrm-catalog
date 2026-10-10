@@ -4106,16 +4106,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/5123832",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "かぼちゃん.vrm",
       "license_name": "作者BOOTHの商品説明・利用規約",
       "license_url": "https://booth.pm/ja/items/5123832",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者本人がVRM単体を0円配布。VRoid編集ファイルが付く支援版は有料。商用・改変可、未改変モデルの再配布・販売は禁止。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "BOOTHの表示済み無料ダウンロードから取得。VRM 0.x、SHA-256=30805d5340969b332fd4dce5d88f144d15f6bc6fdbea5389c1b56cb14d489d20。埋込allowedUser=Everyone、CC_BY_SA、commercial=Allow、sexual/violent=Disallow。商品条件は改変・商用利用可、原型の配布・販売禁止。人型Tポーズ・顔を目視確認。原本はNASローカル保管に限り、外部再配布しない。"
     },
     {
       "id": "miukou-sleepy-silver",
@@ -4126,16 +4126,16 @@
         "avatar",
         "chibi"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/4065831",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "爆睡ガール_シルバー_.vrm",
       "license_name": "作者BOOTHの商品説明・利用規約",
       "license_url": "https://booth.pm/ja/items/4065831",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "オリジナル無料VRM。シルバー色・低身長。別髪色バリエーションは有料で対象外。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "BOOTHの表示済み無料ダウンロードから取得・検査。VRM 0.x、SHA-256=ac298d1333c0fa4b540820b7418e1182966af3c5746f29e9116ecdc5e167ba3b。埋込allowedUserName=OnlyAuthorとOther permission URLのallowed_to_use_user=everyoneが不整合で、商品説明の利用許諾とも一致を確認できないため権利保留。プレビュー/NAS保存なし、一時VRMを削除。"
     },
     {
       "id": "teoteome-unisex-boy",
@@ -4250,9 +4250,9 @@
       "distribution_filename": "172972167827481004.vrm",
       "license_name": "作者BOOTHの商品説明・利用規約",
       "license_url": "https://booth.pm/ja/items/8012631",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者がVRM 0.0形式で完全無料配布。VRMAは別ファイルなのでVRMカタログへ含めない。VRoid規約に従う。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "BOOTHの表示済み無料ダウンロードから掲載名172972167827481004.vrmのみ取得（b001.vrma/JPGは対象外）。VRM 0.x、SHA-256=d82da83ec34314eb29aad6359da35150f5cf0aca55eff42ff8c095d171cc91dc。埋込Other permission URLは一般利用・商用・改変・再配布を許可し、商品説明のVRoid規約遵守と整合。人型Tポーズ・顔を目視確認しNASへ単体ZIP保存。"
     },
     {
       "id": "kado-flow-flat",
@@ -4452,9 +4452,9 @@
       "distribution_filename": "AyameVRM2.0.1.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/3126282",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者公式で¥0のVRM専用ZIPを配布。Ver.2と旧Ver.1は互換性がないと明記。商品版番号はVRM仕様バージョンではないためvrm_versionは未確認。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_package_inspected_model_mapping_ambiguous_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "BOOTHの無料VRMセットv2 ZIPを取得して利用規約PDFと内容一覧を確認。1パッケージにVRM12種（A/B/C通常版・シンプル版・各軽量版）が含まれる一方、本カタログIDはパッケージ1件のみで個別対応IDがないため割当てを推測せず保留。利用規約は個人利用可、未改変再配布不可、改変配布は規約順守で可。ZIP・規約抽出物は検査後削除。"
     },
     {
       "id": "watanosoko-ayame-v1",
@@ -4473,9 +4473,9 @@
       "distribution_filename": "AyameVRM1.0.1.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/3126282",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者公式で¥0のVRM専用ZIPを配布。Ver.2と旧Ver.1は互換性がないと明記。商品版番号はVRM仕様バージョンではないためvrm_versionは未確認。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_product_page_model_mapping_ambiguous_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "BOOTH商品ページはVRMセットv1に通常版/Cluster版のVRM2種を掲載。1パッケージIDに対する個別VRMの対応付けが不明なため取得せず保留。v1の規約本文とバイナリは未取得・未検査。"
     },
     {
       "id": "usamimiten-hoshiusa-black",
@@ -4555,9 +4555,9 @@
       "distribution_filename": "VRMアバター_N_.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6315693",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者が0円のVRM 0.xモデルと明記。人物名変更・商用動画等は可能、モデルの改変・再配布は禁止。更新版1.1。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "BOOTH無料ZIP内の単独VRM N02.vrmを取得。VRM 0.x、SHA-256=78ef3af14e94098bd7f75cd0fd4df20348c8a45b393d369e73bfa05f7b2648c8。埋込Redistribution_Prohibitedは商品規約の再配布禁止と整合。商品条件に従い改変せず、外部再配布せずNASローカル保管。人型Tポーズ・顔を目視確認."
     },
     {
       "id": "enufshi-anago",

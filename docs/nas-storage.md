@@ -105,10 +105,10 @@ python3 -m unittest discover -s tests -v
 python3 scripts/verify_nas.py --nas-root /mnt/hdd/vrm
 ```
 
-`ok: true`かつ`errors: []`であることをNAS処理の完了条件とする。**実行するまで検査済みと記載しない**。実機作業の継続指示は[Hermes Agent BOOTH第29バッチ後の一括プロンプト](hermes-bulk-resume.md)へ集約し、保存済みIDと権利保留IDを再処理しない。
+`ok: true`かつ`errors: []`であることをNAS処理の完了条件とする。**実行するまで検査済みと記載しない**。実機作業の継続指示は[Hermes Agent認証済みBOOTH一括継続指示](hermes-bulk-resume.md)へ集約し、保存済みIDと権利保留IDを再処理しない。
 
 ## 実行状況（2026-10-10更新）
 
-- **保存実績**：ZIP Deflate level 6で**457モデル・WebP 914枚**。未圧縮VRM 3,409,590,385 bytes、ZIP 1,868,102,877 bytes、WebP 14,012,360 bytes。ZIPによる削減率45.2103%。2026-10-10の`verify_nas.py`は`ok:true`、`errors:[]`。
-- **現在の残件**：R1/R2/R3以外の797件は、NAS保存127、実バイナリ非人型7＋作者索引由来非人型1、埋込権利矛盾93、許諾未確認45、モデル対応未確定5、別hostリダイレクト拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち328、VRoid Hub認証待ち16、公式ページ認証未確認1、商品ページ404が3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2に分類。合計797。BOOTH認証待ち328件は匿名再プローブ対象に戻さない。
+- **保存実績**：ZIP Deflate level 6で**460モデル・WebP 920枚**。未圧縮VRM 3,457,921,501 bytes、ZIP 1,896,379,598 bytes、WebP 14,142,338 bytes。ZIPによる削減率45.1584%。2026-10-10の`verify_nas.py`は`ok:true`、`errors:[]`。
+- **現在の残件**：R1/R2/R3以外の797件は、NAS保存130、実バイナリ非人型7＋作者索引由来非人型1、埋込権利矛盾94、許諾未確認45、モデル対応未確定7、別hostリダイレクト拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち322、VRoid Hub認証待ち16、公式ページ認証未確認1、商品ページ404が3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2に分類。合計797。BOOTH認証待ち322件は匿名再プローブ対象に戻さない。
 - **保護方針**：当初の355件のNAS保存物と索引行を保護し、他の正常な既存データも削除・上書きしない。355件の保護対象行SHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`でbaselineと一致する。GitHub Actions・RDCは使わない。

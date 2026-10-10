@@ -2609,9 +2609,9 @@
       "distribution_filename": "butler_chan.vrm",
       "license_name": "作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5980433",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円のVRM 0.0ファイル（約79.2cm）。同VRMを含む別無料ZIPもあるがモデルは重複登録しない。商用可・改変可、再配布禁止。 実ダウンロード・実ファイルメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "無料VRM 0.0を正規BOOTH操作で取得。GLB v2/VRM 0.x、埋込author=A.P.、allowedUserName=Everyone、commercialUssageName=Allow、licenseName=Redistribution_Prohibited、VRM SHA-256=5ddd1f72603a33be9d25b618f373f9bea8a4d82a167bb7ef972343bab4110cc5。全身人型外形、正面Tポーズ768x1024、顔512x512を目視確認しNAS保存。商品条件に従い商用利用可・改変可、再配布禁止を保持する。"
     },
     {
       "id": "sokkachuu-shiro-vrm1",
@@ -2872,16 +2872,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/3124874",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "やんじゃった.zip",
-      "license_name": "作者BOOTH商品ページの利用条件",
+      "license_name": "VRM埋込CC0",
       "license_url": "https://booth.pm/ja/items/3124874",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円の作者商品はVRM形式モデルとして掲載。ZIP内の実ファイル名・利用権限の詳細は未確認。 実ダウンロード・実ファイルメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "無料ZIPから単体VRMを安全に抽出し、GLB v2/VRM 0.x、埋込author=うぱ、allowedUserName=Everyone、commercialUssageName=Allow、licenseName=CC0、VRM SHA-256=42211ec3ae07a3ac28e3ed4c59e251fca28d04dc18b07965e6f878a876506a76を確認。商品説明に追加制限は見当たらず、埋込CC0と矛盾なし。全身人型外形・正面Tポーズ・顔を目視確認してNAS保存。ZIP内の他編集資材は保管しない。"
     },
     {
       "id": "shopperch-kotoha",
@@ -2898,9 +2898,9 @@
       "distribution_filename": "コトハ.vrm",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/8580892",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円の無料VRM版を正規BOOTH操作で取得。GLB v2/VRM 1.0、埋込authors=avalon、avatarPermission=everyone、commercialUsage=corporation、creditNotation=required、allowRedistribution=false、modification=allowModification、VRM SHA-256=53b31259f10bd742270dea0f1dceb31538cf29b522d2573ebb1b3554cae5ebef。個人/法人商用・改変可、再配布禁止の公開条件と埋込メタデータに矛盾なし。クレジット条件を保持し、Tポーズ・顔を目視確認してNAS保存。無料XAvatarや有料Vroid支援版は取得しない。"
     },
     {
       "id": "shopperch-kohaku",
@@ -2917,9 +2917,9 @@
       "distribution_filename": "コハク.vrm",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/7704964",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円の無料VRM版を実取得・検査。GLB v2/VRM 1.0、埋込authors=avalon、avatarPermission=onlyAuthor、commercialUsage=personalProfit、creditNotation=required、allowRedistribution=false、modification=allowModification、VRM SHA-256=815490ef34ad2cc2b4c2dcf17601cd0fad67d576276cbb6df51d6de116120c5f。商品ページはアバター利用・個人/法人商用を許可する一方、メタデータのonlyAuthor/personalProfitと整合しないため権利保留。プレビュー/NAS保存なし。"
     },
     {
       "id": "shopperch-elaine",
@@ -2936,9 +2936,9 @@
       "distribution_filename": "エレイン.vrm",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/8078128",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円の無料VRM版を正規BOOTH操作で取得。GLB v2/VRM 1.0、埋込authors=avalon、avatarPermission=everyone、commercialUsage=corporation、creditNotation=required、allowRedistribution=false、modification=allowModification、VRM SHA-256=59b7613d8e4385517dfe09ca22a41c660e69b736d30a0120e9e2b2fe264065fc。公開条件とメタデータに矛盾なし。クレジット条件を保持し、全身人型外形・Tポーズ・顔を目視確認してNAS保存。無料XAvatarや有料Vroid支援版は取得しない。"
     },
     {
       "id": "shopperch-saki-v2",

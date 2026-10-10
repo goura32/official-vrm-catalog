@@ -2736,16 +2736,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/2593934",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "めいどちゃん.zip",
       "license_name": "作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/2593934",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円ZIPに通常・黒衣装などVRM複数種を収録。改変・商用可、原本/加工後の再配布・販売は禁止。ZIP内のファイル名・VRMバージョンは未検証。 実ダウンロード・実ファイルメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円ZIPに通常・黒衣装などVRM複数種を収録。改変・商用可、原本/加工後の再配布・販売は禁止。2026-10-10にログイン済みBOOTHの正規無料ZIPからめいどちゃん1.1通常.vrmを抽出し、GLB v2/VRM 0.x、埋込author=ふたば、commercialUssageName=Allow、licenseName=Redistribution_Prohibited、VRM SHA-256=1d20871022b824a6c2d904add8080a74ba77943cbdb3de59950c7c220acf7ec8を確認。人型外形、正面Tポーズ768x1024、顔512x512を目視確認し、NASへ保存した。再配布しない。"
     },
     {
       "id": "customlive2d-maid-black",
@@ -2755,16 +2755,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/2593934",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "めいどちゃん.zip",
       "license_name": "作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/2593934",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円ZIPに通常・黒衣装などVRM複数種を収録。改変・商用可、原本/加工後の再配布・販売は禁止。ZIP内のファイル名・VRMバージョンは未検証。 実ダウンロード・実ファイルメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円ZIPに通常・黒衣装などVRM複数種を収録。改変・商用可、原本/加工後の再配布・販売は禁止。2026-10-10にログイン済みBOOTHの正規無料ZIPからめいどちゃん1.1黒.vrmを抽出し、GLB v2/VRM 0.x、埋込author=ふたば、commercialUssageName=Allow、licenseName=Redistribution_Prohibited、VRM SHA-256=1444ddd889e8d24e5215155242fd36378a7e32150afa034c806a39fe4a0c9af5を確認。人型外形、正面Tポーズ768x1024、顔512x512を目視確認し、NASへ保存した。再配布しない。"
     },
     {
       "id": "kuranmo-mob-mob1",
@@ -2775,16 +2775,16 @@
         "avatar",
         "dark-silhouette"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/4136312",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "vrm-mobu-f.zip",
       "license_name": "作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4136312",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円ZIPにVRMのモブ2体を収録。改変・配信商用可、再配布・転載禁止。衣装違いの有料版は含めない。 実ダウンロード・実ファイルメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円ZIPからモブ1.vrmを実取得・検査。GLB v2/VRM 0.x、埋込author=くらんも、commercialUssageName=Disallow、licenseName=Redistribution_Prohibited、VRM SHA-256=20981902954d305eca6460cfdf1e0a51f11746d549ea0c977eaf6b6a99605641。商品ページは配信・動画の商用利用可と記載する一方、埋込値は商用利用不可のため権利矛盾として保留。人型シルエットは確認したがプレビュー/NAS保存なし。"
     },
     {
       "id": "kuranmo-mob-mob2",
@@ -2795,16 +2795,16 @@
         "avatar",
         "dark-silhouette"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/4136312",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "vrm-mobu-f.zip",
       "license_name": "作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4136312",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円ZIPにVRMのモブ2体を収録。改変・配信商用可、再配布・転載禁止。衣装違いの有料版は含めない。 実ダウンロード・実ファイルメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円ZIPからモブ2.vrmを実取得・検査。GLB v2/VRM 0.x、埋込author=くらんも、commercialUssageName=Disallow、licenseName=Redistribution_Prohibited、VRM SHA-256=8b7e1c9864a89fd0bad39a74e82368ede3ad26a237e9c23535622191acfb0449。商品ページは配信・動画の商用利用可と記載する一方、埋込値は商用利用不可のため権利矛盾として保留。人型シルエットは確認したがプレビュー/NAS保存なし。"
     },
     {
       "id": "nekko-aidin",
@@ -2814,16 +2814,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/3707650",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "00_Aidin1.1.zip",
       "license_name": "作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/3707650",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円ZIPにVRM/VRoid/READMEを同梱。パーツ取り・改変・商用可、再配布・再販・自作発言は禁止。 実ダウンロード・実ファイルメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円ZIPからAIdin1.1.vrmを実取得・検査。GLB v2/VRM 0.x、埋込author=yurika_011、allowedUserName=Everyone、commercialUssageName=Allow、licenseName=Redistribution_Prohibited、VRM SHA-256=518a752cb9f460187f532490884c81f1dcc20c709df38d0eda92059edec74684。人型外形、正面Tポーズと顔を目視確認しNAS保存。改変・商用利用可、再配布・再販・自作発言禁止を保持する。"
     },
     {
       "id": "sakurabido-mayuki",
@@ -2833,16 +2833,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/4825706",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "さくらリクオ_フリーアバター_まゆき.zip",
       "license_name": "作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4825706",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円ZIPにVRMとVRoidを同梱。アバター/個人商用可、VTuber利用不可。法人利用はクレジット必須、再配布禁止。 実ダウンロード・実ファイルメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円ZIPからフリーアバター_まゆき.vrmを実取得・検査。GLB v2/VRM 0.x、埋込author=さくらリクオ、allowedUserName=Everyone、commercialUssageName=Allow、licenseName=Redistribution_Prohibited、VRM SHA-256=9e02153013748507a06e2015ae66712e0e330068a9b4563ec8875e8596a5251c。人型外形、正面Tポーズと顔を目視確認しNAS保存。アバター利用・個人商用利用可、VTuber利用不可、法人利用はクレジット必須、再配布不可。"
     },
     {
       "id": "hiraeth-dalji",
@@ -2853,16 +2853,16 @@
         "avatar",
         "elf"
       ],
-      "vrm_version": null,
+      "vrm_version": "1.0",
       "source_url": "https://booth.pm/ja/items/4898876",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "Dalji_-_CE1_FREE.zip",
       "license_name": "作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4898876",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円ZIPにVRMとVRoidカスタムアイテム、テクスチャを同梱。細かな利用条件は作者の商品ページで確認する。 実ダウンロード・実ファイルメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "無料ZIPからDalji.vrmを実取得・検査。GLB v2/VRM 1.0、埋込authors=Hireath Create、avatarPermission=onlyAuthor、commercialUsage=corporation、creditNotation=required、allowRedistribution=false、VRM SHA-256=754cbdc2afe7233b3197e1b934e3692d84d5dc4bc6d0e3cfe2c07af2e6c52c1f。商品説明はVRChat/VRoidでの利用を案内する一方、VRMメタデータは作者のみアバター利用可とするため保留。README記載の追加許諾範囲ページは確認できず、権利矛盾未解消としてNAS保存物を除去。"
     },
     {
       "id": "teoteome-yanjatta",
@@ -6170,16 +6170,16 @@
         "avatar",
         "body-variant"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/2593934",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "めいどちゃん.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/2593934",
-      "verification": "official_free_download_auth_required",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
       "checked_at": "2026-10-10",
-      "notes": "既登録の通常・黒服版と同じ無料ZIPに第三の「めいどちゃん裸.VRM(髪アクセ付)」が公式記載されているため追加。VRM実パスは未検証。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "既登録の通常・黒服版と同じ無料ZIPに第三の「めいどちゃん裸.VRM(髪アクセ付)」を収録。改変・商用可、原本/加工後の再配布・販売は禁止。2026-10-10に正規無料ZIPからめいどちゃん1.1裸.vrmを抽出し、GLB v2/VRM 0.x、埋込author=ふたば、commercialUssageName=Allow、licenseName=Redistribution_Prohibited、VRM SHA-256=a5ec23eed3bb479a11b06ae929579e5b23d249c6803a49ed4cd237240c162649を確認。人型外形、正面Tポーズ768x1024、顔512x512を目視確認し、NASへ保存した。再配布しない。"
     },
     {
       "id": "teoteome-young-man-uniform",

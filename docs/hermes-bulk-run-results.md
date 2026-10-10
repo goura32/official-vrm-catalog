@@ -439,3 +439,12 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - 現在の累計は、商品ページ37、カタログID55件、物理VRM60件、VRM検査60件、NAS新規34件、非人型5件、権利矛盾14件。NASは389 ZIP・778 WebP、未圧縮VRM 2,152,217,193 bytes、ZIP 1,132,888,272 bytes、削減1,019,328,921 bytes（47.3618%）、WebP 10,725,714 bytes。`verify_nas.py` は`ok:true`、`errors:[]`。
 - 797件の現行内訳は、NAS保存59、確定非人型6、作者索引由来非人型1、埋込権利矛盾44、許諾未確認33、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち463、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2。合計797、未分類0。
 - 旧355件の索引を今回の34新規保存IDから除外したSHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`でbaselineと一致。
+
+## 2026-10-10 BOOTH認証済み追加バッチ11
+
+- 「めいどちゃん」、Dalji、モブ、Aidin、まゆきの5商品ページを、ログイン済みBOOTHの正規無料ダウンロードから処理した。5 ZIPから8件の実VRMを抽出し、全8件を検査した。取得ZIP合計136,578,408 bytes、VRM合計115,614,636 bytes。
+- 人型外形を確認した。めいどちゃん通常・黒・素体、Aidin、まゆきの5 IDをNAS保存した。DaljiはVRM 1.0の`avatarPermission=onlyAuthor`と商品説明のアバター利用案内を整合できず権利保留に変更し、今回作成されたZIPとプレビュー3点をNASから除去した。モブ1・モブ2は商品ページの配信商用利用可と、各VRMの`commercialUssageName=Disallow`が矛盾するため権利保留。HTTP 429は0件。
+- バッチ11の内訳は5商品ページ、5ダウンロード試行、8カタログID、8実VRM検査、NAS純増5件、非人型0件、権利矛盾保留3件。詳細チェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261010-11.json`。
+- 現在の累計は、商品ページ42、カタログID63件、物理VRM68件、VRM検査68件、NAS新規39件、非人型5件、権利矛盾17件。NASは394 ZIP・788 WebP、未圧縮VRM 2,226,155,585 bytes、ZIP 1,184,838,694 bytes、WebP 10,916,702 bytes、削減1,041,316,891 bytes（46.7765%）。`verify_nas.py`は`ok:true`、`errors:[]`。
+- 797件の現行内訳は、NAS保存64、確定非人型6、作者索引由来非人型1、埋込権利矛盾47、許諾未確認33、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち455、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2。合計797、未分類0。
+- 旧355件の索引を今回の39新規保存IDから除外したSHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`でbaselineと一致。

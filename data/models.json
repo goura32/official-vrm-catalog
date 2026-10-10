@@ -3373,16 +3373,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/4036136",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "Romandi_3D.zip",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/4036136",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円ZIPにVRM・FBX・テクスチャを収録。個人商用・改変可、原本/改変版の再配布・販売禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円ZIPからVRM/Romandi.vrmを実取得・検査。GLB v2/VRM 0.x、埋込allowedUserName=OnlyAuthor、commercialUssageName=Disallow、licenseName=Redistribution_Prohibited、VRM SHA-256=be7fa332f7b8b57d347f5c326feeabbc4080baf825899bbcd2647c312e9b8978。商品/同梱規約は利用者に禁止用途以外の商用利用を許可する一方、埋込値は作者のみ・商用不可のため権利矛盾として保留。プレビュー/NAS保存なし。"
     },
     {
       "id": "3dmodelharuka-sakura",
@@ -3393,16 +3393,16 @@
         "avatar",
         "expressions"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/4592729",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "SAKURA.zip",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/4592729",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円ZIPにSAKURA.vrmとVRChat用Unitypackageを同梱。個人・法人の商用利用と改変可、再配布禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円ZIPからSAKURA/SAKURA.vrmを実取得・検査。GLB v2/VRM 0.x、埋込allowedUserName=OnlyAuthor、commercialUssageName=Disallow、licenseName=Redistribution_Prohibited、VRM SHA-256=602e74103fca546edce518377358b7952aa109665b3dc91dd5b07bafdff7e1aa。商品規約は個人/法人商用利用と改変を許可する一方、埋込値は作者のみ・商用不可のため権利矛盾として保留。プレビュー/NAS保存なし。"
     },
     {
       "id": "unreally-yukine-riu",
@@ -3412,16 +3412,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/8519166",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "雪音りう3D.zip",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/8519166",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円のVRMモデル配布ZIP。無料公開ページとVRM形式を確認。ZIP内部・細かな権利条件は実取得時に確認。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円ZIPからyukineriu/yukineriu.vrmを実取得・検査。GLB v2/VRM 0.x、埋込allowedUserName=Everyone、commercialUssageName=Disallow、licenseName=Redistribution_Prohibited、VRM SHA-256=d3380d5a113583fa1ad49f0f025ea93c39f04b56d368371b1b6d55f9dae1fb60。モデル規約は公式規約が認める動画/配信収益化を許可し、公式規約は個人/法人商用利用を認める一方、埋込値は商用利用不可のため権利矛盾として保留。プレビュー/NAS保存なし。"
     },
     {
       "id": "niumu-miyamaru",
@@ -3432,16 +3432,16 @@
         "avatar",
         "perfect-sync"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/6867490",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "みやまる_Miyamaru_Niumu.zip",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/6867490",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者が0円で公開するVRMモデル。Perfect Sync対応と記載。商用・法人利用NG、改変可、再配布NG。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円ZIPからみやまる_Miyamaru Niumu/みやまる_Miyamaru.vrmを取得・検査。GLB v2/VRM 0.x、埋込allowedUserName=Everyone、commercialUssageName=Disallow、licenseName=Other、otherLicenseUrlは個人/法人商用・再配布不可、改変可、クレジット不要を示すVRoid Hub条件、VRM SHA-256=54f28785bf4717fe27ea038ddfed43a2f71afc02d01acacc197ed6929b9ff449。商品ページ・同梱readmeの法人/個人商用不可、再配布不可、改変可、クレジット不要と整合。人型Tポーズ・顔を確認しNASへ保存。"
     },
     {
       "id": "dollme-002",
@@ -3459,9 +3459,9 @@
       "distribution_filename": "Dollme_002.zip",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/5173073",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "期間限定無料配布（現在の商品ページは0円表示）。ZIPにVRMを含むと作者明記し、VRM1.0ではないと明記。個人商用・改変可、原本/改変版の再配布禁止。無料配布終了の可能性がある。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "期間限定0円ZIPからDollme 002.vrmを実取得・検査。GLB v2/VRM 0.x、埋込allowedUserName=OnlyAuthor、commercialUssageName=Disallow、licenseName=Redistribution_Prohibited、VRM SHA-256=588f903e3b917f85c68a71b10961f0ab68bd8afa7791fead3427e7fdfe5e057c。商品ページは無料取得後にメタバースのアバター利用を案内し改変可とする一方、埋込値は作者のみのアバター利用に限定するため権利矛盾として保留。プレビュー/NAS保存なし。"
     },
     {
       "id": "dollme-006",

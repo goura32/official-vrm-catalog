@@ -492,3 +492,12 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - 累計は商品ページ66、カタログID91件、物理VRM102件、検査102件、NAS新規52件、非人型6件、権利矛盾30件、権利未確認1件。NASは407 ZIP・814 WebP、未圧縮VRM 2,473,562,333 bytes、ZIP 1,324,978,264 bytes、WebP 11,552,738 bytes、削減1,148,584,069 bytes（46.4344%）。`verify_nas.py`は`ok:true`、`errors:[]`。
 - 797件の現行内訳はNAS保存77、実バイナリ非人型7、作者索引由来非人型1、埋込権利矛盾60、許諾未確認34、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち427、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2。合計797、未分類0。別軸の形状選別は人型候補557、非人型244、未判定496。
 - 旧355件の索引を今回の52新規保存IDから除外したSHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`でbaselineと一致。
+
+## 2026-10-10 BOOTH認証済み追加バッチ17
+
+- RRROのRomandi、3Dもでる販売屋のSAKURA、unreallyの雪音りう、Niumuのみやまる、ドルミィのDoll me_002の5商品ページを処理。正規0円ZIPを5回取得し、5 catalog IDに対応する物理VRM 5件を検査した。転送68,036,112 bytes、展開後VRM総量81,268,372 bytes。全ページHTTP 200で、HTTP 429は0件。
+- みやまるは商品ページ・同梱readmeの個人/法人商用不可、改変可、再配布不可、クレジット不要が埋込メタデータと整合。人型Tポーズと顔を目視しNASへ保存した。RomandiとSAKURAは商品条件が商用利用を許可する一方、VRM埋込`OnlyAuthor`/`commercialUssageName=Disallow`のため保留。雪音りうはモデル条件と公式キャラクター規約が商用ファン作品・配信収益化を許可する一方、埋込`commercialUssageName=Disallow`のため保留。Doll me_002は商品ページが利用者へメタバースでのアバター利用を案内する一方、埋込`allowedUserName=OnlyAuthor`のため保留。4件はプレビュー生成・NAS保存をしていない。
+- バッチ17は5商品ページ、5ダウンロード試行、5 catalog IDs、5物理VRM検査、NAS純増1件、非人型0件、権利矛盾4件、権利未確認0件。詳細チェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261010-17.json`。
+- 累計は商品ページ71、カタログID96件、物理VRM107件、検査107件、NAS新規53件、非人型6件、権利矛盾34件、権利未確認1件。NASは408 ZIP・816 WebP、未圧縮VRM 2,495,905,033 bytes、ZIP 1,332,185,691 bytes、WebP 11,581,876 bytes、削減1,163,719,342 bytes（46.6251%）。`verify_nas.py`は`ok:true`、`errors:[]`。
+- 797件の現行内訳はNAS保存78、実バイナリ非人型7、作者索引由来非人型1、埋込権利矛盾64、許諾未確認34、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち422、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2。合計797、未分類0。別軸の形状選別は人型候補557、非人型244、未判定496。
+- 旧355件の索引を今回の53新規保存IDから除外したSHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`でbaselineと一致。

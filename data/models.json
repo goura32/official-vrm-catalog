@@ -1770,16 +1770,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/5322559",
       "download_url": null,
       "access_method": "booth_free_download",
       "license_name": "夢ノ結唱 素材利用ガイドライン",
       "license_url": "https://yumenokessho.bang-dream.com/guideline/guideline-material/",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
       "distribution_filename": "POPY.zip",
-      "notes": "夢ノ結唱公式ショップの0円配布ZIP。商品説明に .vrm を含むと明記。実ZIP未取得・VRM仕様版未確認。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "夢ノ結唱公式ショップの0円配布ZIP。POPY_low.vrmとPOPY_high.vrmを抽出し、いずれもGLB v2/VRM 0.x、埋込author=Gugenka、commercialUssageName=Disallow、licenseName=Redistribution_Prohibitedを確認。公式ページが指定するガイドラインURLはHTTP 404で内容を確認できず、権利条件を確定できないため権利保留。VRM SHA-256=a57787a3fe8d9fa287010915d6adb7ba9f003fe602bec34cfce03005a1f2c1a0 / a5ab791fd95d2615b97d8d73c11e4fee73caf681b76762a2ff7601a0c1148a1d。プレビュー生成・NAS保存は行わない。"
     },
     {
       "id": "yumenokessho-rose",
@@ -1789,16 +1789,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/5330712",
       "download_url": null,
       "access_method": "booth_free_download",
       "license_name": "夢ノ結唱 素材利用ガイドライン",
       "license_url": "https://yumenokessho.bang-dream.com/guideline/guideline-material/",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
       "distribution_filename": "ROSE.zip",
-      "notes": "夢ノ結唱公式ショップの0円配布ZIP。商品説明に .vrm を含むと明記。実ZIP未取得・VRM仕様版未確認。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "夢ノ結唱公式ショップの0円配布ZIP。ROSE_low.vrmとROSE_high.vrmを抽出し、いずれもGLB v2/VRM 0.x、埋込author=Gugenka、commercialUssageName=Disallow、licenseName=Redistribution_Prohibitedを確認。公式ページが指定するガイドラインURLはHTTP 404で内容を確認できず、権利条件を確定できないため権利保留。VRM SHA-256=3dfacd0147b44a9aeac60b629a7fd87f384ae6022f750d0621fa956823ed1d03 / 4240ec84468b23e35c9c4f22181124be082616e6438a23559e85cfd98490027b。プレビュー生成・NAS保存は行わない。"
     },
     {
       "id": "bandainamco-mirai-komachi",
@@ -1889,16 +1889,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/3965033",
       "download_url": null,
       "access_method": "booth_free_download",
       "license_name": "VOCALOMAKETS 結月ゆかり 麗 公式3Dモデル使用ガイドライン",
       "license_url": "https://booth.pm/ja/items/3965033",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
       "distribution_filename": "結月ゆかり麗_V1_0_s2k_19.zip",
-      "notes": "VOCALOMAKETS公式BOOTHが0円で配布。商品説明にVRM形式のアバターと明記。ZIP内のVRM仕様版・ファイル名は未確認。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "VOCALOMAKETS公式BOOTHが0円で配布。商品説明にVRM形式のアバターと明記。2026-10-10にログイン済みBOOTHの正規無料ダウンロードZIPから結月ゆかり麗_V1_0_s2k_19.vrmを抽出し、GLB v2/VRM 0.x、埋込author=© VOCALOMAKETS Powered by Bumpy Factory Corporation.、commercialUssageName=Disallow、licenseName=Other、otherLicenseUrl=https://vocalomakets.com/guidelines、VRM SHA-256=357ec1a56b362297a6200b8674aaafa6c487b4f133fc7a4f9ca80c45b9b8f6d2を確認。公式ガイドラインの非商用・再配布禁止条件と整合。人型外形、正面Tポーズ768x1024、顔512x512を目視確認し、NASへモデル単体アーカイブを保存。商用利用は別途許諾が必要。"
     },
     {
       "id": "tamyuu-faafaa-free-vrm",

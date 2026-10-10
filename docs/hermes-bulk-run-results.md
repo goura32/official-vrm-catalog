@@ -561,7 +561,17 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 
 - Hiyoriya Miu/Kotoha/Shino/Asumiとteoteome青年8種の5商品ページをログイン済みローカルBOOTHブラウザーで直列確認。全ページHTTP 200、429なし。無料個別ZIP14件（253,400,360 bytes）を取得し、ZIP安全検査後にVRM 0.xを20件検査。
 - HiyoriyaのMiu/Kotoha ZIPは通常版と`_ps`版が各1体ずつあり、4 IDに明確に対応。ShinoのVer.2/2.1とAsumiの旧版/Ver.2.1は各ZIPの通常版だけを既存版IDへ対応し、追加の`_ps` 4件は別IDがないため保存しなかった。作者READMEの個人/法人商用・配信・改変許可、再配布禁止と、全VRMの埋込commercial Allow/Redistribution_Prohibitedが整合。
-- teoteomeの8個別ZIPは各1 VRMを含み、BOOTH個別配布名とカタログIDが一致。全VRMの埋込metadataは`commercialUssageName=Allow`/`licenseName=Redistribution_Prohibited`。配布ページにREADMEや別のpermission URLはなく、再配布禁止を守ってNAS内の私的保存に限定。重複する全部まとめZIPは取得していない。
+- teoteomeの8個別ZIPは各1 VRMを含み、BOOTH個別配布名とカタログIDが一致。全VRMの埋込metadataは`commercialUssageName=Allow`/`licenseName=Redistribution_Prohibited`。ショップ共通規約は再配布を広く許可するが、VRM個別の埋込再配布禁止を優先し、NAS内の私的保存に限定した。重複する全部まとめZIPは取得していない。
 - 16 IDすべて人型全身Tポーズと顔のプレビューを個別目視しNASへ単体ZIP保存。Asumi旧版は白基調で低コントラストだが、全身各部と顔が見えることを原寸でも確認。バッチ24は5商品ページ、14ダウンロード試行、16 ID取得、20物理VRM検査、NAS純増16件、権利保留0件、429 0件。詳細は`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261010-24.json`および`...-24-artifacts.json`。
 - 累計は商品ページ106、catalog ID154件、物理VRM174件、検査174件、NAS新規83件、非人型6件、権利矛盾60件、権利未確認2件、モデル対応未確定1件。NASは438 ZIP・876 WebP、未圧縮VRM 3,074,446,873 bytes、ZIP 1,652,129,543 bytes、WebP 13,068,310 bytes、削減率46.2625%。`verify_nas.py`は`ok:true`、`errors:[]`。
 - R1/R2/R3以外の797件の内訳はNAS保存108、実バイナリ非人型7、作者索引由来非人型1、埋込権利矛盾90、許諾未確認35、モデル対応未確定1、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち364、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2。合計797。旧355件の索引を今回の83新規保存IDから除外したSHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`でbaselineと一致。
+
+## 2026-10-10 BOOTH認証済み追加バッチ25
+
+- BOOTHログイン済みローカルセッションで6商品ページを間隔をあけて確認（全てHTTP 200、429なし）。うち5商品から無料の個別ファイル11件を正規UI操作で取得、合計183,869,466 bytes。重複まとめZIPは取得しなかった。6ページ目の知人代理配布モデル9件は明示的な権利者許諾を確認できずダウンロードせず保留。
+- 4つのYoung-seven個別ZIPから7物理VRMを検査。素体（CC0）と眼鏡あり/なしはID・内部名が一致し、3件を保存。ジト目の銀/薄茶2種とセーラー2種は人型・Tポーズ・顔を目視確認したが、既存A/B IDと個別ファイルの対応順が公開情報で確定できず4件をモデル対応保留。
+- 太陽の妖精2件、天使2件、ピンク魔法少女2件を個別ZIP/VRMから各1体検査。全て人型でTポーズ・顔を個別確認後に保存。天使2件は白衣装が標準背景で低コントラストだったため、一時プレビュー環境のみ背景を`#808a94`へ変更し、全身・顔が判別できることを確認。ピンク版ZIPの`.vroid`編集データは保存せずVRMだけを保管。
+- Noah青年ZIPは2 VRMを含み、商品ページは配布許可を記載していたが、埋込`allowedUserName=OnlyAuthor`/`Redistribution_Prohibited`とauthor情報が一致しないため、プレビュー/NAS保存せず権利矛盾保留。代理配布9件は許諾未確認。個別VRMの埋込再配布禁止はショップ共通規約より制限的なため、保存したTeoteomeモデルの外部再配布はしない。
+- バッチ25は6商品ページ、11ダウンロード試行、15 catalog ID取得、15物理VRM検査、NAS純増9件、マッピング保留4件、権利矛盾2件、権利未確認9件、非人型0件、429 0件。今回の追加分は未圧縮162,679,124 bytes→ZIP 99,935,807 bytes（削減率38.5688%）、WebP 366,238 bytes。
+- 累計は商品ページ112、catalog ID169、物理VRM189、NAS新規92、非人型6、権利矛盾62、権利未確認11、モデル対応未確定5。NASは447 ZIP・894 WebP、未圧縮VRM 3,237,125,997 bytes、ZIP 1,752,065,350 bytes、WebP 13,434,548 bytes、削減率45.8759%。`verify_nas.py`は`ok:true`、`errors:[]`。旧355件を今回の92新規保存IDから除外した行SHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`でbaselineと一致。
+- R1/R2/R3以外の797件の内訳はNAS保存117、実バイナリ非人型7、作者索引由来非人型1、埋込権利矛盾92、許諾未確認44、モデル対応未確定5、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち340、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2。合計797。詳細は`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261010-25.json`および`...-25-artifacts.json`。

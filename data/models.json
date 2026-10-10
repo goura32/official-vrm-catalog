@@ -854,15 +854,15 @@
         "avatar",
         "chibi"
       ],
-      "vrm_version": null,
+      "vrm_version": "1.0",
       "source_url": "https://booth.pm/ja/items/7304550",
       "download_url": null,
       "access_method": "booth_free_download",
       "license_name": "東北ずん子・ずんだもん利用ガイドライン",
       "license_url": "https://zunko.jp/guideline.html",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "無料ファイル: ミニずん子モデル_セット.zip (143 MB)。公式はVRM・MMD・VRChat対応と明示。寄付版は別。公開商品ページの無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "無料ファイル: ミニずん子モデル_セット.zip。公式はVRM・MMD・VRChat対応と明示。2026-10-10に正規無料ZIPからZunko_2025_Deformation_VRM10.vrmを代表抽出し、GLB v2/VRM 1.0、埋込commercialUsage=personalNonProfit、allowRedistribution=false、modification=prohibited、creditNotation=required、otherLicenseUrl=https://zunko.jp/guideline.html、VRM SHA-256=e040f44d583acc3d4299ae49d94d5b24ae23e3c24f18f10690f8ce0d0251bcb0を確認。0.x版SHA-256=19578d8d87d969835c6d115e265112271bb09c92b3dc02a4c3904e0964f78387も検査・描画確認した。同一カタログIDの複数形式のためVRM 1.0を代表保存。人型外形、正面Tポーズ768x1024、顔512x512を目視確認し、NASへ保存。",
       "distribution_filename": "ミニずん子モデル_セット.zip"
     },
     {
@@ -874,15 +874,15 @@
         "avatar",
         "chibi"
       ],
-      "vrm_version": null,
+      "vrm_version": "1.0",
       "source_url": "https://booth.pm/ja/items/7304529",
       "download_url": null,
       "access_method": "booth_free_download",
       "license_name": "東北ずん子・ずんだもん利用ガイドライン",
       "license_url": "https://zunko.jp/guideline.html",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "無料ファイル: ミニずんだもん_モデルセット.zip (102 MB)。公式はVRM・MMD・VRChat対応と明示。寄付版は別。公開商品ページの無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "無料ファイル: ミニずんだもん_モデルセット.zip。公式はVRM・MMD・VRChat対応と明示。2026-10-10に正規無料ZIPからZundamon_2025_Deformation10.vrmを代表抽出し、GLB v2/VRM 1.0、埋込commercialUsage=personalNonProfit、allowRedistribution=false、modification=prohibited、creditNotation=required、otherLicenseUrl=https://zunko.jp/guideline.html、VRM SHA-256=ed3212ac982623efcef9ab03db8841ece0ee5b8408664fbafa4791aa9b42495dを確認。0.x版SHA-256=4c35f2e4d043cc84f0dce57a62db6985019f359538338210de8e0d1444b45414も検査・描画確認した。同一カタログIDの複数形式のためVRM 1.0を代表保存。人型外形、正面Tポーズ768x1024、顔512x512を目視確認し、NASへ保存。",
       "distribution_filename": "ミニずんだもん_モデルセット.zip"
     },
     {
@@ -2052,16 +2052,16 @@
         "mascot",
         "large-scale"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/2852441",
       "download_url": null,
       "access_method": "booth_free_download",
       "license_name": "作者・公式BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/2852441",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
+      "verification": "official_binary_inspected_non_humanoid_not_archived",
+      "checked_at": "2026-10-10",
       "distribution_filename": "vyukichan.zip",
-      "notes": "0円の公式イベントキャラVRMを含むZIP。身長約2mの異尺度モデル。改変可、商用・原本/改変版再配布禁止。VRM内部未確認。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "0円の公式イベントキャラVRMを含むZIP。vyukichan.vrmを実取得・検査し、GLB v2/VRM 0.x、埋込author=Vyuki、licenseName=Redistribution_Prohibited、VRM SHA-256=0888480bea9c960b06c319d460943bfe9a2235c674c45f34b9c0308e94301d62を確認。全身画像は丸い雪だるま状のマスコットで、頭・胴体・両腕・両脚の人型外形を満たさないためNAS保存しない。"
     },
     {
       "id": "isao-amaha-sora-free",

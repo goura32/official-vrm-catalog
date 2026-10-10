@@ -2628,9 +2628,9 @@
       "distribution_filename": "shiro3model.zip",
       "license_name": "作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/7234388",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円ZIPにVRM 1.0/0.0と.vroidを同梱。商用利用は事前相談、改変可、再配布・販売禁止。ZIP内の各VRM実ファイル名は未確認。 実ダウンロード・実ファイルメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円ZIPにVRM 1.0/0.0と.vroidを同梱。商用利用は事前相談、改変可、再配布・販売禁止。2026-10-10にログイン済みBOOTHの正規無料ZIPからShirovrm10.vrmを代表抽出し、GLB v2/VRM 1.0、埋込authors=来島、commercialUsage=personalProfit、allowRedistribution=false、modification=allowModificationRedistribution、VRM SHA-256=d4231d52df5b611273780bc6d2385bb9492ff2cfe4e4ae3e2f823c849cc6c35cを確認。0.x版shirovrm00.vrm（SHA-256=5abddc6c8cab367d5d66a716d383d98b1a79288e1ecade3700ceb4e84d64b610）も検査・描画確認した。人型外形、正面Tポーズ768x1024、顔512x512を目視確認し、VRM 1.0版をNASへ保存した。再配布しない。"
     },
     {
       "id": "sokkachuu-shiro-vrm0",
@@ -2647,9 +2647,9 @@
       "distribution_filename": "shiro3model.zip",
       "license_name": "作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/7234388",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円ZIPにVRM 1.0/0.0と.vroidを同梱。商用利用は事前相談、改変可、再配布・販売禁止。ZIP内の各VRM実ファイル名は未確認。 実ダウンロード・実ファイルメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円ZIPにVRM 1.0/0.0と.vroidを同梱。商用利用は事前相談、改変可、再配布・販売禁止。2026-10-10にログイン済みBOOTHの正規無料ZIPからshirovrm00.vrmを抽出し、GLB v2/VRM 0.x、埋込author=kurusima、commercialUssageName=Disallow、licenseName=Redistribution_Prohibited、VRM SHA-256=5abddc6c8cab367d5d66a716d383d98b1a79288e1ecade3700ceb4e84d64b610を確認。人型外形、正面Tポーズ768x1024、顔512x512を目視確認し、VRM 0.x版をNASへ保存した。再配布しない。"
     },
     {
       "id": "hangover-free-vtuber",
@@ -2660,16 +2660,16 @@
         "avatar",
         "face-tracking"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/5095913",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "vtuber1.zip",
       "license_name": "作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5095913",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円ZIPに作者制作VRM1件を収録。配信収益化は作者連絡が条件、再配布・販売は禁止。 実ダウンロード・実ファイルメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円ZIPに作者制作VRM1件を収録。配信収益化は作者連絡が条件、再配布・販売は禁止。2026-10-10にログイン済みBOOTHの正規無料ZIPから1vtuber.vrmを抽出し、GLB v2/VRM 0.x、埋込author=hang、commercialUssageName=Disallow、licenseName=Redistribution_Prohibited、VRM SHA-256=e2a9efda13575b1d274ff55cde7bb63cde170908ab076d7cfe60178374ca5ce2を確認。人型外形、正面Tポーズ768x1024、顔512x512を目視確認し、NASへ保存した。配信収益化条件と再配布禁止を守る。"
     },
     {
       "id": "milksoju-anime-student",
@@ -2679,16 +2679,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/6018415",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "Anime_Student.vrm",
       "license_name": "作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6018415",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円VRMと無料.vroidを別ファイルで配布。作者のクレジット表記を要請。 実ダウンロード・実ファイルメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円VRMと無料.vroidを別ファイルで配布。作者のクレジット表記を要請。2026-10-10にログイン済みBOOTHの正規無料ダウンロード操作でAnime_Student.vrmを取得し、GLB v2/VRM 0.x、埋込author=MilkS0ju、commercialUssageName=Disallow、licenseName=Redistribution_Prohibited、VRM SHA-256=5de12ee59af168013dbf201f4a1eb2b080b5791c11bb3d2c3ff666949b1a0525を確認。人型外形、正面Tポーズ768x1024、顔512x512を目視確認し、NASへ保存した。クレジット条件を保持し、再配布しない。"
     },
     {
       "id": "koukousha-chieri",
@@ -2698,16 +2698,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/6076752",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "Chieri__2_.vrm",
       "license_name": "作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6076752",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円のVRM。個人商用・グッズ化可能、改変可、再配布禁止。 実ダウンロード・実ファイルメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円のVRM。個人商用・グッズ化可能、改変可、再配布禁止。2026-10-10にログイン済みBOOTHの正規無料ダウンロード操作でChieri__2_.vrmを取得し、GLB v2/VRM 0.x、埋込author=掟ちゃん、commercialUssageName=Allow、licenseName=Redistribution_Prohibited、VRM SHA-256=a5fd8f8e6775300e75a91a86b516a2ad1f660d7d60b1da7f67ccafdeafe2a3d2を確認。人型外形、正面Tポーズ768x1024、顔512x512を目視確認し、NASへ保存した。再配布しない。"
     },
     {
       "id": "dollhouse-nasha",
@@ -2717,16 +2717,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/6095735",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "nasha.vrm",
       "license_name": "作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6095735",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円の作者制作VRM。商用・個人利用可。クレジットは推奨。 実ダウンロード・実ファイルメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円の作者制作VRM。商用・個人利用可。クレジットは推奨。2026-10-10にログイン済みBOOTHの正規無料ダウンロード操作でnasha.vrmを取得し、GLB v2/VRM 0.x、埋込author=DOLLHOUSE、commercialUssageName=Allow、licenseName=Redistribution_Prohibited、VRM SHA-256=0c5af5a9ac041df8422d2580d36a569f459b83565923e8b85491e116b8bde0cbを確認。人型外形、正面Tポーズ768x1024、顔512x512を目視確認し、NASへ保存した。クレジット推奨条件を尊重し、再配布しない。"
     },
     {
       "id": "customlive2d-maid-normal",

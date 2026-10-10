@@ -547,3 +547,12 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - バッチ22は5商品ページ、6ダウンロード試行、6 catalog IDs、6物理VRM検査、NAS純増1件、非人型0件、権利矛盾4件、権利未確認1件。詳細チェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261010-22.json`。
 - 累計は商品ページ96、カタログID127件、物理VRM139件、検査139件、NAS新規58件、非人型6件、権利矛盾59件、権利未確認2件。NASは413 ZIP・826 WebP、未圧縮VRM 2,569,135,305 bytes、ZIP 1,362,484,192 bytes、WebP 11,716,254 bytes、削減1,206,651,113 bytes（46.9672%）。`verify_nas.py`は`ok:true`、`errors:[]`。
 - R1/R2/R3以外の797件の内訳はNAS保存83、実バイナリ非人型7、作者索引由来非人型1、埋込権利矛盾89、許諾未確認35、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち391、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2。合計797。旧355件の索引を今回の58新規保存IDから除外したSHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`でbaselineと一致。
+
+## 2026-10-10 BOOTH認証済み追加バッチ23
+
+- Kado Flow flat、Ver.3、Memorial、Ver.2とHiyoriya Sakuyaの5商品ページを、ログイン済みローカルBOOTHブラウザーから直列確認。各ページHTTP 200、429なし。正規0円ファイル8件（合計206,492,654 bytes）を取得し、ZIP安全検査後に物理VRM 15件を解析。全VRMは0.x。
+- Flow Ver.3の4版、Memorialの2版、Ver.2の2版とSakuya Ver.3.1通常版の計9 IDは、人型全身Tポーズ・顔を個別プレビューで確認しNASへ単体ZIP保存。Kadoの埋込商用可/再配布禁止と公開条件が整合し、Ver.3同梱VN3規約では商用Vtuber利用にクレジット必須。Flow補足規約の商用AI利用・AIVtuber・VRMを第三者が取得できるオンラインAIサービス禁止にも従う。Sakuyaの埋込商用可/再配布禁止もREADME・公開規約と整合。Sakuya Ver.3.1の追加PerfectSyncビルドは別カタログIDがないため保存していない。
+- `kado-flow-flat`は埋込`commercialUssageName=Disallow`とリンクされた公開Flow補足規約の条件付き商用許可が矛盾するため権利保留。`hiyoriya-sakuya-v2`のZIPは4 VRM（v2-1/PS、v2-2/PS）を含むのに既存IDは1件で、明確な割当がないためモデル対応未確定として保存しない。
+- バッチ23は5商品ページ、8ダウンロード試行、11 ID取得、15物理VRM検査、NAS純増9件、権利矛盾1件、モデル対応未確定1件、HTTP 429 0件。チェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261010-23.json`、物理VRM/ZIPの詳細は`...-23-artifacts.json`。
+- 累計は商品ページ101、catalog ID138件、物理VRM154件、検査154件、NAS新規67件、非人型6件、権利矛盾60件、権利未確認2件、モデル対応未確定1件。NASは422 ZIP・844 WebP、未圧縮VRM 2,749,505,625 bytes、ZIP 1,457,751,525 bytes、WebP 12,320,910 bytes、削減率46.9813%。`verify_nas.py`は`ok:true`、`errors:[]`。
+- R1/R2/R3以外の797件の内訳はNAS保存92、実バイナリ非人型7、作者索引由来非人型1、埋込権利矛盾90、許諾未確認35、モデル対応未確定1、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち380、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2。合計797。旧355件の索引を今回の67新規保存IDから除外したSHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`でbaselineと一致。

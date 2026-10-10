@@ -4264,16 +4264,16 @@
         "stylized",
         "flat"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/6180349",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "フロウ_ペラペラエディション_.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6180349",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者が0円でVRM単体とPSD同梱ZIPを公開。板ポリゴン2枚を使う2D風のVRM。商用は用途により要相談、原本再配布禁止。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "正規BOOTH無料VRMを取得・解析。VRM 0.x、SHA-256=14fab38c8277492473a0f3fbe169332be27202059e5279b3f4c53e21f4fe6ec6。埋込commercialUssageName=Disallow・licenseName=Redistribution_Prohibitedに対し、リンクされた公開Flow補足規約は商用利用をクレジット表記または作者連絡付きで許可しており矛盾。権利確認を優先し、プレビュー生成・NAS保存は行わない。"
     },
     {
       "id": "kado-flow-v3-normal",
@@ -4283,16 +4283,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/8118323",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "フロウVer3_通常版.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/8118323",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者が0円で公開。アウターなし2版は無料コンプリートZIPだけに同梱と明記。直接VRM版2件と同一モデルの機能・衣装差分として区別。商用利用時に作者クレジットが必要、再配布禁止。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "正規BOOTH無料コンプリートZIP内のフロウVer3_通常版.vrmを取得。VRM 0.x、SHA-256=c71b71ea4b6a21a222ccbd594ecabfab3be51d3e1b4e81e26b6a6625d0d91f17。人型全身Tポーズ・顔を個別目視確認しNASへ単体ZIP保存。埋込commercialUssageName=Allow/Redistribution_Prohibitedと同梱VN3規約が整合。個人・法人利用可、商用Vtuber利用はクレジット必須、第三者利用・再配布不可。Kado補足規約の商用AI/AIVtuber/VRM取得可能なオンラインAIサービス禁止にも従う。"
     },
     {
       "id": "kado-flow-v3-perfect-sync",
@@ -4303,16 +4303,16 @@
         "avatar",
         "perfect-sync"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/8118323",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "フロウVer3_PS版.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/8118323",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者が0円で公開。アウターなし2版は無料コンプリートZIPだけに同梱と明記。直接VRM版2件と同一モデルの機能・衣装差分として区別。商用利用時に作者クレジットが必要、再配布禁止。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "正規BOOTH無料コンプリートZIP内のフロウVer3_PS版.vrmを取得。VRM 0.x、SHA-256=34eb8ff6472d739869fdd866e4a38b87689a0ad9cf0a604891ed9f74fa769dc0。人型全身Tポーズ・顔を個別目視確認しNASへ単体ZIP保存。埋込commercialUssageName=Allow/Redistribution_Prohibitedと同梱VN3規約が整合。個人・法人利用可、商用Vtuber利用はクレジット必須、第三者利用・再配布不可。Kado補足規約の商用AI/AIVtuber/VRM取得可能なオンラインAIサービス禁止にも従う。"
     },
     {
       "id": "kado-flow-v3-no-outer-normal",
@@ -4323,16 +4323,16 @@
         "avatar",
         "outfit-variant"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/8118323",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "コンプリート版.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/8118323",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者が0円で公開。アウターなし2版は無料コンプリートZIPだけに同梱と明記。直接VRM版2件と同一モデルの機能・衣装差分として区別。商用利用時に作者クレジットが必要、再配布禁止。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "正規BOOTH無料コンプリートZIP内のフロウVer3_通常版(アウターなし).vrmを取得。VRM 0.x、SHA-256=813b7e46cb5e8bbfeba6f265fc3222ad47e78fb00c18956a984157750e3cc0bb。人型全身Tポーズ・顔を個別目視確認しNASへ単体ZIP保存。埋込commercialUssageName=Allow/Redistribution_Prohibitedと同梱VN3規約が整合。個人・法人利用可、商用Vtuber利用はクレジット必須、第三者利用・再配布不可。Kado補足規約の商用AI/AIVtuber/VRM取得可能なオンラインAIサービス禁止にも従う。"
     },
     {
       "id": "kado-flow-v3-no-outer-perfect-sync",
@@ -4344,16 +4344,16 @@
         "outfit-variant",
         "perfect-sync"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/8118323",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "コンプリート版.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/8118323",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者が0円で公開。アウターなし2版は無料コンプリートZIPだけに同梱と明記。直接VRM版2件と同一モデルの機能・衣装差分として区別。商用利用時に作者クレジットが必要、再配布禁止。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "正規BOOTH無料コンプリートZIP内のフロウVer3_PS版(アウターなし).vrmを取得。VRM 0.x、SHA-256=68b32854bc68bb5767a54f9bd23243e9ac6668856ee16918bd0dfa722bb761d8。人型全身Tポーズ・顔を個別目視確認しNASへ単体ZIP保存。埋込commercialUssageName=Allow/Redistribution_Prohibitedと同梱VN3規約が整合。個人・法人利用可、商用Vtuber利用はクレジット必須、第三者利用・再配布不可。Kado補足規約の商用AI/AIVtuber/VRM取得可能なオンラインAIサービス禁止にも従う。"
     },
     {
       "id": "kado-flow-memorial-sweet-rose",
@@ -4364,16 +4364,16 @@
         "avatar",
         "outfit-variant"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/5561492",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "メモリアルフロウ_スイート_ロゼ_.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5561492",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者の0円VRM。衣装差分であり、無料のVRoid衣装セットやコンプリート版と同一モデルを二重計上しない。商用・改変可、再配布禁止、商用時クレジット必要。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "正規BOOTH無料VRMを取得。VRM 0.x、SHA-256=7be349dcb9fe76735293d5248659dcc292ec68b075e432a9f269a0d3f8647b7e。人型全身Tポーズ・顔を個別目視確認しNASへ単体ZIP保存。埋込commercialUssageName=Allow/Redistribution_Prohibitedと公開の商用・改変許可、商用Vtuber/ゲーム利用時のクレジット条件が整合。再配布禁止。Kado補足規約の商用AI/AIVtuber/VRM取得可能なオンラインAIサービス禁止にも従う。"
     },
     {
       "id": "kado-flow-memorial-melty-rose",
@@ -4384,16 +4384,16 @@
         "avatar",
         "outfit-variant"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/5561492",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "メモリアルフロウ_メルティ_ロゼ_.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5561492",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者の0円VRM。衣装差分であり、無料のVRoid衣装セットやコンプリート版と同一モデルを二重計上しない。商用・改変可、再配布禁止、商用時クレジット必要。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "正規BOOTH無料VRMを取得。VRM 0.x、SHA-256=0982c090a5c3a1b2549699ca476409964ffc313a68b04cd0225a99d9ce688690。人型全身Tポーズ・顔を個別目視確認しNASへ単体ZIP保存。埋込commercialUssageName=Allow/Redistribution_Prohibitedと公開の商用・改変許可、商用Vtuber/ゲーム利用時のクレジット条件が整合。再配布禁止。Kado補足規約の商用AI/AIVtuber/VRM取得可能なオンラインAIサービス禁止にも従う。"
     },
     {
       "id": "kado-flow-v2-light",
@@ -4404,16 +4404,16 @@
         "avatar",
         "lightweight"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/5386580",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "フロウVer.2_軽量版__1_3修正_.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5386580",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者の0円VRM。軽量版と表情拡張版は別ファイル。無料コンプリートZIPにも同じモデルが含まれるため重複計上しない。再配布禁止、商用クレジット必要。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "正規BOOTH無料VRMを取得。VRM 0.x、SHA-256=ebaa7b8ec6e3e7185f24258e3139d39cf10baffffde2bebaf82dbca7cbe0c66d。人型全身Tポーズ・顔を個別目視確認しNASへ単体ZIP保存。埋込commercialUssageName=Allow/Redistribution_Prohibitedと公開条件が整合。商用Vtuber/ゲーム利用時はクレジットが必要、再配布禁止。Kado補足規約の商用AI/AIVtuber/VRM取得可能なオンラインAIサービス禁止にも従う。"
     },
     {
       "id": "kado-flow-v2-perfect-sync",
@@ -4424,16 +4424,16 @@
         "avatar",
         "perfect-sync"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/5386580",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "フロウVer.2_パーフェクトシンク版__1_3修正.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5386580",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者の0円VRM。軽量版と表情拡張版は別ファイル。無料コンプリートZIPにも同じモデルが含まれるため重複計上しない。再配布禁止、商用クレジット必要。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "正規BOOTH無料VRMを取得。VRM 0.x、SHA-256=c7cef24a1da25062f21947aba838dcb5f834184b7b44872342c3924058d97fc6。人型全身Tポーズ・顔を個別目視確認しNASへ単体ZIP保存。埋込commercialUssageName=Allow/Redistribution_Prohibitedと公開条件が整合。商用Vtuber/ゲーム利用時はクレジットが必要、再配布禁止。Kado補足規約の商用AI/AIVtuber/VRM取得可能なオンラインAIサービス禁止にも従う。"
     },
     {
       "id": "watanosoko-ayame-v2",
@@ -5013,16 +5013,16 @@
         "avatar",
         "package-version"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/5513788",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "Sakuya-v2-VRM.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5513788",
-      "verification": "official_free_download_auth_required",
+      "verification": "official_binary_inspected_model_mapping_ambiguous_not_archived",
       "checked_at": "2026-10-10",
-      "notes": "0円VRMのみの配布Ver.2。配布物の版番号とVRM仕様版は区別する。有料のVRoid/VRChat同梱セットは対象外。公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "正規BOOTH無料VRM-only ZIPを取得・解析。4個のVRM 0.x（Sakuya-v2-1、Sakuya-v2-1_ps、Sakuya-v2-2、Sakuya-v2-2_ps）を確認し、各SHA-256はバッチ23成果物マニフェストに記録。1個のカタログIDに複数の別モデル/PerfectSyncビルドが含まれ、どれを代表VRMとするか明示されないため対応を推測せず、プレビュー・NAS保存を保留。埋込商用許可/再配布禁止は商品READMEと整合。"
     },
     {
       "id": "hiyoriya-sakuya-v31",
@@ -5041,9 +5041,9 @@
       "distribution_filename": "Sakuya-vrm-v3.1.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5513788",
-      "verification": "official_free_download_auth_required",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
       "checked_at": "2026-10-10",
-      "notes": "0円VRMのみの別配布ZIP。作者説明はver.3のVRM 0.0。ファイル内の仕様版は未解析。規約 https://fujihina.com/3d-riyoukiyaku/ を参照。公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "正規BOOTH無料ZIP内のSakuya-vrm-v3.1/Sakuya-v3.1.vrmを取得。VRM 0.x、SHA-256=27e18c417293347cbf94d14bd2787ede49a94a97f7f43642459babcc4c12ae2f。人型全身Tポーズ・顔を個別目視確認し、通常版をNASへ単体ZIP保存。埋込commercialUssageName=Allow/Redistribution_Prohibitedと同梱README・作者公開規約が整合。個人/法人商用利用、配信、改変可、第三者利用可能な再配布不可。法人利用のクレジット条件に従う。別途同梱のPerfectSyncビルドは既存IDがなく保存していない。"
     },
     {
       "id": "lunalilo-takepiyo",

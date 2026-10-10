@@ -556,3 +556,12 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - バッチ23は5商品ページ、8ダウンロード試行、11 ID取得、15物理VRM検査、NAS純増9件、権利矛盾1件、モデル対応未確定1件、HTTP 429 0件。チェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261010-23.json`、物理VRM/ZIPの詳細は`...-23-artifacts.json`。
 - 累計は商品ページ101、catalog ID138件、物理VRM154件、検査154件、NAS新規67件、非人型6件、権利矛盾60件、権利未確認2件、モデル対応未確定1件。NASは422 ZIP・844 WebP、未圧縮VRM 2,749,505,625 bytes、ZIP 1,457,751,525 bytes、WebP 12,320,910 bytes、削減率46.9813%。`verify_nas.py`は`ok:true`、`errors:[]`。
 - R1/R2/R3以外の797件の内訳はNAS保存92、実バイナリ非人型7、作者索引由来非人型1、埋込権利矛盾90、許諾未確認35、モデル対応未確定1、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち380、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2。合計797。旧355件の索引を今回の67新規保存IDから除外したSHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`でbaselineと一致。
+
+## 2026-10-10 BOOTH認証済み追加バッチ24
+
+- Hiyoriya Miu/Kotoha/Shino/Asumiとteoteome青年8種の5商品ページをログイン済みローカルBOOTHブラウザーで直列確認。全ページHTTP 200、429なし。無料個別ZIP14件（253,400,360 bytes）を取得し、ZIP安全検査後にVRM 0.xを20件検査。
+- HiyoriyaのMiu/Kotoha ZIPは通常版と`_ps`版が各1体ずつあり、4 IDに明確に対応。ShinoのVer.2/2.1とAsumiの旧版/Ver.2.1は各ZIPの通常版だけを既存版IDへ対応し、追加の`_ps` 4件は別IDがないため保存しなかった。作者READMEの個人/法人商用・配信・改変許可、再配布禁止と、全VRMの埋込commercial Allow/Redistribution_Prohibitedが整合。
+- teoteomeの8個別ZIPは各1 VRMを含み、BOOTH個別配布名とカタログIDが一致。全VRMの埋込metadataは`commercialUssageName=Allow`/`licenseName=Redistribution_Prohibited`。配布ページにREADMEや別のpermission URLはなく、再配布禁止を守ってNAS内の私的保存に限定。重複する全部まとめZIPは取得していない。
+- 16 IDすべて人型全身Tポーズと顔のプレビューを個別目視しNASへ単体ZIP保存。Asumi旧版は白基調で低コントラストだが、全身各部と顔が見えることを原寸でも確認。バッチ24は5商品ページ、14ダウンロード試行、16 ID取得、20物理VRM検査、NAS純増16件、権利保留0件、429 0件。詳細は`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261010-24.json`および`...-24-artifacts.json`。
+- 累計は商品ページ106、catalog ID154件、物理VRM174件、検査174件、NAS新規83件、非人型6件、権利矛盾60件、権利未確認2件、モデル対応未確定1件。NASは438 ZIP・876 WebP、未圧縮VRM 3,074,446,873 bytes、ZIP 1,652,129,543 bytes、WebP 13,068,310 bytes、削減率46.2625%。`verify_nas.py`は`ok:true`、`errors:[]`。
+- R1/R2/R3以外の797件の内訳はNAS保存108、実バイナリ非人型7、作者索引由来非人型1、埋込権利矛盾90、許諾未確認35、モデル対応未確定1、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち364、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2。合計797。旧355件の索引を今回の83新規保存IDから除外したSHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`でbaselineと一致。

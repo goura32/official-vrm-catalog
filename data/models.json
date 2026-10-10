@@ -5320,9 +5320,9 @@
       "distribution_filename": "Miu-vrm.zip",
       "license_name": "作者の公式利用規約（配布ページに案内）",
       "license_url": "https://fujihina.com/3d-riyoukiyaku/",
-      "verification": "official_free_download_auth_required",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
       "checked_at": "2026-10-10",
-      "notes": "作者の0円VRM-only ZIPには通常VRMと _ps.vrm（Perfect Sync版）が記載されている。通常版の内部ファイル名は未確認。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "正規BOOTH無料ZIP Miu-vrm.zipのMiu-vrm/Miu.vrmを取得。VRM 0.x、SHA-256=7fee64a0edfe62cad3fce5a50ac915334f7e6714f39adefaf32f2ebb50c6830b。標準版IDとの対応が明確で、人型全身Tポーズ・顔を目視確認後NASへ単体ZIP保存。埋込commercialUssageName=Allow/Redistribution_Prohibitedと作者Readme・公式規約が整合（商用・配信・改変可、再配布不可）。同じ無料ZIPのMiu_ps.vrmは別のPerfect Sync IDへ登録。"
     },
     {
       "id": "hiyoriya-miu-perfect-sync",
@@ -5340,9 +5340,9 @@
       "distribution_filename": "Miu-vrm.zip",
       "license_name": "作者の公式利用規約（配布ページに案内）",
       "license_url": "https://fujihina.com/3d-riyoukiyaku/",
-      "verification": "official_free_download_auth_required",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
       "checked_at": "2026-10-10",
-      "notes": "同じ0円VRM ZIPの _ps.vrm と案内されたPerfect Sync別VRM。具体的なZIP内パスは未確認。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "正規BOOTH無料ZIP Miu-vrm.zipのMiu-vrm/Miu_ps.vrmを取得。VRM 0.x、SHA-256=069498146351e4a2c1f7081f26250142ceada237eebdf3d2bc2dc299e30a540d。_ps名とPerfect Sync用IDが一致し、人型全身Tポーズ・顔を目視確認後NASへ単体ZIP保存。埋込commercialUssageName=Allow/Redistribution_Prohibitedと作者Readme・公式規約が整合（商用・配信・改変可、再配布不可）。"
     },
     {
       "id": "hiyoriya-kotoha-standard",
@@ -5359,9 +5359,9 @@
       "distribution_filename": "Kotoha-vrm.zip",
       "license_name": "作者の公式利用規約（配布ページに案内）",
       "license_url": "https://fujihina.com/3d-riyoukiyaku/",
-      "verification": "official_free_download_auth_required",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
       "checked_at": "2026-10-10",
-      "notes": "0円のVRM-only ZIPに通常VRMと _ps.vrm（Perfect Sync版）の記載あり。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "正規BOOTH無料ZIP Kotoha-vrm.zipのKotoha-vrm/Kotoha.vrmを取得。VRM 0.x、SHA-256=5baae9d941e78f6daa6873002c2f6702283b08ca2d09f9a9b97825ddf551b7c2。標準版IDとの対応が明確で、人型全身Tポーズ・顔を目視確認後NASへ単体ZIP保存。埋込commercialUssageName=Allow/Redistribution_Prohibitedと作者Readme・公式規約が整合（商用・配信・改変可、再配布不可）。同じ無料ZIPのKotoha_ps.vrmは別のPerfect Sync IDへ登録。"
     },
     {
       "id": "hiyoriya-kotoha-perfect-sync",
@@ -5379,9 +5379,9 @@
       "distribution_filename": "Kotoha-vrm.zip",
       "license_name": "作者の公式利用規約（配布ページに案内）",
       "license_url": "https://fujihina.com/3d-riyoukiyaku/",
-      "verification": "official_free_download_auth_required",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
       "checked_at": "2026-10-10",
-      "notes": "同一無料ZIPに _ps.vrm のPerfect Sync版があると説明。ZIP内の正確なファイル名未確認。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "正規BOOTH無料ZIP Kotoha-vrm.zipのKotoha-vrm/Kotoha_ps.vrmを取得。VRM 0.x、SHA-256=7bfa75159de0fa249bc9fb1951c2647ccc7500a51f68cfb150c1144061612141。_ps名とPerfect Sync用IDが一致し、人型全身Tポーズ・顔を目視確認後NASへ単体ZIP保存。埋込commercialUssageName=Allow/Redistribution_Prohibitedと作者Readme・公式規約が整合（商用・配信・改変可、再配布不可）。"
     },
     {
       "id": "hiyoriya-shino-v2",
@@ -5399,9 +5399,9 @@
       "distribution_filename": "Shino-VRM2.zip",
       "license_name": "作者の公式利用規約（配布ページに案内）",
       "license_url": "https://fujihina.com/3d-riyoukiyaku/",
-      "verification": "official_free_download_auth_required",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
       "checked_at": "2026-10-10",
-      "notes": "無料の旧VRM配布ZIP。配布物のVer.2はVRM仕様バージョンではない。商品説明はVRM 0.0、実解析未実施。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "正規BOOTH無料ZIP Shino-VRM2.zipのShino-VRM2/Shino.vrmを取得。VRM 0.x、SHA-256=4524270b1f904e76818877ac82dd11967a910ea3a2bb10d76f4e0b8ec5e0881a。Ver.2標準モデルとしてIDに対応、人型全身Tポーズ・顔を目視確認後NASへ単体ZIP保存。埋込commercialUssageName=Allow/Redistribution_Prohibitedと作者Readme・公式規約が整合。Shino_ps.vrmは独立IDがないため保存していない。"
     },
     {
       "id": "hiyoriya-shino-v21",
@@ -5419,9 +5419,9 @@
       "distribution_filename": "Shino-vrm-v2.1.zip",
       "license_name": "作者の公式利用規約（配布ページに案内）",
       "license_url": "https://fujihina.com/3d-riyoukiyaku/",
-      "verification": "official_free_download_auth_required",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
       "checked_at": "2026-10-10",
-      "notes": "旧版とは別に0円公開された更新ZIP。内部の通常/Perfect Sync構成は実ダウンロード時確認。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "正規BOOTH無料ZIP Shino-vrm-v2.1.zipのShino-vrm-v2.1/Shino-v2.1.vrmを取得。VRM 0.x、SHA-256=06e6ea5953bc820bf1911226d807657b1cbda1a21ff91f27f48444fe0dd56ef1。Ver.2.1標準モデルとしてIDに対応、人型全身Tポーズ・顔を目視確認後NASへ単体ZIP保存。埋込commercialUssageName=Allow/Redistribution_Prohibitedと作者Readme・公式規約が整合。Shino-v2.1_ps.vrmは独立IDがないため保存していない。"
     },
     {
       "id": "hiyoriya-asumi-v1",
@@ -5439,9 +5439,9 @@
       "distribution_filename": "Asumi-vrm.zip",
       "license_name": "作者の公式利用規約（配布ページに案内）",
       "license_url": "https://fujihina.com/3d-riyoukiyaku/",
-      "verification": "official_free_download_auth_required",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
       "checked_at": "2026-10-10",
-      "notes": "0円VRM-only旧配布ZIP。新しいAsumi-vrm-v2.1.zipと異なる配布物。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "正規BOOTH無料ZIP Asumi-vrm.zipのAsumi-vrm/Asumi.vrmを取得。VRM 0.x、SHA-256=83da421d5bf089feb8e442c3c7e26ee9ee46406d8712f18d5e0cd49a4bd80fc5。旧版標準モデルとしてIDに対応、人型全身Tポーズ・顔を目視確認後NASへ単体ZIP保存。埋込commercialUssageName=Allow/Redistribution_Prohibitedと作者Readme・公式規約が整合。Asumi_ps.vrmは独立IDがないため保存していない。"
     },
     {
       "id": "hiyoriya-asumi-v21",
@@ -5459,9 +5459,9 @@
       "distribution_filename": "Asumi-vrm-v2.1.zip",
       "license_name": "作者の公式利用規約（配布ページに案内）",
       "license_url": "https://fujihina.com/3d-riyoukiyaku/",
-      "verification": "official_free_download_auth_required",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
       "checked_at": "2026-10-10",
-      "notes": "作者が別に無料公開したアップデート版VRM ZIP。商品版番号とVRM規格版は異なる。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "正規BOOTH無料ZIP Asumi-vrm-v2.1.zipのAsumi-vrm-v2.1/Asumi-v2.1.vrmを取得。VRM 0.x、SHA-256=d899da20e2ddc41914b1a38ad96cf7f20c78e2713355f3d885bc76620d0372cb。Ver.2.1標準モデルとしてIDに対応、人型全身Tポーズ・顔を目視確認後NASへ単体ZIP保存。埋込commercialUssageName=Allow/Redistribution_Prohibitedと作者Readme・公式規約が整合。Asumi-v2.1_ps.vrmは独立IDがないため保存していない。"
     },
     {
       "id": "sakurabido-bluebell",
@@ -6190,16 +6190,16 @@
         "avatar",
         "outfit-variant"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/3400424",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "制服新.zip",
-      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_name": "VRM埋込ライセンス（commercialUssageName=Allow、licenseName=Redistribution_Prohibited）",
       "license_url": "https://booth.pm/ja/items/3400424",
-      "verification": "official_free_download_auth_required",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
       "checked_at": "2026-10-10",
-      "notes": "作者が個別無料ZIPで配布。『全部まとめ.zip』は同じモデルを集約したアーカイブなので別件計上しない。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "正規BOOTH無料個別ZIP 制服新.zip内の制服新.vrmを取得。VRM 0.x、SHA-256=149c4f4b3bcd87035ced9e0e62a145c1331b66279202c1e691a770aa3540c272。商品ページの個別配布名と既存IDが一致、ZIP内にVRMは1件。人型全身Tポーズ・顔を目視確認しNASへ単体ZIP保存。埋込commercialUssageName=Allow/Redistribution_Prohibited。再配布禁止のためローカルNAS保管のみ。"
     },
     {
       "id": "teoteome-young-man-crossdress",
@@ -6210,16 +6210,16 @@
         "avatar",
         "outfit-variant"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/3400424",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "新女装.zip",
-      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_name": "VRM埋込ライセンス（commercialUssageName=Allow、licenseName=Redistribution_Prohibited）",
       "license_url": "https://booth.pm/ja/items/3400424",
-      "verification": "official_free_download_auth_required",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
       "checked_at": "2026-10-10",
-      "notes": "作者が個別無料ZIPで配布。『全部まとめ.zip』は同じモデルを集約したアーカイブなので別件計上しない。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "正規BOOTH無料個別ZIP 新女装.zip内の新女装.vrmを取得。VRM 0.x、SHA-256=a06d9f0a35e3842c3e805e50bb678ccd1a1f1d302ace3460c82065de4e270bca。商品ページの個別配布名と既存IDが一致、ZIP内にVRMは1件。人型全身Tポーズ・顔を目視確認しNASへ単体ZIP保存。埋込commercialUssageName=Allow/Redistribution_Prohibited。再配布禁止のためローカルNAS保管のみ。"
     },
     {
       "id": "teoteome-young-man-braid",
@@ -6230,16 +6230,16 @@
         "avatar",
         "outfit-variant"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/3400424",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "女装みつあみ.zip",
-      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_name": "VRM埋込ライセンス（commercialUssageName=Allow、licenseName=Redistribution_Prohibited）",
       "license_url": "https://booth.pm/ja/items/3400424",
-      "verification": "official_free_download_auth_required",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
       "checked_at": "2026-10-10",
-      "notes": "作者が個別無料ZIPで配布。『全部まとめ.zip』は同じモデルを集約したアーカイブなので別件計上しない。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "正規BOOTH無料個別ZIP 女装みつあみ.zip内の女装みつあみ.vrmを取得。VRM 0.x、SHA-256=015dd6983eb540a61e5228aeb3ab05de5d57dba2a82c30d97de3cb11b2b8d52f。商品ページの個別配布名と既存IDが一致、ZIP内にVRMは1件。人型全身Tポーズ・顔を目視確認しNASへ単体ZIP保存。埋込commercialUssageName=Allow/Redistribution_Prohibited。再配布禁止のためローカルNAS保管のみ。"
     },
     {
       "id": "teoteome-young-man-bob",
@@ -6250,16 +6250,16 @@
         "avatar",
         "outfit-variant"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/3400424",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "女装ボブ.zip",
-      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_name": "VRM埋込ライセンス（commercialUssageName=Allow、licenseName=Redistribution_Prohibited）",
       "license_url": "https://booth.pm/ja/items/3400424",
-      "verification": "official_free_download_auth_required",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
       "checked_at": "2026-10-10",
-      "notes": "作者が個別無料ZIPで配布。『全部まとめ.zip』は同じモデルを集約したアーカイブなので別件計上しない。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "正規BOOTH無料個別ZIP 女装ボブ.zip内の女装ボブ.vrmを取得。VRM 0.x、SHA-256=1e6bf18523845e52ce6b3835f7fd7cdccafd451079fd2049d02f54548fee33e3。商品ページの個別配布名と既存IDが一致、ZIP内にVRMは1件。人型全身Tポーズ・顔を目視確認しNASへ単体ZIP保存。埋込commercialUssageName=Allow/Redistribution_Prohibited。再配布禁止のためローカルNAS保管のみ。"
     },
     {
       "id": "teoteome-young-man-dark-normal",
@@ -6270,16 +6270,16 @@
         "avatar",
         "outfit-variant"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/3400424",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "闇落ち通常服.zip",
-      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_name": "VRM埋込ライセンス（commercialUssageName=Allow、licenseName=Redistribution_Prohibited）",
       "license_url": "https://booth.pm/ja/items/3400424",
-      "verification": "official_free_download_auth_required",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
       "checked_at": "2026-10-10",
-      "notes": "作者が個別無料ZIPで配布。『全部まとめ.zip』は同じモデルを集約したアーカイブなので別件計上しない。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "正規BOOTH無料個別ZIP 闇落ち通常服.zip内の闇落ち通常服.vrmを取得。VRM 0.x、SHA-256=6bbcc520d90f217344a5bb608eab838507dc63bb8f76a7ad3514a49111ceaa56。商品ページの個別配布名と既存IDが一致、ZIP内にVRMは1件。人型全身Tポーズ・顔を目視確認しNASへ単体ZIP保存。埋込commercialUssageName=Allow/Redistribution_Prohibited。再配布禁止のためローカルNAS保管のみ。"
     },
     {
       "id": "teoteome-young-man-dark-short",
@@ -6290,16 +6290,16 @@
         "avatar",
         "outfit-variant"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/3400424",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "闇落ち半そで.zip",
-      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_name": "VRM埋込ライセンス（commercialUssageName=Allow、licenseName=Redistribution_Prohibited）",
       "license_url": "https://booth.pm/ja/items/3400424",
-      "verification": "official_free_download_auth_required",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
       "checked_at": "2026-10-10",
-      "notes": "作者が個別無料ZIPで配布。『全部まとめ.zip』は同じモデルを集約したアーカイブなので別件計上しない。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "正規BOOTH無料個別ZIP 闇落ち半そで.zip内の闇落ち半そで.vrmを取得。VRM 0.x、SHA-256=e78ca049f405754d4df9742aff56fa9674196c6ceb49265ffa1c5406d22e45ec。商品ページの個別配布名と既存IDが一致、ZIP内にVRMは1件。人型全身Tポーズ・顔を目視確認しNASへ単体ZIP保存。埋込commercialUssageName=Allow/Redistribution_Prohibited。再配布禁止のためローカルNAS保管のみ。"
     },
     {
       "id": "teoteome-young-man-dark-maid",
@@ -6310,16 +6310,16 @@
         "avatar",
         "outfit-variant"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/3400424",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "女装闇落ちメイド.zip",
-      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_name": "VRM埋込ライセンス（commercialUssageName=Allow、licenseName=Redistribution_Prohibited）",
       "license_url": "https://booth.pm/ja/items/3400424",
-      "verification": "official_free_download_auth_required",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
       "checked_at": "2026-10-10",
-      "notes": "作者が個別無料ZIPで配布。『全部まとめ.zip』は同じモデルを集約したアーカイブなので別件計上しない。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "正規BOOTH無料個別ZIP 女装闇落ちメイド.zip内の女装闇落ちメイド.vrmを取得。VRM 0.x、SHA-256=5a295f0582bbe9f9f06c15603342d451cc54024917922debf3f2c732d3b244b6。商品ページの個別配布名と既存IDが一致、ZIP内にVRMは1件。人型全身Tポーズ・顔を目視確認しNASへ単体ZIP保存。埋込commercialUssageName=Allow/Redistribution_Prohibited。再配布禁止のためローカルNAS保管のみ。"
     },
     {
       "id": "teoteome-young-man-sailor",
@@ -6330,16 +6330,16 @@
         "avatar",
         "outfit-variant"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/3400424",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "セーラー青年.zip",
-      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_name": "VRM埋込ライセンス（commercialUssageName=Allow、licenseName=Redistribution_Prohibited）",
       "license_url": "https://booth.pm/ja/items/3400424",
-      "verification": "official_free_download_auth_required",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
       "checked_at": "2026-10-10",
-      "notes": "作者が個別無料ZIPで配布。『全部まとめ.zip』は同じモデルを集約したアーカイブなので別件計上しない。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "正規BOOTH無料個別ZIP セーラー青年.zip内のセーラー青年.vrmを取得。VRM 0.x、SHA-256=a0462138a2e3e8fb56ebe29f05c456817b5a927757db8723fea7d850866a99e8。商品ページの個別配布名と既存IDが一致、ZIP内にVRMは1件。人型全身Tポーズ・顔を目視確認しNASへ単体ZIP保存。埋込commercialUssageName=Allow/Redistribution_Prohibited。再配布禁止のためローカルNAS保管のみ."
     },
     {
       "id": "teoteome-young-seven-base",

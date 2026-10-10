@@ -401,5 +401,5 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - 5実VRMを検査した。結月ゆかり 麗は公式ガイドラインの非商用・再配布禁止条件と埋込権利が整合し、人型・Tポーズ・顔プレビュー合格としてNAS保存した。POPY/ROSEの4実VRMは、商品ページが指定するガイドラインURLがHTTP 404で権利条件を確認できず、埋込`commercialUssageName=Disallow`/`Redistribution_Prohibited`も確認されたため、描画・NAS保存を行わず権利保留にした。
 - バッチ06はHTTP 429 0件、VRM取得バイト84,723,200 bytes。チェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261010-06.json`。
 - 現在の累計は、商品ページ23、実VRM35件、VRM検査35件、NAS新規19件、非人型3件、権利矛盾13件。NASは374 ZIP・748 WebP、未圧縮VRM 1,783,693,525 bytes、ZIP 968,433,008 bytes、削減815,260,517 bytes（45.7063%）、WebP 9,934,886 bytes。`verify_nas.py` は`ok:true`、`errors:[]`。
-- 797件の現行内訳は、NAS保存44、確定非人型4、作者索引由来非人型1、埋込権利矛盾45、許諾未確認33、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち481、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2。合計797、未分類0。
+- 797件の現行内訳は、NAS保存44、確定非人型4、作者索引由来非人型1、埋込権利矛盾43、許諾未確認33、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち481、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2。合計797、未分類0。
 - 旧355件の索引を今回の19新規IDから除外したSHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`でbaselineと一致。

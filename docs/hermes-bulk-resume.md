@@ -7,7 +7,7 @@
 ユーザーがChromeに正規ログインし、Hermesは `browser.use_real_profile: true`、実プロファイルをコピーしたローカルブラウザーセッション `booth-real-profile-local-2` を起動できた。BOOTHトップページでログイン済みのアカウントメニューと購入履歴等を確認。カタログID `pixellangel-dolly-devil` の商品 `https://booth.pm/ja/items/4795020` で `dolly_devil.vrm` と `dolly_devil.vroid` の無料ダウンロードリンクが表示された。**2026-10-10に`dolly_devil.vrm`の実取得・検査・Tポーズ/顔確認・NAS保存まで完了**。パイロット成功後、同日中にBOOTH認証済み追加6バッチを実施した。パスワード・Cookie・トークン・認証付き一時ダウンロードURLは**表示、ログ記録、リポジトリ追加、チャット出力を禁止**。Cookieを手動抽出・curl等へ転送して認証を代用しない。
 
 **現在の実績（2026-10-10）**：
-- カタログ計1,297件。R1/R2/R3以外の797件は、NAS保存44、確定非人型4、作者索引由来の非人型1、埋込権利矛盾45、許諾未確認33、別hostリダイレクト拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち481、VRoid Hub認証待ち16、公式ページ認証未確認1、商品ページ404が3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2、合計797。実体取得済みだがNAS未保存の今回追加分は非人型3、権利矛盾13を含む。
+- カタログ計1,297件。R1/R2/R3以外の797件は、NAS保存44、確定非人型4、作者索引由来の非人型1、埋込権利矛盾43、許諾未確認33、別hostリダイレクト拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち481、VRoid Hub認証待ち16、公式ページ認証未確認1、商品ページ404が3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2、合計797。実体取得済みだがNAS未保存の今回追加分は非人型3、権利矛盾13を含む。
 - BOOTH認証済み実取得は、パイロット1件＋追加6バッチで35件。VRM検査35件、NAS新規保存19件、非人型3件、商品説明と埋込権利の矛盾による保留13件、HTTP 429は0件。旧355件の索引行を除外して再計算したSHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`で不変。
 - NASは374 ZIP・748 WebP、`verify_nas.py`は`ok:true, errors:[]`。監査とチェックポイント確定後、パイロット・追加6バッチの作業用VRM・プレビューは削除済みで、NASにはモデル単体ZIPとWebP 2枚だけを残した。
 - 最新チェックポイントは `/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261010-06.json` と `/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/authenticated-summary-20261010.json`。旧第1～29バッチの匿名302確認作業を繰り返さない。権利保留案件をライセンスなしで再取得しない。

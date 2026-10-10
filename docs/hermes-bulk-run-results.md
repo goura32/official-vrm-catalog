@@ -501,3 +501,12 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - 累計は商品ページ71、カタログID96件、物理VRM107件、検査107件、NAS新規53件、非人型6件、権利矛盾34件、権利未確認1件。NASは408 ZIP・816 WebP、未圧縮VRM 2,495,905,033 bytes、ZIP 1,332,185,691 bytes、WebP 11,581,876 bytes、削減1,163,719,342 bytes（46.6251%）。`verify_nas.py`は`ok:true`、`errors:[]`。
 - 797件の現行内訳はNAS保存78、実バイナリ非人型7、作者索引由来非人型1、埋込権利矛盾64、許諾未確認34、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち422、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2。合計797、未分類0。別軸の形状選別は人型候補557、非人型244、未判定496。
 - 旧355件の索引を今回の53新規保存IDから除外したSHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`でbaselineと一致。
+
+## 2026-10-10 BOOTH認証済み追加バッチ18
+
+- ドルミィのDoll me_006/007/008/009/010の5商品ページを処理。正規0円ZIPを5回取得し、5 catalog IDに対応する物理VRM 5件を検査した。転送68,091,949 bytes、展開後VRM総量76,223,612 bytes。全ページHTTP 200、HTTP 429は0件。
+- 5件すべての埋込値は`allowedUserName=OnlyAuthor`、`commercialUssageName=Disallow`、`licenseName=Redistribution_Prohibited`。商品規約は無料取得者の個人的利用・改変、およびVRM対応ゲーム/アプリやメタバースでのアバター利用を案内し、再配布/販売を禁止するが、埋込`OnlyAuthor`は作者のみのアバター利用に限定するため矛盾。5件ともプレビュー生成・NAS保存なし。
+- バッチ18は5商品ページ、5ダウンロード試行、5 catalog IDs、5物理VRM検査、NAS純増0件、非人型0件、権利矛盾5件、権利未確認0件。詳細チェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261010-18.json`。
+- 累計は商品ページ76、カタログID101件、物理VRM112件、検査112件、NAS新規53件、非人型6件、権利矛盾39件、権利未確認1件。NASは408 ZIP・816 WebP、未圧縮VRM 2,495,905,033 bytes、ZIP 1,332,185,691 bytes、WebP 11,581,876 bytes、削減1,163,719,342 bytes（46.6251%）。`verify_nas.py`は`ok:true`、`errors:[]`。
+- 797件の現行内訳はNAS保存78、実バイナリ非人型7、作者索引由来非人型1、埋込権利矛盾69、許諾未確認34、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち417、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2。合計797、未分類0。別軸の形状選別は人型候補557、非人型244、未判定496。
+- 旧355件の索引を今回の53新規保存IDから除外したSHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`でbaselineと一致。

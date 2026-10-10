@@ -4487,16 +4487,16 @@
         "rabbit",
         "color-variant"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/2556708",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "VRMファイル.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/2556708",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者が過去の自作アバターを2026年に無償再公開。無料ZIP内の個別VRMを登録。旧環境制作につき互換性注意。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "正規の無料VRM専用ZIP`VRMファイル.zip`（15,067,828 bytes、SHA-256=20c4d878d7f12054a9c7c032756c47e9815dfdbd095e7ca5d6c761198c16ed30）から、Readme記載の`ほしうさ-くろ.vrm`（17,411,472 bytes、SHA-256=6ce88f7773b3d67764328d185e194f8488493deb7e8b5a9c130adf1a8cffe618）を確認。VRM 0.x。ReadmeのUV Licenseは成人向け暴力表現を許可する一方、埋込メタデータは`violentUssageName=Disallow`。権利矛盾のためNAS保存せず、一時ZIPを削除。"
     },
     {
       "id": "usamimiten-hoshiusa-pink",
@@ -4508,16 +4508,16 @@
         "rabbit",
         "color-variant"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/2556708",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "VRMファイル.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/2556708",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者が過去の自作アバターを2026年に無償再公開。無料ZIP内の個別VRMを登録。旧環境制作につき互換性注意。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "正規の無料VRM専用ZIP`VRMファイル.zip`（15,067,828 bytes、SHA-256=20c4d878d7f12054a9c7c032756c47e9815dfdbd095e7ca5d6c761198c16ed30）から、Readme記載の`ほしうさ-ピンク.vrm`（21,778,876 bytes、SHA-256=f4c5e2505bbf549db91ec71fbad0004b3ee8dce611c8bcb009ea05ea68952ccf）を確認。VRM 0.x。埋込メタデータの`allowedUserName=OnlyAuthor`とCC_BYおよび公開Readmeの利用許諾に不整合があるため、権利保留としてNAS保存せずZIPを削除。"
     },
     {
       "id": "amkr-zeroni",
@@ -4536,9 +4536,9 @@
       "distribution_filename": "zeroni.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6952609",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者が0円でHumanoid・MToon・Perfect Sync対応VRM 0.0を含むZIPを配布。VRChat/Warudo想定、再配布・政治宗教・中傷は禁止。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_non_humanoid_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "BOOTHの正規無料UIから`zeroni.zip`（2,411,470 bytes、SHA-256=74e02b5f0211ec0c21418304193c2b8c847032a1da1065f1edabb9f20546241b）を取得。内包VRMは`zeroni/zeroniVRM.vrm`（1,880,208 bytes、SHA-256=04def0fa3041cab45cac71e6ba6b163a4619f7b9d61843b1963578ed53c070e3）、GLB v2/VRM 0.x。埋込権利はEveryone、商用利用Disallow、Other欄は「改変自由/アバターそのままでの再配布は不可」。描画すると人の身体のないリンゴ型マスコットで、顔プレビューも空。非人型としてNASへ保存せず、一時ファイルを削除。"
     },
     {
       "id": "abendgift-n",
@@ -4591,16 +4591,16 @@
         "rabbit",
         "color-variant"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/4458219",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "riwore_2023_01_07_01.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4458219",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者が0円ZIPへ4種類のVRMを含むと内部ファイル名まで明記（Normal_01.vrm）。改変とVRM対応サービスでの使用可、再配布・二次商品化・政治利用等は禁止。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "正規無料ZIP`riwore_2023_01_07_01.zip`（1,997,454 bytes、SHA-256=5d1278637c7e05997341f0e3a3fd2c72d53c37e303cfee901eec729ae66e4764）内の`riwore/Normal_01.vrm`（1,823,296 bytes、SHA-256=7cc9e1ebb2895e9bcc4d46679a9af53e90cbe9827fb43188afaa9983e7b1d486）、VRM 0.x。ReadmeはVRM対応サービス/ゲーム、配信、改変を許可し、その他は作者へ問い合わせるよう定める一方、埋込メタデータは性的/暴力的利用を許可。「少年」と明記され外観も子どもらしい兎キャラクターのため権利・内容を保留し、NAS保存せず一時ファイルを削除。"
     },
     {
       "id": "chemical-riwore-normal-black",
@@ -4612,16 +4612,16 @@
         "rabbit",
         "color-variant"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/4458219",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "riwore_2023_01_07_01.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4458219",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者が0円ZIPへ4種類のVRMを含むと内部ファイル名まで明記（Normal_02.vrm）。改変とVRM対応サービスでの使用可、再配布・二次商品化・政治利用等は禁止。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "正規無料ZIP`riwore_2023_01_07_01.zip`（1,997,454 bytes、SHA-256=5d1278637c7e05997341f0e3a3fd2c72d53c37e303cfee901eec729ae66e4764）内の`riwore/Normal_02.vrm`（1,757,348 bytes、SHA-256=30283ac9f54aa5236ca79e0ac1f9f76aa3ea880a24fe8bbacdab299ca20a6d29）、VRM 0.x。ReadmeはVRM対応サービス/ゲーム、配信、改変を許可し、その他は作者へ問い合わせるよう定める一方、埋込メタデータは性的/暴力的利用を許可。「少年」と明記され外観も子どもらしい兎キャラクターのため権利・内容を保留し、NAS保存せず一時ファイルを削除。"
     },
     {
       "id": "chemical-riwore-lop-white",
@@ -4633,16 +4633,16 @@
         "rabbit",
         "color-variant"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/4458219",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "riwore_2023_01_07_01.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4458219",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者が0円ZIPへ4種類のVRMを含むと内部ファイル名まで明記（Rop_01.vrm）。改変とVRM対応サービスでの使用可、再配布・二次商品化・政治利用等は禁止。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "正規無料ZIP`riwore_2023_01_07_01.zip`（1,997,454 bytes、SHA-256=5d1278637c7e05997341f0e3a3fd2c72d53c37e303cfee901eec729ae66e4764）内の`riwore/Rop_01.vrm`（1,865,180 bytes、SHA-256=1b6dfba7bf99c72ae052d31fe20bbad806990814a7ba211519dc34ac0e558c46）、VRM 0.x。ReadmeはVRM対応サービス/ゲーム、配信、改変を許可し、その他は作者へ問い合わせるよう定める一方、埋込メタデータは性的/暴力的利用を許可。「少年」と明記され外観も子どもらしい兎キャラクターのため権利・内容を保留し、NAS保存せず一時ファイルを削除。"
     },
     {
       "id": "chemical-riwore-lop-black",
@@ -4654,16 +4654,16 @@
         "rabbit",
         "color-variant"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/4458219",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "riwore_2023_01_07_01.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4458219",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者が0円ZIPへ4種類のVRMを含むと内部ファイル名まで明記（Rop_02.vrm）。改変とVRM対応サービスでの使用可、再配布・二次商品化・政治利用等は禁止。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "正規無料ZIP`riwore_2023_01_07_01.zip`（1,997,454 bytes、SHA-256=5d1278637c7e05997341f0e3a3fd2c72d53c37e303cfee901eec729ae66e4764）内の`riwore/Rop_02.vrm`（1,787,404 bytes、SHA-256=764a2cd817cbffbd6795be4075bbb785fce1780ef54e668cc44c97e15a152e38）、VRM 0.x。ReadmeはVRM対応サービス/ゲーム、配信、改変を許可し、その他は作者へ問い合わせるよう定める一方、埋込メタデータは性的/暴力的利用を許可。「少年」と明記され外観も子どもらしい兎キャラクターのため権利・内容を保留し、NAS保存せず一時ファイルを削除。"
     },
     {
       "id": "kantennekoya-petit-naoya",
@@ -4722,9 +4722,9 @@
       "distribution_filename": "紬たか_VRM_VRCモデル.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/3537750",
-      "verification": "official_free_download_auth_required",
+      "verification": "rights_unverified_hold",
       "checked_at": "2026-10-10",
-      "notes": "作者が0円ZIPにVRM・VRChatモデルを提供。古いバージョンのモデルで、再配布には作者確認が必要。支援版300円のぬいぐるみVRMは除外。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "BOOTHページは無料の`紬たか_VRM_VRCモデル.zip`を案内し、商用/収益化/改変を認めるが、再配布には作者への問い合わせを求める。必読の外部規約`http://sn1572-nighthawk.sakura.ne.jp/tos.html`はDNS_PROBE_FINISHED_NXDOMAINで閲覧不能（HTTP 429ではない）。完全な条件を確認できないためダウンロードせず権利未確認で保留。"
     },
     {
       "id": "mxu-purin-normal",
@@ -4822,9 +4822,9 @@
       "distribution_filename": "free_umeko.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/2152422",
-      "verification": "official_free_download_auth_required",
+      "verification": "rights_unverified_hold",
       "checked_at": "2026-10-10",
-      "notes": "無料版にはumeko.vrmを収録。VRoid編集ファイルは支援版であり別件計上しない。公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "BOOTHページはVRMのみの無料版`free_umeko.zip`を案内する。リンクされた作者共通規約は限定的な個人利用/改変を認める一方、使用対象を「全額を購入した人」とし、別途¥300の支援版も存在する。無料版が購入条件を満たすか判断できないため、ダウンロードせず権利未確認で保留。"
     },
     {
       "id": "nekometrica-lua",
@@ -5074,16 +5074,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/6100467",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "刃切_切乃.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6100467",
-      "verification": "official_free_download_auth_required",
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
       "checked_at": "2026-10-10",
-      "notes": "原作者がcluster向けVRMファイルを0円公開。単体モデルの再配布禁止。公式商品ページで0円のVRM配布を確認。実ダウンロード・内部VRM解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "正規無料UIから`刃切_切乃.vrm`（7,394,076 bytes、SHA-256=0f8f25d55b0c08e0c349b43635700949f457e13ebb104e5b558ce687240346bf）を取得・検査、GLB v2/VRM 0.x。BOOTHページはCluster向けの公開無料配布を示すが、埋込`allowedUserName=OnlyAuthor`は作者のみを指定するため権利矛盾としてNAS保存せず、一時VRMを削除。"
     },
     {
       "id": "vroidshop-323",
@@ -5093,16 +5093,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/4637936",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "323.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4637936",
-      "verification": "official_free_download_auth_required",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
       "checked_at": "2026-10-10",
-      "notes": "作者がVRoid Studio 1.20.2で制作、VRM形式のみを0円公開。政治・宗教・ヘイトスピーチ利用禁止。公式商品ページで0円のVRM配布を確認。実ダウンロード・内部VRM解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "BOOTHの正規無料UIから`323.vrm`（18,571,044 bytes、SHA-256=3e0e1fd45593a1681b21eb8a526fe63bc4001f62338b42d3074fdfa90190ad96）を取得・検査、GLB v2/VRM 0.x。商品ページは公序良俗の範囲で利用可、政治/宗教/ヘイト/特定思想の宣伝を禁止、クレジット不要とする。埋込ExplicitlyLicensedPersonは公式無料配布の利用条件に同意する取得者を対象とし、Redistribution_Prohibitedは私的NAS保管と矛盾しない。人型、全身Tポーズ、正面顔を目視確認し、`models/vroidshop-323.zip`とWebP2枚をNAS保存。外部再配布なし。"
     },
     {
       "id": "yamaron-white-nekomimi",

@@ -561,7 +561,12 @@
     "mjmoonbow-dragon-3-dbede1e",
     "tawashop-kabochan",
     "izumi-junya-b001",
-    "abendgift-n"
+    "abendgift-n",
+    "chemical-riwore-normal-white",
+    "chemical-riwore-normal-black",
+    "chemical-riwore-lop-white",
+    "chemical-riwore-lop-black",
+    "vroidshop-323"
   ],
   "non_humanoid": [
     "kanonmk3d-bear",
@@ -807,6 +812,7 @@
     "vrm-spec-vrmc-materials-mtoon-uv-animation-test",
     "vrm-spec-vrmc-vrm-expressions-isbinary-overridden",
     "vrm-spec-vrmc-vrm-expressions-isbinary-overrides",
-    "rolock-pest-mask-chan"
+    "rolock-pest-mask-chan",
+    "amkr-zeroni"
   ]
 }

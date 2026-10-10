@@ -510,3 +510,12 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - 累計は商品ページ76、カタログID101件、物理VRM112件、検査112件、NAS新規53件、非人型6件、権利矛盾39件、権利未確認1件。NASは408 ZIP・816 WebP、未圧縮VRM 2,495,905,033 bytes、ZIP 1,332,185,691 bytes、WebP 11,581,876 bytes、削減1,163,719,342 bytes（46.6251%）。`verify_nas.py`は`ok:true`、`errors:[]`。
 - 797件の現行内訳はNAS保存78、実バイナリ非人型7、作者索引由来非人型1、埋込権利矛盾69、許諾未確認34、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち417、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2。合計797、未分類0。別軸の形状選別は人型候補557、非人型244、未判定496。
 - 旧355件の索引を今回の53新規保存IDから除外したSHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`でbaselineと一致。
+
+## 2026-10-10 BOOTH認証済み追加バッチ19
+
+- 七百屋/Nao-YaのVRM詰め合わせvol.1、shirotenのマシェリ2版、vTuberホームセンターのOpenpose avatar、とりにく屋のOpenpose Full 0.x/1.0、hakase3dclusterのあいすくんの5商品ページを処理。正規無料ファイルを7回取得し、10 catalog IDに対応する物理VRM 10件を検査した。転送89,695,642 bytes、展開後VRM総量116,981,596 bytes。全ページHTTP 200、HTTP 429は0件。
+- 10件すべて商品/作者の公開条件とVRM埋込メタデータに矛盾。Nao-Ya無料アイテム規約は個人/法人の商用利用・改変・条件付き配布を認めクレジット任意だが、4 VRMは埋込`OnlyAuthor`/商用不可/再配布禁止。shiroten無料VRMは個人VRSNS利用・配信を認める一方、埋込`OnlyAuthor`。vTuber用Openposeはポーズ生成/ControlNet利用可だが埋込`OnlyAuthor`。Torinikuは改変・商用・再配布可（クレジット必須）に対し、0.x/1.0の埋込条件は改変/商用/再配布を禁止。あいすくんはClusterアバター利用を案内する一方、埋込は`OnlyAuthor`。10件ともプレビュー生成・NAS保存なし。
+- バッチ19は5商品ページ、7ダウンロード試行、10 catalog IDs、10物理VRM検査、NAS純増0件、非人型0件、権利矛盾10件、権利未確認0件。詳細チェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261010-19.json`。
+- 累計は商品ページ81、カタログID111件、物理VRM122件、検査122件、NAS新規53件、非人型6件、権利矛盾49件、権利未確認1件。NASは408 ZIP・816 WebP、未圧縮VRM 2,495,905,033 bytes、ZIP 1,332,185,691 bytes、WebP 11,581,876 bytes、削減1,163,719,342 bytes（46.6251%）。`verify_nas.py`は`ok:true`、`errors:[]`。
+- 797件の現行内訳はNAS保存78、実バイナリ非人型7、作者索引由来非人型1、埋込権利矛盾79、許諾未確認34、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち407、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2。合計797、未分類0。別軸の形状選別は人型候補557、非人型244、未判定496。
+- 旧355件の索引を今回の53新規保存IDから除外したSHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`でbaselineと一致。

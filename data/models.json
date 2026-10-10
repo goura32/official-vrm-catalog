@@ -1908,16 +1908,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/5614226",
       "download_url": null,
       "access_method": "booth_free_download",
       "license_name": "ふぁふぁ無料VRM版 利用規約（作者商品ページ）",
       "license_url": "https://booth.pm/ja/items/5614226",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
       "distribution_filename": "faafaa-vrm_free.zip",
-      "notes": "作者BOOTHのVRMモデル(.vrm)無料版が0円。VRC用無料試用版とは別商品バリエーション。ZIPの内部VRMファイル・VRM仕様版は未確認。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "作者BOOTHのVRMモデル(.vrm)無料版が0円。VRC用無料試用版とは別商品バリエーション。2026-10-10にログイン済みBOOTHの正規無料ダウンロードZIPからfaa-free.vrmを抽出し、GLB v2/VRM 0.x、埋込author=たみゅ、commercialUssageName=Disallow、licenseName=Redistribution_Prohibited、VRM SHA-256=40d5d60ff13b75af12fe9c2fc66f9337ad1d3c9fd421ee2493c27657fef06c8fを確認。人型外形、正面Tポーズ768x1024、顔512x512を目視確認し、NASへモデル単体アーカイブを保存。再配布しない。"
     },
     {
       "id": "ustella-new-fee-normal",
@@ -1934,10 +1934,10 @@
       "access_method": "booth_free_download",
       "license_name": "作者・公式BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5447407",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
       "distribution_filename": "二次創作用VRM3DモデルNEW_FEE_v0.0.0.zip",
-      "notes": "0円の公式ZIP内のNEW_Fee.vrm。通常版。軽量版・shape版も同じZIPに同梱。支援版のみPSD追加。作者二次創作ガイドラインに従う。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "0円の公式ZIP内のNEW_Fee.vrm。通常版。軽量版・shape版も同じZIPに同梱。支援版のみPSD追加。作者二次創作ガイドラインに従う。2026-10-10に正規無料ZIPから抽出し、GLB v2/VRM 0.x、埋込commercialUssageName=Allow、licenseName=Redistribution_Prohibited、reference=https://u-stella.co.jp/second-creation-guideline/、VRM SHA-256=8ca5ed5016479de444239d9a893513ba18bcad0894ef77156918f63c5a44a3d9を確認。人型外形、正面Tポーズ768x1024、顔512x512を目視確認し、NASへモデル単体アーカイブを保存。再配布しない。"
     },
     {
       "id": "ustella-new-fee-light",
@@ -1954,10 +1954,10 @@
       "access_method": "booth_free_download",
       "license_name": "作者・公式BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5447407",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
       "distribution_filename": "二次創作用VRM3DモデルNEW_FEE_v0.0.0.zip",
-      "notes": "0円の公式ZIP内のNEW_Fee_Light.vrm。通常版とは別の軽量VRM。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "0円の公式ZIP内のNEW_Fee_Light.vrm。通常版とは別の軽量VRM。作者二次創作ガイドラインに従う。2026-10-10に正規無料ZIPから抽出し、GLB v2/VRM 0.x、埋込commercialUssageName=Allow、licenseName=Redistribution_Prohibited、reference=https://u-stella.co.jp/second-creation-guideline/、VRM SHA-256=76fde1d71822df0fea166db8ed5d80a81a8ebffc22b33e234d1230aa329c3b1aを確認。人型外形、正面Tポーズ768x1024、顔512x512を目視確認し、NASへモデル単体アーカイブを保存。再配布しない。"
     },
     {
       "id": "ustella-new-fee-shape",
@@ -1974,10 +1974,10 @@
       "access_method": "booth_free_download",
       "license_name": "作者・公式BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5447407",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
       "distribution_filename": "二次創作用VRM3DモデルNEW_FEE_v0.0.0.zip",
-      "notes": "0円の公式ZIPに貫通防止シェイプキーなどを適用していないVRMを同梱。公式説明の内部名『NEW_Fee_ shape.vrm』。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "0円の公式ZIPに貫通防止シェイプキーなどを適用していないVRMを同梱。公式説明の内部名『NEW_Fee_ shape.vrm』。作者二次創作ガイドラインに従う。2026-10-10に正規無料ZIPから抽出し、GLB v2/VRM 0.x、埋込commercialUssageName=Allow、licenseName=Redistribution_Prohibited、reference=https://u-stella.co.jp/second-creation-guideline/、VRM SHA-256=72881d2ae98d44d90974dc08506a05d024a744723b9a2a4867881d07778e78daを確認。人型外形、正面Tポーズ768x1024、顔512x512を目視確認し、NASへモデル単体アーカイブを保存。再配布しない。"
     },
     {
       "id": "pachimon-shitocha-vrm1",
@@ -1995,10 +1995,10 @@
       "access_method": "booth_free_download",
       "license_name": "作者・公式BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/8535916",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
       "distribution_filename": "pachimon_shitocha_free_v1.0.zip",
-      "notes": "0円の個人活動向けZIPにVRM 1.0と0.xの両方を収録。表情計88キー・iFacialMocap52キー。個人の動画・配信収益化可。クレジット必須、法人・企業案件・ゲーム/アプリ組込み不可、再配布禁止。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "0円の個人活動向けZIPにVRM 1.0と0.xの両方を収録。表情計88キー・iFacialMocap52キー。個人の動画・配信収益化可。クレジット必須、法人・企業案件・ゲーム/アプリ組込み不可、再配布禁止。2026-10-10に正規無料ZIPからpachimon_shitocha_vrm1_free.vrmを抽出し、GLB v2/VRM 1.0、埋込commercialUsage=personalProfit、allowRedistribution=false、modification=allowModification、creditNotation=required、VRM SHA-256=99bb113f338420e9d2390313168afc34a44f39b5287c6ad2e9861f6d5b7addb1を確認。人型外形、正面Tポーズ768x1024、顔512x512を目視確認し、NASへモデル単体アーカイブを保存。再配布しない。"
     },
     {
       "id": "pachimon-shitocha-vrm0",
@@ -2016,10 +2016,10 @@
       "access_method": "booth_free_download",
       "license_name": "作者・公式BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/8535916",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
       "distribution_filename": "pachimon_shitocha_free_v1.0.zip",
-      "notes": "VRM 1.0版と同じ無料ZIP内の0.x互換版。個人活動向け、クレジット必須、法人・企業案件・ゲーム/アプリ組込み不可、再配布禁止。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "VRM 1.0版と同じ無料ZIP内の0.x互換版。個人活動向け、クレジット必須、法人・企業案件・ゲーム/アプリ組込み不可、再配布禁止。2026-10-10に正規無料ZIPからpachimon_shitocha_vrm0_free.vrmを抽出し、GLB v2/VRM 0.x、埋込commercialUssageName=Allow、licenseName=Redistribution_Prohibited、VRM SHA-256=824960e98e0e1f19fcaa17645b23f48ae8ee04f5bf1528855179c497aa70684aを確認。人型外形、正面Tポーズ768x1024、顔512x512を目視確認し、NASへモデル単体アーカイブを保存。再配布しない。"
     },
     {
       "id": "madananitoberu-vrm",

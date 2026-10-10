@@ -4783,9 +4783,9 @@
       "distribution_filename": "sayo_avatar_-_muryou.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/7185501",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者の無料VRMのみのZIP。VRoid編集データを含む有料セットは対象外。再配布禁止。公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "無料UIからsayo_avatar_-_muryou.zip（3,977,011 bytes）を取得。sayo_avater/sayo.vrmはVRM 0.x、SHA-256=3912d2236471fc6a60e1c3db72d2db5cb6be8b108c6068450b5ff233c227b212。人型・Tポーズ・顔を確認したが、商品ページは性的表現を許可し、埋込sexualUssageName=Disallowのため権利矛盾として未保存。"
     },
     {
       "id": "jowashop-ordinary-girl",
@@ -4960,9 +4960,9 @@
       "distribution_filename": "ゆるねこ-VRM.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/8734821",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者オリジナルVRoid製モデル。無料ZIPに「ゆるねこ.vrm」を同梱と明記。改変可、再配布・転売禁止。公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "無料UIからゆるねこ-VRM.zip（14,439,227 bytes）を取得。ゆるねこ.vrmはVRM 0.x、SHA-256=9ea664d9f89ef98403e592a37e3cda7dd927f27bb2a6ac14b2549517d1f6504d。ページと日英READMEは転売/再配布禁止・改変可で一致。人型Tポーズ・顔を確認したが、若年に見える服装/体型で埋込sexualUssageName=Allow、年齢の記載がないため年齢/内容確認まで非保存。"
     },
     {
       "id": "rituku-tanuki-onigiri-switch",
@@ -5120,9 +5120,9 @@
       "distribution_filename": "yamaneko_white.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5305879",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が期間限定で無料公開するVRMのみのZIP。個人のアバター・VRMアプリでの利用向け。無料公開の継続は要再確認。公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "商品ページは0円・個人で楽しむ範囲の利用を案内し、商業モデル利用とVTuber活動を禁止、再配布不可。個人向け条件が非公開NAS保管・確認プレビューに適用されるか不明なためダウンロードせず保留。"
     },
     {
       "id": "branshop-nao",
@@ -5161,9 +5161,9 @@
       "distribution_filename": "Hatsuka.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/3871143",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者公式ZIPにPC用とQuest用の2 VRMを明記。これはPC用（約28,850ポリゴン）のレコード。ライセンスは同梱LICENCE.txtおよびVRoid Studio規約を参照。公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "無料UIからHatsuka.zipを取得。Hatsuka/Hatsuka_pc.vrm（17,332,412 bytes、VRM 0.x、SHA-256=fa3587ef1872ad203857b66874d741519f98a847fbe49be8cef9aca05f59665b）。ページ/README/LICENCEはClood Worksの著作権を維持し広い利用を許可する一方、埋込licenseName=Otherとパブリックドメイン/著作権放棄の表記が食い違うため権利矛盾。Tポーズ・顔は確認したが未保存。"
     },
     {
       "id": "cloodworks-hatsuka-quest",
@@ -5182,9 +5182,9 @@
       "distribution_filename": "Hatsuka.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/3871143",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者公式ZIPにPC用とQuest用の2 VRMを明記。これはQuest用（約15,016ポリゴン）のレコード。ライセンスは同梱LICENCE.txtおよびVRoid Studio規約を参照。公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "無料UIからHatsuka.zipを取得。Hatsuka/Hatsuka_quest.vrm（12,828,560 bytes、VRM 0.x、SHA-256=8cb7d7ca4320338ff5564a4aae779a521301ee91c677173fddc92afe7ad8519c）。ページ/README/LICENCEはClood Worksの著作権を維持し広い利用を許可する一方、埋込licenseName=Otherとパブリックドメイン/著作権放棄の表記が食い違うため権利矛盾。Tポーズ・顔は確認したが未保存。"
     },
     {
       "id": "kuasa-anyame",
@@ -5260,9 +5260,9 @@
       "distribution_filename": "ver1_1.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6859520",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が0円でVRM対応Humanoidモデルを配布。ファイル名はZIP。VRMの実ファイル名・仕様版は後日確認。公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_package_inspected_model_mapping_ambiguous_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "正規無料ver1_1.zipを取得（5,267,027 bytes、SHA-256=bb6d20418247de30baed5a6bf626d157e39978536c6a8327d366f83374daa250）。パッケージにはmoyashi-vrm-after.vrmとmoyashi-vrm-human.vrmの2候補、FBX、Unitypackage、画像、複数言語ライセンスPDFが同梱され、単一IDへの対応を確定できない。VRMを抽出/検査せずZIPを削除、NAS未保存。"
     },
     {
       "id": "tatougai-oninoko-kiri",
@@ -5634,9 +5634,9 @@
       "distribution_filename": "エルフ_弓使い_.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5775364",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "0円の作者配布VRM。アバター利用OKだがVTuberキャラクター利用・改変不可。商用配信時クレジット必要。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "商品ページはアバター利用を許可する一方、VTuberキャラクター利用・改変・再配布を禁止し、商用配信にも条件を付す。今回のローカルカタログ保管/プレビューが許諾範囲か明確でないためダウンロードせず保留。"
     },
     {
       "id": "kuranmo-elf-mage",
@@ -5987,9 +5987,9 @@
       "distribution_filename": "Mira-vrm.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/8684534",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "2026-08-11に作者がVRM不具合修正版へ差し替え。デスクトップAI Wisp付属のアバターを0円で単体配布。VRM 1.0と明記、ライセンス条件は配布ページおよびファイルのVRM Meta。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-11",
+      "notes": "正規無料UIからMira-vrm.zip（9,244,399 bytes）を取得し、Mira.vrm（17,133,756 bytes、VRM 1.0、SHA-256=761e45c592fcb9a4d11c0fa419fedea793171caf3c24bf3360be9c3113c622a9）を確認。README/ページは全員のアバター利用、法人商用、改変・再配布を許可し、性的/暴力的/政治・宗教等の利用を禁止。埋込avatarPermission=everyone、commercialUsage=corporation、allowRedistribution=true、modification=allowModificationRedistribution。より厳しいページ制限に従い、非性的な人型Tポーズ・顔を確認してmodels/renga-wisp-mira.zipへNAS保存。外部再配布なし。"
     },
     {
       "id": "projectkyoukoku-kosei",
@@ -6027,9 +6027,9 @@
       "distribution_filename": "EgyptianGod02.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/8629608",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者0円のエジプト風VRM 3Dアバター。商用利用不可、再配布禁止。ページ内のサイズ表記には異なる値があり実ファイル検証待ち。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "正規無料UIからEgyptianGod02.vrm（9,514,748 bytes、VRM 0.x、SHA-256=914c6c19e0637171b7b4dcca94b8c82be3974c9905c954a1c1ef7160464736b9）を取得。商品ページはアバター利用/改変を許可する一方、埋込allowedUserName=OnlyAuthor、licenseName=Redistribution_Prohibitedで矛盾。ページの配布サイズ表示9.07 MBと説明23,789 KBも不一致。プレビュー/NAS保存せず保留。"
     },
     {
       "id": "jima-muscle-pigeon",
@@ -6048,9 +6048,9 @@
       "distribution_filename": "MusclePigeon_v1.0.0.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/8737858",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が0円ZIPにMusclePigeon.vrmを同梱と明記。VRM 0.x、再配布禁止、商用利用・改変可。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_package_inspected_scope_excluded_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "商品ページの無料MusclePigeon ZIPを一度取得（20,207,030 bytes）したが、VRMに加えてFBX、GLB、テクスチャ、編集用Pythonツール等を含むフルソースパッケージと判明。VRMを抽出/検査せずZIPを削除し、VRM-only取得範囲外として未保存。"
     },
     {
       "id": "jima-middle-aged-marmot",
@@ -6070,9 +6070,9 @@
       "distribution_filename": "MiddleAgedMarmot_v1.0.0.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/8806174",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が0円ZIP内のMiddleAgedMarmot.vrmとVRM 1.0を明記。再配布禁止、商用利用・改変可。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_product_page_scope_excluded_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "商品ページで無料ZIPにVRMと編集用Blender原本を同梱すると確認。VRM-only取得範囲外のためダウンロードせず未保存。"
     },
     {
       "id": "jima-muscle-mantis",
@@ -6091,9 +6091,9 @@
       "distribution_filename": "MuscleMantis_v1.0.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/8768066",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が0円ZIP内のMuscleMantis.vrmを明記。VRM 1.0、表情・Blinkは未実装。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_product_page_scope_excluded_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "商品ページで無料ZIPにVRM、FBX、編集用Blender rig/sourceを同梱すると確認。VRM-only取得範囲外のためダウンロードせず未保存。"
     },
     {
       "id": "tori-no-tomoshibi-red",
@@ -7476,9 +7476,9 @@
       "distribution_filename": "フルリール.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5105685",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "花の精霊。1.4は顔・バランス・瞳エミッション更新。動画制作時クレジット必須、配信・商用利用は作者に要相談。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-11",
+      "notes": "無料の直接VRM 1.3を取得（20,756,228 bytes、VRM 0.x、SHA-256=253a54befcea2561d30a7265f3f508711f47d20119596d836368e200757cfd95）。ページはVRSNS利用可、動画公開時クレジット、商用/配信/ゲーム制作は作者相談、モデル販売禁止。埋込ExplicitlyLicensedPerson、commercialUssageName=Disallow、Redistribution_Prohibited、性的/暴力的利用Disallow。非商用の私的NAS保管・非性的プレビューの範囲で規約に従い、人型Tポーズ/顔を確認しmodels/clearlink-fleurir-13.zipへ保存。外部再配布なし。"
     },
     {
       "id": "clearlink-fleurir-14",
@@ -7497,9 +7497,9 @@
       "distribution_filename": "フルリール_1.4.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5105685",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "花の精霊。1.4は顔・バランス・瞳エミッション更新。動画制作時クレジット必須、配信・商用利用は作者に要相談。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-11",
+      "notes": "無料の直接VRM 1.4を取得（21,284,192 bytes、VRM 0.x、SHA-256=66cb0c56cc383e00e2aa4f4555fb88e7847f3730740564ee5785e49a55017e0b）。ページはVRSNS利用可、動画公開時クレジット、商用/配信/ゲーム制作は作者相談、モデル販売禁止。埋込ExplicitlyLicensedPerson、commercialUssageName=Disallow、Redistribution_Prohibited、性的/暴力的利用Disallow。非商用の私的NAS保管・非性的プレビューの範囲で規約に従い、人型Tポーズ/顔を確認しmodels/clearlink-fleurir-14.zipへ保存。外部再配布なし。"
     },
     {
       "id": "clearlink-sumire-11-battle",

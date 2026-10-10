@@ -613,3 +613,13 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - バッチ29は9ページ、5無料UIダウンロード、9物理VRM検査、NAS純増1件、非人型1件、権利矛盾7件、許諾未確認2件、新規モデル対応保留0件、HTTP 429 0件。NAS純増分は未圧縮18,571,044 bytes→ZIP 11,392,684 bytes、Tポーズ/顔WebPを各1枚。作業機のVRM/ZIP/プレビュー、プレビュー実行環境、npm cacheは監査後に削除。
 - 累計は商品ページ136、無料ファイル取得ID194、物理VRM214、NAS新規106、非人型7、権利矛盾71、権利未確認14、モデル対応未確定7。NASは461 ZIP・922 WebP、未圧縮VRM 3,476,492,545 bytes、ZIP 1,907,772,282 bytes、WebP 14,198,188 bytes、削減率45.1236%。`verify_nas.py`は`ok:true`、`errors:[]`。index SHA-256は`6c4eeb92da7996da3561d80812ea95e902d03e78958322936af0818161389ad4`、旧355件の保護SHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`で不変。
 - R1/R2/R3以外の797件の内訳はNAS保存131、実バイナリ非人型8、作者索引由来非人型1、埋込権利矛盾101、許諾未確認47、モデル対応未確定7、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち311、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2。合計797。詳細は`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261010-29.json`および`...-29-artifacts.json`。
+
+## 2026-10-11 BOOTH認証済み追加バッチ30
+
+- `booth-real-profile-local-2`のログイン状態を画面で確認。BOOTH商品ページ15件を直列確認（全てHTTP 200、HTTP 429なし）。無料UI操作9回で10 catalog ID分のファイルを取得し、物理VRM memberを11件確認した。8件はVRMバイナリ/メタデータ検査、形状・プレビュー確認まで実施。有料取得、購入、認証回避、別ホスト/プロキシ迂回は行っていない。
+- `renga-wisp-mira`は商品ページ/READMEと埋込条件を照合し、VRM 1.0、人型、Tポーズ/顔を確認。商用利用等を禁止するページ側のより厳しい条件に従い、非性的用途のローカルNAS保管として保存。フルリール1.3/1.4は各版の直接VRM、商品ページ条件、埋込権利情報、人型/Tポーズ/顔を個別確認し、2件を保存。B30のNAS純増は3 ZIP・WebP6枚。
+- Sayo、Hatsuka PC/Quest、Pharaohの4件は商品条件と埋込権利値の矛盾で未保存。ゆるねこは若年に見える外観と性的利用許可の年齢/内容懸念、白ねこみみとKuranmo弓使いは非公開保管・プレビューの許諾範囲が不明で保留。Moyashiは2 VRM/編集用sourceを含みID対応不明のためVRMを抽出せずZIP削除。Muscle Pigeonの取得ZIPも編集用source混在の範囲外と確認後に削除。マーモット/カマキリは商品ページでsource同梱を確認し、未取得。作業ZIP/VRM/プレビューは最終監査後に削除し、scratchと一時node_modulesが不存在であることを確認した。
+- バッチ30は15ページ、無料UI操作9回、取得ID10、物理VRM member 11、実VRM検査8、NAS純増3、権利矛盾4、許諾/年齢内容保留3、モデル対応不明1、無料配布ファイル範囲外3、HTTP 429 0。BOOTH累計は151ページ、取得catalog ID204、物理VRM検査222、NAS新規109、権利矛盾75、許諾未確認17、モデル対応未確定8。
+- NASは464 ZIP・928 WebP、未圧縮VRM 3,535,666,721 bytes、ZIP 1,943,831,503 bytes、WebP 14,378,760 bytes、削減率45.0222%。`verify_nas.py`は`ok:true`、`errors:[]`。当初355件の保護対象行SHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`でbaseline一致。
+- R1/R2/R3以外の797件はNAS保存134、実バイナリ非人型8、作者索引由来非人型1、埋込権利矛盾105、許諾未確認50、モデル対応未確定8、VRM-only取得範囲外3、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち297、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2（合計797）。
+- 作業チェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261010-30.json`。GitHub Actions/RDCは不使用。権利/ID保留と保存済みIDを次バッチで再取得しない。

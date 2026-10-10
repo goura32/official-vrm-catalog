@@ -125,3 +125,12 @@ R1/R2のPNGは作者GitHub上のUV/アルベドテクスチャで、3Dモデル�
 - 2026-10-10までのBOOTH認証済み実取得は商品ページ136、実際に無料ファイル取得したcatalog ID194件、物理VRM214件を検査、NAS新規保存106件、非人型7件、権利矛盾71件、権利未確認14件、モデル対応未確定7件、HTTP 429 0。バッチ29は9ページ（全て200）、無料UIダウンロード5回・45,441,872 bytes、物理VRM9件を検査し、`vroidshop-323`を人型・Tポーズ・顔確認後NAS保存。`amkr-zeroni`は果物マスコットで非人型。ほしうさはUV Licenseと個別VRM権利メタデータの不整合、リウォレ4種は埋込の成人向け利用許可とReadmeの限定的利用条件の差、および少年設定の内容懸念、刃切切乃は公開無料配布と`OnlyAuthor`の差で計7 IDを権利保留。UMEKOは無料版と全額購入条件の適用関係が不明、紬たかはリンク先の必須規約がDNS失敗のため、無取得で2 IDを権利未確認保留。LuaとQuanstellaは全利用条件を読み切らず取得しなかった。作業ZIP/VRM/プレビューと一時npm環境は監査後に削除する。
 - バッチ28のAyame v1ページのみ確認とv2の対応保留はそのまま維持する。バッチ28/29のいずれもHTTP 429は0。NAS監査は461 ZIP・922 WebPで`ok:true`、`errors:[]`、旧355件の保護ハッシュは不変。
 - `data/download-scope.json`の予備分類（人型565、非人型245、形状判断保留487）は、実取得後の`verification`状態とは別の予備選別情報として維持する。実体取得・権利確認・描画確認を完了したIDだけを永続保存対象とする。
+
+## 2026-10-11 BOOTH認証済み実取得後の更新（バッチ30）
+
+- 最新mainを起点に15商品ページを直列確認（全てHTTP 200、HTTP 429なし）。9回の無料UI取得操作で10 catalog ID分・11 physical VRM memberを確認した。8件はVRMメタデータまで検査し、3件（Mira、フルリール1.3/1.4）を人型Tポーズ/顔確認後にNAS保存した。
+- `atelier-yozora-sayo`、Hatsuka PC/Quest、`zzz222-pharaoh`の計4件は、商品条件と埋込権利値の矛盾により保存しない。`nekomishouten-yuru-neko`は若年に見える外観と埋込性的利用許可、`yamaron-white-nekomimi`とKuranmo弓使いは非公開アーカイブ/プレビューの許諾範囲が不明で、計3件を権利/内容保留とした。
+- JIMAの鳩/マーモット/カマキリは、無料商品がVRM-onlyではなくFBX/GLB/Blender等の編集用sourceを含むため取得範囲外とした（鳩ZIPは取得後に内容確認し、VRMを抽出せず削除）。`shounokoto-moyashi`は2種類のVRMと編集用FBX/Unitypackage等が一つのcatalog IDに含まれ、対応を推測せず保留・ZIP削除。ソース資産をNASへ保存していない。
+- NASは464 ZIP・928 WebP、未圧縮3,535,666,721 bytes、ZIP1,943,831,503 bytes、WebP14,378,760 bytes。`verify_nas.py`は`ok:true, errors:[]`。既存355件の保護対象行SHA-256はbaseline `4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`と一致。
+- BOOTH累計は151ページ、取得catalog ID204、検査物理VRM222、NAS新規109、権利矛盾75、権利未確認17、対応未確定8、認証待ち297、HTTP 429 0。797件の排他的内訳はNAS保存134、実バイナリ非人型8、作者索引非人型1、埋込権利矛盾105、許諾未確認50、モデル対応未確定8、VRM-only取得範囲外3、別host拒否2、`dweb.link`恒久ブロック141、BOOTH認証待ち297、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータのみ3、公式リポジトリのみ2（合計797）。
+- 形状の予備分類は引き続き人型565、非人型245、未判定487。rights/ID/access状態を形状リストへ混同していない。バッチ30 checkpointは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261010-30.json`。

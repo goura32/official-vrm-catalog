@@ -21,7 +21,7 @@
 
 [収録・検証方針](docs/collection-policy.md) ／ [追加調査・保留候補](docs/research-notes.md) ／ [全体監査・人型ダウンロード方針](docs/download-scope-review.md) ／ **[NAS保存方式](docs/nas-storage.md)** ／ **[Hermes Agent認証済みBOOTH一括継続指示](docs/hermes-bulk-resume.md)** ／ [初回の指示書](docs/hermes-bulk-run.md) ／ [一括検証実績・再開チェックポイント](docs/hermes-bulk-run-results.md)
 
-**登録は1,297件で凍結中。** [形状選別](data/download-scope.json)は人型候補565・非人型245・未判定487（候補と実体確認を区別）。NASは**461 ZIP・Tポーズ/顔WebP 922枚**、未圧縮VRM 3,476,492,545 bytes → ZIP 1,907,772,282 bytes（削減率45.1236%）。直近の[実機レポート](docs/hermes-bulk-run-results.md)では`verify_nas.py`が`ok:true`、`errors:[]`。R1/R2/R3以外の797 IDはNAS保存131、実バイナリ非人型8、作者索引由来非人型1、埋込権利矛盾101、許諾未確認47、モデル対応未確定7、別host拒否2、`dweb.link`ブロック141、BOOTH認証待ち311、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2（合計797）。2026-10-10までにパイロット＋29バッチでBOOTH商品ページ136・無料ファイル取得ID194・物理VRM検査214、NAS新規106、非人型7、権利矛盾71、権利未確認14、モデル対応未確定7、HTTP 429は0件。バッチ29では`vroidshop-323`を保存し、`amkr-zeroni`は非人型、7 IDを権利矛盾、2 IDを許諾未確認として保留。既存355件の保護対象SHA-256はbaseline一致。次は[認証済みBOOTH一括継続指示](docs/hermes-bulk-resume.md)に従い、BOOTH認証待ち311件を処理する。
+**登録は1,297件で凍結中。** [形状選別](data/download-scope.json)は人型候補565・非人型245・未判定487（候補と実体確認を区別）。NASは**464 ZIP・Tポーズ/顔WebP 928枚**、未圧縮VRM 3,535,666,721 bytes → ZIP 1,943,831,503 bytes（削減率45.0222%）。直近の[実機レポート](docs/hermes-bulk-run-results.md)では`verify_nas.py`が`ok:true`、`errors:[]`。R1/R2/R3以外の797 IDはNAS保存134、実バイナリ非人型8、作者索引由来非人型1、埋込権利矛盾105、許諾未確認50、モデル対応未確定8、無料配布ファイル範囲外3、別host拒否2、`dweb.link`ブロック141、BOOTH認証待ち297、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2（合計797）。2026-10-11までにパイロット＋30バッチでBOOTH商品ページ151・無料取得ID204・物理VRM検査222、NAS新規109、非人型7、権利矛盾75、許諾未確認17、モデル対応未確定8、HTTP 429は0件。バッチ30は15ページ・無料UI操作9回でMiraとフルリール2版を保存し、ソース同梱・ID対応不明モデル等は保留した。既存355件の保護対象SHA-256はbaseline一致。次は[認証済みBOOTH一括継続指示](docs/hermes-bulk-resume.md)に従い、BOOTH認証待ち297件を処理する。
 
 **画像・形状の根拠**： [R1/2 前半](docs/shape-review-100avatars-1-100.md) ／ [R1/2 後半](docs/shape-review-100avatars-101-200.md) ／ [R3](docs/shape-review-100avatars-r3.md) ／ [季節系・その他](docs/shape-review-indexed-other.md) ／ [MJMoonbow](docs/shape-review-mjmoonbow.md)。画像ファイル671件をIDに対応付けていますが、R1/R2のPNGはUVテクスチャで外形判定には使えません。画像対応付けは実VRMの形状確認やダウンロード許可を意味しません。
 
@@ -150,6 +150,11 @@ VRM 0.x / 1.0のモデル、アバター型と機能検証用モデルを対象�
 - `official_binary_inspected_non_humanoid_not_archived`: 実バイナリと描画を確認し、外形が非人型のため未保存
 - `official_binary_inspected_shape_unresolved_not_archived`: 実バイナリと描画を確認したが、形状判断保留のため未保存
 - `official_binary_inspected_embedded_rights_conflict_not_archived`: 実バイナリの埋込作者/権利情報に不整合があり、権利保留として未保存
+- `official_binary_inspected_rights_conflict_not_archived`: ページ条件とVRM埋込権利情報が矛盾するため未保存
+- `rights_unverified_hold`: 利用許諾または年齢・内容範囲を確認できないため取得/保存を保留
+- `official_package_inspected_model_mapping_ambiguous_not_archived`: ZIPに複数VRMがありカタログIDとの対応を確定できないため未保存
+- `official_package_inspected_scope_excluded_not_archived`: 取得した無料パッケージがVRM-only範囲外（編集用ソース等を同梱）のためVRMを抽出せず未保存
+- `official_product_page_scope_excluded_not_archived`: 商品ページで無料パッケージに編集用ソース等を含むと分かり、取得しなかった
 
 `binary_evidence` は一部の公式サンプルに記録したGLBヘッダーと埋め込みVRMメタデータの解析結果です。`github_blob_sha` はGitHubのGit blob IDで、VRMファイルそのもののSHA1ではありません。R3実VRMの描画・人型確認とファイル全体のSHA-256は、一括実機検証レポートとNAS `index.jsonl` に記録しています。
 

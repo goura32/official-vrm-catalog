@@ -538,3 +538,12 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - 累計は商品ページ91、catalog ID121件、物理VRM133件、検査133件、NAS新規57件、非人型6件、権利矛盾55件、権利未確認1件。NASは412 ZIP・824 WebP、未圧縮VRM 2,553,667,601 bytes、ZIP 1,353,709,555 bytes、WebP 11,692,538 bytes、削減1,199,958,046 bytes（46.9896%）。`verify_nas.py`は`ok:true`、`errors:[]`。
 - R1/R2/R3以外の797件の内訳はNAS保存82、実バイナリ非人型7、作者索引由来非人型1、埋込権利矛盾85、許諾未確認34、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち397、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2。合計797。別軸の予備形状選別は人型候補557、非人型244、未判定496。
 - 旧355件の索引を今回の57新規保存IDから除外したSHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`でbaselineと一致。
+
+## 2026-10-10 BOOTH認証済み追加バッチ22
+
+- shop-perchのメティス・ユズ・ユウナギ・リーヤーとRomanticSpicaのダークあいす（VRM 0.x/1.0）の5商品ページで6件の無料VRMを取得。全6件を検査し、保持ファイルの合計は100,092,584 bytes。全商品ページHTTP 200、HTTP 429は0件。
+- メティス、ユズ、ユウナギは商品条件がアバター利用・個人/法人商用利用・改変を許可する一方、埋込`OnlyAuthor`/商用不可で矛盾。ダークあいす0.xは個人収益化配信を許可する商品条件と、埋込`commercialUssageName=Disallow`が矛盾。4件はプレビュー/NAS保存なし。リーヤーは商品条件が個人/法人の商用利用を許可するのに対し、埋込VRM 1.0 `commercialUsage=corporation`が個人商用の範囲を明示しないため、権利未確認で保留。
+- ダークあいす1.0は埋込`commercialUsage=personalProfit`/`avatarPermission=everyone`/再配布不可と、個人配信・アバター利用可/法人商用・再配布不可の公開条件が整合。正面Tポーズ・頭頂まで収まる顔プレビューを目視しNAS保存した。
+- バッチ22は5商品ページ、6ダウンロード試行、6 catalog IDs、6物理VRM検査、NAS純増1件、非人型0件、権利矛盾4件、権利未確認1件。詳細チェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261010-22.json`。
+- 累計は商品ページ96、カタログID127件、物理VRM139件、検査139件、NAS新規58件、非人型6件、権利矛盾59件、権利未確認2件。NASは413 ZIP・826 WebP、未圧縮VRM 2,569,135,305 bytes、ZIP 1,362,484,192 bytes、WebP 11,716,254 bytes、削減1,206,651,113 bytes（46.9672%）。`verify_nas.py`は`ok:true`、`errors:[]`。
+- R1/R2/R3以外の797件の内訳はNAS保存83、実バイナリ非人型7、作者索引由来非人型1、埋込権利矛盾89、許諾未確認35、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち391、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2。合計797。旧355件の索引を今回の58新規保存IDから除外したSHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`でbaselineと一致。

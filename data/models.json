@@ -3050,9 +3050,9 @@
       "distribution_filename": "メティス.vrm",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/7474279",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "メティス.vrmをBOOTH認証済み無料ダウンロードから実取得・検査。GLB v2/VRM 0.x、SHA-256=4a1c7b953c54f327bf5b0c13407dfd4045e701dcd8c02aab50b7acf78b40e5c6。埋込author=avalon、allowedUserName=OnlyAuthor、commercialUssageName=Disallow、Redistribution_Prohibited。商品条件はメタバース/動画配信アバター利用、個人/法人商用利用、改変を許可するため、埋込の作者限定/商用不可と矛盾。プレビュー生成・NAS保存なし。"
     },
     {
       "id": "shopperch-yuzu",
@@ -3069,9 +3069,9 @@
       "distribution_filename": "ユズ.vrm",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/6974966",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "ユズ.vrmをBOOTH認証済み無料ダウンロードから実取得・検査。GLB v2/VRM 0.x、SHA-256=abf27a0f3d9b70fc9e91181f18b4dbdb31ca829911c6b8d4b86779f8c5551547。埋込author=avalon、allowedUserName=OnlyAuthor、commercialUssageName=Disallow、Redistribution_Prohibited。商品条件はメタバース/動画配信アバター利用、個人/法人商用利用、改変を許可するため、埋込の作者限定/商用不可と矛盾。プレビュー生成・NAS保存なし。"
     },
     {
       "id": "shopperch-yuunagi",
@@ -3088,9 +3088,9 @@
       "distribution_filename": "ユウナギ.vrm",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/6865579",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "ユウナギ.vrmをBOOTH認証済み無料ダウンロードから実取得・検査。GLB v2/VRM 0.x、SHA-256=3003a635ac44552a025031ff98ff76886999039f4f202f3d81451656cd777078。埋込author=avalon、allowedUserName=OnlyAuthor、commercialUssageName=Disallow、Redistribution_Prohibited。商品条件はメタバース/動画配信アバター利用、個人/法人商用利用、改変を許可するため、埋込の作者限定/商用不可と矛盾。プレビュー生成・NAS保存なし。"
     },
     {
       "id": "shopperch-riiya",
@@ -3107,9 +3107,9 @@
       "distribution_filename": "リーヤー.vrm",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/7604329",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者の無料VRM版は0円。VRoid編集用ファイルは100円の支援版に含まれる。個人・法人商用と改変可、再配布・自作発言・性的/暴力表現は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-10",
+      "notes": "リーヤー.vrmをBOOTH認証済み無料ダウンロードから実取得・検査。GLB v2/VRM 1.0、SHA-256=797f99c0af0dad210d87cd995e47208be23b234c2978a2b1239211a3302e2932。商品条件は個人/法人商用利用と改変を許可し再配布禁止。埋込authors=avalon、avatarPermission=everyone、commercialUsage=corporation、creditNotation=required、modification=allowModification、allowRedistribution=false。埋込のcommercialUsage=corporationが商品ページの個人商用許可を明示的に解決しないため、権利未確認としてプレビュー/NAS保存を保留。"
     },
     {
       "id": "rolock-mikke",
@@ -3979,9 +3979,9 @@
       "distribution_filename": "Dark_ICE-ダークあいす-1.0.vrm",
       "license_name": "作者BOOTHの商品説明・利用規約",
       "license_url": "https://booth.pm/ja/items/8173063",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円で2つのVRM形式を個別配布。元モデル「あいす」の色違い。収益化配信など個人利用が許可され、無料規約PDFと商品説明が適用される。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "Dark_ICE-ダークあいす-1.0.vrmをBOOTH認証済み無料ダウンロードから実取得・検査。GLB v2/VRM 1.0、SHA-256=c3256ebd4d660b1f47246f07e34ae95d110a1903641bb32926b29d851716aff4。商品条件は個人の収益化配信/アバター利用を許可し、法人商用・再配布/販売を禁止。埋込avatarPermission=everyone、commercialUsage=personalProfit、creditNotation=required、allowRedistribution=false、modification=prohibitedで、確認できた公開条件と矛盾なし。二足人型の全身Tポーズと頭頂を含む顔画像を目視確認しNAS保存。TポーズSHA-256=f75bbe2b43e320792fc977dde3c3a43e2c97b008c24c19186d45c0b32e6aeb82、顔SHA-256=dc77a80c466e4d0c9b350371da3805ea591b10ab61a96157c929a5900bb0a09a。"
     },
     {
       "id": "romanticspica-dark-ice-vrm0",
@@ -3999,9 +3999,9 @@
       "distribution_filename": "Dark_ICE-ダークあいす-0.0.vrm",
       "license_name": "作者BOOTHの商品説明・利用規約",
       "license_url": "https://booth.pm/ja/items/8173063",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円で2つのVRM形式を個別配布。元モデル「あいす」の色違い。収益化配信など個人利用が許可され、無料規約PDFと商品説明が適用される。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "Dark_ICE-ダークあいす-0.0.vrmをBOOTH認証済み無料ダウンロードから実取得・検査。GLB v2/VRM 0.x、SHA-256=6e3f6e5fc8c422d95e35110d095688c38b48826611339246ee65f38424cb48e9。商品条件は個人の収益化配信/アバター利用を許可する一方、埋込commercialUssageName=Disallowで個人商用利用を禁止するため矛盾。プレビュー生成・NAS保存なし。"
     },
     {
       "id": "miukou-poor-girl",

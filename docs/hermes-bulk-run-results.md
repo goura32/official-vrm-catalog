@@ -421,3 +421,12 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - 現在の累計は、商品ページ29、実VRM51件、VRM検査51件、NAS新規27件、非人型5件、権利矛盾13件。NASは382 ZIP・764 WebP、未圧縮VRM 2,049,610,905 bytes、ZIP 1,073,021,894 bytes、削減976,589,011 bytes（47.6475%）、WebP 10,409,552 bytes。`verify_nas.py` は`ok:true`、`errors:[]`。
 - 797件の現行内訳は、NAS保存52、確定非人型5、作者索引由来非人型1、埋込権利矛盾43、許諾未確認33、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち472、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2。合計797、未分類0。
 - 旧355件の索引を今回の27新規IDから除外したSHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`でbaselineと一致。
+
+## 2026-10-10 BOOTH認証済み追加バッチ09
+
+- 天羽ソラ、フッキー、Papecoの3商品ページを、ログイン済みBOOTHの正規無料ZIPリンクから処理した。ZIP内部を安全な相対パスとして検査し、3実VRMを抽出した。
+- 天羽ソラは人型・Tポーズ・顔プレビュー合格としてNAS保存した。フッキーは平たい箱状マスコットで非人型のため保存しなかった。Papecoは人型形状を確認したが、商品独自規約と埋込`commercialUssageName=Disallow`/`Redistribution_Prohibited`の対応を確定できず権利保留にした。
+- バッチ09はHTTP 429 0件、VRM取得バイト47,948,772 bytes。チェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261010-09.json`。
+- 現在の累計は、商品ページ32、実VRM54件、VRM検査54件、NAS新規28件、非人型6件、権利矛盾14件。NASは383 ZIP・766 WebP、未圧縮VRM 2,064,157,529 bytes、ZIP 1,081,151,851 bytes、削減983,005,678 bytes（47.6226%）、WebP 10,456,140 bytes。`verify_nas.py` は`ok:true`、`errors:[]`。
+- 797件の現行内訳は、NAS保存53、確定非人型6、作者索引由来非人型1、埋込権利矛盾44、許諾未確認33、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち469、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2。合計797、未分類0。
+- 旧355件の索引を今回の28新規IDから除外したSHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`でbaselineと一致。

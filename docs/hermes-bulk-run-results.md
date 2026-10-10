@@ -385,3 +385,12 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - 開始時355件の索引から今回の14 IDを除外して再計算したSHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`で開始時baselineと一致し、既存355件の索引行・実体を保護した。現行indexは369 ID一意で重複なし。
 - R1/R2/R3を除く797件の現行排他的内訳は、NAS保存39、確定非人型4、作者索引由来の非人型1、埋込権利矛盾40、許諾未確認33、別hostリダイレクト拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち489、VRoid Hub認証待ち16、公式ページ認証未確認1、商品ページ404 3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2。合計797件で、未分類は0件。
 - ローカルチェックポイントは`booth-authenticated-pilot-20261010.json`、`booth-authenticated-batch-20261010-01.json`〜`04.json`、`authenticated-summary-20261010.json`、`official-page-20261009/batch-status.json`。認証情報、Cookie、パスワード、トークン、認証付き一時URLは記録していない。
+
+## 2026-10-10 BOOTH認証済み追加バッチ05
+
+- `el-luna-monochrome`、Libby、toi、minamoの4商品ページを、ログイン済みBOOTHの正規無料ZIPリンクから処理した。ZIP内部を安全な相対パスとして検査し、VRMだけを一時抽出した。
+- 5 VRMを検査。`el-luna-monochrome` LOW/HIGH、Libby、toiの4件は人型・Tポーズ・顔プレビュー合格としてNAS保存した。minamoは商品説明の法人利用・改変可と埋込`commercialUsage=personalNonProfit`・`modification=prohibited`が矛盾したため、描画・NAS保存を行わず権利保留にした。
+- バッチ05はHTTP 429 0件、VRM取得バイト60,620,972 bytes。チェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261010-05.json`。
+- 現在の累計は、商品ページ20、実VRM30件、VRM検査30件、NAS新規18件、非人型3件、権利矛盾9件。NASは373 ZIP・746 WebP、未圧縮VRM 1,767,594,333 bytes、ZIP 958,932,726 bytes、削減808,661,607 bytes（45.7493%）、WebP 9,889,110 bytes。`verify_nas.py` は`ok:true`、`errors:[]`。
+- 797件の現行内訳は、NAS保存43、確定非人型4、作者索引由来非人型1、埋込権利矛盾41、許諾未確認33、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち484、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2。合計797、未分類0。
+- 旧355件の索引を今回の18新規IDから除外したSHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`でbaselineと一致。作業用VRM、ZIP、プレビューは監査後に削除済み。

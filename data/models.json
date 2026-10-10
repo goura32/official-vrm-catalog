@@ -659,15 +659,15 @@
         "avatar",
         "lightweight"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/2091095",
       "download_url": null,
       "access_method": "booth_free_download",
       "license_name": "モノ御楠ルナ利用条件（BOOTH商品説明）",
       "license_url": "https://booth.pm/ja/items/2091095",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "LOW版は0円。個人商用・法人利用・再配布は禁止。ファイル形式・バージョンは実取得未確認。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "LOW版は0円。個人商用・法人利用・再配布は禁止。2026-10-10にログイン済みBOOTHの正規無料ダウンロードZIPからoxlunamonolow.vrmを抽出し、GLB v2/VRM 0.x、埋込author=草羽エル @GIRL_AFR、commercialUssageName=Disallow、licenseName=Redistribution_Prohibited、VRM SHA-256=5f63cc141401584c821dde2013ce490f73b42ca72e3d521418decd867536b0abを確認。人型外形、正面Tポーズ768x1024、顔512x512を目視確認し、NASへモデル単体アーカイブを保存。再配布しない。",
       "distribution_filename": "oxlunamonolow.zip"
     },
     {
@@ -678,15 +678,15 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/2091095",
       "download_url": null,
       "access_method": "booth_free_download",
       "license_name": "モノ御楠ルナ利用条件（BOOTH商品説明）",
       "license_url": "https://booth.pm/ja/items/2091095",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "HIGH版は0円。個人商用・法人利用・再配布は禁止。ファイル形式・バージョンは実取得未確認。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "HIGH版は0円。個人商用・法人利用・再配布は禁止。2026-10-10にログイン済みBOOTHの正規無料ダウンロードZIPからoxlunamonohigh.vrmを抽出し、GLB v2/VRM 0.x、埋込author=草羽エル @GIRL_AFR、commercialUssageName=Disallow、licenseName=Redistribution_Prohibited、VRM SHA-256=a6f901e9e8973615c45a43680e2a6e26595c11f6d74a9750f9cbba7d9562c7f9を確認。人型外形、正面Tポーズ768x1024、顔512x512を目視確認し、NASへモデル単体アーカイブを保存。再配布しない。",
       "distribution_filename": "oxlunamonohigh.zip"
     },
     {
@@ -756,15 +756,15 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/4893360",
       "download_url": null,
       "access_method": "booth_free_download",
       "license_name": "作者BOOTH商品ページ内の利用条件",
       "license_url": "https://booth.pm/ja/items/4893360",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "無料ファイル: Libby_free_.zip (24.9 MB)、VRM収録と商品ページに記載。改変・商用可、再販・再配布・AI利用・NFT禁止。高度なPerfect Sync設定版等は有料。 公開状況注意（2026-10-08）：booth.pm の共通商品ページに0円で掲載される一方、出品者ショップの個別ページには非公開表示がある。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "無料ファイル: Libby_free_.zip。VRM収録。改変・商用可、再販・再配布・AI利用・NFT禁止。高度なPerfect Sync設定版等は有料。2026-10-10にログイン済みBOOTHの正規無料ダウンロードZIPからLibby_free.vrmを抽出し、GLB v2/VRM 0.x、埋込author=rurune、commercialUssageName=Allow、licenseName=Redistribution_Prohibited、VRM SHA-256=08ddcdad360be0e5e5553682f4a9b1d711b525c06f9cd1671cabfe49d3bb4726を確認。人型外形、正面Tポーズ768x1024、顔512x512を目視確認し、NASへモデル単体アーカイブを保存。再配布しない。",
       "distribution_filename": "Libby_free_.zip"
     },
     {
@@ -794,15 +794,15 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/7203171",
       "download_url": null,
       "access_method": "booth_free_download",
       "license_name": "作者BOOTH商品ページ内の利用条件",
       "license_url": "https://booth.pm/ja/items/7203171",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "無料ファイル: toi.zip (12.7 MB)。VRMと.vroid両方を収録と商品ページに記載。改変可、再配布・販売不可。商用利用は要相談。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "無料ファイル: toi.zip。VRMと.vroidを収録。改変可、再配布・販売不可、商用利用は要相談。2026-10-10にログイン済みBOOTHの正規無料ダウンロードZIPからtoi.vrmを抽出し、GLB v2/VRM 0.x、埋込author=来島、commercialUssageName=Disallow、licenseName=Redistribution_Prohibited、VRM SHA-256=8945ce123a9612e0c7450ec95832044f760f84597f7a1d80d1f699f1ff7d0343を確認。人型外形、正面Tポーズ768x1024、顔512x512を目視確認し、NASへモデル単体アーカイブを保存。再配布しない。",
       "distribution_filename": "toi.zip"
     },
     {
@@ -814,15 +814,15 @@
         "avatar",
         "expressions"
       ],
-      "vrm_version": null,
+      "vrm_version": "1.0",
       "source_url": "https://booth.pm/ja/items/6728662",
       "download_url": null,
       "access_method": "booth_free_download",
       "license_name": "作者BOOTH商品ページ内の利用条件",
       "license_url": "https://booth.pm/ja/items/6728662",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "無料ファイル: minamo.zip (52.5 KB)、中にminamo.vrmを収録と記載。JoyとFun時の水面表情演出。個人商用・法人可、改変可、再配布禁止。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。",
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "無料ファイル: minamo.zip。中にminamo.vrmを収録。公開説明は個人商用・法人可、改変可、再配布禁止だが、実VRMの埋込commercialUsage=personalNonProfit、modification=prohibited、allowRedistribution=false、authors=undefinedと矛盾したため権利保留。実取得SHA-256=a7c547632113667bd7719873fef3a2b2b9da76d2dea1543dd495752ca56f0c2f。プレビュー生成・NAS保存は行わない。",
       "distribution_filename": "minamo.zip"
     },
     {

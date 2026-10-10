@@ -6930,16 +6930,16 @@
         "avatar",
         "outfit-variant"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/4230195",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "賢い女装.zip",
-      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_name": "VRM埋込ライセンス（Everyone、commercial Allow、Redistribution_Prohibited）",
       "license_url": "https://booth.pm/ja/items/4230195",
-      "verification": "official_free_download_auth_required",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
       "checked_at": "2026-10-10",
-      "notes": "作者が賢そうな少年と女装した少年の2種類のアバターとして案内。個別VRMファイルかどうかはZIP未解析。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "正規BOOTH無料ZIP item4230195から賢そう.vrmを取得。VRM 0.x、SHA-256=958fb790a56db59ef269f8f38ab7e8a48c1f8ce0fc35c359a8322fddac2de993。商品ページの賢そうな少年とmember名が一致。埋込allowedUser=Everyone/commercial=Allow/Redistribution_Prohibitedに従い外部再配布せずNASローカル保存。人型Tポーズ・顔確認済み。"
     },
     {
       "id": "teoteome-clever-boy-dress",
@@ -6950,16 +6950,16 @@
         "avatar",
         "outfit-variant"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/4230195",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "賢い女装.zip",
-      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_name": "VRM埋込ライセンス（Everyone、commercial Allow、Redistribution_Prohibited）",
       "license_url": "https://booth.pm/ja/items/4230195",
-      "verification": "official_free_download_auth_required",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
       "checked_at": "2026-10-10",
-      "notes": "作者が賢そうな少年と女装した少年の2種類のアバターとして案内。個別VRMファイルかどうかはZIP未解析。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "正規BOOTH無料ZIP item4230195から賢い女装.vrmを取得。VRM 0.x、SHA-256=74af4a97c42e0bb2847a58be580b7337a01ef95886770b2faa130de1cb64c800。商品ページの女装した少年とmember名が一致。埋込allowedUser=Everyone/commercial=Allow/Redistribution_Prohibitedに従い外部再配布せずNASローカル保存。人型Tポーズ・顔確認済み。別member賢そうメガネなし.vrmは独立カタログIDなしのため保存せず。"
     },
     {
       "id": "teoteome-summer-sister",
@@ -6969,16 +6969,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/5794724",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "お嬢様.zip",
-      "license_name": "制作者の配布ページで案内された利用条件",
-      "license_url": "https://booth.pm/ja/items/5794724",
-      "verification": "official_free_download_auth_required",
+      "license_name": "VRM埋込ライセンス（Everyone、commercial Allow、Redistribution_Prohibited）",
+      "license_url": "https://teoteome.booth.pm/",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
       "checked_at": "2026-10-10",
-      "notes": "依頼主から配布許可取得と作者が説明。無料VRM形式。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "正規BOOTH無料ZIP item5794724のお嬢様.vrmを取得。VRM 0.x、SHA-256=e3b98651c91c20a806f5479c9dde2d5eae3e9f1b5bbdf3358074aa2b4488c087。商品説明は依頼主の配布許可済みと明記。埋込allowedUser=Everyone/commercial=Allow/Redistribution_Prohibitedに従い外部再配布せずNASローカル保存。人型Tポーズ・顔確認済み。"
     },
     {
       "id": "teoteome-christmas-gold",
@@ -7011,16 +7011,16 @@
         "holiday",
         "outfit-variant"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/2627819",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "クリスマス金_スカートあり.zip",
-      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_name": "VRM埋込ライセンス（CC0）",
       "license_url": "https://booth.pm/ja/items/2627819",
-      "verification": "official_free_download_auth_required",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
       "checked_at": "2026-10-10",
-      "notes": "クリスマス風VRMの別無料ZIP。露出について販売者の注意あり、利用規約・ゾーニングに従う。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "正規BOOTHの全年齢スカート版ZIP item2627819からクリスマス金♀スカートあり.vrmを取得。VRM 0.x、SHA-256=c324015cdb451cffff59c236bc6ddd6674f75ec85f4604c08c482e8363b3e869。商品説明で下着が見えない全年齢版と説明され、R15露出版は取得対象外。埋込licenseName=CC0。人型Tポーズ・顔確認後NAS保存。"
     },
     {
       "id": "teoteome-christmas-pink",
@@ -7052,16 +7052,16 @@
         "avatar",
         "outfit-variant"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/2827265",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "新しい金_ちゃん2021.zip",
-      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_name": "VRM埋込ライセンス（CC0）",
       "license_url": "https://booth.pm/ja/items/2827265",
-      "verification": "official_free_download_auth_required",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
       "checked_at": "2026-10-10",
-      "notes": "作者が全年齢用と全年齢向けではないモデルの2種類を別ZIPで公開。個別利用条件要確認。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "正規BOOTH item2827265の無料・全年齢用ZIPから新しい金♀ちゃん2021.vrmを取得。VRM 0.x、SHA-256=5f801cee4bfab5e5217b9b82b7a0ff51a8795f6e44e5f12fa7f21100c3c8e060。埋込licenseName=CC0。商品ページが別ZIPを全年齢向けではないと区分しているため、それは取得せず。人型Tポーズ・顔確認後NAS保存。"
     },
     {
       "id": "teoteome-gold-maid-maid",
@@ -7092,16 +7092,16 @@
         "avatar",
         "color-variant"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/2028691",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "ゴシショタ.zip",
-      "license_name": "制作者の配布ページで案内された利用条件",
-      "license_url": "https://booth.pm/ja/items/2028691",
-      "verification": "official_free_download_auth_required",
+      "license_name": "VRoid Hubモデル条件（第三者/アバター・商用利用可、改変・再配布不可、表記不要）",
+      "license_url": "https://hub.vroid.com/en/license?allowed_to_use_user=everyone&characterization_allowed_user=everyone&corporate_commercial_use=allow&credit=unnecessary&modification=disallow&personal_commercial_use=profit&redistribution=disallow&sexual_expression=allow&version=1&violent_expression=allow",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
       "checked_at": "2026-10-10",
-      "notes": "0円の『2種類 色違い付き』配布枠を根拠に2件。『1種類』枠は同じモデルとして二重計上せず。『目閉じの修正リボンなし』は派生版だが個別のVRM実体未確認につき今回は数えない。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "正規BOOTH item2028691の2色付き無料ZIPからゴシショタ.vrmを取得。VRM 0.x、SHA-256=d8fa34d414369fa6fb0fca76408a41ac168b9f35c717365e479a157f32fc8913。埋込metadataのVRoid Hub規約URLを確認：第三者/アバター・商用利用可、性的/暴力的表現可、表記不要、改変/再配布不可。本バッチでは非性的な全身プレビューのみ生成。VRMは改変せずNASローカル保存のみ、外部再配布なし。人型Tポーズ・顔確認済み。"
     },
     {
       "id": "teoteome-gothic-boy-alternate",
@@ -7112,16 +7112,16 @@
         "avatar",
         "color-variant"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/2028691",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "ゴシショタ.zip",
-      "license_name": "制作者の配布ページで案内された利用条件",
-      "license_url": "https://booth.pm/ja/items/2028691",
-      "verification": "official_free_download_auth_required",
+      "license_name": "VRoid Hubモデル条件（第三者/アバター・商用利用可、改変・再配布不可、表記不要）",
+      "license_url": "https://hub.vroid.com/en/license?allowed_to_use_user=everyone&characterization_allowed_user=everyone&corporate_commercial_use=allow&credit=unnecessary&modification=disallow&personal_commercial_use=profit&redistribution=disallow&sexual_expression=allow&version=1&violent_expression=allow",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
       "checked_at": "2026-10-10",
-      "notes": "0円の『2種類 色違い付き』配布枠を根拠に2件。『1種類』枠は同じモデルとして二重計上せず。『目閉じの修正リボンなし』は派生版だが個別のVRM実体未確認につき今回は数えない。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "正規BOOTH item2028691の2色付き無料ZIPからゴシショタ髪の毛色違い.vrmを取得。VRM 0.x、SHA-256=ab2513238c7c5bc6757de22235aff01e731c15f6743234ffcc9b89be0b65f488。埋込metadataのVRoid Hub規約URLを確認：第三者/アバター・商用利用可、性的/暴力的表現可、表記不要、改変/再配布不可。本バッチでは非性的な全身プレビューのみ生成。VRMは改変せずNASローカル保存のみ、外部再配布なし。人型Tポーズ・顔確認済み。"
     },
     {
       "id": "teoteome-gender-ambiguous",

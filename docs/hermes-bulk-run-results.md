@@ -575,3 +575,13 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - バッチ25は6商品ページ、11ダウンロード試行、15 catalog ID取得、15物理VRM検査、NAS純増9件、マッピング保留4件、権利矛盾2件、権利未確認9件、非人型0件、429 0件。今回の追加分は未圧縮162,679,124 bytes→ZIP 99,935,807 bytes（削減率38.5688%）、WebP 366,238 bytes。
 - 累計は商品ページ112、catalog ID169、物理VRM189、NAS新規92、非人型6、権利矛盾62、権利未確認11、モデル対応未確定5。NASは447 ZIP・894 WebP、未圧縮VRM 3,237,125,997 bytes、ZIP 1,752,065,350 bytes、WebP 13,434,548 bytes、削減率45.8759%。`verify_nas.py`は`ok:true`、`errors:[]`。旧355件を今回の92新規保存IDから除外した行SHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`でbaselineと一致。
 - R1/R2/R3以外の797件の内訳はNAS保存117、実バイナリ非人型7、作者索引由来非人型1、埋込権利矛盾92、許諾未確認44、モデル対応未確定5、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち340、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2。合計797。詳細は`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261010-25.json`および`...-25-artifacts.json`。
+
+## 2026-10-10 BOOTH認証済み追加バッチ26
+
+- 5商品ページをログイン済みローカルBOOTHセッションから直列確認。全てHTTP 200、429なし。無料個別ZIP5件（100,171,032 bytes）をUI操作で取得。R15露出版・全年齢向けではないZIP・重複する1種類版・独立catalog IDのない派生ZIPは取得しなかった。
+- 5 ZIPから8物理VRMを検査。賢そうな少年/女装した少年2件、依頼主許可済みの夏向けおねえさん、全年齢のスカート付きクリスマス版、全年齢の金髪版、ゴシック色違い2件の計7 IDは人型Tポーズ・顔を個別目視後保存。賢そう少年ZIP内の追加`賢そうメガネなし.vrm`は独立IDがなく保存せず。
+- ゴシック2件の埋込metadataはVRoid HubライセンスURLを参照し、第三者/アバター・商用利用・性的/暴力的表現可、表記不要、改変・再配布不可。今回のプレビューは非性的な全身表示のみ。VRMは未改変でNASローカル保管し、外部配布は行わない。Christmasページでは全年齢と説明されたスカート版のみ取得し、下着露出/R15版は対象外。Gold Maidもページで全年齢とされたZIPだけを取得。
+- 初回の`teoteome-christmas-skirt` NAS保存呼出しは120秒でタイムアウト。プロセス終了後、ID索引行・最終ZIP/WebPが存在せず、0-byte `.pending-*`だけであることを確認し、NAS監査が正常な状態でその孤立一時ファイルのみを除去。ローカルscratchで同じarchive呼出しが成功し、NFSへの1MiB write/fsync/read/unlink probeも成功。faulthandler付き再試行で当該IDを保存でき、残り6件も成功した。初回stallの原因は未確定（過渡的NFS I/O停滞の可能性）だが、再監査は`ok:true`、`errors:[]`。
+- バッチ26は5商品ページ・5ダウンロード試行・7 catalog ID候補・8物理VRM検査、NAS純増7件、未割当追加VRM1件、権利保留0件、非人型0件、429 0件。今回の追加は未圧縮126,821,644 bytes→ZIP 89,086,304 bytes（削減率29.7547%）、WebP 453,786 bytes。
+- 累計は商品ページ117、catalog ID176、物理VRM197、NAS新規99、非人型6、権利矛盾62、権利未確認11、モデル対応未確定5。NASは454 ZIP・908 WebP、未圧縮VRM 3,363,947,641 bytes、ZIP 1,841,151,654 bytes、WebP 13,888,334 bytes、削減率45.2681%。`verify_nas.py`は`ok:true`、`errors:[]`。旧355件のSHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`でbaselineと一致。
+- R1/R2/R3以外の797件の内訳はNAS保存124、実バイナリ非人型7、作者索引由来非人型1、埋込権利矛盾92、許諾未確認44、モデル対応未確定5、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち333、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2。合計797。詳細は`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261010-26.json`および`...-26-artifacts.json`。

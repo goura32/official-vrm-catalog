@@ -4011,16 +4011,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/4150766",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "金欠な女の子.vrm",
-      "license_name": "作者BOOTHの商品説明・利用規約",
+      "license_name": "商品条件と埋込VRMメタデータの権利矛盾",
       "license_url": "https://booth.pm/ja/items/4150766",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者オリジナル無料VRM。VRサービス・ゲーム・配信アバター可、モデルの転売・再配布等は禁止。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "BOOTHの表示済み無料ボタンから実取得・検査。VRM 0.x、SHA-256=ca4dd4b41af16d695d10fbd371172d6152cb4716dfb800f501c01c461bf62174。商品説明はゲーム/VRサービス/配信での利用を許可する一方、転売・再配布・商用利用を禁止。埋込allowedUserName=OnlyAuthorだがOther permission URLはallowed_to_use_user=everyoneかつcharacterization_allowed_user=authorで、利用者許諾が一致しない。VRM 0.0 schemaではallowedUserNameをアバターを使える人、otherPermissionUrlを別条件のURLとして定義（https://github.com/vrm-c/vrm-specification/blob/master/specification/0.0/schema/vrm.meta.schema.json）。矛盾は解消できず、プレビュー/NAS保存を行わず一時VRMを削除。"
     },
     {
       "id": "hoshino-yozora-neko",
@@ -4030,16 +4030,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/5739237",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "yozora_neko.vrm",
-      "license_name": "作者BOOTHの商品説明・利用規約",
+      "license_name": "VRM埋込Redistribution_Prohibited（個人利用・改変可、再配布不可）",
       "license_url": "https://booth.pm/ja/items/5739237",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "垂れ耳オッドアイの無料VRM。個人使用のみ、再配布・再販・自作発言は禁止。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "BOOTH無料ボタンからyozora_neko.vrmを取得。VRM 0.x、SHA-256=9457e17fb9a19261be84c2b1dcdaf1ef3875d2b1a55e655438f8b16b03e5a087。商品説明は個人利用・改変可、再配布/転売/自作発言禁止。埋込allowedUser=Everyone、commercial=Disallow、sexual/violent=Disallow、licenseName=Redistribution_Prohibitedで商品条件と整合。人型Tポーズ・顔を目視確認。NASローカル保管のみ、外部再配布なし。"
     },
     {
       "id": "l0ve4u-nemu",
@@ -4068,16 +4068,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/5408796",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "みつあみちゃん.vrm",
-      "license_name": "作者BOOTHの商品説明・利用規約",
+      "license_name": "VRM埋込CC_BY_SA（原本の配布・販売禁止）",
       "license_url": "https://booth.pm/ja/items/5408796",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者本人がVRM単体を0円配布。VRoid編集ファイルが付く支援版は有料。商用・改変可、未改変モデルの再配布・販売は禁止。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "正規BOOTH無料版（VRMのみ）から取得。VRM 0.x、SHA-256=ec80ccded27ea76efc14d257139b4d1254e4cfa7889de26b481cb4ee20810c99。商品説明は改造/商用利用可、未改変モデルの配布/販売不可。埋込allowedUser=Everyone、commercial=Allow、sexual/violent=Disallow、licenseName=CC_BY_SA。CC_BY_SA条件を尊重し原本・派生物とも外部再配布せず、NASローカル保管に限定。人型Tポーズ・顔を目視確認。"
     },
     {
       "id": "tawashop-naito",
@@ -4087,16 +4087,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/5149140",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "内藤.vrm",
-      "license_name": "作者BOOTHの商品説明・利用規約",
+      "license_name": "VRM埋込CC_BY_SA（原本の配布・販売禁止）",
       "license_url": "https://booth.pm/ja/items/5149140",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者本人がVRM単体を0円配布。VRoid編集ファイルが付く支援版は有料。商用・改変可、未改変モデルの再配布・販売は禁止。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "正規BOOTH無料版（VRMのみ）から取得。VRM 0.x、SHA-256=ae0683f034b4b728ae38b0d66f0c676afbc618ee32a130b96c7959ff85ffc9f3。商品説明は改造/商用利用可、未改変モデルの配布/販売不可。埋込allowedUser=Everyone、commercial=Allow、sexual/violent=Disallow、licenseName=CC_BY_SA。CC_BY_SA条件を尊重し原本・派生物とも外部再配布せず、NASローカル保管に限定。人型Tポーズ・顔を目視確認。"
     },
     {
       "id": "tawashop-kabochan",
@@ -4229,11 +4229,11 @@
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "美和子フォルダ+-+ダウンロード用.zip",
-      "license_name": "作者BOOTHの商品説明・利用規約",
+      "license_name": "配布説明の利用許諾範囲が曖昧",
       "license_url": "https://booth.pm/ja/items/2328802",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者オリジナルVRoid美和子さんのVRM/PMXを0円ZIP配布。現行利用規約は商品ページを確認。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-10",
+      "notes": "商品ページはVRM/PMX無料配布と『著作権は放棄していないが基本著作権フリー』と記載。対象ファイルへの具体的な利用条件を確定できないため取得せず権利未確認保留。"
     },
     {
       "id": "izumi-junya-b001",

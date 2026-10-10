@@ -585,3 +585,12 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - バッチ26は5商品ページ・5ダウンロード試行・7 catalog ID候補・8物理VRM検査、NAS純増7件、未割当追加VRM1件、権利保留0件、非人型0件、429 0件。今回の追加は未圧縮126,821,644 bytes→ZIP 89,086,304 bytes（削減率29.7547%）、WebP 453,786 bytes。
 - 累計は商品ページ117、catalog ID176、物理VRM197、NAS新規99、非人型6、権利矛盾62、権利未確認11、モデル対応未確定5。NASは454 ZIP・908 WebP、未圧縮VRM 3,363,947,641 bytes、ZIP 1,841,151,654 bytes、WebP 13,888,334 bytes、削減率45.2681%。`verify_nas.py`は`ok:true`、`errors:[]`。旧355件のSHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`でbaselineと一致。
 - R1/R2/R3以外の797件の内訳はNAS保存124、実バイナリ非人型7、作者索引由来非人型1、埋込権利矛盾92、許諾未確認44、モデル対応未確定5、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち333、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2。合計797。詳細は`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261010-26.json`および`...-26-artifacts.json`。
+
+## 2026-10-10 BOOTH認証済み追加バッチ27
+
+- `booth-real-profile-local-2`のBOOTHログイン状態を画面のアカウントメニューで確認。5商品ページを直列確認（全てHTTP 200、429なし）。表示された無料ダウンロード操作を4回実施し、個別VRM4件・計63,850,064 bytesを取得。購入・有料版・VRoid編集データは取得していない。
+- 4物理VRMを検査。Naito/Mitsuamiの無料VRMは各ページで無料VRM版を特定し、埋込CC_BY_SAと商品条件（商用/改変可、未改変モデル配布・販売不可）に従い外部再配布なし。Yozora Nekoは個人利用・改変可、Redistribution_Prohibited/商用不可と一致。3件とも人型Tポーズ・顔を個別確認してNASへ保存。Yozoraはcrop topで腹部が見えるが下着/裸体はなく、Tポーズは中立。Naito/Mitsuamiは服装が全身を覆い、露出・性的ポーズなし。
+- 金欠な女の子は商品説明が配信/アバター使用を認めていたが、埋込`allowedUserName=OnlyAuthor`と同一メタデータ内のOther permission URL `allowed_to_use_user=everyone`が一致しない。公式[VRM 0.0 schema](https://github.com/vrm-c/vrm-specification/blob/master/specification/0.0/schema/vrm.meta.schema.json)ではこの2項目は別条件であり、矛盾が解消できないためプレビュー/NAS保存せず、記録後に一時VRMを削除。美和子さんは「著作権を放棄していないが基本著作権フリー」との説明に対し具体的なZIP利用条件が不明なため、ダウンロードせずrights-unverified保留。
+- バッチ27は5ページ・4ダウンロード・4物理VRM、NAS純増3件、権利矛盾1件、権利未確認1件、非人型0件、モデル対応未確定0件、429 0件。今回の追加は未圧縮45,642,744 bytes→ZIP 26,951,223 bytes（削減率40.9518%）、WebP 124,026 bytes。冗長な再アーカイブ呼出し1件は既存IDを検出してwriterが拒否し、状態変更なし。監査は`ok:true`、`errors:[]`。
+- 累計は商品ページ122、catalog ID180、物理VRM201、NAS新規102、非人型6、権利矛盾63、権利未確認12、モデル対応未確定5。NASは457 ZIP・914 WebP、未圧縮VRM 3,409,590,385 bytes、ZIP 1,868,102,877 bytes、WebP 14,012,360 bytes、削減率45.2103%。旧355件SHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`でbaselineと一致。
+- R1/R2/R3以外の797件の内訳はNAS保存127、実バイナリ非人型7、作者索引由来非人型1、埋込権利矛盾93、許諾未確認45、モデル対応未確定5、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち328、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2。合計797。詳細は`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261010-27.json`および`...-27-artifacts.json`。

@@ -717,15 +717,15 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/5569795",
       "download_url": null,
       "access_method": "booth_free_download",
       "license_name": "作者BOOTH商品ページ内の利用条件",
       "license_url": "https://booth.pm/ja/items/5569795",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "無料ファイル: SpringSnow無料版.vrm (14.9 MB)。個人・非商用のみ、クレジット必須。改変・商用・再配布禁止。有料版とは権利条件が異なる。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "無料ファイル: SpringSnow無料版.vrm。個人・非商用のみ、クレジット必須、改変・商用・再配布禁止。有料版とは権利条件が異なる。2026-10-10にログイン済みBOOTHの正規無料ダウンロード操作で取得し、GLB v2/VRM 0.x、埋込author=An、licenseName=Redistribution_Prohibited、VRM SHA-256=11582d0d75c8676d3abd2d57830c93ca1ae03780d841f92a0759e5f7a7b9818cを確認。人型外形、正面Tポーズ768x1024、顔512x512を目視確認し、NASへ個人用アーカイブを保存。再配布しない。",
       "distribution_filename": "SpringSnow無料版.vrm"
     },
     {
@@ -737,15 +737,15 @@
         "avatar",
         "spring-bone"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/7100270",
       "download_url": null,
       "access_method": "booth_free_download",
       "license_name": "作者BOOTH商品ページ内の利用条件",
       "license_url": "https://booth.pm/ja/items/7100270",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "無料ファイル: Cute_Model.vrm (18.7 MB)。個人・商用可、改変可。再配布・転売・AI学習・NFT利用禁止。クレジットは任意のお願い。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "無料ファイル: Cute_Model.vrm。個人・商用可、改変可。再配布・転売・AI学習・NFT利用禁止。クレジットは任意のお願い。2026-10-10にログイン済みBOOTHの正規無料ダウンロード操作で取得し、GLB v2/VRM 0.x、埋込author=Jessair、licenseName=Redistribution_Prohibited、VRM SHA-256=e9688b45e9108bcc8b35ede21c08eba25d1beacd578547784d824481c52b16a4を確認。人型外形、正面Tポーズ768x1024、顔512x512を目視確認し、NASへ個人用アーカイブを保存。再配布しない。",
       "distribution_filename": "Cute_Model.vrm"
     },
     {
@@ -775,15 +775,15 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "1.0",
       "source_url": "https://booth.pm/ja/items/7447864",
       "download_url": null,
       "access_method": "booth_free_download",
       "license_name": "作者BOOTH商品ページ内の利用条件",
       "license_url": "https://booth.pm/ja/items/7447864",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "無料ファイル: れん.vrm (16.3 MB)。.vroidファイルは100円。再販・再配布、暴力・性的表現禁止。法人営利利用は事前問い合わせ。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "無料ファイル: れん.vrm。.vroidファイルは100円。再販・再配布、暴力・性的表現禁止。法人営利利用は事前問い合わせ。2026-10-10にログイン済みBOOTHの正規無料ダウンロード操作で取得し、GLB v2/VRM 1.0、埋込authors=kaicha874、commercialUsage=personalNonProfit、allowRedistribution=true、modification=prohibited、VRM SHA-256=066b6dd22ae6da816d2d0c7e0fe11b313bad8200ee92daba01cfd92c1972e8a1を確認。人型外形、正面Tポーズ768x1024、顔512x512を目視確認し、NASへ個人用アーカイブを保存。再配布しない。",
       "distribution_filename": "れん.vrm"
     },
     {
@@ -834,15 +834,15 @@
         "avatar",
         "expressions"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/4146897",
       "download_url": null,
       "access_method": "booth_free_download",
       "license_name": "作者BOOTH商品ページ内の利用条件",
       "license_url": "https://booth.pm/ja/items/4146897",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "無料ファイル: curry_ver.2.0.vrm (20.8 MB)。任意の支援版は同一ファイル。アバター・配信・動画利用、改変可。再配布禁止。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "無料ファイル: curry_ver.2.0.vrm。任意の支援版は同一ファイル。アバター・配信・動画利用、改変可。再配布禁止。2026-10-10にログイン済みBOOTHの正規無料ダウンロード操作で取得し、GLB v2/VRM 0.x、埋込author=bemico、commercialUssageName=Allow、licenseName=Redistribution_Prohibited、VRM SHA-256=97eba5ec50e8b10d325aeddadb6a754b2d2191b634e146ef5591b6e6bfbf5ac3を確認。人型外形、正面Tポーズ768x1024、顔512x512を目視確認し、NASへ個人用アーカイブを保存。再配布しない。",
       "distribution_filename": "curry_ver.2.0.vrm"
     },
     {
@@ -899,9 +899,9 @@
       "access_method": "booth_free_download",
       "license_name": "作者BOOTH商品ページ内の利用条件",
       "license_url": "https://booth.pm/ja/items/4911831",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円の「モデル単体」にType01.vrmを掲載。公式記述「VRM 0.0」から0.xと分類（実ファイル未解析）。商用・改変可、再販禁止。 公開状況注意（2026-10-08）：booth.pm の共通商品ページに0円で掲載される一方、出品者ショップの個別ページには非公開表示がある。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。",
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円の「モデル単体」にType01.vrmを掲載。公開説明は商用・改変可、再販禁止だが、実VRMの埋込commercialUssageName=Disallow・licenseName=Redistribution_Prohibitedと矛盾したため権利保留。実取得SHA-256=fe6d2975b22ad1cf04151320c6db345cf54239ca0a46a6f1fc8f92ef92a27b6b。NAS保存・プレビュー生成は行わない。",
       "distribution_filename": "Type01.vrm"
     },
     {
@@ -919,9 +919,9 @@
       "access_method": "booth_free_download",
       "license_name": "作者BOOTH商品ページ内の利用条件",
       "license_url": "https://booth.pm/ja/items/4911831",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円の「モデル単体」にType01sotai.vrmを掲載。公式記述「VRM 0.0」から0.xと分類（実ファイル未解析）。商用・改変可、再販禁止。 公開状況注意（2026-10-08）：booth.pm の共通商品ページに0円で掲載される一方、出品者ショップの個別ページには非公開表示がある。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。",
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円の「モデル単体」にType01sotai.vrmを掲載。公開説明は商用・改変可、再販禁止だが、実VRMの埋込commercialUssageName=Disallow・licenseName=Redistribution_Prohibitedと矛盾したため権利保留。実取得SHA-256=2b7db8aaa48e929bf73f85466ee7b30cbe6872f362a2ce81da571e85092402ff。NAS保存・プレビュー生成は行わない。",
       "distribution_filename": "Type01sotai.vrm"
     },
     {
@@ -938,9 +938,9 @@
       "access_method": "booth_free_download",
       "license_name": "作者BOOTH商品ページ内の利用条件",
       "license_url": "https://booth.pm/ja/items/4911831",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円の「モデル単体」にType02.vrmを掲載。公式記述「VRM 0.0」から0.xと分類（実ファイル未解析）。商用・改変可、再販禁止。 公開状況注意（2026-10-08）：booth.pm の共通商品ページに0円で掲載される一方、出品者ショップの個別ページには非公開表示がある。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。",
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円の「モデル単体」にType02.vrmを掲載。公開説明は商用・改変可、再販禁止だが、実VRMの埋込commercialUssageName=Disallow・licenseName=Redistribution_Prohibitedと矛盾したため権利保留。実取得SHA-256=6105f05a75bf61bcf30cdd8c7e7e003ff7c21fde6e18ce0f8b72b2922094c4c2。NAS保存・プレビュー生成は行わない。",
       "distribution_filename": "Type02.vrm"
     },
     {
@@ -958,9 +958,9 @@
       "access_method": "booth_free_download",
       "license_name": "作者BOOTH商品ページ内の利用条件",
       "license_url": "https://booth.pm/ja/items/4911831",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円の「モデル単体」にType02sotai.vrmを掲載。公式記述「VRM 0.0」から0.xと分類（実ファイル未解析）。商用・改変可、再販禁止。 公開状況注意（2026-10-08）：booth.pm の共通商品ページに0円で掲載される一方、出品者ショップの個別ページには非公開表示がある。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。",
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円の「モデル単体」にType02sotai.vrmを掲載。公開説明は商用・改変可、再販禁止だが、実VRMの埋込commercialUssageName=Disallow・licenseName=Redistribution_Prohibitedと矛盾したため権利保留。実取得SHA-256=065e7828f2317e5f9f294534d0ffa0e2f659c27dc5090c86445181af8b0b8cb0。NAS保存・プレビュー生成は行わない。",
       "distribution_filename": "Type02sotai.vrm"
     },
     {
@@ -977,9 +977,9 @@
       "access_method": "booth_free_download",
       "license_name": "作者BOOTH商品ページ内の利用条件",
       "license_url": "https://booth.pm/ja/items/4911831",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円の「モデル単体」にType03.vrmを掲載。公式記述「VRM 0.0」から0.xと分類（実ファイル未解析）。商用・改変可、再販禁止。 公開状況注意（2026-10-08）：booth.pm の共通商品ページに0円で掲載される一方、出品者ショップの個別ページには非公開表示がある。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。",
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円の「モデル単体」にType03.vrmを掲載。公開説明は商用・改変可、再販禁止だが、実VRMの埋込commercialUssageName=Disallow・licenseName=Redistribution_Prohibitedと矛盾したため権利保留。実取得SHA-256=d20b5823d5633c0b45d7b7b8b963d7a1620ba431717aeaf45b65ec25ff8a328e。NAS保存・プレビュー生成は行わない。",
       "distribution_filename": "Type03.vrm"
     },
     {
@@ -997,9 +997,9 @@
       "access_method": "booth_free_download",
       "license_name": "作者BOOTH商品ページ内の利用条件",
       "license_url": "https://booth.pm/ja/items/4911831",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円の「モデル単体」にType03sotai.vrmを掲載。公式記述「VRM 0.0」から0.xと分類（実ファイル未解析）。商用・改変可、再販禁止。 公開状況注意（2026-10-08）：booth.pm の共通商品ページに0円で掲載される一方、出品者ショップの個別ページには非公開表示がある。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。",
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円の「モデル単体」にType03sotai.vrmを掲載。公開説明は商用・改変可、再販禁止だが、実VRMの埋込commercialUssageName=Disallow・licenseName=Redistribution_Prohibitedと矛盾したため権利保留。実取得SHA-256=5a65d93c968a3e1c7a79ddfbe24f5435a99b55a2d0f2269b914b63c3c6a3033a。NAS保存・プレビュー生成は行わない。",
       "distribution_filename": "Type03sotai.vrm"
     },
     {
@@ -1016,9 +1016,9 @@
       "access_method": "booth_free_download",
       "license_name": "作者BOOTH商品ページ内の利用条件",
       "license_url": "https://booth.pm/ja/items/4911831",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円の「モデル単体」にType04.vrmを掲載。公式記述「VRM 0.0」から0.xと分類（実ファイル未解析）。商用・改変可、再販禁止。 公開状況注意（2026-10-08）：booth.pm の共通商品ページに0円で掲載される一方、出品者ショップの個別ページには非公開表示がある。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。",
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円の「モデル単体」にType04.vrmを掲載。公開説明は商用・改変可、再販禁止だが、実VRMの埋込commercialUssageName=Disallow・licenseName=Redistribution_Prohibitedと矛盾したため権利保留。実取得SHA-256=50ccccaa180021c8dce649a3cda27b1a6c4fd792431ee9ec8ea2cb499b8b5a3c。NAS保存・プレビュー生成は行わない。",
       "distribution_filename": "Type04.vrm"
     },
     {
@@ -1036,9 +1036,9 @@
       "access_method": "booth_free_download",
       "license_name": "作者BOOTH商品ページ内の利用条件",
       "license_url": "https://booth.pm/ja/items/4911831",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円の「モデル単体」にType04sotai.vrmを掲載。公式記述「VRM 0.0」から0.xと分類（実ファイル未解析）。商用・改変可、再販禁止。 公開状況注意（2026-10-08）：booth.pm の共通商品ページに0円で掲載される一方、出品者ショップの個別ページには非公開表示がある。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。",
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円の「モデル単体」にType04sotai.vrmを掲載。公開説明は商用・改変可、再販禁止だが、実VRMの埋込commercialUssageName=Disallow・licenseName=Redistribution_Prohibitedと矛盾したため権利保留。実取得SHA-256=db05f15d1d4224345c184340e4cf780b9092837bcd411da1c5b2e0ce817988c1。NAS保存・プレビュー生成は行わない。",
       "distribution_filename": "Type04sotai.vrm"
     },
     {
@@ -1056,9 +1056,9 @@
       "distribution_filename": "ICE-あいす-1.0.vrm",
       "license_name": "作者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/7938475",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円のVRM版。編集用.vroid版は500円。個人商用・改変可、再配布は禁止。利用条件の詳細は商品ページで配布している無料PDFを確認する必要あり。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円のVRM版。編集用.vroid版は500円。個人商用・改変可、再配布は禁止。利用条件の詳細は商品ページで配布している無料PDFを確認する必要あり。2026-10-10にログイン済みBOOTHの正規無料ダウンロード操作で取得し、GLB v2/VRM 1.0、埋込authors=RomanticSpica、commercialUsage=personalProfit、allowRedistribution=false、creditNotation=required、VRM SHA-256=c105ab225ac535d3b638413e7d337b9b8cbf1c8da1f9c5d8b9a89cc3e7b08a0eを確認。人型外形、正面Tポーズ768x1024、顔512x512を目視確認し、NASへ個人用アーカイブを保存。再配布しない。"
     },
     {
       "id": "romanticspica-ice-vrm0",
@@ -1075,9 +1075,9 @@
       "distribution_filename": "ICE-あいす-0.0.vrm",
       "license_name": "作者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/7938475",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円のVRM版。編集用.vroid版は500円。個人商用・改変可、再配布は禁止。利用条件の詳細は商品ページで配布している無料PDFを確認する必要あり。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円のVRM版。編集用.vroid版は500円。個人商用・改変可、再配布は禁止。利用条件の詳細は商品ページで配布している無料PDFを確認する必要あり。2026-10-10にログイン済みBOOTHの正規無料ダウンロード操作で取得し、GLB v2/VRM 0.x、埋込author=RomanticSpica、commercialUssageName=Allow、licenseName=Redistribution_Prohibited、VRM SHA-256=42c7ee802c62bd2aa6fc23d7e731ec0c8005040979faf769507d94d115d65172を確認。人型外形、正面Tポーズ768x1024、顔512x512を目視確認し、NASへ個人用アーカイブを保存。再配布しない。"
     },
     {
       "id": "pates-oblivion-frii-vrm1",
@@ -1094,9 +1094,9 @@
       "distribution_filename": "Frii-vrm1.0.vrm",
       "license_name": "作者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/6168778",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円の作者配布。改変・収益化可。再アップロードに際しては原版そのままの再投稿を避け、原作者へのリンクを要望。実ファイル未取得。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円の作者配布。改変・収益化可。再アップロードに際しては原版そのままの再投稿を避け、原作者へのリンクを要望。2026-10-10にログイン済みBOOTHの正規無料ダウンロード操作で取得し、GLB v2/VRM 1.0、埋込authors=Swampazzo、commercialUsage=corporation、allowRedistribution=true、modification=allowModificationRedistribution、VRM SHA-256=fefa1b99919cf3c5e131fd03dfd18f4aa4c9d3482a84d25fded3562ae25169e9を確認。人型外形、正面Tポーズ768x1024、顔512x512を目視確認し、NASへ個人用アーカイブを保存。"
     },
     {
       "id": "pates-oblivion-frii-other",
@@ -1106,16 +1106,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/6168778",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "Frii.vrm",
       "license_name": "作者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/6168778",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円でFrii-vrm1.0.vrmとは別に公開。VRM仕様バージョンは公式説明に明示されていないため未確定。改変・収益化可、再アップロード条件あり。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円でFrii-vrm1.0.vrmとは別に公開。2026-10-10にログイン済みBOOTHの正規無料ダウンロード操作で取得し、GLB v2/VRM 0.x、埋込author=Swampazzo、commercialUssageName=Allow、licenseName=CC_BY、VRM SHA-256=9b62149fdbdb65f45ad4a69282e196be1aa4bc2454d1f392ff4d8fa5e6c6c6baを確認。人型外形、正面Tポーズ768x1024、顔512x512を目視確認し、NASへ個人用アーカイブを保存。"
     },
     {
       "id": "pyurin-bear-girl-black-white-1",
@@ -1132,9 +1132,9 @@
       "distribution_filename": "Small_Black_White_Bear_Girl.vrm",
       "license_name": "作者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/6835336",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者が0円のVRM 1.0モデルと明記。商用利用可。再配布などの詳細条件は個別確認が必要。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "作者が0円のVRM 1.0モデルと明記。商用利用可。再配布などの詳細条件は個別確認が必要。2026-10-10にログイン済みBOOTHの正規無料ダウンロード操作で取得し、GLB v2/VRM 1.0、埋込authors=Pyurin、commercialUsage=personalProfit、allowRedistribution=false、creditNotation=required、VRM SHA-256=eca03aaf16664a62b921312a4392df1c4361a5018455e8769e5c5270f80b9645を確認。人型外形、正面Tポーズ768x1024、顔512x512を目視確認し、NASへ個人用アーカイブを保存。再配布しない。"
     },
     {
       "id": "pyurin-bear-girl-black-white-2",
@@ -1151,9 +1151,9 @@
       "distribution_filename": "Small_Black_White_Bear_Girl_SH.vrm",
       "license_name": "作者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/6839545",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者が0円のVRM 1.0モデルと明記。VTuber向け、VRChat利用には変換が必要。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "作者が0円のVRM 1.0モデルと明記。VTuber向け、VRChat利用には変換が必要。2026-10-10にログイン済みBOOTHの正規無料ダウンロード操作で取得し、GLB v2/VRM 1.0、埋込authors=Pyurin、commercialUsage=personalProfit、allowRedistribution=false、creditNotation=required、VRM SHA-256=a8122a40fb3b05e49090f15e442af92ca26c2eb1e17aa324c4a21573f73fe8a6を確認。人型外形、正面Tポーズ768x1024、顔512x512を目視確認し、NASへ個人用アーカイブを保存。再配布しない。"
     },
     {
       "id": "pyurin-black-bear-practice",
@@ -1170,9 +1170,9 @@
       "distribution_filename": "BlackBear.vrm",
       "license_name": "作者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/6820844",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円。VRMと.vroidを別ファイルで配布。練習・VTuber用途のモデル。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円。VRMと.vroidを別ファイルで配布。練習・VTuber用途のモデル。2026-10-10にログイン済みBOOTHの正規無料ダウンロード操作でBlackBear.vrmを取得し、GLB v2/VRM 1.0、埋込authors=Pyurin、commercialUsage=personalNonProfit、allowRedistribution=false、creditNotation=required、VRM SHA-256=41465c97a969a97ded53f99dbb6491c4676ee18a637584acc4ffcc9d013648f1を確認。人型外形、正面Tポーズ768x1024、顔512x512を目視確認し、NASへ個人用アーカイブを保存。再配布しない。"
     },
     {
       "id": "ab1ex9museum-alpha-trial",
@@ -1191,9 +1191,9 @@
       "distribution_filename": "standalonALPHA1.3.vrm",
       "license_name": "作者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/7851789",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円の初期テストVRMモデル。有料のフルパッケージは3,500円。商用・収益化可、元データの再配布/販売禁止。将来更新は保証されない。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円の初期テストVRMモデル。有料のフルパッケージは3,500円。商用・収益化可、元データの再配布/販売禁止。2026-10-10にログイン済みBOOTHの正規無料ダウンロード操作で取得し、GLB v2/VRM 1.0、埋込authors=R-raytext、commercialUsage=corporation、allowRedistribution=false、VRM SHA-256=80e6b4151c1bc602190840f5b7894e50c81170d194fcc5a3503acbd0ba1cb8bcを確認。人型外形、正面Tポーズ768x1024、顔512x512を目視確認し、NASへ個人用アーカイブを保存。再配布しない。"
     },
     {
       "id": "shobonkun-potato-avatar",
@@ -1212,9 +1212,9 @@
       "distribution_filename": "いものアバター_v1.2.0.vrm",
       "license_name": "作者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/8595180",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円のVRM 1.0モデル。表情6種、約12,532ポリゴン。個人収益化・改変可、再配布禁止、クレジット表記要請。有料応援セットの別色は対象外。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_non_humanoid_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円のVRM 1.0モデル。表情6種、約12,532ポリゴン。個人収益化・改変可、再配布禁止、クレジット表記要請。有料応援セットの別色は対象外。実VRMは取得し、Tポーズ画像で頭・胴体・両腕・両脚を備えた人型ではなく、丸いマスコット外形と確認したためNAS保存しない。VRM SHA-256=9676f03e666a2c980c9c74c5467700c5344155d9b0224317c7d7703632b401d4。"
     },
     {
       "id": "vroid-beta-avatarsample-1",
@@ -2031,16 +2031,16 @@
         "mascot",
         "lightweight"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/5821373",
       "download_url": null,
       "access_method": "booth_free_download",
       "license_name": "作者・公式BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5821373",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
+      "verification": "official_binary_inspected_non_humanoid_not_archived",
+      "checked_at": "2026-10-10",
       "distribution_filename": "toberu_ver1.vrm",
-      "notes": "作者の0円公式マスコットVRM（約1.23 MB）。作者案内ではcluster等での利用可、モデル自体の再配布・販売禁止。有料の応援版は収録しない。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "作者の0円公式マスコットVRM（約1.23 MB）。作者案内ではcluster等での利用可、モデル自体の再配布・販売禁止。有料の応援版は収録しない。実VRMは取得し、Tポーズ画像で頭・胴体・両腕・両脚を備えた人型ではなく、丸いマスコット外形と確認したためNAS保存しない。VRM SHA-256=e6305080630b068d6c6326ff9332d67d3ce5dada7f7c3bc4a320398b5bbbd837。"
     },
     {
       "id": "virtual-snow-festival-vyuki",
@@ -2092,16 +2092,16 @@
         "mascot",
         "lightweight"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/5930377",
       "download_url": null,
       "access_method": "booth_free_download",
       "license_name": "作者・公式BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5930377",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
+      "verification": "official_binary_inspected_non_humanoid_not_archived",
+      "checked_at": "2026-10-10",
       "distribution_filename": "matsumoto_kun_3D.vrm",
-      "notes": "公式の0円VRM（約2.95MB）。アバター使用時に『マツモトくん』という名前を使わないことが条件。実ダウンロード・バージョン未確認。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "notes": "公式の0円VRM（約2.95MB）。アバター使用時に『マツモトくん』という名前を使わないことが条件。実VRMは取得し、Tポーズ画像で頭・胴体・両腕・両脚を備えた人型ではなく、丸いマスコット外形と確認したためNAS保存しない。VRM SHA-256=627370146b643115173f035c44a16b9599c6209678ac1b79e4e408f57b6fdc33。"
     },
     {
       "id": "yaminabe-fukki",
@@ -2133,16 +2133,16 @@
         "avatar",
         "chibi"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/4979470",
       "download_url": null,
       "access_method": "booth_free_download",
+      "distribution_filename": "molz-sample.vrm",
       "license_name": "作者・公式BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4979470",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "distribution_filename": "molz-sample.vrm",
-      "notes": "0円のVRMサンプル、約9.97MB。商品説明にはイベント開催時のみ限定無料配布との文言もあり、実取得可能性の確認を保留。商用利用は個別問い合わせ。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円のVRMサンプル、約9.97MB。商品説明にはイベント開催時のみ限定無料配布との文言もある。2026-10-10にログイン済みBOOTHの正規無料ダウンロード操作で取得し、GLB v2/VRM 0.x、埋込author=molz、licenseName=Redistribution_Prohibited、VRM SHA-256=6da63122f328f2d01d35e876264df63550056d3ea8c0870d25ad62ea65dea9e6を確認。人型外形、正面Tポーズ768x1024、顔512x512を目視確認し、NASへ個人用アーカイブを保存。再配布しない。"
     },
     {
       "id": "puppet-end-papeco-vrm",
@@ -10356,16 +10356,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/4795020",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "dolly_devil.vrm",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/4795020",
-      "verification": "official_free_download_auth_required",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
       "checked_at": "2026-10-10",
-      "notes": "作者の無料VRMとVRoid編集データ。個人商用可・法人利用不可、使用時クレジット必須、再配布不可。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。"
+      "notes": "作者の無料VRMとVRoid編集データ。個人商用可・法人利用不可、使用時クレジット必須、再配布不可。2026-10-10にログイン済みBOOTHの正規無料ダウンロード操作でdolly_devil.vrmのみ取得。GLB v2/VRM 0.x、埋込author=pixellangel、licenseName=Redistribution_Prohibited、VRM SHA-256=b09510ed04ae49d1a0849edcfa1b464b72dce000135505c7d10408118506f5a6を確認。頭・胴体・両腕・両脚の人型外形、正面Tポーズ768x1024、顔512x512を目視確認し、NASへモデル単体ZIPとWebP2枚を保存。個人用アーカイブであり、再配布しない。"
     },
     {
       "id": "acidicdollz-90s-anime",

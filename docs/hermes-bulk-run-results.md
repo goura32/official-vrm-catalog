@@ -373,3 +373,15 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - 現在の797件棚卸しは、保存25、確定非人型4、権利保留65、別hostリダイレクト拒否2、`dweb.link`恒久ブロック141、認証待ち534、商品ページ404 3、VRoid Studioエクスポート専用23、未試行または取得条件未確定0。合計797。
 - NASは355 ZIP・710 WebPから変化なし。第25〜29バッチのチェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-auth-checkpoint-20261010-batch25.json`〜`batch29.json`。照合差異と完了結果はローカル`unresolved-reconciliation-20261010.json`／`unresolved-reconciliation-result-20261010.json`に記録した。
 - HTTP 429発生ホスト、`dweb.link`、既存権利保留65件、認証待ち534件は再アクセスしない。
+
+## 2026-10-10 BOOTH認証済み実取得のパイロット・追加4バッチ
+
+- `browser.use_real_profile: true` のローカル実プロファイルセッション `booth-real-profile-local-2` でBOOTHログイン状態を画面確認し、`pixellangel-dolly-devil` の `dolly_devil.vrm` を正規無料リンクから実取得した。`dolly_devil.vroid`、有料版、支援版は取得していない。
+- パイロットはGLB v2/VRM 0.x、埋込権利、SHA-256、全身Tポーズ768×1024、顔512×512を検査・目視し、NASへ保存。パイロット成功後、追加4バッチを同じ低頻度の直列ブラウザー操作で実施した。
+- 追加バッチ01は5商品・5 VRMを取得して検査・描画・目視確認し、5件をNAS保存した。追加バッチ02は5商品・5 VRMを取得し、人型2件を保存、丸いマスコット形状3件を非人型として保存しなかった。追加バッチ03は4商品・6 VRMを取得し、6件すべて人型・プレビュー合格として保存した。
+- 追加バッチ04は1商品・8 VRMを取得・検査した。商品説明の商用可と、全8件の埋込`commercialUssageName=Disallow`/`Redistribution_Prohibited`が矛盾したため、描画・NAS保存を行わず8件を権利保留にした。
+- 今回の合計は、商品ページ10、実VRM 25件、VRM検査25件、NAS新規14件、非人型3件、権利矛盾8件、HTTP 429 0件、ダウンロードバイト414,060,456 bytes。NASにはモデル単体ZIPとTポーズ/顔WebPだけを保存し、原本VRM・作業用画像は永続保存していない。
+- NASは369 ZIP・738 WebP、未圧縮VRM 1,707,129,637 bytes、ZIP 918,813,099 bytes、削減788,316,538 bytes（46.1779%）、WebP 9,697,704 bytes。`python3 scripts/verify_nas.py --nas-root /mnt/hdd/vrm` は`ok:true`、`errors:[]`。
+- 開始時355件の索引から今回の14 IDを除外して再計算したSHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`で開始時baselineと一致し、既存355件の索引行・実体を保護した。現行indexは369 ID一意で重複なし。
+- R1/R2/R3を除く797件の現行排他的内訳は、NAS保存39、確定非人型4、作者索引由来の非人型1、埋込権利矛盾40、許諾未確認33、別hostリダイレクト拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち489、VRoid Hub認証待ち16、公式ページ認証未確認1、商品ページ404 3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2。合計797件で、未分類は0件。
+- ローカルチェックポイントは`booth-authenticated-pilot-20261010.json`、`booth-authenticated-batch-20261010-01.json`〜`04.json`、`authenticated-summary-20261010.json`、`official-page-20261009/batch-status.json`。認証情報、Cookie、パスワード、トークン、認証付き一時URLは記録していない。

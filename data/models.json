@@ -2345,16 +2345,16 @@
         "avatar",
         "mascot"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/6317567",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "santa-1.vrm",
       "license_name": "UVライセンス（作者個別条項付き）",
       "license_url": "https://uv-license.com/ja/uvl",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円の作者オリジナルVRM。改変・個人/法人商用利用可、再配布・販売禁止。小型・表情変化。 実ダウンロード・実ファイルメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "無料VRMを実取得・検査。GLB v2/VRM 0.x、埋込author=kanon、allowedUserName=OnlyAuthor、commercialUssageName=Disallow、licenseName=Redistribution_Prohibited、VRM SHA-256=94c5f25c1d2474f76e92dbd4430f788f853f4351f0441c13364b56e9e5f5b10f。商品説明/UVライセンスは個人・法人の利用と商用利用を許可すると記す一方、VRM埋込値は作者のみ・商用不可のため権利矛盾として保留。プレビュー/NAS保存なし。"
     },
     {
       "id": "kanonmk3d-rabbit",
@@ -2524,16 +2524,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/6676231",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "縦ロール.zip",
       "license_name": "作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6676231",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円ZIPに『縦ロール.vrm』と編集用.vroid/前髪素材を同梱。商用・改変・再配布可、性的・暴力表現は禁止。 実ダウンロード・実ファイルメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "無料ZIPから縦ロール.vrmを実抽出・検査。GLB v2/VRM 0.x、埋込author=avalon、allowedUserName=OnlyAuthor、commercialUssageName=Disallow、licenseName=Redistribution_Prohibited、VRM SHA-256=f118cbd27129ee5c14d9ef71b6ca744f7551f7621931146c73599c4eda56b6c7。商品ページは商用・改変・再配布可とする一方、VRM埋込値が作者のみ・商用不可・再配布不可のため権利矛盾として保留。プレビュー/NAS保存なし。ZIP内の.vroid等はNAS対象外。"
     },
     {
       "id": "shopperch-shinonome-v2",
@@ -2543,16 +2543,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/6316885",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "東雲_ver.2.vrm",
       "license_name": "作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6316885",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円のVRM版を登録。xavatarも無料、編集用.vroidを含む支援版は有料。商用・改変可、再配布禁止。 実ダウンロード・実ファイルメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "無料VRM版を実取得・検査。GLB v2/VRM 0.x、埋込author=avalon、allowedUserName=Everyone、commercialUssageName=Disallow、licenseName=Redistribution_Prohibited、VRM SHA-256=508509f48bb7b97d02d5aae98890a3e2b1ee111a4de4fe53824540f10b3afff2。商品説明は個人/法人の商用利用を許可する一方、VRM埋込値は商用利用不可のため権利矛盾として保留。プレビュー/NAS保存なし。無料XAvatarや有料支援版は取得していない。"
     },
     {
       "id": "shopperch-shigure",
@@ -2562,16 +2562,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/6444701",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "時雨.vrm",
       "license_name": "作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6444701",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円のVRM版。編集用.vroid付き支援版は有料。商用・改変可、再配布禁止。 実ダウンロード・実ファイルメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "無料VRM版を実取得・検査。GLB v2/VRM 0.x、埋込author=avalon、allowedUserName=OnlyAuthor、commercialUssageName=Disallow、licenseName=Redistribution_Prohibited、VRM SHA-256=9e94f6f2b099a6bd8fdfc9df81be98ac02639adf444184d325148ecf5683cc07。商品説明は個人/法人の商用利用を許可する一方、VRM埋込値は作者のみ・商用利用不可のため権利矛盾として保留。プレビュー/NAS保存なし。無料XAvatarや有料支援版は取得していない。"
     },
     {
       "id": "ap-anesan-mini",
@@ -2589,9 +2589,9 @@
       "distribution_filename": "Ane_san.vrm",
       "license_name": "作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6050266",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円のVRM 0.0ファイル（約80.1cm）。同VRMを含む別無料ZIPもあるが、モデルは重複登録しない。商用可・改変可、再配布禁止。 実ダウンロード・実ファイルメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "無料VRM 0.0ファイル（80.1cm）を実取得。GLB v2/VRM 0.x、埋込author=A.P.、allowedUserName=Everyone、commercialUssageName=Allow、licenseName=Redistribution_Prohibited、VRM SHA-256=f989e74bcb40c6e4cd682bd9a6b9e6eb882c1c78c828ce4a2259820e8059bdaa。全身の人型外形・Tポーズ768x1024・顔512x512を目視確認しNAS保存。商品条件に従い商用利用可、再配布禁止を保持する。"
     },
     {
       "id": "ap-butler-mini",

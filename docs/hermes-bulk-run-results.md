@@ -618,8 +618,19 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 
 - `booth-real-profile-local-2`のログイン状態を画面で確認。BOOTH商品ページ15件を直列確認（全てHTTP 200、HTTP 429なし）。無料UI操作9回で10 catalog ID分のファイルを取得し、物理VRM memberを11件確認した。8件はVRMバイナリ/メタデータ検査、形状・プレビュー確認まで実施。有料取得、購入、認証回避、別ホスト/プロキシ迂回は行っていない。
 - `renga-wisp-mira`は商品ページ/READMEと埋込条件を照合し、VRM 1.0、人型、Tポーズ/顔を確認。商用利用等を禁止するページ側のより厳しい条件に従い、非性的用途のローカルNAS保管として保存。フルリール1.3/1.4は各版の直接VRM、商品ページ条件、埋込権利情報、人型/Tポーズ/顔を個別確認し、2件を保存。B30のNAS純増は3 ZIP・WebP6枚。
-- Sayo、Hatsuka PC/Quest、Pharaohの4件は商品条件と埋込権利値の矛盾で未保存。ゆるねこは若年に見える外観と性的利用許可の年齢/内容懸念、白ねこみみとKuranmo弓使いは非公開保管・プレビューの許諾範囲が不明で保留。Moyashiは2 VRM/編集用sourceを含みID対応不明のためVRMを抽出せずZIP削除。Muscle Pigeonの取得ZIPも編集用source混在の範囲外と確認後に削除。マーモット/カマキリは商品ページでsource同梱を確認し、未取得。作業ZIP/VRM/プレビューは最終監査後に削除し、scratchと一時node_modulesが不存在であることを確認した。
-- バッチ30は15ページ、無料UI操作9回、取得ID10、物理VRM member 11、実VRM検査8、NAS純増3、権利矛盾4、許諾/年齢内容保留3、モデル対応不明1、無料配布ファイル範囲外3、HTTP 429 0。BOOTH累計は151ページ、取得catalog ID204、物理VRM検査222、NAS新規109、権利矛盾75、許諾未確認17、モデル対応未確定8。
+- Sayo、Hatsuka PC/Quest、Pharaohの4件は商品条件と埋込権利値の矛盾で未保存。ゆるねこは若年に見える外観と性的利用許可の年齢/内容懸念、白ねこみみとKuranmo弓使いは非公開保管・プレビューの許諾範囲が不明で保留。Moyashiは2 VRM/編集用sourceを含みID対応不明のためVRMを抽出せずZIP削除。Muscle Pigeonの取得ZIPも編集用source混在の範囲外と確認後に削除。マーモット/カマキリは商品ページでsource同梱を確認し、未取得。ChocoOrange/Wingsは配布物範囲や利用条件が不明、AxisはAvatarSample_V固有条件未確認のため、3件とも未取得の許諾/範囲保留。作業ZIP/VRM/プレビューは最終監査後に削除し、scratchと一時node_modulesが不存在であることを確認した。
+- バッチ30は15ページ、無料UI操作9回、取得ID10、物理VRM member 11、実VRM検査8、NAS純増3、権利矛盾4、許諾/年齢内容保留3、ページ/規約/配布範囲保留3、モデル対応不明1、無料配布ファイル範囲外3、HTTP 429 0。BOOTH累計は151ページ、取得catalog ID204、物理VRM検査222、NAS新規109、権利矛盾75、許諾未確認20、モデル対応未確定8。
 - NASは464 ZIP・928 WebP、未圧縮VRM 3,535,666,721 bytes、ZIP 1,943,831,503 bytes、WebP 14,378,760 bytes、削減率45.0222%。`verify_nas.py`は`ok:true`、`errors:[]`。当初355件の保護対象行SHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`でbaseline一致。
-- R1/R2/R3以外の797件はNAS保存134、実バイナリ非人型8、作者索引由来非人型1、埋込権利矛盾105、許諾未確認50、モデル対応未確定8、VRM-only取得範囲外3、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち297、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2（合計797）。
+- R1/R2/R3以外の797件はNAS保存134、実バイナリ非人型8、作者索引由来非人型1、埋込権利矛盾105、許諾未確認53、モデル対応未確定8、VRM-only取得範囲外3、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち294、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2（合計797）。
 - 作業チェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261010-30.json`。GitHub Actions/RDCは不使用。権利/ID保留と保存済みIDを次バッチで再取得しない。
+
+## 2026-10-11 BOOTH認証済み追加バッチ31
+
+- ローカルログイン済みセッション`booth-real-profile-local-2`を確認し、9商品ページを直列確認（全てHTTP 200、HTTP 429なし）。ページ上の無料操作11回で11 catalog ID/物理VRMを取得・検査した。有料版・購入・認証回避・別ホスト/プロキシ迂回は行っていない。
+- `bizava-toma-b/c/d`は各0円直接VRMと作者ライセンスPDFを照合。埋込権利（再配布・性的・暴力的利用禁止）と条件が整合し、成人男性ビジネスアバターの人型Tポーズ/顔を確認後、3件をNAS保存。
+- `bizava-keito-a/c/d`はページ/作者条件が利用を許可する一方、VRM埋込`allowedUserName=OnlyAuthor`と矛盾するため3件を権利保留。Keito Aはメタデータ照合前に生成した未確認プレビューを含め削除、C/Dは描画前にVRMを削除し、いずれもNAS保存なし。`youkihi-businessman`は商品ページ上に作者固有の利用許諾がなく未取得。`clearlink-ciel-14/15`はAlice題材・若年寄りの外観で年齢記載がないため、ページ確認のみで保留。
+- CLEAR Linkの「スミレ」は5つの直接VRM（1.1戦闘服/インナー/ドレス、1.2戦闘服/浴衣）を個別に取得。ページ記載の170cm「お姉さん」設定に沿う成人寄り外観で、全身Tポーズ・顔・ID対応を個別確認。商品条件と埋込`ExplicitlyLicensedPerson`、再配布禁止、商用/性的/暴力的利用禁止が整合したため、非商用の私的NAS保管として5件を保存。有料支援ZIPは取得せず、インナーの腹部露出とドレスの肩/胸元は非性的で明示的表現なし。
+- バッチ31は9ページ、無料UI操作11回、取得ID/物理VRM11、実VRM検査11、NAS純増8、権利矛盾3、ページのみの権利/年齢保留3、非人型0、モデル対応不明0、HTTP 429 0。取得VRM・一時プレビュー・npm環境・ページ確認用スクリーンショットを削除。scratch 2,604ファイル（401,665,723 bytes）の削除と不存在を確認した。
+- 累計は商品ページ160、無料ファイル取得ID215、物理VRM検査233、NAS新規117、権利矛盾78、権利未確認23、モデル対応未確定8、認証待ち280。797件の内訳はNAS保存142、実バイナリ非人型8、作者索引由来非人型1、埋込権利矛盾108、許諾未確認56、モデル対応未確定8、VRM-only取得範囲外3、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち280、VRoid Hub認証待ち16、公式ページ認証未確認1、商品ページ404 3、VRoid Studioエクスポート専用23、公式メタデータのみ3、公式リポジトリのみ2（合計797）。
+- NASは472 ZIP・944 WebP、未圧縮VRM 3,675,464,357 bytes、ZIP 2,026,793,964 bytes、WebP 14,732,368 bytes、削減率44.8561%。`verify_nas.py`は`ok:true`、`errors:[]`、index SHA-256は`6a188ab3df7c1511f914d8c3b7a89049cb99b1f72fba95dbf2cc2daa55833a09`。既存355件の保護対象行SHA-256はbaseline `4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`と一致。
+- B31 checkpointは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261011-31.json`。GitHub Actions/RDCは不使用。権利/年齢保留と保存済みIDは再取得しない。

@@ -4,13 +4,13 @@
 
 ## 状況：認証障壁が部分的に解消
 
-ユーザーがChromeに正規ログインし、Hermesは`browser.use_real_profile: true`、実プロファイルをコピーしたローカルブラウザーセッション`booth-real-profile-local-2`を起動できた。BOOTHトップページでログイン済みアカウントメニューを画面確認。カタログID `pixellangel-dolly-devil` のパイロットは2026-10-10に実取得・検査・Tポーズ/顔確認・NAS保存まで完了。パイロット後にBOOTH認証済み30バッチを実施した。パスワード・Cookie・トークン・認証付き一時ダウンロードURLは表示、記録、リポジトリ追加、チャット出力を禁止。Cookieを手動抽出・curl等へ転送して認証を代用しない。
+ユーザーがChromeに正規ログインし、Hermesは`browser.use_real_profile: true`、実プロファイルをコピーしたローカルブラウザーセッション`booth-real-profile-local-2`を起動できた。BOOTHトップページでログイン済みアカウントメニューを画面確認。カタログID `pixellangel-dolly-devil` のパイロットは2026-10-10に実取得・検査・Tポーズ/顔確認・NAS保存まで完了。パイロット後にBOOTH認証済み31バッチを実施した。パスワード・Cookie・トークン・認証付き一時ダウンロードURLは表示、記録、リポジトリ追加、チャット出力を禁止。Cookieを手動抽出・curl等へ転送して認証を代用しない。
 
 **現在の実績（2026-10-11）**：
-- カタログ計1,297件。R1/R2/R3以外の797件は、NAS保存134、実バイナリ非人型8、作者索引由来非人型1、埋込権利矛盾105、許諾未確認50、モデル対応未確定8、VRM-only取得範囲外3、別hostリダイレクト拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち297、VRoid Hub認証待ち16、公式ページ認証未確認1、商品ページ404が3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2。合計797。過去バッチの権利・ID保留は再取得せず。
-- BOOTH認証済み実取得は、パイロット＋30バッチで商品ページ151件、無料取得catalog ID204件、物理VRM検査222件、NAS新規保存109件、非人型7件、権利矛盾75件、権利未確認17件、モデル対応未確定8件、VRM-only範囲外3件、HTTP 429は0件。バッチ30は15商品ページ（全てHTTP 200）、無料UI操作9回、10 ID取得、11物理VRM member発見、8件を実VRM検査し、Miraとフルリール1.3/1.4の3件をNAS保存。Sayo/Hatsuka 2版/Pharaohは権利矛盾、ゆるねこは若年外観と性的利用許可の懸念、白ねこみみとエルフ弓使いは許諾範囲不明で保留。鳩・マーモット・カマキリは無料パッケージに編集用sourceを含むため取得範囲外。もやしは複数VRMとsource同梱で対応不明。旧355件ハッシュは不変。
-- NASは464 ZIP・928 WebP、未圧縮VRM 3,535,666,721 bytes、ZIP 1,943,831,503 bytes、WebP 14,378,760 bytes、削減率45.0222%。`verify_nas.py`は`ok:true, errors:[]`。未解消の権利矛盾・モデル対応未確定・権利未確認は保存しない。
-- 最新のローカルチェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261010-30.json`、累計は`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/authenticated-summary-20261010.json`。新規取得の前に匿名302確認を繰り返さず、権利保留案件を新しい許諾根拠なしに再取得しない。
+- カタログ計1,297件。R1/R2/R3以外の797件は、NAS保存142、実バイナリ非人型8、作者索引由来非人型1、埋込権利矛盾108、許諾未確認56、モデル対応未確定8、VRM-only取得範囲外3、別hostリダイレクト拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち280、VRoid Hub認証待ち16、公式ページ認証未確認1、商品ページ404が3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2。合計797。過去バッチの権利・ID保留は再取得せず。
+- BOOTH認証済み実取得は、パイロット＋31バッチで商品ページ160件、無料取得catalog ID215件、物理VRM検査233件、NAS新規保存117件、非人型7件、権利矛盾78件、権利未確認23件、モデル対応未確定8件、VRM-only範囲外3件、HTTP 429は0件。バッチ31は9商品ページ（全てHTTP 200）、無料UI操作11回、11 catalog ID/物理VRMを取得・検査し、Toma B/C/DとSumire 5版の計8件をNAS保存。Keito A/C/Dは埋込`allowedUserName=OnlyAuthor`矛盾、業界人は作者固有許諾なし、シエル1.4/1.5は年齢不明の若年寄り表現で保留。取得物と一時プレビューは監査後に削除し、旧355件ハッシュは不変。
+- NASは472 ZIP・944 WebP、未圧縮VRM 3,675,464,357 bytes、ZIP 2,026,793,964 bytes、WebP 14,732,368 bytes、削減率44.8561%。`verify_nas.py`は`ok:true, errors:[]`。未解消の権利矛盾・モデル対応未確定・権利未確認は保存しない。
+- 最新のローカルチェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261011-31.json`、累計は`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/authenticated-summary-20261010.json`。次回は最新main・NAS・チェックポイントを再照合し、残り280 IDを続行する。匿名302確認を繰り返さず、権利保留案件を新しい許諾根拠なしに再取得しない。
 
 ## 継続実行手順（認証済みBOOTH残件）
 
@@ -23,9 +23,9 @@
 
 - 2026-10-10に`pixellangel-dolly-devil`（`https://booth.pm/ja/items/4795020`）の無料`dolly_devil.vrm`を正規UIから取得し、権利・VRM実体・人型・Tポーズ・顔を確認してNASへ保存済み。有料の`.vroid`は取得していない。保存済みIDの再ダウンロードや上書きは禁止。
 
-### C. 次回の優先実作業：認証待ち297件を継続
+### C. 次回の優先実作業：認証待ち280件を継続
 
-1. 作業開始時に最新main、worktree、NASマウント、NAS監査、ローカルcheckpointを照合し、`authenticated-summary-20261010.json`とバッチ30 checkpointを再集計する。現在のBOOTH認証待ちは297 ID。既保存109、非人型、権利保留、モデル対応未確定、範囲外source package、404、アクセス制限、エクスポート専用を対象へ戻さず、正規の無料BOOTH VRM/VRM-only ZIPだけを商品ページ単位で処理する。`VRoid Hub`等、別サービスの認証をBOOTHログインで通せると仮定しない。
+1. 作業開始時に最新main、worktree、NASマウント、NAS監査、ローカルcheckpointを照合し、`authenticated-summary-20261010.json`とバッチ31 checkpointを再集計する。現在のBOOTH認証待ちは280 ID。既保存117、非人型、権利保留、モデル対応未確定、範囲外source package、404、アクセス制限、エクスポート専用を対象へ戻さず、正規の無料BOOTH VRM/VRM-only ZIPだけを商品ページ単位で処理する。`VRoid Hub`等、別サービスの認証をBOOTHログインで通せると仮定しない。
 2. 最初は少数（例えば5～10商品）で連続動作・エラー・負荷を確認し、問題がなければ**恣意的な少件数で終了せず**、入手できる分を順次続ける。直列または低並列で配布元へ適切に間隔をあけ、過剰なアクセスをしない。HTTP 429を一度でも返したホストはその時点で**全IDを含め要求禁止**（別ホスト/ゲートウェイ/プロキシへの迂回もしない）。ブラウザーでのログイン・無料ダウンロードを優先し、匿名URLを再調査しない。
 3. 1商品に複数VRM・色違い・0.x/1.0同梱がある場合は**既存のカタログIDごとに**内部ファイル名・SHA-256と対応させる。違うモデルや同一モデルを重複登録しない。無料版と有料支援版を区別する。モデル1件ごとに権利/形状/プレビュー/ZIP/索引を検証し、失敗したものだけ記録して残りを続ける。再配布禁止等のライセンスを破らない。
 4. 作業機`~/.local/state/official-vrm-catalog/`に`downloaded`, `archived`, `non_humanoid`, `preview_hold`, `license_hold`, `auth_failed`, `free_not_available`, `rate_limited`等の排他的処理状態と再開用ジャーナルを残す。追加取得の進捗件数を適宜ログ出力し、tmux等で中断に耐える。Cookie/認証トークン/期限付きURLはチェックポイントにも出さない。ユーザー本人の追加操作が不可欠になった場合は、その部分だけ保留。

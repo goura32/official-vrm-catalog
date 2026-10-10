@@ -129,8 +129,17 @@ R1/R2のPNGは作者GitHub上のUV/アルベドテクスチャで、3Dモデル�
 ## 2026-10-11 BOOTH認証済み実取得後の更新（バッチ30）
 
 - 最新mainを起点に15商品ページを直列確認（全てHTTP 200、HTTP 429なし）。9回の無料UI取得操作で10 catalog ID分・11 physical VRM memberを確認した。8件はVRMメタデータまで検査し、3件（Mira、フルリール1.3/1.4）を人型Tポーズ/顔確認後にNAS保存した。
-- `atelier-yozora-sayo`、Hatsuka PC/Quest、`zzz222-pharaoh`の計4件は、商品条件と埋込権利値の矛盾により保存しない。`nekomishouten-yuru-neko`は若年に見える外観と埋込性的利用許可、`yamaron-white-nekomimi`とKuranmo弓使いは非公開アーカイブ/プレビューの許諾範囲が不明で、計3件を権利/内容保留とした。
+- `atelier-yozora-sayo`、Hatsuka PC/Quest、`zzz222-pharaoh`の計4件は、商品条件と埋込権利値の矛盾により保存しない。`nekomishouten-yuru-neko`は若年に見える外観と埋込性的利用許可、`yamaron-white-nekomimi`とKuranmo弓使いは非公開アーカイブ/プレビューの許諾範囲が不明で保留。さらにChocoOrange/Wingsは配布物範囲や利用条件が不明、AxisはAvatarSample_V固有条件未確認のため、3件を無取得の許諾/範囲保留とした。B30の権利未確認は計6 ID。
 - JIMAの鳩/マーモット/カマキリは、無料商品がVRM-onlyではなくFBX/GLB/Blender等の編集用sourceを含むため取得範囲外とした（鳩ZIPは取得後に内容確認し、VRMを抽出せず削除）。`shounokoto-moyashi`は2種類のVRMと編集用FBX/Unitypackage等が一つのcatalog IDに含まれ、対応を推測せず保留・ZIP削除。ソース資産をNASへ保存していない。
 - NASは464 ZIP・928 WebP、未圧縮3,535,666,721 bytes、ZIP1,943,831,503 bytes、WebP14,378,760 bytes。`verify_nas.py`は`ok:true, errors:[]`。既存355件の保護対象行SHA-256はbaseline `4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`と一致。
-- BOOTH累計は151ページ、取得catalog ID204、検査物理VRM222、NAS新規109、権利矛盾75、権利未確認17、対応未確定8、認証待ち297、HTTP 429 0。797件の排他的内訳はNAS保存134、実バイナリ非人型8、作者索引非人型1、埋込権利矛盾105、許諾未確認50、モデル対応未確定8、VRM-only取得範囲外3、別host拒否2、`dweb.link`恒久ブロック141、BOOTH認証待ち297、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータのみ3、公式リポジトリのみ2（合計797）。
+- BOOTH累計は151ページ、取得catalog ID204、検査物理VRM222、NAS新規109、権利矛盾75、権利未確認20、対応未確定8、認証待ち294、HTTP 429 0。797件の排他的内訳はNAS保存134、実バイナリ非人型8、作者索引非人型1、埋込権利矛盾105、許諾未確認53、モデル対応未確定8、VRM-only取得範囲外3、別host拒否2、`dweb.link`恒久ブロック141、BOOTH認証待ち294、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータのみ3、公式リポジトリのみ2（合計797）。
 - 形状の予備分類は引き続き人型565、非人型245、未判定487。rights/ID/access状態を形状リストへ混同していない。バッチ30 checkpointは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261010-30.json`。
+
+## 2026-10-11 BOOTH認証済み実取得後の更新（バッチ31）
+
+- 商品ページ9件を直列確認し、全てHTTP 200。無料UI操作11回で11 catalog ID/物理VRMを取得・検査した。Toma B/C/Dとスミレの5直接VRM（1.1戦闘服/インナー/ドレス、1.2戦闘服/浴衣）の計8件は、配布条件・埋込メタデータ・ID対応を照合し、各Tポーズ/顔で人型を確認してNAS保存した。スミレはページの170cm「お姉さん」設定に沿う成人寄り外観で、インナー版の腹部露出はあるが非性的。再配布・第三者利用・R指定改変は禁止、商用/配信は要相談のため、私的な非商用NAS保管のみ。
+- けいとA/C/Dはページ条件が利用を許可する一方、全てVRM埋込`allowedUserName=OnlyAuthor`と矛盾するため3件を権利保留。Aのプレビュー生成物も未確認のまま削除し、C/Dは描画前に削除した。業界人（中年男性）は無料ZIPのページを確認したが作者固有の利用条件が見つからず未取得。シエル1.4/1.5はAlice題材・若年寄りの外観で年齢明記がなく、内容/年齢条件を確認できないためページ確認のみで保留した。
+- バッチ31は9ページ、無料UI操作11回、取得ID/物理VRM11、実検査11、NAS純増8、権利矛盾3、権利未確認3、HTTP 429 0。取得VRM・一時プレビュー・npm環境とページ確認用スクリーンショットを削除し、scratch不存在を確認した。
+- NASは472 ZIP・944 WebP、未圧縮VRM 3,675,464,357 bytes、ZIP 2,026,793,964 bytes、WebP 14,732,368 bytes、削減率44.8561%。`verify_nas.py`は`ok:true, errors:[]`、index SHA-256は`6a188ab3df7c1511f914d8c3b7a89049cb99b1f72fba95dbf2cc2daa55833a09`。既存355件の保護対象SHA-256はbaseline `4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`と一致。
+- BOOTH累計は160ページ、取得catalog ID215、検査物理VRM233、NAS新規117、権利矛盾78、権利未確認23、対応未確定8、認証待ち280、HTTP 429 0。797件の排他的内訳はNAS保存142、実バイナリ非人型8、作者索引非人型1、埋込権利矛盾108、許諾未確認56、モデル対応未確定8、VRM-only取得範囲外3、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち280、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータのみ3、公式リポジトリのみ2（合計797）。バッチ31 checkpointは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261011-31.json`。
+- 形状の予備分類は人型565、非人型245、未判定487で変化なし。権利/取得状態を形状分類へ混同していない。GitHub Actions/RDCは不使用。

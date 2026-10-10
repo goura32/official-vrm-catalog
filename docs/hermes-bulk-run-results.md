@@ -634,3 +634,14 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - 累計は商品ページ160、無料ファイル取得ID215、物理VRM検査233、NAS新規117、権利矛盾78、権利未確認23、モデル対応未確定8、認証待ち280。797件の内訳はNAS保存142、実バイナリ非人型8、作者索引由来非人型1、埋込権利矛盾108、許諾未確認56、モデル対応未確定8、VRM-only取得範囲外3、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち280、VRoid Hub認証待ち16、公式ページ認証未確認1、商品ページ404 3、VRoid Studioエクスポート専用23、公式メタデータのみ3、公式リポジトリのみ2（合計797）。
 - NASは472 ZIP・944 WebP、未圧縮VRM 3,675,464,357 bytes、ZIP 2,026,793,964 bytes、WebP 14,732,368 bytes、削減率44.8561%。`verify_nas.py`は`ok:true`、`errors:[]`、index SHA-256は`6a188ab3df7c1511f914d8c3b7a89049cb99b1f72fba95dbf2cc2daa55833a09`。既存355件の保護対象行SHA-256はbaseline `4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`と一致。
 - B31 checkpointは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261011-31.json`。GitHub Actions/RDCは不使用。権利/年齢保留と保存済みIDは再取得しない。
+
+## 2026-10-11 BOOTH認証済み追加バッチ32
+
+- 最新main `bd34e5d142904ade383d22118710f478bb4b029b` を確認して開始。BOOTH商品ページ23件を直列確認（全てHTTP 200、429なし）。正規の無料UI操作6回で12 catalog ID/物理VRMを取得し、12件すべてVRM 0.xの実体・埋込メタデータまで検査した。転送量168,524,556 bytes。
+- `chicken-stickman`と`projectkyoukoku-kosei`の直接VRM、及び「ぴえんシリーズ」ZIP内7 VRMを検査。6体（ぴえん/ぎゃふん/ぐすん/しょぼん/トゥクン/どきん）はページ/埋込条件が整合し、頭・胴・両腕・両脚を持つ人型形状、全身Tポーズ、正面顔を確認してNASへ保存。棒人間と煌星を含め、バッチ32のNAS純増は8件。
+- ぴえん系7 IDは実VRMの全身プレビューにより、旧`non_humanoid`予備分類から`humanoid_candidates`へ訂正。ぴえ子は形状上は人型だが、女性化した胸部・まつ毛表現、年齢未記載、埋込性的利用Allowのため保留し、抽出VRMとプレビューを削除した。
+- BREAK VENOM、OXYGEN ERROR、kanon MK3Dくまはページ上の利用/商用許可と埋込`allowedUserName=OnlyAuthor`/商用Disallowが矛盾し、3件を権利保留とした。プレビューを作らず、取得した一時ZIP/VRMを削除。Ratenosuは商品ページでUnitypackage/Blender/PSD/PMX同梱を確認したため範囲外として未取得。許諾/年齢保留34 ID（33件はページ確認のみ、ぴえ子1件は実VRM確認後に削除）。HTTP 429、モデル対応保留、追加の確定非人型は0件。
+- バッチ32は23ページ、無料UI操作6回、取得ID/物理VRM12、検査12、NAS純増8、権利矛盾3、許諾/年齢保留34、範囲外1。保存分は未圧縮127,846,564 bytes→ZIP 89,013,014 bytes。作業scratch 2,627ファイル（398,767,657 bytes）と商品確認スクリーンショットは削除し、存在しないことを確認。
+- NASは480 ZIP・960 WebP、未圧縮VRM 3,803,310,921 bytes、ZIP 2,115,806,978 bytes、WebP 14,979,780 bytes、削減率44.3693%。`verify_nas.py`は`ok:true`、`errors:[]`、formats `zip`。index SHA-256は`0164d6e60fefed0c8314a7fe39bbe29c17dd6dfc6f35e8ef39141e3a000d6608`。baseline時刻以前に保存済みの355行を現在indexから再構成したSHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`でbaselineと一致。
+- BOOTH累計は183商品ページ、取得ID227、物理VRM検査245、NAS新規125、権利矛盾81、権利未確認57、対応未確定8、認証待ち234、HTTP 429 0。797件の排他的内訳はNAS保存150、実バイナリ非人型8、作者索引非人型1、埋込権利矛盾111、許諾未確認90、モデル対応未確定8、VRM-only範囲外4、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち234、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータのみ3、公式リポジトリのみ2（合計797）。形状選別は人型572、非人型238、未判定487。
+- ローカルcheckpointは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261011-32.json`。GitHub Actions/RDCは不使用。

@@ -2305,16 +2305,16 @@
         "avatar",
         "mascot"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/4845778",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "kuma-1.vrm",
       "license_name": "UVライセンス（作者個別条項付き）",
       "license_url": "https://uv-license.com/ja/uvl",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円の作者オリジナルVRM。改変・個人/法人商用利用可、再配布・販売禁止。表情・瞬きを収録。 実ダウンロード・実ファイルメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "0円の作者オリジナルVRM。商品ページは改変・個人/法人商用利用を許可し、再配布・販売を禁止。表情・瞬きを収録。B32 2026-10-11: 実VRM 0.xの埋込allowedUserName=OnlyAuthor/商用Disallowがページ許可と矛盾。描画せず一時VRMを削除し、NAS未保存。"
     },
     {
       "id": "kanonmk3d-reindeer",
@@ -4153,9 +4153,9 @@
       "distribution_filename": "1369023118937086436.zip",
       "license_name": "作者BOOTHの商品説明・利用規約",
       "license_url": "https://booth.pm/ja/items/2453106",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者が衣装違いの0円ZIPを個別配布。VRM形式モデルと明示。ZIP内部実ファイル名は未確認。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が衣装違いの0円ZIPを個別配布。VRM形式モデルと明示。ZIP内部実ファイル名は未確認。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B32 2026-10-11: 商品ページは利用規約をショップトップへ委任し、ページ本文では規約/年齢条件を確認できず未取得."
     },
     {
       "id": "teoteome-unisex-girl",
@@ -4173,9 +4173,9 @@
       "distribution_filename": "3774852412699437545.zip",
       "license_name": "作者BOOTHの商品説明・利用規約",
       "license_url": "https://booth.pm/ja/items/2453106",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者が衣装違いの0円ZIPを個別配布。VRM形式モデルと明示。ZIP内部実ファイル名は未確認。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が衣装違いの0円ZIPを個別配布。VRM形式モデルと明示。ZIP内部実ファイル名は未確認。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B32 2026-10-11: 商品ページは利用規約をショップトップへ委任し、ページ本文では規約/年齢条件を確認できず未取得."
     },
     {
       "id": "teoteome-unisex-long-hair",
@@ -4193,9 +4193,9 @@
       "distribution_filename": "3080230921121067115.zip",
       "license_name": "作者BOOTHの商品説明・利用規約",
       "license_url": "https://booth.pm/ja/items/2453106",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者が衣装違いの0円ZIPを個別配布。VRM形式モデルと明示。ZIP内部実ファイル名は未確認。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が衣装違いの0円ZIPを個別配布。VRM形式モデルと明示。ZIP内部実ファイル名は未確認。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B32 2026-10-11: 商品ページは利用規約をショップトップへ委任し、ページ本文では規約/年齢条件を確認できず未取得."
     },
     {
       "id": "teoteome-flat-chest",
@@ -5668,16 +5668,16 @@
         "emoji",
         "mascot"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/5389330",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "顔文字ブラザーズVRM.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5389330",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者の無料ZIPに7種類のVRMアバターが入る旨と名前を明記。独立VRMの個別ファイル名は未確認。改変・商用利用可、再配布・作者詐称は禁止。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-11",
+      "notes": "作者の無料ZIPに7種類のVRMアバターを含む。改変・商用利用可、再配布・作者詐称は禁止。B32 2026-10-11: ZIP内名称と埋込titleから本IDを対応付け、VRM 0.x・Everyone/商用Allow/Redistribution_Prohibitedを確認。全身Tポーズと正面顔を確認し、私的NAS保管のみ（再配布なし）。"
     },
     {
       "id": "mujo-emoji-pienko",
@@ -5689,16 +5689,16 @@
         "emoji",
         "mascot"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/5389330",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "顔文字ブラザーズVRM.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5389330",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者の無料ZIPに7種類のVRMアバターが入る旨と名前を明記。独立VRMの個別ファイル名は未確認。改変・商用利用可、再配布・作者詐称は禁止。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者の無料ZIPに7種類のVRMアバターを含む。改変・商用利用可、再配布・作者詐称は禁止。B32 2026-10-11: ZIP内VRM 0.xを検査し人型外形を確認。女性化・胸部/まつ毛表現、年齢未記載、埋込性的利用Allowのため権利/年齢保留。抽出VRMとプレビューを削除し、NAS未保存。"
     },
     {
       "id": "mujo-emoji-tokun",
@@ -5710,16 +5710,16 @@
         "emoji",
         "mascot"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/5389330",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "顔文字ブラザーズVRM.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5389330",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者の無料ZIPに7種類のVRMアバターが入る旨と名前を明記。独立VRMの個別ファイル名は未確認。改変・商用利用可、再配布・作者詐称は禁止。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-11",
+      "notes": "作者の無料ZIPに7種類のVRMアバターを含む。改変・商用利用可、再配布・作者詐称は禁止。B32 2026-10-11: ZIP内名称と埋込titleから本IDを対応付け、VRM 0.x・Everyone/商用Allow/Redistribution_Prohibitedを確認。全身Tポーズと正面顔を確認し、私的NAS保管のみ（再配布なし）。"
     },
     {
       "id": "mujo-emoji-gusun",
@@ -5731,16 +5731,16 @@
         "emoji",
         "mascot"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/5389330",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "顔文字ブラザーズVRM.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5389330",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者の無料ZIPに7種類のVRMアバターが入る旨と名前を明記。独立VRMの個別ファイル名は未確認。改変・商用利用可、再配布・作者詐称は禁止。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-11",
+      "notes": "作者の無料ZIPに7種類のVRMアバターを含む。改変・商用利用可、再配布・作者詐称は禁止。B32 2026-10-11: ZIP内名称と埋込titleから本IDを対応付け、VRM 0.x・Everyone/商用Allow/Redistribution_Prohibitedを確認。全身Tポーズと正面顔を確認し、私的NAS保管のみ（再配布なし）。"
     },
     {
       "id": "mujo-emoji-shobon",
@@ -5752,16 +5752,16 @@
         "emoji",
         "mascot"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/5389330",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "顔文字ブラザーズVRM.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5389330",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者の無料ZIPに7種類のVRMアバターが入る旨と名前を明記。独立VRMの個別ファイル名は未確認。改変・商用利用可、再配布・作者詐称は禁止。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-11",
+      "notes": "作者の無料ZIPに7種類のVRMアバターを含む。改変・商用利用可、再配布・作者詐称は禁止。B32 2026-10-11: ZIP内名称と埋込titleから本IDを対応付け、VRM 0.x・Everyone/商用Allow/Redistribution_Prohibitedを確認。全身Tポーズと正面顔を確認し、私的NAS保管のみ（再配布なし）。"
     },
     {
       "id": "mujo-emoji-gyafun",
@@ -5773,16 +5773,16 @@
         "emoji",
         "mascot"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/5389330",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "顔文字ブラザーズVRM.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5389330",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者の無料ZIPに7種類のVRMアバターが入る旨と名前を明記。独立VRMの個別ファイル名は未確認。改変・商用利用可、再配布・作者詐称は禁止。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-11",
+      "notes": "作者の無料ZIPに7種類のVRMアバターを含む。改変・商用利用可、再配布・作者詐称は禁止。B32 2026-10-11: ZIP内名称と埋込titleから本IDを対応付け、VRM 0.x・Everyone/商用Allow/Redistribution_Prohibitedを確認。全身Tポーズと正面顔を確認し、私的NAS保管のみ（再配布なし）。"
     },
     {
       "id": "mujo-emoji-dokin",
@@ -5794,16 +5794,16 @@
         "emoji",
         "mascot"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/5389330",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "顔文字ブラザーズVRM.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5389330",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者の無料ZIPに7種類のVRMアバターが入る旨と名前を明記。独立VRMの個別ファイル名は未確認。改変・商用利用可、再配布・作者詐称は禁止。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-11",
+      "notes": "作者の無料ZIPに7種類のVRMアバターを含む。改変・商用利用可、再配布・作者詐称は禁止。B32 2026-10-11: ZIP内名称と埋込titleから本IDを対応付け、VRM 0.x・Everyone/商用Allow/Redistribution_Prohibitedを確認。全身Tポーズと正面顔を確認し、私的NAS保管のみ（再配布なし）。"
     },
     {
       "id": "kyuri-valentine-mimic-red",
@@ -6006,9 +6006,9 @@
       "distribution_filename": "Ko-sei.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4291108",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が通常版を0円、寄付版は同内容と明記。暴力・性的・法人・個人商用・改変・再配布禁止、クレジット必須。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-11",
+      "notes": "作者が通常版を0円、寄付版は同内容と明記。暴力・性的・法人・個人商用・改変・再配布禁止、クレジット必須。B32 2026-10-11: 通常盤VRM 0.xを実取得。ページ/埋込ともアバター利用可、禁止事項とクレジット必須で整合。人型Tポーズと角を含む顔を確認し、未改変の実体を私的NASへ保存。"
     },
     {
       "id": "zzz222-pharaoh",
@@ -7623,9 +7623,9 @@
       "distribution_filename": "セドリック王子_1.1.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4642811",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "旧・新版と衣装違いで計7 VRMが無料。支援ZIPは同じモデルをまとめただけ。VRM仕様版不明、商用・配信・大幅改変は要相談。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "旧・新版と衣装違いで計7 VRMが無料。支援ZIPは同じモデルをまとめただけ。VRM仕様版不明、商用・配信・大幅改変は要相談。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B32 2026-10-11: 商品ページに男の子/王子、制服・スカート衣装の記載があり、年齢明記なし。若年寄りのため年齢/内容確認まで未取得。"
     },
     {
       "id": "clearlink-cedric-11-uniform",
@@ -7644,9 +7644,9 @@
       "distribution_filename": "セドリック王子_制服_.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4642811",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "旧・新版と衣装違いで計7 VRMが無料。支援ZIPは同じモデルをまとめただけ。VRM仕様版不明、商用・配信・大幅改変は要相談。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "旧・新版と衣装違いで計7 VRMが無料。支援ZIPは同じモデルをまとめただけ。VRM仕様版不明、商用・配信・大幅改変は要相談。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B32 2026-10-11: 商品ページに男の子/王子、制服・スカート衣装の記載があり、年齢明記なし。若年寄りのため年齢/内容確認まで未取得。"
     },
     {
       "id": "clearlink-cedric-11-skirt",
@@ -7665,9 +7665,9 @@
       "distribution_filename": "セドリック王子_制服スカート.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4642811",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "旧・新版と衣装違いで計7 VRMが無料。支援ZIPは同じモデルをまとめただけ。VRM仕様版不明、商用・配信・大幅改変は要相談。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "旧・新版と衣装違いで計7 VRMが無料。支援ZIPは同じモデルをまとめただけ。VRM仕様版不明、商用・配信・大幅改変は要相談。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B32 2026-10-11: 商品ページに男の子/王子、制服・スカート衣装の記載があり、年齢明記なし。若年寄りのため年齢/内容確認まで未取得。"
     },
     {
       "id": "clearlink-cedric-12-prince",
@@ -7686,9 +7686,9 @@
       "distribution_filename": "セドリック_1.2.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4642811",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "旧・新版と衣装違いで計7 VRMが無料。支援ZIPは同じモデルをまとめただけ。VRM仕様版不明、商用・配信・大幅改変は要相談。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "旧・新版と衣装違いで計7 VRMが無料。支援ZIPは同じモデルをまとめただけ。VRM仕様版不明、商用・配信・大幅改変は要相談。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B32 2026-10-11: 商品ページに男の子/王子、制服・スカート衣装の記載があり、年齢明記なし。若年寄りのため年齢/内容確認まで未取得。"
     },
     {
       "id": "clearlink-cedric-12-skirt",
@@ -7707,9 +7707,9 @@
       "distribution_filename": "セドリック_1.2_制服_スカート_.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4642811",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "旧・新版と衣装違いで計7 VRMが無料。支援ZIPは同じモデルをまとめただけ。VRM仕様版不明、商用・配信・大幅改変は要相談。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "旧・新版と衣装違いで計7 VRMが無料。支援ZIPは同じモデルをまとめただけ。VRM仕様版不明、商用・配信・大幅改変は要相談。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B32 2026-10-11: 商品ページに男の子/王子、制服・スカート衣装の記載があり、年齢明記なし。若年寄りのため年齢/内容確認まで未取得。"
     },
     {
       "id": "clearlink-cedric-12-pants",
@@ -7728,9 +7728,9 @@
       "distribution_filename": "セドリック_1.2_制服_ズボン_.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4642811",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "旧・新版と衣装違いで計7 VRMが無料。支援ZIPは同じモデルをまとめただけ。VRM仕様版不明、商用・配信・大幅改変は要相談。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "旧・新版と衣装違いで計7 VRMが無料。支援ZIPは同じモデルをまとめただけ。VRM仕様版不明、商用・配信・大幅改変は要相談。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B32 2026-10-11: 商品ページに男の子/王子、制服・スカート衣装の記載があり、年齢明記なし。若年寄りのため年齢/内容確認まで未取得。"
     },
     {
       "id": "clearlink-cedric-12-jinbei",
@@ -7749,9 +7749,9 @@
       "distribution_filename": "セドリック_1.2_甚平.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4642811",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "旧・新版と衣装違いで計7 VRMが無料。支援ZIPは同じモデルをまとめただけ。VRM仕様版不明、商用・配信・大幅改変は要相談。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "旧・新版と衣装違いで計7 VRMが無料。支援ZIPは同じモデルをまとめただけ。VRM仕様版不明、商用・配信・大幅改変は要相談。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B32 2026-10-11: 商品ページに男の子/王子、制服・スカート衣装の記載があり、年齢明記なし。若年寄りのため年齢/内容確認まで未取得。"
     },
     {
       "id": "kanjukuslime-rabbit-white",
@@ -8230,9 +8230,9 @@
       "distribution_filename": "しのっち_Shinotchi_Niumu.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6862459",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者自身の無料オリジナルVRMモデル。法人・個人商用利用不可、再配布禁止。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者自身の無料オリジナルVRMモデル。法人・個人商用利用不可、再配布禁止。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B32 2026-10-11: 商品タグは男の子、年齢未記載で性的表現を許可。年齢/内容確認まで未取得。"
     },
     {
       "id": "niumu-posta",
@@ -8251,9 +8251,9 @@
       "distribution_filename": "ぽす太_Posta_Niumu.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/7424576",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者自身の¥0無料VRMモデル。商品説明ではcluster動作確認済。法人・個人商用利用不可、再配布禁止。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者自身の¥0無料VRMモデル。商品説明ではcluster動作確認済。法人・個人商用利用不可、再配布禁止。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B32 2026-10-11: 商品タグは男の子、年齢未記載で性的表現を許可。年齢/内容確認まで未取得。"
     },
     {
       "id": "niumu-tolopoly",
@@ -8730,9 +8730,9 @@
       "distribution_filename": "水瀬ほむら.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6848740",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が直接0円公開する3種の異なるVRM。人物型・商用利用可。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が直接0円公開する3種の異なるVRM。人物型・商用利用可。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。 B32 2026-10-11: 作者が「双子の弟・男の子」と明記し身長約145cm、年齢は未記載。若年コードのため未取得。"
     },
     {
       "id": "sanacou-homura-mesh-removed",
@@ -8750,9 +8750,9 @@
       "distribution_filename": "水瀬ほむら_メッシュ削除.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6848740",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が直接0円公開する3種の異なるVRM。人物型・商用利用可。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が直接0円公開する3種の異なるVRM。人物型・商用利用可。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。 B32 2026-10-11: 作者が「双子の弟・男の子」と明記し身長約145cm、年齢は未記載。若年コードのため未取得。"
     },
     {
       "id": "sanacou-homura-perfect-sync",
@@ -8770,9 +8770,9 @@
       "distribution_filename": "水瀬ほむら_ps.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6848740",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が直接0円公開する3種の異なるVRM。人物型・商用利用可。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が直接0円公開する3種の異なるVRM。人物型・商用利用可。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。 B32 2026-10-11: 作者が「双子の弟・男の子」と明記し身長約145cm、年齢は未記載。若年コードのため未取得。"
     },
     {
       "id": "avatarshop-rai",
@@ -8808,9 +8808,9 @@
       "distribution_filename": "そら.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/8436291",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者による0円の直接VRM。併売の.xavatarは同モデルの別形式として計上しない。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者による0円の直接VRM。併売の.xavatarは同モデルの別形式として計上しない。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。 B32 2026-10-11: 商品ページに作者固有の利用条件・年齢情報がなく、未取得。"
     },
     {
       "id": "melonzzam-maid",
@@ -8903,9 +8903,9 @@
       "distribution_filename": "アリシャーニャver0.2.1.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6386203",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者0円の直接VRM。商品更新版0.2.1とVRM仕様バージョンは別。商用規約に版による例外と更新があり、原文照合が必要。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者0円の直接VRM。商品更新版0.2.1とVRM仕様バージョンは別。商用規約に版による例外と更新があり、原文照合が必要。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。 B32 2026-10-11: ピンクのウサ耳・男の娘表現で年齢明記なし、若年寄り。年齢/内容確認まで未取得。"
     },
     {
       "id": "hiraeth-samurai-boy",
@@ -8979,9 +8979,9 @@
       "distribution_filename": "arvendal.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/8944341",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "無料配布はベースアバター1体のみ。15種類のアクセサリー違いは有料サポーターパック（¥1,250）専用であり数えない。 公開ページで0円配布を確認したが実ダウンロード・ZIP内部・VRMバイナリは未確認。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "無料配布はベースアバター1体のみ。15種類のアクセサリー違いは有料サポーターパック（¥1,250）専用であり数えない。 公開ページで0円配布を確認したが実ダウンロード・ZIP内部・VRMバイナリは未確認。 B32 2026-10-11: 無料VRMの配布は確認したが、作者固有の私的アーカイブ/プレビュー利用条件を確認できず未取得。"
     },
     {
       "id": "cecyliamun-wolf-boy-base",
@@ -9031,16 +9031,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/8907607",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "BREAK_VENOM.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/8907607",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者オリジナルVRoid基盤の無料VRMアバター。配信・ゲーム等で商用利用可、改変可。VRM自体の再配布・販売不可。ZIPにはVRM本体を含むと明記。 公開ページで0円配布を確認したが実ダウンロード・ZIP内部・VRMバイナリは未確認。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "作者オリジナルVRoid基盤の無料VRMアバター。商品ページは配信・ゲーム等の商用利用と改変を許可し、VRM自体の再配布・販売を禁止。ZIPにVRM本体を含む旨を記載。B32 2026-10-11: ZIP内VRM 0.xの埋込allowedUserName=OnlyAuthor/商用Disallowがページ許可と矛盾。描画前に一時ZIPを削除し、NAS未保存。"
     },
     {
       "id": "kaso-revival-talisman",
@@ -9107,16 +9107,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/8866502",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "OXYGEN_ERROR.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/8866502",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者オリジナルVRoid基盤の無料VRMアバター。配信・ゲーム等で商用利用可、改変可。VRM自体の再配布・販売不可。ZIPにはVRM本体を含むと明記。 公開ページで0円配布を確認したが実ダウンロード・ZIP内部・VRMバイナリは未確認。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "作者オリジナルVRoid基盤の無料VRMアバター。商品ページは配信・ゲーム等の商用利用と改変を許可し、VRM自体の再配布・販売を禁止。B32 2026-10-11: 直接VRM 0.xの埋込allowedUserName=OnlyAuthor/商用Disallowがページ許可と矛盾。描画せず一時VRMを削除し、NAS未保存."
     },
     {
       "id": "ator-claw-monster",
@@ -9275,9 +9275,9 @@
       "distribution_filename": "wanime_vrm_1_1.zip",
       "license_name": "作者の案内する利用規約",
       "license_url": "https://drive.google.com/file/d/1cIgRVAQXmGSXWKwY_krzBKAxzg4vNGnd/view",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が同じ無料ZIPの中にWanime_neonmoss.vrmを個別VRMとして明示。VN3規約適用。BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が同じ無料ZIPの中にWanime_neonmoss.vrmを個別VRMとして明示。VN3規約適用。BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B32 2026-10-11: 商品ページ上の3 VRM対応は確認したが、必須リンクVN3全文を読めず年齢不明・素体版を含むため未取得。"
     },
     {
       "id": "mossinpc-wanime-relaxwear",
@@ -9295,9 +9295,9 @@
       "distribution_filename": "wanime_vrm_1_1.zip",
       "license_name": "作者の案内する利用規約",
       "license_url": "https://drive.google.com/file/d/1cIgRVAQXmGSXWKwY_krzBKAxzg4vNGnd/view",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が同じ無料ZIPの中にWanime_relaxwear.vrmを個別VRMとして明示。VN3規約適用。BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が同じ無料ZIPの中にWanime_relaxwear.vrmを個別VRMとして明示。VN3規約適用。BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B32 2026-10-11: 商品ページ上の3 VRM対応は確認したが、必須リンクVN3全文を読めず年齢不明・素体版を含むため未取得。"
     },
     {
       "id": "mossinpc-wanime-basebody",
@@ -9315,9 +9315,9 @@
       "distribution_filename": "wanime_vrm_1_1.zip",
       "license_name": "作者の案内する利用規約",
       "license_url": "https://drive.google.com/file/d/1cIgRVAQXmGSXWKwY_krzBKAxzg4vNGnd/view",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が同じ無料ZIPの中にWanime_basebody.vrmを個別VRMとして明示。VN3規約適用。BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が同じ無料ZIPの中にWanime_basebody.vrmを個別VRMとして明示。VN3規約適用。BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B32 2026-10-11: 商品ページ上の3 VRM対応は確認したが、必須リンクVN3全文を読めず年齢不明・素体版を含むため未取得。"
     },
     {
       "id": "mossinpc-moss-normal",
@@ -9335,9 +9335,9 @@
       "distribution_filename": "moss.vrm",
       "license_name": "作者の案内する利用規約",
       "license_url": "https://drive.google.com/file/d/1kIJIRdQDKn44X5JgP28ryiHZH5cGB2Rd/view",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が0円で直接公開。Blender制作の独立VRM、VN3利用規約を適用。素体と通常版は別ファイル。BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が0円で直接公開。Blender制作の独立VRM、VN3利用規約を適用。素体と通常版は別ファイル。BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B32 2026-10-11: 年齢未記載、服なし素体版を含み、リンクVN3概要が性的/暴力表現を許可。規約全文/対象範囲未確認のため未取得。"
     },
     {
       "id": "mossinpc-moss-base",
@@ -9355,9 +9355,9 @@
       "distribution_filename": "moss_sotai.vrm",
       "license_name": "作者の案内する利用規約",
       "license_url": "https://drive.google.com/file/d/1kIJIRdQDKn44X5JgP28ryiHZH5cGB2Rd/view",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が0円で直接公開。Blender制作の独立VRM、VN3利用規約を適用。素体と通常版は別ファイル。BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が0円で直接公開。Blender制作の独立VRM、VN3利用規約を適用。素体と通常版は別ファイル。BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B32 2026-10-11: 年齢未記載、服なし素体版を含み、リンクVN3概要が性的/暴力表現を許可。規約全文/対象範囲未確認のため未取得。"
     },
     {
       "id": "schoolroid-nadeshiko-full",
@@ -10122,9 +10122,9 @@
       "distribution_filename": "無題.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/1571536",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が2025年に無料化したオリジナル3Dモデル。無題.zipにはVRMとUnitypackageを同梱すると説明。おまけZIPは別モデルと数えない。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+      "verification": "official_product_page_scope_excluded_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "作者が2025年に無料化したオリジナル3Dモデル。無題.zipにはVRMとUnitypackageを同梱すると説明。おまけZIPは別モデルと数えない。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。 B32 2026-10-11: 商品ページで無料ZIPにVRMのほかUnitypackage/Blender/PSD/PMX等を同梱と確認。VRM-only保存範囲外のためダウンロードなし。"
     },
     {
       "id": "doridori-nanami",
@@ -10183,9 +10183,9 @@
       "distribution_filename": "casual_fashion_Ver0.0_20240421.vrm",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/5658696",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が無料の別VRMファイル2本を公開。編集可能な.vroidは有料。VRoid StudioやAvatarSample_C由来のテクスチャ利用条件に注意。VRM仕様版は名称に基づく案内のみで未解析。公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が無料の別VRMファイル2本を公開。編集可能な.vroidは有料。VRoid StudioやAvatarSample_C由来のテクスチャ利用条件に注意。VRM仕様版は名称に基づく案内のみで未解析。公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B32 2026-10-11: 商品画像が若年/中性的な印象で、年齢明記なし。年齢/内容確認まで未取得。"
     },
     {
       "id": "siroihakumai-casual-fashion-vrm1",
@@ -10204,9 +10204,9 @@
       "distribution_filename": "casual_fashion_Ver1.0_20240421.vrm",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/5658696",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が無料の別VRMファイル2本を公開。編集可能な.vroidは有料。VRoid StudioやAvatarSample_C由来のテクスチャ利用条件に注意。VRM仕様版は名称に基づく案内のみで未解析。公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が無料の別VRMファイル2本を公開。編集可能な.vroidは有料。VRoid StudioやAvatarSample_C由来のテクスチャ利用条件に注意。VRM仕様版は名称に基づく案内のみで未解析。公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B32 2026-10-11: 商品画像が若年/中性的な印象で、年齢明記なし。年齢/内容確認まで未取得。"
     },
     {
       "id": "siroihakumai-maid-vrm0",
@@ -10224,9 +10224,9 @@
       "distribution_filename": "maid_model_Ver0.0_20240421.vrm",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/5674587",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が¥0配布する2つの直接VRM（通常VRM 0.x/1.0向けのファイル名）。有料のVRoid編集データとは区別。個人商用利用可、法人商用は作者に要相談。公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が¥0配布する2つの直接VRM（通常VRM 0.x/1.0向けのファイル名）。有料のVRoid編集データとは区別。個人商用利用可、法人商用は作者に要相談。公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B32 2026-10-11: プレビューが若年寄りで年齢明記なし。年齢/内容確認まで未取得。"
     },
     {
       "id": "siroihakumai-maid-vrm1",
@@ -10244,9 +10244,9 @@
       "distribution_filename": "maid_model_Ver1.0_20240421.vrm",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/5674587",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が¥0配布する2つの直接VRM（通常VRM 0.x/1.0向けのファイル名）。有料のVRoid編集データとは区別。個人商用利用可、法人商用は作者に要相談。公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が¥0配布する2つの直接VRM（通常VRM 0.x/1.0向けのファイル名）。有料のVRoid編集データとは区別。個人商用利用可、法人商用は作者に要相談。公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B32 2026-10-11: プレビューが若年寄りで年齢明記なし。年齢/内容確認まで未取得。"
     },
     {
       "id": "siroihakumai-ao-quest",
@@ -10285,9 +10285,9 @@
       "distribution_filename": "Savi.vrm",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/6799874",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者のVRChat用Saviの無料VRM欄に3色の直接VRMファイル。無料VRChat Unitypackageと有料編集用.vroidを同じモデルとして重複登録しない。VN3形式の利用規約PDFを参照。公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者のVRChat用Saviの無料VRM欄に3色の直接VRMファイル。無料VRChat Unitypackageと有料編集用.vroidを同じモデルとして重複登録しない。VN3形式の利用規約PDFを参照。公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B32 2026-10-11: 男性モデルの若年寄り外観・年齢明記なし。リンク先PDF規約全文未確認のため未取得。"
     },
     {
       "id": "siroihakumai-savi-black",
@@ -10305,9 +10305,9 @@
       "distribution_filename": "Savi_black.vrm",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/6799874",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者のVRChat用Saviの無料VRM欄に3色の直接VRMファイル。無料VRChat Unitypackageと有料編集用.vroidを同じモデルとして重複登録しない。VN3形式の利用規約PDFを参照。公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者のVRChat用Saviの無料VRM欄に3色の直接VRMファイル。無料VRChat Unitypackageと有料編集用.vroidを同じモデルとして重複登録しない。VN3形式の利用規約PDFを参照。公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B32 2026-10-11: 男性モデルの若年寄り外観・年齢明記なし。リンク先PDF規約全文未確認のため未取得。"
     },
     {
       "id": "siroihakumai-savi-gray",
@@ -10325,9 +10325,9 @@
       "distribution_filename": "Savi_gray.vrm",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/6799874",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者のVRChat用Saviの無料VRM欄に3色の直接VRMファイル。無料VRChat Unitypackageと有料編集用.vroidを同じモデルとして重複登録しない。VN3形式の利用規約PDFを参照。公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者のVRChat用Saviの無料VRM欄に3色の直接VRMファイル。無料VRChat Unitypackageと有料編集用.vroidを同じモデルとして重複登録しない。VN3形式の利用規約PDFを参照。公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B32 2026-10-11: 男性モデルの若年寄り外観・年齢明記なし。リンク先PDF規約全文未確認のため未取得。"
     },
     {
       "id": "shadowshop-tomboy",
@@ -10649,9 +10649,9 @@
       "distribution_filename": "Cell__glass_.vrm",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/4126374",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が無料の直接VRMファイルとして個別掲載。クレジットを商品ページに求めるモデルあり。再投稿・再配布禁止を明記する例があるため各商品条件を参照。眼鏡の有無は別VRMとして区別。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が無料の直接VRMファイルとして個別掲載。クレジットを商品ページに求めるモデルあり。再投稿・再配布禁止を明記する例があるため各商品条件を参照。眼鏡の有無は別VRMとして区別。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。 B32 2026-10-11: 無料VRM表示を確認したが、作者固有の利用条件と年齢情報を確認できず未取得。"
     },
     {
       "id": "wondrous21-cell-none",
@@ -10669,9 +10669,9 @@
       "distribution_filename": "Cell.vrm",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/4126374",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が無料の直接VRMファイルとして個別掲載。クレジットを商品ページに求めるモデルあり。再投稿・再配布禁止を明記する例があるため各商品条件を参照。眼鏡の有無は別VRMとして区別。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が無料の直接VRMファイルとして個別掲載。クレジットを商品ページに求めるモデルあり。再投稿・再配布禁止を明記する例があるため各商品条件を参照。眼鏡の有無は別VRMとして区別。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。 B32 2026-10-11: 無料VRM表示を確認したが、作者固有の利用条件と年齢情報を確認できず未取得。"
     },
     {
       "id": "wondrous21-six",
@@ -10897,16 +10897,16 @@
         "avatar",
         "low-poly"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/5208518",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "棒人間.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5208518",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が低ポリ人型VRMを直接0円配布。有料版と内容は同じ。法人・個人商用利用可、再配布禁止。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-11",
+      "notes": "作者が低ポリ人型VRMを直接0円配布。有料版と内容は同じ。法人・個人商用利用可、再配布禁止。B32 2026-10-11: 無料UIで棒人間.vrmを取得し、VRM 0.xと埋込Everyone/商用Allow/Redistribution_Prohibitedがページ条件と整合することを確認。全身Tポーズ・正面顔を確認し、未改変の実体を私的NASへ保存。"
     },
     {
       "id": "pumpkinyoi-yoshida-free",
@@ -10945,9 +10945,9 @@
       "distribution_filename": "Kofumi-chan-1.0.0.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4945822",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "無料の眼鏡ありVRM。眼鏡なしは有料版のみのため収録しない。作者説明の1.0.0はモデル更新版番号で、VRM仕様版未確認。法人不可・個人商用可・再配布不可。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "無料の眼鏡ありVRM。眼鏡なしは有料版のみのため収録しない。作者説明の1.0.0はモデル更新版番号で、VRM仕様版未確認。法人不可・個人商用可・再配布不可。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。 B32 2026-10-11: 文学少女、身長約155cmだが年齢明記なし、画像も若年寄り。年齢/内容確認まで未取得。"
     },
     {
       "id": "mameniki-red-plush",

@@ -3274,16 +3274,16 @@
         "avatar",
         "ai-assisted-creation"
       ],
-      "vrm_version": null,
+      "vrm_version": "1.0",
       "source_url": "https://booth.pm/ja/items/8824510",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "ryuneru_vrm_v1.1.0.zip",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/8824510",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円のオリジナルVRM入りZIP。AIによる制作実験作品。作者は商用・個人改変可と案内し、実VRMファイル名とVRM仕様版は未確認。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円ZIPからryuneru_vrm_v1.1.0/ryuneru_v1.1.0.vrmを取得・検査。GLB v2/VRM 1.0、埋込avatarPermission=everyone、commercialUsage=corporation、allowRedistribution=false、modification=allowModification、creditNotation=unnecessary、VRM SHA-256=ccb47259a12fcac03ed4a052ce44c4892a33e76d9e0c1c3ae5d5e4d62e403d1d。ZIP内TERMS.mdは同じ権利値を明記し、個人/法人商用・個人改変可、再配布禁止で商品ページと整合。AI制作実験モデル。人型Tポーズ・顔を確認しNASへ保存。"
     },
     {
       "id": "naralab-profamu",
@@ -3294,16 +3294,16 @@
         "avatar",
         "chibi"
       ],
-      "vrm_version": null,
+      "vrm_version": "1.0",
       "source_url": "https://booth.pm/ja/items/8183172",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "Profamu.vrm",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/8183172",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円の小型オリジナルVRM。改変・個人商用・再配布可だが未改変データそのままの販売は禁止。VRoid編集データ付きセットは500円。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円VRMを実取得・検査。GLB v2/VRM 1.0、埋込avatarPermission=everyone、commercialUsage=personalProfit、allowRedistribution=true、modification=allowModificationRedistribution、creditNotation=unnecessary、VRM SHA-256=802255f16d6f0b4b9d6da79b1ae2e71d692bcb785c080371cd0bab8d29dbf252。商品規約の改変・個人商用・再配布可、未改変データそのままの販売禁止、クレジット不要と整合。人型Tポーズ・顔を確認しNASへ保存。"
     },
     {
       "id": "fuufumu-chloe-lo1126",
@@ -3313,16 +3313,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/6272301",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "lo1126vrm.zip",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/6272301",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円VRM対応の公式ZIP。FBX/VRChat/PMX用の別ZIPもある。実ファイルのVRM版・ファイル名は未確認。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円ZIPからlo1126.vrmとlo1136.vrmを実取得・検査（ともにVRM 0.x）。両ファイルの埋込値はallowedUserName=Everyone、commercialUssageName=Allow、licenseName=Redistribution_Prohibited。適用される『ふーふむベースモデル共通ライセンスタイプ1』は未改変データの再配布を許可し、改変版の配布も下流利用者に同規約を適用する条件で許可する一方、両VRMの埋込値は再配布禁止のため権利矛盾として保留。プレビュー/NAS保存なし。VRM SHA-256はバッチ16チェックポイントに記録。"
     },
     {
       "id": "yururea-haruusagi-normal",
@@ -3334,16 +3334,16 @@
         "chibi",
         "rabbit-ears"
       ],
-      "vrm_version": null,
+      "vrm_version": "1.0",
       "source_url": "https://booth.pm/ja/items/8087217",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "春うさぎ_Normal_.vrm",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/8087217",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円の小型VRM。100円支援版は同内容で無料版のみ収録。利用条件は商品ページ参照。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円VRMを実取得・検査。GLB v2/VRM 1.0、埋込avatarPermission=onlySeparatelyLicensedPerson、commercialUsage=corporation、allowRedistribution=false、modification=allowModification、creditNotation=unnecessary、otherLicenseUrl=https://arayan-yuru.booth.pm/items/8067126、VRM SHA-256=e272c8424685baa42a699e7dd496e8e3e6bc105473430b5f8c45b9fc975fb903。商品ページの無料配布操作とリンク先利用規約により利用者へ個別許諾を明示し、商用/改変可・再配布/販売不可、商用/ゲーム用途はクレジット必須と確認。人型Tポーズ・顔を確認しNASへ保存。"
     },
     {
       "id": "sn1572-tsuzuri-yodaka",
@@ -3354,16 +3354,16 @@
         "avatar",
         "expressions"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/3822052",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "最新版_1.02.03_綴よだか_VRM_VRCモデル.zip",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/3822052",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円のVRM/VRChatモデルZIP。別配布の旧DynamicBone版ZIPは本件と同キャラクターの旧版として情報に残すが別レコード未登録。再配布条件は作者規約に従う。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-10",
+      "notes": "0円ZIPからVRM 0.xの6バリアントを実取得・検査。カタログ上の基本モデルに対応するファイルは同梱readmeと一致する『綴よだか(tsudzuri_yodaka).vrm』。埋込値はallowedUserName=Everyone、commercialUssageName=Allow、licenseName=Other。一方、同梱readmeが必読として示す作者利用規約http://sn1572-nighthawk.sakura.ne.jp/tos.htmlはDNS_PROBE_FINISHED_NXDOMAINで取得不能。商用可のBOOTH記載だけではその他条件を確認できないため権利未確認として保留。プレビュー/NAS保存なし。全6 VRMのSHA-256はバッチ16チェックポイントに記録。"
     },
     {
       "id": "rrro-romandi",

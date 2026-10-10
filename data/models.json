@@ -3119,16 +3119,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/7475625",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "mikke_2025.vrm",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/7475625",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者のオリジナル無料VRM。改変・商用可、再配布・販売・AI学習は禁止。ショップ固有URLの非公開表示があり、取得可否は特に要確認。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円VRMをログイン済みBOOTHページから実取得・検査。GLB v2/VRM 0.x、埋込allowedUserName=ExplicitlyLicensedPerson、commercialUssageName=Allow、licenseName=Redistribution_Prohibited、VRM SHA-256=4d63d7c12f4241fb4a8b3120ac7f35281d409eca58695c6064e6b204c1e4b804。BOOTHの明示的な無料ライセンス（改変・商用利用可、再配布/販売/AI学習禁止）と整合。人型Tポーズ・顔を目視確認しNASへ保存。"
     },
     {
       "id": "rolock-pest-mask-chan",
@@ -3145,9 +3145,9 @@
       "distribution_filename": "Pest_Mask-chan.vrm",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/7527177",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "オリジナル0円VRM。改変・商用可、再配布・販売・政治/宗教/NFT利用は禁止。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_non_humanoid_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円VRMを実取得・検査。GLB v2/VRM 0.x、VRM SHA-256=0614db9995a0364f9eec1a87debbf58da637aa7e19ffcb3317dfcaf16df55278。埋込allowedUserName=ExplicitlyLicensedPerson、commercialUssageName=Allow、licenseName=Redistribution_ProhibitedでBOOTH無料配布条件と整合。Tポーズで頭部とローブ状の胴体はあるが、両腕・両脚の人型外形を確認できず非人型として除外。プレビュー/NAS保存なし。"
     },
     {
       "id": "rolock-kokuyou-vrm1",
@@ -3164,9 +3164,9 @@
       "distribution_filename": "黒曜_Kokuyou.zip",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/6029627",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "公式作者の0円ZIPにはVRM 1.0と0.xを同梱。改変・商用可、再配布・販売・AI学習・政治/宗教/NFT利用は禁止。各版のZIP内部ファイル名は未確認。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "作者の0円ZIPから黒曜_Kokuyou/Kokuyou_1.0.vrmを取得・検査。GLB v2/VRM 1.0、VRM SHA-256=a04d14b979b63c5fd90b7d3c2e1420520eea1ba0603a6717b9ac0917c612bce0。埋込avatarPermission=everyone、commercialUsage=corporation、modification=allowModification、creditNotation=unnecessary、allowRedistribution=false。商品ページの改変・商用可、クレジット不要、再配布/販売禁止と整合。人型Tポーズ・顔を確認しNASへモデル単体ZIP＋WebP 2枚を保存。"
     },
     {
       "id": "rolock-kokuyou-vrm0",
@@ -3183,9 +3183,9 @@
       "distribution_filename": "黒曜_Kokuyou.zip",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/6029627",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "公式作者の0円ZIPにはVRM 1.0と0.xを同梱。改変・商用可、再配布・販売・AI学習・政治/宗教/NFT利用は禁止。各版のZIP内部ファイル名は未確認。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "作者の0円ZIPから黒曜_Kokuyou/Kokuyou_0.0.vrmを取得・検査。GLB v2/VRM 0.x、埋込allowedUserName=Everyone、commercialUssageName=Allow、licenseName=Redistribution_Prohibited、VRM SHA-256=5de007fa3b6fc501ac7dbde8d467bc7eebb6298362ea14affab20c43ac45fa7c。商品ページの改変・商用可、クレジット不要、再配布/販売禁止と整合。人型Tポーズ・顔を確認しNASへモデル単体ZIP＋WebP 2枚を保存。"
     },
     {
       "id": "romanticspica-rian-normal-vrm1",
@@ -3202,9 +3202,9 @@
       "distribution_filename": "Rian1.0.vrm",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/8165924",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者の0円配布。通常服・着せ替え用素体がありVRM 0.x/1.0をそれぞれ配布。規約の詳細はBOOTH本文と同梱資料を参照。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円VRM 1.0を実取得・検査。GLB v2、埋込avatarPermission=everyone、commercialUsage=personalProfit、creditNotation=required、allowRedistribution=false、modification=prohibited、VRM SHA-256=a7fa6c59a0da483175ced09b5f9fffd2c1a1291922db8d2a13028d984dd7deed。商品ページは個人の収益化配信を許可し、クレジットとページリンクを要求、再配布/販売/グッズ化/法人商用利用を禁止。埋込条件と整合。人型Tポーズ・顔を確認しNASへ保存。"
     },
     {
       "id": "romanticspica-rian-normal-vrm0",
@@ -3221,9 +3221,9 @@
       "distribution_filename": "Rian0.0.vrm",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/8165924",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者の0円配布。通常服・着せ替え用素体がありVRM 0.x/1.0をそれぞれ配布。規約の詳細はBOOTH本文と同梱資料を参照。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円VRM 0.xを実取得・検査。GLB v2、埋込allowedUserName=Everyone、commercialUssageName=Disallow、licenseName=Redistribution_Prohibited、VRM SHA-256=d6a84d05afe4686d1fb5e295b5e10b3df874fb9fc400378e2da67bbae5ed09c0。商品ページは個人の収益化配信を許可しクレジットとページリンクを要求する一方、埋込値は商用利用不可のため権利矛盾として保留。プレビュー/NAS保存なし。"
     },
     {
       "id": "romanticspica-rian-body-vrm1",
@@ -3241,9 +3241,9 @@
       "distribution_filename": "Rian_素体_1.0.vrm",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/8165924",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者の0円配布。通常服・着せ替え用素体がありVRM 0.x/1.0をそれぞれ配布。規約の詳細はBOOTH本文と同梱資料を参照。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円VRM 1.0素体を実取得・検査。GLB v2、埋込avatarPermission=everyone、commercialUsage=personalProfit、creditNotation=required、allowRedistribution=false、modification=prohibited、VRM SHA-256=3686d2c7cf55e79d7e0b18701766d2fcee48ac9d99485677b876c0fe82ea7e9f。商品ページは個人の収益化配信を許可し、クレジットとページリンクを要求、再配布/販売/グッズ化/法人商用利用を禁止。埋込条件と整合。人型Tポーズ・顔を確認しNASへ保存。"
     },
     {
       "id": "romanticspica-rian-body-vrm0",
@@ -3261,9 +3261,9 @@
       "distribution_filename": "Rian_素体_0.0.vrm",
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/8165924",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者の0円配布。通常服・着せ替え用素体がありVRM 0.x/1.0をそれぞれ配布。規約の詳細はBOOTH本文と同梱資料を参照。実ファイル未取得・ダウンロード後のVRMメタデータは未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "0円VRM 0.x素体を実取得・検査。GLB v2、埋込allowedUserName=Everyone、commercialUssageName=Disallow、licenseName=Redistribution_Prohibited、VRM SHA-256=8fdfc9ea655f0db778acf0772ce848685d2c10dc038f524a6cf794a62d6859cc。商品ページは個人の収益化配信を許可しクレジットとページリンクを要求する一方、埋込値は商用利用不可のため権利矛盾として保留。プレビュー/NAS保存なし。"
     },
     {
       "id": "haulo-ryuneru",

@@ -3772,16 +3772,16 @@
         "mascot",
         "lightweight"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/6419264",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "あいすくん_冬ver.vrm",
       "license_name": "作者BOOTHの商品説明・利用規約",
       "license_url": "https://booth.pm/ja/items/6419264",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "同作者の冬・クリスマス衣装差分。無料VRM、再配布禁止。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "あいすくん_冬ver.vrmをBOOTH認証済み無料ダウンロードから実取得・検査。GLB v2/VRM 0.x、VRM SHA-256=833460fa34f5af1975bb0991a9a29e3114ed5f95a64a8cccd7c1adc84939ae8b。埋込allowedUserName=OnlyAuthor、commercialUssageName=Disallow、licenseName=Redistribution_Prohibited、otherLicenseUrl=undefined。商品ページはCluster向けアバターとして無料配布し単体再配布を禁じるが、埋込OnlyAuthorは作者のみの利用に限定するため矛盾。 プレビュー生成・NAS保存なし。"
     },
     {
       "id": "aaaavrm-volo",
@@ -3793,16 +3793,16 @@
         "voxel",
         "lightweight"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/6139844",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "VOLO.vrm",
       "license_name": "作者BOOTHの商品説明・利用規約",
       "license_url": "https://booth.pm/ja/items/6139844",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者が無料配布するボクセルアバターVRM、588KB。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "VOLO.vrmをBOOTH認証済み無料ダウンロードから実取得・検査。GLB v2/VRM 0.x、VRM SHA-256=492ee6d108df8954c5861493b48453e2c9eb0db17c8f15d31a559c4d1a64deb4。埋込author=Unknown、allowedUserName=Everyone、commercialUssageName=Allow、licenseName=Redistribution_Prohibited。商品ページは同一VOLO.vrmの0円配布、追加の公開条件は記載なし。埋込条件と商品条件に矛盾なし。人型Tポーズ・顔プレビュー確認後NAS保存。"
     },
     {
       "id": "ittokazetau-tikuenn",
@@ -3812,16 +3812,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "1.0",
       "source_url": "https://booth.pm/ja/items/8629412",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "tikuenn.zip",
       "license_name": "作者BOOTHの商品説明・利用規約",
       "license_url": "https://booth.pm/ja/items/8629412",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円ZIPにVRMとVRoidプロジェクトを同梱。個人商用可・作者表記必要、法人利用/モデル再配布禁止。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "tikuenn.vrmをBOOTH認証済み無料ダウンロードから実取得・検査。GLB v2/VRM 1.0、VRM SHA-256=7aa94d599bfd05627c273b8b6456a9069b89bbb4d802580e709f25cbaa90fc54。商品規約は個人の商用利用・配信とテクスチャ改変を許可し、法人利用とモデル/テクスチャ再配布を禁止。埋込avatarPermission=onlyAuthor、commercialUsage=personalNonProfit、allowRedistribution=false、modification=allowModificationRedistribution、creditNotation=required。個人商用許可と埋込personalNonProfit/OnlyAuthorが矛盾。 プレビュー生成・NAS保存なし。"
     },
     {
       "id": "atelier-yozora-sumomo",
@@ -3832,16 +3832,16 @@
         "avatar",
         "lightweight"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/8925032",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "魔法少女すもも.vrm",
       "license_name": "作者BOOTHの商品説明・利用規約",
       "license_url": "https://booth.pm/ja/items/8925032",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "無料VRMは有料フルセット内のVRMと同一と作者説明。ポリゴン10,806、VRChat/cluster向け。Unityパッケージ等は有料版のみ。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-10",
+      "notes": "魔法少女すもも.vrmをBOOTH認証済み無料ダウンロードから実取得・検査。GLB v2/VRM 0.x、VRM SHA-256=9e50a5a7f60e7ce05059d8eb9e4ac37c72475d600531450f75877a2f70d076a2。商品規約は改変・商用利用・着用アバターでの映像/写真/配信活動を許可し、再配布禁止、クレジット任意。埋込allowedUserName=Everyone、commercialUssageName=Allow、licenseName=Redistribution_Prohibitedと整合。人型Tポーズ・顔プレビュー確認後NAS保存。"
     },
     {
       "id": "deadend-doll-sheap",
@@ -3852,16 +3852,16 @@
         "avatar",
         "animal-motif"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/4875752",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "model_sheep2.vrm",
       "license_name": "作者BOOTHの商品説明・利用規約",
       "license_url": "https://booth.pm/ja/items/4875752",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "0円の作者オリジナル羊モチーフVRM。個人・商用可、改変可、再配布禁止。有料支援版にVRoidファイルが付く。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-10",
+      "notes": "model_sheep2.vrmをBOOTH認証済み無料ダウンロードから実取得・検査。GLB v2/VRM 0.x、VRM SHA-256=9efe290c3e7e84af9cd1c8b3d583706bec92395eb57875a6e54c2aa09fd7fa52。商品規約は無料版のCluster利用、個人/商業利用と制限のない改変を許可し、再配布/販売を禁止。埋込allowedUserName=OnlyAuthor、commercialUssageName=Disallow、licenseName=Redistribution_Prohibitedのため利用許諾が矛盾。 プレビュー生成・NAS保存なし。"
     },
     {
       "id": "poeale-anzu",

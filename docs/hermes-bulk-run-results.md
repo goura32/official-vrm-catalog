@@ -519,3 +519,12 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - 累計は商品ページ81、カタログID111件、物理VRM122件、検査122件、NAS新規53件、非人型6件、権利矛盾49件、権利未確認1件。NASは408 ZIP・816 WebP、未圧縮VRM 2,495,905,033 bytes、ZIP 1,332,185,691 bytes、WebP 11,581,876 bytes、削減1,163,719,342 bytes（46.6251%）。`verify_nas.py`は`ok:true`、`errors:[]`。
 - 797件の現行内訳はNAS保存78、実バイナリ非人型7、作者索引由来非人型1、埋込権利矛盾79、許諾未確認34、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち407、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2。合計797、未分類0。別軸の形状選別は人型候補557、非人型244、未判定496。
 - 旧355件の索引を今回の53新規保存IDから除外したSHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`でbaselineと一致。
+
+## 2026-10-10 BOOTH認証済み追加バッチ20
+
+- hakase3dclusterのあいすくん冬ver、aaaavrmのVOLO、ittokazetauの竹燕、atelierYOZORAの魔法少女すもも、いきどまりのDoll Sheapの5商品ページを処理し、無料配布物を5回取得。5 catalog IDに対応する物理VRM 5件を検査した。転送45,143,374 bytes、展開後VRM総量39,442,516 bytes。全ページHTTP 200、HTTP 429は0件。
+- VOLOの埋込権利はEveryone/商用可/再配布禁止で、商品ページの無料配布条件と矛盾せず、人型Tポーズ・顔を確認して保存。魔法少女すももは商品条件の改変/商用利用可・再配布禁止・クレジット任意が埋込Everyone/商用可/再配布禁止と一致し、同様に保存。あいすくん冬verは無料Cluster利用条件と埋込`OnlyAuthor`、竹燕は個人商用・テクスチャ改変の公開許可と埋込`personalNonProfit`/`onlyAuthor`、Doll Sheepは個人/商用・改変可の公開条件と埋込`OnlyAuthor`/商用不可が矛盾するため3件保留。保留品はプレビューなし。
+- バッチ20は5商品ページ、5ダウンロード試行、5 catalog IDs、5物理VRM検査、NAS純増2件、非人型0件、権利矛盾3件、権利未確認0件。詳細チェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261010-20.json`。
+- 累計は商品ページ86、カタログID116件、物理VRM127件、検査127件、NAS新規55件、非人型6件、権利矛盾52件、権利未確認1件。NASは410 ZIP・820 WebP、未圧縮VRM 2,499,127,729 bytes、ZIP 1,333,948,358 bytes、WebP 11,649,248 bytes、削減1,165,179,371 bytes（46.6234%）。`verify_nas.py`は`ok:true`、`errors:[]`。
+- 797件の現行内訳はNAS保存80、実バイナリ非人型7、作者索引由来非人型1、埋込権利矛盾82、許諾未確認34、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち402、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2。合計797、未分類0。別軸の形状選別は人型候補557、非人型244、未判定496。
+- 旧355件の索引を今回の55新規保存IDから除外したSHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`でbaselineと一致。

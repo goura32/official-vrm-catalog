@@ -4840,11 +4840,11 @@
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "Lua_vrm.zip",
-      "license_name": "制作者BOOTH商品ページの利用条件",
-      "license_url": "https://booth.pm/ja/items/7682427",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が0円のVRMデータとして公開。VRoid編集データと衣装は有料のため対象外。公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "license_name": "制作者BOOTHページおよび外部利用規約（AIへの読込禁止）",
+      "license_url": "https://note.com/dlzig7/n/n234c77bb64f5",
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "B34 (2026-10-11): 正規BOOTH item7682427の無料VRM-only ZIPを確認。作者の外部規約はモデルデータのAI読込を禁じ、別途VN3ライセンスの確認も求める。AI利用禁止に従い取得・AI可視検査・保存を行わず、VN3本文も未取得。"
     },
     {
       "id": "honemaru-gravestone",
@@ -5237,11 +5237,11 @@
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "花圓.vrm",
-      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_name": "制作者BOOTH商品条件（年齢条件未確認）",
       "license_url": "https://booth.pm/ja/items/4649018",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が0円で公開したVRoid Studio製の少年キャラクターVRM。改変可・再配布禁止。公式商品ページで0円のVRM配布を確認。実ダウンロード・内部VRM解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "B34 (2026-10-11): 正規BOOTH item4649018は「恥ずかしがり屋な男の子」と説明し、性的表現を許可する一方、年齢を明記しない。年齢・内容条件を確認できないため取得しない。"
     },
     {
       "id": "shounokoto-moyashi",
@@ -5820,11 +5820,11 @@
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "Valentine_s_mimic.vrm",
-      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_name": "制作者BOOTH商品条件（非人型のため未取得）",
       "license_url": "https://booth.pm/ja/items/5463323",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者0円配布の別VRMファイル。vrm.zipにも同梱だが重複登録はしない。商用・改変可、再配布禁止。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_product_page_shape_non_humanoid_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "B34 (2026-10-11): BOOTH item5463323の rendered product previews は、舌のあるリボン付きギフト箱形mimicで、二足人型の頭・胴・腕・脚がないことを確認。通常色VRMは取得前に非人型として除外。作者条件は商用/改変可・再配布不可。"
     },
     {
       "id": "kyuri-valentine-mimic-blue",
@@ -5841,11 +5841,11 @@
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "Valentine_s_mimic_blue.vrm",
-      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_name": "制作者BOOTH商品条件（非人型のため未取得）",
       "license_url": "https://booth.pm/ja/items/5463323",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者0円配布の別VRMファイル。vrm.zipにも同梱だが重複登録はしない。商用・改変可、再配布禁止。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_product_page_shape_non_humanoid_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "B34 (2026-10-11): item5463323の同一mimic色違いVRM。商品プレビューと色違いの明示から、舌のあるギフト箱形で二足人型ではないため取得前に除外。作者条件は商用/改変可・再配布不可。"
     },
     {
       "id": "kyuri-valentine-mimic-gold",
@@ -5862,11 +5862,11 @@
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "Valentine_s_mimic_gold.vrm",
-      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_name": "制作者BOOTH商品条件（非人型のため未取得）",
       "license_url": "https://booth.pm/ja/items/5463323",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者0円配布の別VRMファイル。vrm.zipにも同梱だが重複登録はしない。商用・改変可、再配布禁止。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_product_page_shape_non_humanoid_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "B34 (2026-10-11): item5463323の同一mimic色違いVRM。商品プレビューと色違いの明示から、舌のあるギフト箱形で二足人型ではないため取得前に除外。作者条件は商用/改変可・再配布不可。"
     },
     {
       "id": "kyuri-valentine-mimic-black",
@@ -5883,11 +5883,11 @@
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "Valentine_s_mimic_black.vrm",
-      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_name": "制作者BOOTH商品条件（非人型のため未取得）",
       "license_url": "https://booth.pm/ja/items/5463323",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者0円配布の別VRMファイル。vrm.zipにも同梱だが重複登録はしない。商用・改変可、再配布禁止。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_product_page_shape_non_humanoid_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "B34 (2026-10-11): item5463323の同一mimic色違いVRM。商品プレビューと色違いの明示から、舌のあるギフト箱形で二足人型ではないため取得前に除外。作者条件は商用/改変可・再配布不可。"
     },
     {
       "id": "dojima-takoyaki-chan",
@@ -6997,9 +6997,9 @@
       "distribution_filename": "金_クリスマス.zip",
       "license_name": "制作者の配布ページで案内された利用条件",
       "license_url": "https://booth.pm/ja/items/2627819",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "クリスマス風VRMの別無料ZIP。露出について販売者の注意あり、利用規約・ゾーニングに従う。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "B34 (2026-10-11): 正規BOOTH item2627819を確認。ページはR15/下着露出の可能性を案内するがキャラクター年齢は不明。利用条件と年齢・内容適合を確認できないため取得しない。"
     },
     {
       "id": "teoteome-christmas-skirt",
@@ -7039,9 +7039,9 @@
       "distribution_filename": "ぴんくさんた２０２０.zip",
       "license_name": "制作者の配布ページで案内された利用条件",
       "license_url": "https://booth.pm/ja/items/2627819",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "クリスマス風VRMの別無料ZIP。露出について販売者の注意あり、利用規約・ゾーニングに従う。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "B34 (2026-10-11): 正規BOOTH item2627819を確認。販売者はこのピンク版をより露出が多くYouTube不適と説明し、キャラクター年齢は不明。年齢・内容適合を確認できないため取得しない。"
     },
     {
       "id": "teoteome-gold-maid-gold",
@@ -7079,9 +7079,9 @@
       "distribution_filename": "パンツの線はパンツの模様.zip",
       "license_name": "制作者の配布ページで案内された利用条件",
       "license_url": "https://booth.pm/ja/items/2827265",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が全年齢用と全年齢向けではないモデルの2種類を別ZIPで公開。個別利用条件要確認。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "B34 (2026-10-11): 正規BOOTH item2827265を確認。既存distribution_filenameは全年齢向けではないZIPに一致し、キャラクター年齢も未提示。取得せず、別の全年齢ZIPへのID付け替えも行わない。"
     },
     {
       "id": "teoteome-gothic-boy-original",
@@ -8555,11 +8555,12 @@
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "_Free_VRoid_VRM_Steam_Rabbit_ぴケの創作屋さん_.zip",
-      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_name": "商品条件と埋込ライセンス確認済み（編集用ソース同梱のため範囲外）",
       "license_url": "https://booth.pm/ja/items/4468213",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "うさぎ風スチームパンク衣装を含むVRM。White/Black追加色とPSDは有料版専用。 作者ページで無料VRMと記載し、有料版のフルセットと区別。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+      "vrm_version": "0.x",
+      "verification": "official_package_inspected_scope_excluded_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "B34 (2026-10-11): 正規UIの無料ZIPを確認。27-member packageに単一VRM (SHA-256=78f4ab6f497b640557c0b9c8597226683fc4b5ac4d0760052219f27b82860e3)だけでなく.vroid/.vroidcustomitem、textures、sample等の編集用ソースを同梱。VRM metadataとREADMEの商用/センシティブ利用・credit・原本再配布禁止を確認したが、取得範囲外としてプレビュー/NAS保存をせず、一時ZIP/VRM削除済み。"
     },
     {
       "id": "yonagi-emil",
@@ -8939,11 +8940,12 @@
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "haashaku.vrm.zip",
-      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_name": "BOOTH商品条件とVRM埋込metadataの矛盾（OnlyAuthor）",
       "license_url": "https://booth.pm/ja/items/3333412",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "同一商品にhasshakusama.vrm.zipもあるが、作者は文字化け対策で別名にしたと説明。同一モデルなので重複計上しない。再配布不可、cluster/VRChat利用可。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+      "vrm_version": "0.x",
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "B34 (2026-10-11): 正規UIで同一モデルの主ZIP hasshakusama.vrm.zipを検査（VRM0.x, SHA-256=e8a05130f2e7d5ade6b2421e1bf9158a3bab85cbd4bcc94bdd844ff7dbf77846）。ページはVRChat/Cluster利用可だが埋込allowedUserName=OnlyAuthor、commercial/sexual/violent=Disallowで矛盾。プレビュー/NAS保存なし。重複名ZIPは取得せず、一時ファイル削除済み。"
     },
     {
       "id": "tamirtg-belle-ball-gown",
@@ -8958,11 +8960,11 @@
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "ball_gown_white_v1_VRM.zip",
-      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_name": "BOOTH商品利用規約（年齢・私的NAS保存範囲未解決）",
       "license_url": "https://booth.pm/ja/items/7663985",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が0円ZIPに衣装着用済みVRMアバターを明記。ほかのvroidcustomitemは同一アバターの衣装素材として重複登録しない。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "B34 (2026-10-11): 正規BOOTH item7663985の無料ready-VRM ZIPを確認。標準女性VRoid用と説明されるが年齢は未提示。規約は個人利用を許可しつつ再配布/再アップロードを禁じ、成人向け用途も禁止。非公開NASバックアップの許諾範囲が不明なため取得しない。"
     },
     {
       "id": "cecyliamun-arvendal-free",
@@ -9532,11 +9534,11 @@
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "Skelton-VRM-V100.zip",
-      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_name": "BOOTH商品条件およびVRM埋込metadata（Everyone、commercial Allow、Redistribution_Prohibited）",
       "license_url": "https://booth.pm/ja/items/7500530",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者オリジナル骸骨のcluster用無料ZIPにVRM0.0を含む旨を明記。無料VRChat prefab版・有料支援は同一モデルで重複計上しない。再配布制限あり。 BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-11",
+      "notes": "B34 (2026-10-11): 正規UIの無料VRM-only ZIPからSkeltonV100.vrm (VRM0.x, 6,302,620 bytes, SHA-256=4d56b56e798f72be177a24f9a0c7ae2e5d68717da929a5d85351da2baabc3367)を取得・検査。同梱規約と埋込Everyone/commercial Allowを確認、Redistribution_Prohibitedに従いNAS内の非公開バックアップのみ。全身Tポーズ/顔で頭・胴・両腕・両脚を確認し、models/aonecodo-skelton.zipへ保存。"
     },
     {
       "id": "poribo-elise",
@@ -10726,9 +10728,9 @@
       "distribution_filename": "NegativeSet.zip",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/3841471",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者がVRoid Studioで制作した暫定版を無料のVRM+サンプル画像ZIPとして公開。ZIP内の実VRMファイル名・仕様版は未検証。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。"
+      "verification": "official_product_page_scope_excluded_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "B34 (2026-10-11): 正規BOOTH item3841471は無料配布をVRM+sample imagesの混在ZIPで提供し、VRM-only商品は表示されないため取得対象外。商品名は少女だが年齢も明記されず、年齢・内容条件は解消していない。ダウンロードなし。"
     },
     {
       "id": "youkihi-recruit-suit",
@@ -11764,11 +11766,11 @@
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "Yone_VRM.zip",
-      "license_name": "作者BOOTH掲載の利用条件",
+      "license_name": "作者BOOTH掲載の外部利用規約（Google Driveリンク未取得）",
       "license_url": "https://booth.pm/ja/items/7043554",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が無料配布物Yone_VRM.zipをVRM形式のモデルとして案内。作者本人が無料配布物としてVRM専用ZIPを掲載。別のVRChat/Unity向けZIPや応援版はVRMを追加計上しない。商品v1.2はVRM仕様バージョンではない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "B34 (2026-10-11): 正規BOOTH item7043554の無料Yone_VRM.zipを確認。商品が必須として案内する作者利用規約Google Driveリンクから規約本文を取得できなかったため、取得を保留。別のUnity ZIP/応援版は対象外。"
     },
     {
       "id": "mxu-suu-vrm",

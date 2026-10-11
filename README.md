@@ -21,7 +21,7 @@
 
 [収録・検証方針](docs/collection-policy.md) ／ [追加調査・保留候補](docs/research-notes.md) ／ [全体監査・人型ダウンロード方針](docs/download-scope-review.md) ／ **[NAS保存方式](docs/nas-storage.md)** ／ **[Hermes Agent認証済みBOOTH一括継続指示](docs/hermes-bulk-resume.md)** ／ [初回の指示書](docs/hermes-bulk-run.md) ／ [一括検証実績・再開チェックポイント](docs/hermes-bulk-run-results.md)
 
-**2026-10-11（B33完了）現在。** 登録は1,297件で凍結中。[形状選別](data/download-scope.json)は人型候補575・非人型238・未判定484（候補と実体確認を区別。B33でBlue Panda、Julius、Steam Punk Catを実VRM確認）。NASは**483 ZIP・Tポーズ/顔WebP 966枚**、未圧縮VRM 3,899,265,521 bytes → ZIP 2,148,721,691 bytes（削減率44.8942%）、WebP 15,091,308 bytes。直近の[実機レポート](docs/hermes-bulk-run-results.md)では`verify_nas.py`が`ok:true`、`errors:[]`。R1/R2/R3以外の797 IDはNAS保存153、実バイナリ非人型8、作者索引由来非人型1、埋込権利矛盾123、許諾未確認159、モデル対応未確定9、配布範囲外8、別host拒否2、`dweb.link`ブロック/未試行141、BOOTH認証待ち145、BOOTH未検証1、VRoid Hub認証待ち16、404 3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2（合計797）。パイロット＋33バッチの累計はBOOTH商品ページ250、無料取得ID243、物理VRM検査261、NAS新規128、権利矛盾93、許諾未確認126、HTTP 429は0件。B33は67ページ、無料UI操作16回・16 ID/VRM検査、NAS保存3件。89状態遷移は権利矛盾12、許諾/内容保留69、配布範囲外4、対応不明1、NAS保存3。別途未検証1件は未完了のまま維持。既存355件の保護対象SHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`と一致。次は[認証済みBOOTH一括継続指示](docs/hermes-bulk-resume.md)に従い、認証待ち145件を継続する。
+**2026-10-11（B34部分チェックポイント）現在。** 登録は1,297件で凍結中。[形状選別](data/download-scope.json)は人型候補576・非人型242・未判定479（候補と実体確認を区別。B34ではSkeltonを実VRMで人型確認し、Valentine's mimic 4色を作者ページの実レンダーから取得前に非人型と判定）。NASは**484 ZIP・Tポーズ/顔WebP 968枚**、未圧縮VRM 3,905,568,141 bytes → ZIP 2,153,972,896 bytes（削減率44.8487%）、WebP 15,132,012 bytes。`verify_nas.py`は`ok:true`、`errors:[]`。R1/R2/R3以外の797 IDはNAS保存154、実バイナリ非人型8、作者索引非人型1、商品プレビュー非人型4、埋込権利矛盾124、許諾未確認166、モデル対応未確定9、配布範囲外10、別host拒否2、`dweb.link`ブロック/未試行141、BOOTH認証待ち130、別途BOOTH未検証1、VRoid Hub認証待ち16、404 3、VRoid Studioエクスポート専用23、公式メタデータのみ3、公式リポジトリのみ2（合計797）。B33は67ページ、無料UI16回・VRM16件検査、NAS3件保存、89状態遷移（権利矛盾12、許諾/内容保留69、範囲外4、対応不明1、保存3）。B34 checkpointは11ページ確認、UI操作3回・VRM3件検査、NAS1件保存、権利矛盾1、権利未確認7、範囲外2、ページ画像非人型4、HTTP 429は0。B34は未完了の130件を残して部分チェックポイント化。別途未検証1件は未完了のまま維持。旧355件の保護SHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`と一致。B33は`c2af5462adc9f875ba62913f1baccee64722bfd2`へpush済み。再開は[認証済みBOOTH一括継続指示](docs/hermes-bulk-resume.md)とB34チェックポイントに従う。
 
 **画像・形状の根拠**： [R1/2 前半](docs/shape-review-100avatars-1-100.md) ／ [R1/2 後半](docs/shape-review-100avatars-101-200.md) ／ [R3](docs/shape-review-100avatars-r3.md) ／ [季節系・その他](docs/shape-review-indexed-other.md) ／ [MJMoonbow](docs/shape-review-mjmoonbow.md)。画像ファイル671件をIDに対応付けていますが、R1/R2のPNGはUVテクスチャで外形判定には使えません。画像対応付けは実VRMの形状確認やダウンロード許可を意味しません。
 
@@ -155,6 +155,7 @@ VRM 0.x / 1.0のモデル、アバター型と機能検証用モデルを対象�
 - `official_package_inspected_model_mapping_ambiguous_not_archived`: ZIPに複数VRMがありカタログIDとの対応を確定できないため未保存
 - `official_package_inspected_scope_excluded_not_archived`: 取得した無料パッケージがVRM-only範囲外（編集用ソース等を同梱）のためVRMを抽出せず未保存
 - `official_product_page_scope_excluded_not_archived`: 商品ページで無料パッケージに編集用ソース等を含むと分かり、取得しなかった
+- `official_product_page_shape_non_humanoid_not_archived`: 制作者の商品ページにある実モデルのレンダーで非人型と確認し、VRM取得前に除外
 
 `binary_evidence` は一部の公式サンプルに記録したGLBヘッダーと埋め込みVRMメタデータの解析結果です。`github_blob_sha` はGitHubのGit blob IDで、VRMファイルそのもののSHA1ではありません。R3実VRMの描画・人型確認とファイル全体のSHA-256は、一括実機検証レポートとNAS `index.jsonl` に記録しています。
 

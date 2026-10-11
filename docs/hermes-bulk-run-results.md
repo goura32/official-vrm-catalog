@@ -658,7 +658,9 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - 累計（pilot＋B01–B33）は商品ページ250、無料取得ID243、物理VRM検査261、NAS新規128、権利矛盾93、許諾未確認126、対応未確定9、HTTP 429 0。R1/R2/R3以外の797件の排他的内訳はNAS保存153、実バイナリ非人型8、作者索引非人型1、埋込権利矛盾123、許諾未確認159、モデル対応未確定9、配布範囲外8、別host拒否2、`dweb.link`ブロック/未試行141、BOOTH認証待ち145、別途BOOTH未検証1、VRoid Hub認証待ち16、ページ404 3、VRoid Studioエクスポート専用23、公式メタデータのみ3、公式リポジトリのみ2（合計797）。形状選別は人型575・非人型238・未判定484。
 - `scripts/validate.py`は1,297件一意・scope 575/238/484で成功。既存unittest 5件成功、`git diff --check`成功。GitHub Actions/RDCは使用していない。
 
-## 2026-10-11 BOOTH認証済み追加バッチ34（継続後・部分チェックポイント）
+## 2026-10-11 BOOTH認証済み追加バッチ34（継続M時点の履歴スナップショット）
+
+以下のB34数値はcommit `a12dd76f33b01489732f0586a7dece831b478dc4`（継続M）時点の履歴である。現在の累積状態は本ファイル末尾の「継続N/O/P後」を参照。
 
 - B33を`c2af5462adc9f875ba62913f1baccee64722bfd2`へpushして作業ツリーcleanを確認した後、B34を別checkpointで開始した。ログイン済み`booth-real-profile-local-2`で商品ページ86件を確認（navigation loads 92回）、すべてHTTP 200、HTTP 429は0。無料UI取得は4回、取得catalog ID9件・物理VRM9件を検査し、配布ファイル転送は36,591,848 bytes。B34開始時のBOOTH認証待ち145件から26件が残る。
 - `aonecodo-skelton`は`Skelton-VRM-V100.zip`から`SkeltonV100.vrm`（6,302,620 bytes、VRM 0.x、SHA-256=`4d56b56e798f72be177a24f9a0c7ae2e5d68717da929a5d85351da2baabc3367`）を抽出・検査。READMEと埋込Everyone/commercial Allow/Redistribution_Prohibitedを確認し、元モデルを再配布しないNAS内バックアップとして保存した。Tポーズ/顔プレビューで頭・胴・両腕・両脚の揃った二足人型骸骨を目視確認。NASの`models/aonecodo-skelton.zip`とWebP2枚をreadbackし、VRM/画像hash一致。
@@ -670,3 +672,14 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - R1/R2/R3以外の797件の排他的内訳はNAS保存154、実バイナリ非人型8、作者索引非人型1、商品ページ形状非人型47、埋込権利矛盾130、許諾未確認200、モデル対応未確定14、VRM-only範囲外26、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち26、別途BOOTH未検証1、VRoid Hub認証待ち16、商品ページ404 3、VRoid Studioエクスポート専用23、公式メタデータのみ3、公式リポジトリのみ2（合計797）。形状予備分類は人型588・非人型237・未判定472。
 - `scripts/validate.py`: 1,297件一意、scope 588/237/472で成功。既存unit test 5件成功、`git diff --check`成功。NAS全件監査は484 ZIP/968 WebP、`errors:[]`。旧355行の再構成hashは`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`と一致。continuation Bの一時VN3 PDF（999,088 bytes）とブラウザー画面キャプチャ（130,947 bytes）は記録後に削除。continuation EのZIP（497,430 bytes）と画面キャプチャは、作業完了時の対象パス走査で不在を確認した（削除操作自体は記録されていない）。continuation Gのブラウザー画面キャプチャ（86,864 bytes）は記録後に削除し、不在を確認。continuation H/J/K/Mでは一時ファイルを生成していない。一時`node_modules`も不存在。package-lockは作成していない。GitHub Actions/RDCは不使用。
 - ローカルB34 checkpoint: `/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261011-34.json`。statusは`batch34_checkpointed_partial`。B34開始145件中26件が残るため、次回はこのcheckpointを再開し、保存ID/過去の権利保留を再取得しない。
+
+## 2026-10-11 B34最新チェックポイント（継続N/O/P後）
+
+- B34継続Nでは10ページ・11 navigation loads・12 IDを確認。Akabeko/Nanakaは配布ZIPにVRM以外の形式も明記されていたため範囲外2 ID、狐AkyO/Cubeは公式全身レンダーから非人型2 ID、Virtual Munchkin Yoshida 8 variantは二足人型形状を確認したが商品ページに年齢設定がないため権利/年齢保留8 ID。取得・保存なし。
+- 継続Oでは9ページ・9 loads・13 IDを確認。9件すべて無料ZIPの内容一覧に`.vroid`、blend、FBX、texture/PSD等のVRM以外の制作ファイルが明記されていたためVRM-only範囲外とし、取得・保存なし。
+- 継続Pでは既存source_urlのPomesukeページを1回再確認。全身ギャラリーは丸い犬型マスコットがスケートボードに乗る形状で、二足人型の胴・両腕・両脚が確認できず、取得前に非人型へ遷移。ダウンロードなし。作業中、カタログにない未確認item IDを誤って1回開き404となったが、候補外のため商品ページ件数から除外し、再試行・代替URL確認なし。
+- 累積は105 unique product pages、候補ページnavigation 113回、無料UI操作4回、物理VRM9件検査、転送36,591,848 bytes、NAS新規保存1件（`aonecodo-skelton`）、145状態遷移。内訳は保存1、埋込権利矛盾7、権利/年齢保留49、配布範囲外33（商品ページ32、実パッケージ1）、商品ページ非人型50、モデル対応不明5。BOOTH認証待ち145 IDは全件状態遷移し、残り0。HTTP 429は0。
+- R1/R2/R3以外の797件の最新排他的内訳：NAS保存154、実バイナリ非人型8、作者索引非人型1、商品ページ非人型50、埋込権利矛盾130、許諾未確認208、モデル対応未確定14、配布範囲外41（商品ページ38、実パッケージ3）、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち0、別途未検証1、VRoid Hub認証待ち16、商品ページ404 3、VRoid Studioエクスポート専用23、公式メタデータのみ3、公式リポジトリのみ2。合計797。形状候補は人型596、非人型230、未判定471。
+- 別途未検証1 IDは`enrai-tsubame-official-vrm`。source_urlはnote.comの会員登録ゲートでありBOOTH認証待ちとは別分類。会員登録/取得を推測で行わず、状態を未検証のまま維持。
+- N/O/P後の追加NAS保存は0。総数484 ZIP・968 WebP、旧355件SHA-256とB34開始483件SHA-256は一致。2026-10-11 15:08 JST時点で`validate.py`（1,297 unique、scope 596/230/471）、既存unit tests（5件）、NAS全件監査（`ok:true`、`errors:[]`）、797件排他的集計、145遷移ID/status照合、`git diff --check`はすべて成功。N/O/Pの一時ブラウザー画面1ファイル（63,024 bytes）は分類記録後に削除し、不在を確認。commit/pushのreadback結果はこのcheckpointのdelivery欄に記録する。
+- checkpoint: `/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261011-34.json`、status `batch34_checkpointed_partial`。次の継続ではBOOTH認証待ちが0件であることと、別途未検証1件が未完了であることを先に確認し、保存済みID・既存holdを再取得しない。

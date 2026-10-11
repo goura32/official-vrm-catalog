@@ -589,7 +589,15 @@
     "doridori-miu-girl",
     "wagashi-mini-azuha",
     "yururea-riko-cat",
-    "yuureiningyo-kogitsune"
+    "yuureiningyo-kogitsune",
+    "pumpkinyoi-yoshida-free",
+    "pumpkinyoi-yoshida-dive",
+    "pumpkinyoi-yoshida-chaos-magic",
+    "pumpkinyoi-yoshida-chaos-robot",
+    "pumpkinyoi-yoshida-chaos-wild",
+    "pumpkinyoi-yoshida-festival",
+    "pumpkinyoi-yoshida-boost",
+    "pumpkinyoi-yoshida-accel"
   ],
   "non_humanoid": [
     "kanonmk3d-bear",
@@ -638,15 +646,7 @@
     "tabimaru-original-bird",
     "tadapan-lowpoly-panda",
     "moopee-akabeko-chan",
-    "pumpkinyoi-yoshida-free",
     "tabimaru-cube",
-    "pumpkinyoi-yoshida-dive",
-    "pumpkinyoi-yoshida-chaos-magic",
-    "pumpkinyoi-yoshida-chaos-robot",
-    "pumpkinyoi-yoshida-chaos-wild",
-    "pumpkinyoi-yoshida-festival",
-    "pumpkinyoi-yoshida-boost",
-    "pumpkinyoi-yoshida-accel",
     "neoneko-aorinu",
     "neoneko-affordable-dog-default",
     "neoneko-affordable-dog-shiba",
@@ -828,6 +828,7 @@
     "kyuri-valentine-mimic-gold",
     "kyuri-valentine-mimic-black",
     "anninshizuku-kimoneze",
-    "nagi-hershey-chase"
+    "nagi-hershey-chase",
+    "sasanoki-kitsune-akyo"
   ]
 }

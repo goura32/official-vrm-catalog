@@ -743,3 +743,10 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 
 2 ZIP/2 VRMはmode 0700のローカルscratchだけで検査し、NASへは書き込まなかった。記録後にZIP/VRM/previewと一時`node_modules`を削除し、不在を確認した。B36後もNAS件数は487/974、B35の保護対象は不変。RDC/GitHub Actions・購入/checkoutは不使用。今後はNAS管理者による実効的な非公開設定確認、または規約上第三者保管が許される保存先の確認が必要。
 - B35 checkpoint（履歴）: `/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-mixed-zip-batch-20261011-35.json`。B35は41/41 outcomeと14/14照合記録済み。B35専用scratchの29ファイル（89,943,366 bytes）と生成した`tools/vrm-preview/node_modules`（2,229ファイル、112,569,124 bytes）は、NAS/チェックポイントへの反映後に削除し不存在を確認した。B35ではカタログ正本・scope・文書だけをGitへstageした。
+
+## B37：rights-conflictの用途別再評価サンプル（2026-10-11）
+
+- BOOTH [商品4911831](https://booth.pm/ja/items/4911831)の現在表示を確認。0円の直接VRMとしてType 1〜4と各body版、計8 variantが列挙され、別に任意の100円一括ZIPが案内される。商品説明はモデル/改変物の商用利用を許可し、再販のみを禁止している。今回はページ文面だけを再確認し、再取得・購入・一括ZIPの取得はしていない。
+- 対応する8 IDは`yousoron-amane-type-1`, `yousoron-amane-type-1-body`, `yousoron-amane-type-2`, `yousoron-amane-type-2-body`, `yousoron-amane-type-3`, `yousoron-amane-type-3-body`, `yousoron-amane-type-4`, `yousoron-amane-type-4-body`。各既存noteは実VRM metadataの`commercialUssageName=Disallow`と`licenseName=Redistribution_Prohibited`を記録している。
+- ここには実際の公開条件と埋込metadataの商用/再配布軸の矛盾があるが、その矛盾だけでは非公開の非商用構造検査や私的保存を禁止するとは言えない。確認した商品ページには私的保存を明示的に禁じる記載は見つからなかったものの、それだけで保存許諾・著作権法上の適用を断定しない。NASの第三者アクセスも未確認のため、8 IDすべて`official_binary_inspected_rights_conflict_not_archived`を維持し、NASへ追加しない。
+- この8 IDは「単純な商用/再配布フラグを保存禁止と誤読した可能性がある」優先レビュー群として整理する。130件全体の解除や他商品への一般化は行わない。次は同様の記録を持つsource familyを一つずつ照合し、保存・技術検査・アバター利用・商用・第三者配布を別軸で記録する。

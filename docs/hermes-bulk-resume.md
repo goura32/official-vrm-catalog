@@ -1,6 +1,6 @@
 # Hermes Agent 一括実機継続指示（BOOTH認証済みChromeプロファイル）
 
-本指示は2026-10-11のHermes実機確認に基づく。新規取得作業の開始時は必ず`origin/main`をfetchし、最新main・NAS索引・ローカルcheckpointを先に確認する。B33は`507e6d76d4f62dbf11f3721fce21bef40ef4cb4f`から実行し、commit/push・NAS監査・既存355件照合・作業物整理を完了。B34は145状態遷移を記録した部分実績で、BOOTH認証待ちは0 ID。B35では混合ZIP41 ID/35商品を再評価し、物理VRM対応不明14 IDを既存記録と照合した。B36では権利/保存を別軸に整理し、NASアクセス設定を読み取り専用で調査。B38ではKizuna AI 2件を再評価し、1件を権利未確認へ再分類。B39ではSony RAYNOS 3件のEULAを確認したが権利status/countsは変更なし。B40ではpike-moon-nightの年齢未記載を中立検査の停止理由から外し、member/形状・取得同意のholdを維持した。現行集計は権利矛盾129、利用条件等未確認238。NASは487 ZIP/974 WebPで索引hashは不変だが、ディレクトリと`.index.lock`が0777、NFSv3 `sec=sys`、B40の`showmount -e`失敗により第三者隔離・export範囲は未確認。NAS管理者の確認まで新規NAS保存を停止する。詳細は後続のB35/B36/B38〜B40節を参照。年齢設定の未記載だけを中立・非性的検査の禁止理由にしない。
+本指示は2026-10-11のHermes実機確認に基づく。新規取得作業の開始時は必ず`origin/main`をfetchし、最新main・NAS索引・ローカルcheckpointを先に確認する。B33は`507e6d76d4f62dbf11f3721fce21bef40ef4cb4f`から実行し、commit/push・NAS監査・既存355件照合・作業物整理を完了。B34は145状態遷移を記録した部分実績で、BOOTH認証待ちは0 ID。B35では混合ZIP41 ID/35商品を再評価し、物理VRM対応不明14 IDを既存記録と照合した。B36では権利/保存を別軸に整理し、NASアクセス設定を読み取り専用で調査。B38ではKizuna AI 2件を再評価し、1件を権利未確認へ再分類。B39ではSony RAYNOS 3件のEULAを確認したが権利status/countsは変更なし。B40ではpike-moon-night、B41ではbranshop-naoの年齢未記載を中立検査の停止理由から外し、独立した保存条件/member/形状のholdを維持した。現行集計は権利矛盾129、利用条件等未確認238。NASは487 ZIP/974 WebPで索引hashは不変だが、ディレクトリと`.index.lock`が0777、NFSv3 `sec=sys`、`showmount -e`失敗により第三者隔離・export範囲は未確認。NAS管理者の確認まで新規NAS保存を停止する。詳細は後続のB35/B36/B38〜B41節を参照。年齢設定の未記載だけを中立・非性的検査の禁止理由にしない。
 
 ## 状況：認証障壁が部分的に解消
 

@@ -5139,11 +5139,11 @@
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "Nao_Contents.zip",
-      "license_name": "制作者BOOTH商品ページの利用条件",
-      "license_url": "https://booth.pm/ja/items/6595645",
+      "license_name": "UVライセンス（PCU/DDW/SEU/VEU）",
+      "license_url": "https://uv-license.com/ja/license?utf8=%E2%9C%93&pcu=true&ddw=true&seu=true&veu=true",
       "verification": "rights_unverified_hold",
       "checked_at": "2026-10-11",
-      "notes": "公式BOOTHページの無料ZIP「Nao_Contents.zip」9.16 MBはUnitypackage、FBX、TextureとVRMモデルを同梱。VRM-only配布範囲外のため取得していない。 B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: No explicit adulthood evidence in the retained product-page record; do not infer age from name, height, clothing, or appearance. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
+      "notes": "2026-10-11公式BOOTH商品ページとリンクされたUVライセンスを確認。無料ページはUnitypackage/FBX/Texture等とVRM形式モデルを掲示。個別条項PCU/DDW/SEU/VEUは個人商用、二次著作物配布、成人向け性的/暴力表現の各軸を許可するが、成人向け表現の許可はキャラクター年齢の証拠ではない。UVライセンス本文に私的な技術検査/そのための保管の明示的な許諾・禁止は確認できず、どちらにも推測しない。年齢未記載だけで中立・非性的な構造検査/Tポーズを止めない。混合パッケージも単独の除外理由ではない。一方、元VRMの配布可否はDDW（派生物配布許可）から推定せず、ZIP内のVRM member/ catalog ID対応と実形状も未確認。個人的な検査用複製・保管の根拠と物理確認が未解決のためrights_unverified_holdを維持。追加取得・同意操作・NAS保存なし。"
     },
     {
       "id": "cloodworks-hatsuka-pc",

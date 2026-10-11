@@ -12,6 +12,20 @@
 - NASは484 ZIP・968 WebP、未圧縮VRM 3,905,568,141 bytes、ZIP 2,153,972,896 bytes、WebP 15,132,012 bytes、削減率44.8487%。`verify_nas.py`は`ok:true, errors:[]`。既存355件の保護対象SHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`で不変。
 - B33 checkpointは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261011-33.json`。B34 checkpointは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261011-34.json`（`batch34_checkpointed_partial`）。累計summaryは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/authenticated-summary-20261010.json`。B33 commit/push後にB34を開始。匿名302確認を繰り返さず、権利・内容保留案件を新しい根拠なしに再取得しない。
 
+## 次の優先作業：混合ZIPの分類を再点検
+
+[完成条件・残件の扱い](completion-criteria.md)を次回実行の判断基準に追加する。**BOOTH認証待ちは0 IDで完了**したが、過去の「VRM-only配布範囲外」**41 ID／35商品**は、無料ZIPに編集ソースなどが同梱されることのみを理由に未保存となっている可能性がある。正本`docs/collection-policy.md`と`docs/nas-storage.md`は**混合ZIPを入力として認め、許諾確認済みの人型VRMのみ抽出してNAS保存**する方式である。過去の実績・履歴は書き換えず、次の作業で一件ずつ根拠を更新する。
+
+1. 最新main、実NAS484件・968 WebP、旧355件保護ハッシュ、B34 checkpointの照合から始める。既存データの削除・上書きは禁止。B34の`batch34_checkpointed_partial`はBOOTH145 ID処理済み、別途ENRAI1件未完了を表すため、無理に完了へ変更しない。
+2. `data/models.json`から`official_product_page_scope_excluded_not_archived` 38 IDと`official_package_inspected_scope_excluded_not_archived` 3 IDを抽出し、**同一商品URLで重複ダウンロードしない**。これらは41 ID／35商品。まず明示的なVRMファイル名がある公式・原作者無料配布（例：公式ずんだもん2025歩行/飛行、PURIN/PURIN+、ねおねこ商店の明記VRM）を少数で検証し、成功条件を確立後、他の安全な候補へ続ける。
+3. **VRM以外の同梱自体は取得禁止ではない**が、成人向け・年齢未確定・利用許諾不明・他者権利矛盾の問題が独立してあるモデルは個別保留し、無条件に取得/保存しない。無料ファイルと有料支援版を区別。zip bombや巨大アーカイブを避けるサイズ・展開上限を設け、パス逸脱を拒否。ローカル取得原本・source・VRoidプロジェクト・texture等は最終NASへ移さず削除する。
+4. 取得できたVRMはファイル名とID対応、GLB/VRM版、埋込権利、形状、正面全身Tポーズ/顔画像、元VRM SHA-256を実際に検査し、保存可能なIDだけ`archive_vrm.py --format zip --confirm-humanoid`で追加。`pike-aurora`等の`verification`と`notes`に検査済み/未取得の不一致が見られる場合は先にローカルチェックポイントでどちらが真実か確認する。分類だけを推測で更新しない。
+5. その次に**物理VRMとIDの対応不明14 ID**について、既存パッケージマニフェストと作者のモデル別表記を優先して照合する。モデル対応を勝手に割り当てず、1カタログIDに複数の別VRMがある事実が確認できたら訂正根拠を記録する。新規の大量スキャンを開始する前に今回の現実的な未完了分を優先。
+6. HTTP 429を返したホストへ再要求せず、`dweb.link`の141 IDを別ゲートウェイで迂回しない。BOOTHの過去145件を再実行しない。ENRAI/noteの別認証1 ID、VRoid Hub16 ID、VRoid Studio書き出し23 IDは別作業として保留。権利矛盾130・許諾未確認208は新たな根拠なしに再取得しない。
+7. 実作業の区切りでNAS全件`verify_nas.py`、開始時の484件と旧355件の不変性、`validate.py`、必要な既存テスト、`git diff --check`を確認。実際に確認できた差分だけモデル正本・scope・結果レポート・本書へ反映し、変更ファイルを限定してcommit/push。中断再開用のローカルcheckpointを残す。**RDC・GitHub Actionsを使わない**。
+
+上記の次回優先順位を、以下の過去バッチ実行手順よりも優先する。実機処理はこの文書を書いた時点で実施していない。
+
 ## 継続実行手順（認証済みBOOTH結果）
 
 ### A. 前提の安全確認

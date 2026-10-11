@@ -4056,9 +4056,9 @@
       "distribution_filename": "si0JK_NEMU.vrm",
       "license_name": "作者BOOTHの商品説明・利用規約",
       "license_url": "https://booth.pm/ja/items/5969706",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "VRMのみの0円版。VRoid編集データ込みは1,000円。再配布・再販売・第三者が使える状態での公開禁止。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "BOOTH商品ページで無料の直接VRM si0JK_NEMU.vrm（18.6 MB）と、別商品の¥1,000 VRM+VRoid版を確認。キャラクター設定は女子高生だが正確な年齢は記載なし。再配布、第三者が利用できる状態での公開、R18/R18-G等を禁止する規約も確認。年齢・内容条件をfail-closedで保留し、ダウンロードしていない。"
     },
     {
       "id": "tawashop-mitsuami",
@@ -4212,9 +4212,9 @@
       "distribution_filename": "金髪子最新式.zip",
       "license_name": "作者BOOTHの商品説明・利用規約",
       "license_url": "https://booth.pm/ja/items/2462142",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "男の娘・女の子兼用のVRM形式モデルと公式商品が説明。無料ZIP内部の実ファイル名は未確認。実ダウンロードとVRM内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "公式商品ページは無料10.5 MB ZIP「金髪子最新式.zip」を掲載し、男性体型から作成、男女いずれにも利用可能と説明。ページ上で年齢と適用利用規約を確認できず、取得していない。"
     },
     {
       "id": "hyoojuin-miwako",
@@ -4577,9 +4577,9 @@
       "distribution_filename": "256_VRM_anago_20220712_1800.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/3983431",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者の無料△256ポリゴンのアナゴマスコットVRM。商用条件等は商品ページを参照。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_product_page_shape_non_humanoid_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "公式BOOTH商品ページの無料426 KB ZIPを確認。商品説明はReadmeと1匹/6匹のアナゴVRMを列挙し、支援版のアクセサリーは別商品。公式商品レンダーは細長い魚/アナゴ形状で人型の頭・胴・両腕・両脚を持たないため、取得前に非人型として除外。"
     },
     {
       "id": "chemical-riwore-normal-white",
@@ -4682,9 +4682,9 @@
       "distribution_filename": "petit-naoya_v1.0.1.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6594471",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者がVRChat/cluster向けの小型VRMをそれぞれ0円で直接配布。ZIPのVRC用モデルと混同しない。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "公式商品ページで「小さなローポリの男の子」アバターと無料直接VRM（petit-naoya_v1.0.1.vrm、857 KB）を確認。正確な年齢はなく、利用規約は外部VN3案内。年齢/条件を確定できないため取得せず保留。"
     },
     {
       "id": "kantennekoya-petit-yuzuki",
@@ -4703,9 +4703,9 @@
       "distribution_filename": "petit-yuzuki_v1.0.1.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6594471",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-09",
-      "notes": "作者がVRChat/cluster向けの小型VRMをそれぞれ0円で直接配布。ZIPのVRC用モデルと混同しない。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "公式商品ページで「小さなローポリの男の子」アバターと無料直接VRM（petit-yuzuki_v1.0.1.vrm、841 KB）を確認。正確な年齢はなく、利用規約は外部VN3案内。年齢/条件を確定できないため取得せず保留。"
     },
     {
       "id": "sn1572-tsumugi-taka",
@@ -4743,9 +4743,9 @@
       "distribution_filename": "PURIN.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5082441",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が0円ZIP内にPURINとPURIN+の別々のVRMを明記（UnityPackage等も同梱）。有料版と内容は同一。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_product_page_scope_excluded_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "公式BOOTHページは無料ZIP「PURIN.zip」1.08 MBにBlenderデータ/テクスチャ、Unitypackage、PURIN/PURIN+の2 VRMを同梱と明記。VRM-only配布範囲外のため取得していない。"
     },
     {
       "id": "mxu-purin-plus",
@@ -4764,9 +4764,9 @@
       "distribution_filename": "PURIN.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5082441",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が0円ZIP内にPURINとPURIN+の別々のVRMを明記（UnityPackage等も同梱）。有料版と内容は同一。。無料配布の公開表示を確認。実ダウンロード・内部VRM解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_product_page_scope_excluded_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "公式BOOTHページは無料ZIP「PURIN.zip」1.08 MBにBlenderデータ/テクスチャ、Unitypackage、PURIN/PURIN+の2 VRMを同梱と明記。VRM-only配布範囲外のため取得していない。"
     },
     {
       "id": "atelier-yozora-sayo",
@@ -5141,9 +5141,9 @@
       "distribution_filename": "Nao_Contents.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6595645",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が0円ZIPにVRM形式モデルとVRChat用データを同梱と記載。2頭身の軽量モデル。UVライセンス条件を確認。公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_product_page_scope_excluded_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "公式BOOTHページの無料ZIP「Nao_Contents.zip」9.16 MBはUnitypackage、FBX、TextureとVRMモデルを同梱。VRM-only配布範囲外のため取得していない。"
     },
     {
       "id": "cloodworks-hatsuka-pc",
@@ -5220,9 +5220,9 @@
       "distribution_filename": "熊野ゆちゃ.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/7039529",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が無料ZIPにVRM、VRoid、Unitypackageを同梱。VRMのみ登録。改変可、再配布禁止。公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_product_page_scope_excluded_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "公式BOOTHページに年齢「？？？」と記載。無料ZIP「熊野ゆちゃ.zip」19.5 MBはPNG、VRM、編集可能な.vroid、Unitypackageを同梱する混合パッケージのため、VRM-only範囲外として取得していない。"
     },
     {
       "id": "yuuritoka-hanamaru",
@@ -5279,9 +5279,9 @@
       "distribution_filename": "oninoko_kiri_free_.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5189443",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者がVRoid/VRMの0円版を配布。第三者配布素材が一部含まれる旨と作者の免責・利用条件を確認。公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_product_page_scope_excluded_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "公式BOOTHページの無料ZIP「oninoko_kiri_free_.zip」25.7 MBは.vroid編集ソースとVRMを同梱。VRM-only配布範囲外のため取得していない。有償おまけ版は別商品。"
     },
     {
       "id": "shounokoto-kotatsu-mikan",
@@ -5554,9 +5554,9 @@
       "distribution_filename": "さくらリクオ_フリーアバター_50F_めぐみっち.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5689713",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "原作者がVRM同梱を明記した0円フリーアバター。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_product_page_scope_excluded_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "公式BOOTHページの無料ZIP「さくらリクオ_フリーアバター_50F_めぐみっち.zip」14.8 MBは.vroid編集ソース、VRM、READMEを同梱。VRM-only配布範囲外のため取得していない。"
     },
     {
       "id": "sakurabido-makinocchi",
@@ -7297,9 +7297,9 @@
       "distribution_filename": "さくらリクオ_フリーアバター_はぴっち.zip",
       "license_name": "制作者の配布ページで案内された利用条件",
       "license_url": "https://booth.pm/ja/items/4979735",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者の無料ZIPにVRMとVRoidを収録。VTuber利用は禁止。ももこ・そうまは法人利用禁止。個人商用利用の条件は個別ページに従う。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_product_page_scope_excluded_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "公式BOOTHページの無料ZIP「さくらリクオ_フリーアバター_はぴっち.zip」17.2 MBは.vroid編集ソース、VRM、READMEを同梱。VRM-only配布範囲外のため取得していない。"
     },
     {
       "id": "sakurabido-souma",
@@ -8147,9 +8147,9 @@
       "distribution_filename": "ハーシーとチェイスの実験_2.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6095596",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "VRMのみと案内された0円ZIP。おまけのバクテリオファージが独立VRMかは未確認で別レコードにしない。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_product_page_shape_non_humanoid_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "公式BOOTHページは0円8.84 MB ZIPをVRMのみと案内し、大腸菌とおまけのバクテリオファージを説明。商品ページのレンダーは微生物/ファージ表現で、人型の頭・胴・両腕・両脚を持つ二足形状ではない。取得前に非人型として除外し、ダウンロードしていない。"
     },
     {
       "id": "faspel-sine-doll-473-sd",
@@ -8550,14 +8550,13 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/4468213",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "_Free_VRoid_VRM_Steam_Rabbit_ぴケの創作屋さん_.zip",
       "license_name": "商品条件と埋込ライセンス確認済み（編集用ソース同梱のため範囲外）",
       "license_url": "https://booth.pm/ja/items/4468213",
-      "vrm_version": "0.x",
       "verification": "official_package_inspected_scope_excluded_not_archived",
       "checked_at": "2026-10-11",
       "notes": "B34 (2026-10-11): 正規UIの無料ZIPを確認。27-member packageに単一VRM (SHA-256=78f4ab6f497b640557c0b9c8597226683fc4b5ac4d0760052219f27b82860e3)だけでなく.vroid/.vroidcustomitem、textures、sample等の編集用ソースを同梱。VRM metadataとREADMEの商用/センシティブ利用・credit・原本再配布禁止を確認したが、取得範囲外としてプレビュー/NAS保存をせず、一時ZIP/VRM削除済み。"
@@ -8935,14 +8934,13 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/3333412",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "haashaku.vrm.zip",
       "license_name": "BOOTH商品条件とVRM埋込metadataの矛盾（OnlyAuthor）",
       "license_url": "https://booth.pm/ja/items/3333412",
-      "vrm_version": "0.x",
       "verification": "official_binary_inspected_rights_conflict_not_archived",
       "checked_at": "2026-10-11",
       "notes": "B34 (2026-10-11): 正規UIで同一モデルの主ZIP hasshakusama.vrm.zipを検査（VRM0.x, SHA-256=e8a05130f2e7d5ade6b2421e1bf9158a3bab85cbd4bcc94bdd844ff7dbf77846）。ページはVRChat/Cluster利用可だが埋込allowedUserName=OnlyAuthor、commercial/sexual/violent=Disallowで矛盾。プレビュー/NAS保存なし。重複名ZIPは取得せず、一時ファイル削除済み。"
@@ -9001,9 +8999,9 @@
       "distribution_filename": "FoxBoy_final.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/8949948",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が0円で直接配布するVRM 0.xのベース衣装版。別売ではなく同じ無料商品内の別ファイル。 公開ページで0円配布を確認したが実ダウンロード・ZIP内部・VRMバイナリは未確認。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "公式ページに0円の直接VRM版（FoxBoy_final.vrm、15.4 MB）と全アクセサリー版（FoxBoy_with_all_accessories.vrm、70.2 MB）、別ファイルの.vroidソースを表示。男性のWolf Boyアバターだが年齢は未記載で、詳細な利用許諾も明示されていない。年齢/権利条件を確定できないため取得せず保留。"
     },
     {
       "id": "cecyliamun-wolf-boy-accessories",
@@ -9021,9 +9019,9 @@
       "distribution_filename": "FoxBoy_with_all_accessories.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/8949948",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が0円で直接配布するVRM 0.xの全アクセサリー版。VRoid編集データは別件計上しない。 公開ページで0円配布を確認したが実ダウンロード・ZIP内部・VRMバイナリは未確認。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "公式ページに0円の直接VRM全アクセサリー版（FoxBoy_with_all_accessories.vrm、70.2 MB）を表示し、別ファイルの.vroidソースとベース版VRMも提供。男性のWolf Boyアバターだが年齢は未記載で、詳細な利用許諾も明示されていない。年齢/権利条件を確定できないため取得せず保留。"
     },
     {
       "id": "kaso-break-venom",
@@ -10968,9 +10966,9 @@
       "distribution_filename": "赤い子.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4610832",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "ぬいぐるみをモチーフにした作者本人の0円直接VRM。利用時クレジットは任意の要請。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "公式ページは0円直接VRM（赤い子.vrm、18.3 MB）を掲載し、ぬいぐるみモチーフで利用許可不要、クレジット任意とする。キャラクター年齢は未記載で、商品画像は上半身のちびキャラ表示のみ。年齢と全身形状を確定できないため取得せず保留。"
     },
     {
       "id": "tabimaru-cube",
@@ -11537,16 +11535,16 @@
         "avatar",
         "test"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/5421814",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "ジャンクアバターコーナー1.zip",
       "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
       "license_url": "https://booth.pm/ja/items/5421814",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が無料配布物ジャンクアバターコーナー1.zipにkonojiblockun_1.03.vrmを収録と説明。無料ZIPに作者が異なるVRMを6ファイル明記。テクスチャ・シェイプキーが欠け、ボーン等に不備の可能性あり。johanshin 2ファイルは配布ファイル別バージョン。規格版は未確認。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "無料UI取得ZIPのジャンクアバターコーナー1/コの字ブロック君/アバター/konojiblockun_1.03.vrm（287,584 bytes、SHA-256=8e5753a0c2c8ab5453328ef44d8377c2645153fc3320022f4c9689809dd80b9a、埋込title=konojiblockun）を実VRM 0.xとして検査。ページは使用・改造を許可する一方、埋込allowedUserName=OnlyAuthor、commercial/sexual/violent=Disallow、licenseName=Redistribution_Prohibitedを検出。権利矛盾のため描画・NAS保存はしていない。一時ZIPは後続の最終確認時に作業領域上で不在だった。"
     },
     {
       "id": "neoneko-junk-sumoutori",
@@ -11557,16 +11555,16 @@
         "avatar",
         "test"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/5421814",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "ジャンクアバターコーナー1.zip",
       "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
       "license_url": "https://booth.pm/ja/items/5421814",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が無料配布物ジャンクアバターコーナー1.zipにsumoutori_1.2.vrmを収録と説明。無料ZIPに作者が異なるVRMを6ファイル明記。テクスチャ・シェイプキーが欠け、ボーン等に不備の可能性あり。johanshin 2ファイルは配布ファイル別バージョン。規格版は未確認。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "無料UI取得ZIPのジャンクアバターコーナー1/スモウ鳥/sumoutori_1.2.vrm（624,244 bytes、SHA-256=b4cc676a73583778048495dfdad3abd83a7a4e4682d5975c95fad8fb3e9a02ff、埋込title=sumoutori_1.2）を実VRM 0.xとして検査。ページは使用・改造を許可する一方、埋込allowedUserName=OnlyAuthor、commercial/sexual/violent=Disallow、licenseName=Redistribution_Prohibitedを検出。権利矛盾のため描画・NAS保存はしていない。一時ZIPは後続の最終確認時に作業領域上で不在だった。"
     },
     {
       "id": "neoneko-junk-johanshin",
@@ -11577,16 +11575,16 @@
         "avatar",
         "test"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/5421814",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "ジャンクアバターコーナー1.zip",
       "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
       "license_url": "https://booth.pm/ja/items/5421814",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が無料配布物ジャンクアバターコーナー1.zipにjohanshin.vrmを収録と説明。無料ZIPに作者が異なるVRMを6ファイル明記。テクスチャ・シェイプキーが欠け、ボーン等に不備の可能性あり。johanshin 2ファイルは配布ファイル別バージョン。規格版は未確認。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "無料UI取得ZIPのジャンクアバターコーナー1/なんか上半身だけ/アバター/johanshin.vrm（37,576 bytes、SHA-256=09596b5cf8311fa5a103d8799fc22ca6e6dd00f4e81d63a232f9dd0eadbb101b、埋込title=上半身）を実VRM 0.xとして検査。ページは使用・改造を許可する一方、埋込allowedUserName=OnlyAuthor、commercial/sexual/violent=Disallow、licenseName=Redistribution_Prohibitedを検出。権利矛盾のため描画・NAS保存はしていない。一時ZIPは後続の最終確認時に作業領域上で不在だった。"
     },
     {
       "id": "neoneko-junk-johanshin-v091",
@@ -11597,16 +11595,16 @@
         "avatar",
         "test"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/5421814",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "ジャンクアバターコーナー1.zip",
       "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
       "license_url": "https://booth.pm/ja/items/5421814",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が無料配布物ジャンクアバターコーナー1.zipにjohanshin_ver0.91.vrmを収録と説明。無料ZIPに作者が異なるVRMを6ファイル明記。テクスチャ・シェイプキーが欠け、ボーン等に不備の可能性あり。johanshin 2ファイルは配布ファイル別バージョン。規格版は未確認。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "無料UI取得ZIPのジャンクアバターコーナー1/なんか上半身だけ/アバター/johanshin_ver0.91.vrm（37,580 bytes、SHA-256=dfcf31629c2d49b70b8069cacd91bdc7240f56b6172be44c93e48dcf66720aac、埋込title=上半身(白)）を実VRM 0.xとして検査。ページは使用・改造を許可する一方、埋込allowedUserName=OnlyAuthor、commercial/sexual/violent=Disallow、licenseName=Redistribution_Prohibitedを検出。権利矛盾のため描画・NAS保存はしていない。一時ZIPは後続の最終確認時に作業領域上で不在だった。"
     },
     {
       "id": "neoneko-junk-bone-model",
@@ -11617,16 +11615,16 @@
         "avatar",
         "test"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/5421814",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "ジャンクアバターコーナー1.zip",
       "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
       "license_url": "https://booth.pm/ja/items/5421814",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が無料配布物ジャンクアバターコーナー1.zipにBone_model.vrmを収録と説明。無料ZIPに作者が異なるVRMを6ファイル明記。テクスチャ・シェイプキーが欠け、ボーン等に不備の可能性あり。johanshin 2ファイルは配布ファイル別バージョン。規格版は未確認。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "無料UI取得ZIPのジャンクアバターコーナー1/ほねだけ/アバター/Bone_model.vrm（395,476 bytes、SHA-256=dee623fa3c26df7965f80123ba14a2f171b6080f98659dd2420db3e2a95d7b32、埋込title=Bone_model）を実VRM 0.xとして検査。ページは使用・改造を許可する一方、埋込allowedUserName=OnlyAuthor、commercial/sexual/violent=Disallow、licenseName=Redistribution_Prohibitedを検出。権利矛盾のため描画・NAS保存はしていない。一時ZIPは後続の最終確認時に作業領域上で不在だった。"
     },
     {
       "id": "neoneko-junk-keisatsukan",
@@ -11637,16 +11635,16 @@
         "avatar",
         "test"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/5421814",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "ジャンクアバターコーナー1.zip",
       "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
       "license_url": "https://booth.pm/ja/items/5421814",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が無料配布物ジャンクアバターコーナー1.zipにkeisatsukan_1.5.vrmを収録と説明。無料ZIPに作者が異なるVRMを6ファイル明記。テクスチャ・シェイプキーが欠け、ボーン等に不備の可能性あり。johanshin 2ファイルは配布ファイル別バージョン。規格版は未確認。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "無料UI取得ZIPのジャンクアバターコーナー1/ローポリ警察官/keisatsukan_1.5.vrm（437,840 bytes、SHA-256=386d8c9a902988725574a0c2f3c3ab4d75dde6817e66e97c690ea980821fdf15、埋込title=ro-poriningen_K_1.5）を実VRM 0.xとして検査。ページは使用・改造を許可する一方、埋込allowedUserName=OnlyAuthor、commercial/sexual/violent=Disallow、licenseName=Redistribution_Prohibitedを検出。権利矛盾のため描画・NAS保存はしていない。一時ZIPは後続の最終確認時に作業領域上で不在だった。"
     },
     {
       "id": "neoneko-affordable-dog-default",

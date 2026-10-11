@@ -758,3 +758,11 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - [二次創作ガイドライン](https://kizunaai.com/guideline/)は二次創作活動を私的使用の範囲に限定し、二次創作活動とは関係しないコンテンツの複製等を認めない旨を記載する。3Dモデル規則は元/改変モデルの配布・販売・譲渡を禁じ、改変モデルのSNS/VRChat利用を条件付きで認める一方、自由に取得/コピーできるpublic avatarを禁じる。[キャラクター利用規約](https://kizunaai.com/terms/)は適用法上一般に認められる利用を妨げない旨を記載する。非公開の中立技術検査用複製がこれらの条項・適用法とどう交差するかはページだけでは確定できず、法的結論を出さない。
 - `kizuna-ai-kamatte-vrm0`の`licenseName=Redistribution_Prohibited`は公式の3Dモデル再配布禁止と整合する。これだけで保存禁止/権利矛盾とは扱わず、技術検査用複製・保持条件が未確認として`rights_unverified_hold`へ再分類した。`kizuna-ai-kamatte-vrm1`の`allowRedistribution=false`も再配布禁止と整合するが、`avatarPermission=onlyAuthor`は改変モデルのSNS/VRChat利用条件とアバター利用軸で差が残るためrights-conflictを維持する。どちらも非公開技術保存の根拠とはせず、NAS未保存を維持する。
 - 797 ID内の排他的集計は埋込権利矛盾129、利用条件等未確認238（他の区分は不変）。B35 hold29、物理対応不明14、NAS 487/974も不変。正本は`data/models.json`、現行集計と保留条件は`docs/completion-criteria.md`/`docs/hermes-bulk-resume.md`を参照。
+
+## B39：Sony mocopi RAYNOS 3件の権利/保存軸再評価（2026-10-11）
+
+- 開始時の`main`/`origin/main`は`c8bfee43dd75d8ddd2b2d1771d8f05f96948709e`で一致。NASは読み取り専用`verify_nas.py`で487 ZIP/974 WebP、`ok:true`/`errors:[]`、index SHA-256 `0bf57c18c66a14caaa79578f8865f2d8242df49a4a2e7cb7b68e19c7c1ec3a9f`。今回もNASへの書込み・削除・chmod/chown・ACL/NFS変更なし。
+- [公式配布情報](https://www.sony.co.jp/en/Products/mocopi-dev/jp/downloads/DownloadInfo.html)はOriginal/mini/SportsのRAYNOSアバターを掲載し、v1.0.8配布を案内。公式EULAは2025-04-17改定。既存checkpoint `/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/official-page-20261009/official-page-checkpoint-20261009.jsonl`には3 ZIPそれぞれのVRM 0.x member、サイズ、SHA、`licenseName=Redistribution_Prohibited`、`allowedUserName=OnlyAuthor`を記録済み。今回はページ/EULAの読取りだけで、同意操作、再取得、アバター利用、NAS保存は行っていない。
+- EULA第2条は許諾用途としてモーションデータとアバターの組合せ、生成コンテンツ編集、二次著作物作成と、それらの出力の無償配布を定める。元許諾データの複製・改変はその用途に必要な範囲に限る。第3条は第三者使用・再許諾等と事前承諾のない営利利用を制限し、第9条は契約終了時に合理的に可能な限り2週間以内に使用停止・削除することを定める。EULAはキャラクター/データの使用をもって同意とみなすが、checkpointに個別の同意イベントは記録されていない。
+- `Redistribution_Prohibited`は元VRMの第三者移転制限と整合する方向で、単独では個人的な保管を禁止しない。`allowedUserName=OnlyAuthor`はEULAが利用者に認める限定的avatar利用との軸差としてrights-conflictを維持する。一方、非公開の中立構造検査はEULA第2条の列挙用途に明記されず、そのための複製・保持が許諾範囲内かは未確定。許可とも一律禁止とも推定せず3件すべて未保存とした。
+- 3件の`verification`と集計は変更なし（権利矛盾129、利用条件等未確認238）。既存487件、B35 hold29、物理mapping不明14も不変。詳細は`data/models.json`の各ID notesを参照。

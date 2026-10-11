@@ -1712,11 +1712,11 @@
       "download_url": null,
       "access_method": "official_page_download",
       "license_name": "RAYNOSちゃん キャラクター使用許諾契約書（公式ページ）",
-      "license_url": "https://www.sony.co.jp/en/Products/mocopi-dev/jp/downloads/DownloadInfo.html",
+      "license_url": "https://www.sony.co.jp/en/Products/mocopi-dev/jp/downloads/eula/EulaCharacter.html",
       "verification": "official_binary_inspected_rights_conflict_not_archived",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-11",
       "distribution_filename": "RAYNOS-chan-avatar_v1.0.8.zip",
-      "notes": "ソニー公式サイトの無償配布ZIP (v1.0.8)。VRMを用いる公式アバターとして外部ソフトの説明にも登場。VRM仕様版とZIP内のファイル名は未確認。UE専用・Live2D配布物とは区別。埋込VRM 0.xがlicenseName=Redistribution_Prohibited・allowedUserName=OnlyAuthorのためNAS未保存。",
+      "notes": "2026-10-09公式page checkpoint (`official-page-checkpoint-20261009.jsonl`)でZIP内VRM 0.x member・SHA・埋込metaを確認し、VRM仕様版/member未確認という旧noteを訂正。2026-10-11公式EULA再確認（詳細は`docs/hermes-bulk-run-results.md` B39）。再配布制限だけから私的保存禁止とは推論しない。OnlyAuthorはアバター利用軸のrights-conflictとして維持。非公開の中立構造検査・そのための保存は許諾範囲に明記されないため権利保留、NAS未保存。新規取得なし。",
       "distribution_size_bytes": 21833632
     },
     {
@@ -1734,11 +1734,11 @@
       "download_url": null,
       "access_method": "official_page_download",
       "license_name": "RAYNOSちゃん キャラクター使用許諾契約書（公式ページ）",
-      "license_url": "https://www.sony.co.jp/en/Products/mocopi-dev/jp/downloads/DownloadInfo.html",
+      "license_url": "https://www.sony.co.jp/en/Products/mocopi-dev/jp/downloads/eula/EulaCharacter.html",
       "verification": "official_binary_inspected_rights_conflict_not_archived",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-11",
       "distribution_filename": "mini-RAYNOS-chan-avatar_v1.0.8.zip",
-      "notes": "ソニー公式サイトの無償配布ZIP (v1.0.8)。VRMを用いる公式アバターとして外部ソフトの説明にも登場。VRM仕様版とZIP内のファイル名は未確認。UE専用・Live2D配布物とは区別。埋込VRM 0.xがlicenseName=Redistribution_Prohibited・allowedUserName=OnlyAuthorのためNAS未保存。",
+      "notes": "2026-10-09公式page checkpoint (`official-page-checkpoint-20261009.jsonl`)でZIP内VRM 0.x member・SHA・埋込metaを確認し、VRM仕様版/member未確認という旧noteを訂正。2026-10-11公式EULA再確認（詳細は`docs/hermes-bulk-run-results.md` B39）。再配布制限だけから私的保存禁止とは推論しない。OnlyAuthorはアバター利用軸のrights-conflictとして維持。非公開の中立構造検査・そのための保存は許諾範囲に明記されないため権利保留、NAS未保存。新規取得なし。",
       "distribution_size_bytes": 36594428
     },
     {
@@ -1755,11 +1755,11 @@
       "download_url": null,
       "access_method": "official_page_download",
       "license_name": "RAYNOSちゃん キャラクター使用許諾契約書（公式ページ）",
-      "license_url": "https://www.sony.co.jp/en/Products/mocopi-dev/jp/downloads/DownloadInfo.html",
+      "license_url": "https://www.sony.co.jp/en/Products/mocopi-dev/jp/downloads/eula/EulaCharacter.html",
       "verification": "official_binary_inspected_rights_conflict_not_archived",
-      "checked_at": "2026-10-09",
+      "checked_at": "2026-10-11",
       "distribution_filename": "Sports-RAYNOS-chan-avatar_v1.0.8.zip",
-      "notes": "ソニー公式サイトの無償配布ZIP (v1.0.8)。VRMを用いる公式アバターとして外部ソフトの説明にも登場。VRM仕様版とZIP内のファイル名は未確認。UE専用・Live2D配布物とは区別。埋込VRM 0.xがlicenseName=Redistribution_Prohibited・allowedUserName=OnlyAuthorのためNAS未保存。",
+      "notes": "2026-10-09公式page checkpoint (`official-page-checkpoint-20261009.jsonl`)でZIP内VRM 0.x member・SHA・埋込metaを確認し、VRM仕様版/member未確認という旧noteを訂正。2026-10-11公式EULA再確認（詳細は`docs/hermes-bulk-run-results.md` B39）。再配布制限だけから私的保存禁止とは推論しない。OnlyAuthorはアバター利用軸のrights-conflictとして維持。非公開の中立構造検査・そのための保存は許諾範囲に明記されないため権利保留、NAS未保存。新規取得なし。",
       "distribution_size_bytes": 30900960
     },
     {

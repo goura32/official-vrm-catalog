@@ -1,16 +1,17 @@
 # Hermes Agent 一括実機継続指示（BOOTH認証済みChromeプロファイル）
 
-本指示は2026-10-11のHermes実機確認に基づく。新規取得作業の開始時は必ず`origin/main`をfetchし、最新main・NAS索引・ローカルcheckpointを先に確認する。B33は`507e6d76d4f62dbf11f3721fce21bef40ef4cb4f`から実行し、commit/push・NAS監査・既存355件照合・作業物整理を完了。B34は145状態遷移を記録した部分実績で、BOOTH認証待ちは0 ID。B35では混合ZIP41 ID/35商品を再評価し、物理VRM対応不明14 IDを既存記録と照合した。B35結果・ローカルcheckpointは本書の後続節を参照する。保存済みIDや過去の権利/年齢保留を新しい根拠なしに再取得しない。
+本指示は2026-10-11のHermes実機確認に基づく。新規取得作業の開始時は必ず`origin/main`をfetchし、最新main・NAS索引・ローカルcheckpointを先に確認する。B33は`507e6d76d4f62dbf11f3721fce21bef40ef4cb4f`から実行し、commit/push・NAS監査・既存355件照合・作業物整理を完了。B34は145状態遷移を記録した部分実績で、BOOTH認証待ちは0 ID。B35では混合ZIP41 ID/35商品を再評価し、物理VRM対応不明14 IDを既存記録と照合した。B36では権利/保存を別軸に整理し、NASのアクセス設定を読み取り専用で調査した。B36監査後のNASは487 ZIP/974 WebPだが、NFSv3 `sec=sys`と0777親ディレクトリのため第三者隔離は未確認。NAS管理者の確認まで新規NAS保存を停止する。B35結果・ローカルcheckpointとB36結果は後続節を参照。年齢設定の未記載だけを中立・非性的検査の禁止理由にしない。
 
 ## 状況：認証障壁が部分的に解消
 
 ユーザーがChromeに正規ログインし、Hermesは`browser.use_real_profile: true`、実プロファイルをコピーしたローカルブラウザーセッション`booth-real-profile-local-2`を起動できた。BOOTHトップページでログイン済みアカウントメニューを画面確認。カタログID `pixellangel-dolly-devil` のパイロットは2026-10-10に実取得・検査・Tポーズ/顔確認・NAS保存まで完了。パイロット後にBOOTH認証済み32バッチを実施した。パスワード・Cookie・トークン・認証付き一時ダウンロードURLは表示、記録、リポジトリ追加、チャット出力を禁止。Cookieを手動抽出・curl等へ転送して認証を代用しない。
 
-**現在の実績（2026-10-11、B35再評価後）**：
+**現在の実績（2026-10-11、B36読み取り専用監査後）**：
 - カタログ計1,297件。R1/R2/R3以外の797件は、NAS保存157、非人型68（実体8・作者索引1・商品ページ59）、埋込権利矛盾130、年齢/利用条件等の未確認237、モデル対応未確定14、混合ZIPのみを理由とした範囲外0、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち0、別途未検証1（ENRAI燕・note.com会員登録ゲート）、VRoid Hub認証待ち16、商品ページ404 3、VRoid Studioエクスポート専用23、公式メタデータ/リポジトリのみ5。合計797。
-- B35は41 ID/35商品を再評価し、3 IDを2商品の正規無料混合ZIPからVRMのみ抽出して保存、9 IDを既存レンダー根拠で非人型、29 IDを年齢/権利/メンバー対応/物理形状の不足でfail-closed保留とした。14 IDは既存検査記録と照合したが一対一マッピングは0件で、14すべて対応不明のまま維持。
+- B35は41 ID/35商品を再評価し、3 IDを2商品の正規無料混合ZIPからVRMのみ抽出して保存、9 IDを既存レンダー根拠で非人型、29 IDを独立根拠不足で保留とした。B36ではそのうち`pike-aurora`の中立Tポーズ/顔をローカル確認したがNAS隔離未確認のため未保存、`pike-steam-rabbit`はプレビュー条件未達で未保存。年齢未記載だけは停止理由としない。14 IDは既存検査記録と照合したが一対一マッピングは0件で、14すべて対応不明のまま維持。
 - NASは487 ZIP・974 WebP、未圧縮VRM 3,925,815,073 bytes、ZIP 2,168,476,533 bytes、WebP 15,210,140 bytes、削減率44.7637%。`verify_nas.py`は`ok:true, errors:[]`。B35開始時484行の索引SHA群は全行一致し、旧355件の保護対象SHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`で不変。
 - B33 checkpointは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261011-33.json`。B34 checkpointは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261011-34.json`（`batch34_checkpointed_partial`）。B35 checkpointは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-mixed-zip-batch-20261011-35.json`。権利/年齢保留・保存済みIDは新しい根拠なしに再取得しない。
+- B36ではNASファイル・索引を書き換えていない。`collection-policy.md`の「年齢未記載だけで中立技術検査を止めない」方針と[NAS読み取り専用監査](nas-storage.md)を優先する。487件の既存保存は保持し、第三者アクセスを排除できると確認されるまで新規保存しない。
 
 ## B35結果：混合ZIP再評価と対応不明ID照合
 
@@ -22,13 +23,13 @@
 4. HTTP 429を返したホストへ再要求せず、`dweb.link`141 IDを別ゲートウェイで迂回しない。BOOTH認証待ちは0。ENRAI/note1、VRoid Hub16、VRoid Studio export23は別作業として保留。権利矛盾130・許諾未確認237は新しい根拠なしに再取得しない。
 5. 実作業の区切りでNAS全件`verify_nas.py`、B35開始484件の行ハッシュと旧355件の不変性、`validate.py`、既存テスト、`git diff --check`を確認する。GitHub Actions/RDCを使わない。
 
-以下はB34までの履歴であり、B35の実機処理と結果を反映した現在の作業計画ではない。現時点で未解決の作業は上記に明記したfail-closed holdのみ。新しい根拠がないまま過去のページ確認・ZIP取得を再実行しない。
+以下のB34/B35記述は履歴であり、B36のNAS privacy gateを上書きしない。現時点の未解決作業は、NAS管理者による実効隔離の確認、個別権利/対応/形状hold、および上記の認証/エクスポート案件。新しい根拠がないまま過去のページ確認・ZIP取得を再実行しない。
 
 ## 継続実行手順（認証済みBOOTH結果）
 
 ### A. 前提の安全確認
 
-1. Git最新main、ローカル未コミット変更、実NASマウント（`findmnt -T /mnt/hdd/vrm`）、現在のNAS `index.jsonl`、checkpointを照合。`python3 scripts/verify_nas.py --nas-root /mnt/hdd/vrm`を実行して現時点の保存済み件数を確定する。開始時の全index行とSHA-256をローカルに記録。マウント不明ならNASに書き込まず終了。355件がすでに正常保存済みなら一切上書きしない。
+1. Git最新main、ローカル未コミット変更、実NASマウント（`findmnt -T /mnt/hdd/vrm`）、現在のNAS `index.jsonl`、checkpointを照合。`python3 scripts/verify_nas.py --nas-root /mnt/hdd/vrm`を実行して現時点の保存済み件数を確定する。開始時の全index行とSHA-256をローカルに記録。**B36監査ではmode 0777の親ディレクトリ、NFSv3 `sec=sys`、サーバー側隔離未確認のため、NAS管理者が第三者アクセスを実効的に排除できると確認するまで新規NAS保存を行わない。** `chmod`/`chown`やNAS/NFS設定変更は禁止。355件/484件は過去baseline、現在保護する実体は487 ZIP/974 WebP。
 2. `booth-real-profile-local-2`の生存とBOOTHログイン状態を**画面で**再確認。ログインが消えていたらユーザー本人の正規ログインが必要と記録し、Cookieコピーや認証回避をしない。BOOTH・各ショップの規約、ページの無料配布条件を確認し、サイトが自動取得を認めない場合は処理を停止して報告する。
 
 ### B. 完了済みパイロット（再取得しない）

@@ -8379,16 +8379,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/5353568",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "_無料版_free_VRoid_VRM_Aurora_ぴケの創作屋さん_.zip",
-      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_name": "商品ページ・同梱READMEの利用条件",
       "license_url": "https://booth.pm/ja/items/5353568",
       "verification": "rights_unverified_hold",
       "checked_at": "2026-10-11",
-      "notes": "オーロラモチーフの無料アバター。 作者ページで無料VRMと記載し、有料版のフルセットと区別。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。 B33 (2026-10-11): 無料配布パッケージは複数形式/アセット混在のため、VRM単体の対象範囲外として未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。 B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: No age statement; sensitive depictions may be allowed, so age remains unconfirmed. Existing B34 package inspection identified the single VRM member and embedded metadata for this catalog ID (no variant ambiguity); no B35 re-download. The physical VRM has no retained full-body T-pose render, and age is unconfirmed, so hold. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
+      "notes": "オーロラモチーフの無料アバター。B34に単一VRM memberの対応を確認。B36 (2026-10-11): 正規BOOTHの0円UIから一時取得したZIPにVRMは1件だけ。Aurora free.vrmをpike-auroraへ対応付け、VRM 0.x、SHA-256=8b3a1ae85da5ca6eea9fff06d6ac5a591e14fa2eb09ba6e69fb8ff16e0d623e0。埋込metadataはallowedUserName=Everyone、commercialUssageName=Allow、licenseName=Other。同梱READMEは商用利用・改変を許可し、元データの再配布を禁止、改変データの再配布は相談、バックアップは利用者責任とする。年齢設定の未記載だけでは中立・非性的な技術検査を止めず、年齢は推測しない。ローカルTポーズ/顔WebPを目視し、人型形状と顔正面を確認。NASには保存していない。NFSの第三者アクセスを排除できると未確認のためrights_unverified_holdを維持。詳細・プレビューSHA-256はdocs/hermes-bulk-run-results.mdのB36節。NASの権限変更なし。"
     },
     {
       "id": "pike-sakura-uniform",
@@ -8555,11 +8555,11 @@
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "_Free_VRoid_VRM_Steam_Rabbit_ぴケの創作屋さん_.zip",
-      "license_name": "商品条件と埋込ライセンス確認済み（編集用ソース同梱のため範囲外）",
+      "license_name": "商品条件・同梱README・VRMメタデータ確認済み（保存保留）",
       "license_url": "https://booth.pm/ja/items/4468213",
       "verification": "rights_unverified_hold",
       "checked_at": "2026-10-11",
-      "notes": "B34 (2026-10-11): 正規UIの無料ZIPを確認。27-member packageに単一VRM (SHA-256=78f4ab6f497b640557c0b9c8597226683fc4b5ac4d0760052219f27b82860e3)だけでなく.vroid/.vroidcustomitem、textures、sample等の編集用ソースを同梱。VRM metadataとREADMEの商用/センシティブ利用・credit・原本再配布禁止を確認したが、取得範囲外としてプレビュー/NAS保存をせず、一時ZIP/VRM削除済み。 B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: No age statement; retained page terms permit use but prohibit source redistribution; age remains unconfirmed. Existing B34 ZIP inspection identified the single VRM member for this catalog ID and recorded its SHA-256/README terms (no variant ambiguity); no B35 re-download. No physical full-body T-pose render is retained and age is unconfirmed, so hold. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
+      "notes": "B34 (2026-10-11): 正規UIの無料ZIPを確認し、27-member package内の単一VRMと編集ソースを記録。B35では再取得せず。B36 (2026-10-11): 正規BOOTHの0円UIからローカル一時取得。Steam Rabbit Black outer.vrmが単一memberで、既存catalog IDと一致。VRM 0.x、SHA-256=78f4ab6f497b640557c0b9c8597226683fc4b5ac4d0760052219f27b82860e3。埋込metadataはallowedUserName=Everyone、commercialUssageName=Allow、licenseName=Other。同梱READMEは商用利用・改変を許可し、元データの再配布を禁止、改変データの再配布は相談、バックアップは利用者責任とする。年齢設定の未記載だけでは中立・非性的な技術検査を止めず、年齢は推測しない。生成した全身画像では腕がT字に確認できず、顔画像ではゴーグル等で顔が見えないためプレビュー条件未達。NASにも保存していない。NFSの第三者アクセス排除は未確認のためrights_unverified_holdを維持。詳細・プレビューSHA-256はdocs/hermes-bulk-run-results.mdのB36節。NASの権限変更なし。"
     },
     {
       "id": "yonagi-emil",

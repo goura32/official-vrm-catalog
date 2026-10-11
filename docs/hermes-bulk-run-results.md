@@ -782,3 +782,13 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - [BOOTH item 6595645](https://booth.pm/ja/items/6595645)はUnitypackage/FBX/Texture等とVRM形式モデルを掲載し、混合パッケージだけでは除外しない。ページはUVライセンスの個別条項PCU/DDW/SEU/VEUを明示。リンク先[UVライセンス](https://uv-license.com/ja/license?utf8=%E2%9C%93&pcu=true&ddw=true&seu=true&veu=true)の一般条項はモデルと派生物の配布を個別許可なしでは不可とするが、DDWは二次的著作物の第三者配布を許可する。これは元VRMの再配布許可とは別。個人商用・派生物配布・成人表現の条件を私的保存禁止へ読み替えない。
 - 確認した規約本文には私的な構造検査・そのための保管を明記する許諾/禁止が見当たらないため、可否を推定しない。年齢設定や実年齢ゲートは商品ページで確認できず、未記載だけで中立・非性的検査を止めない。SEU/VEUは成人向け表現の許諾であり、キャラクター年齢の証拠ではない。
 - `Nao_Contents.zip`内のVRM memberとIDの対応、実VRMの全身形状/Tポーズ、個人的な検査用複製/保管の根拠が未解決のため、`rights_unverified_hold`を維持。追加取得・同意操作・NAS保存なし。権利矛盾129、利用条件等未確認238の集計は変わらず。B35 hold29全体も未解決のまま。
+
+## B42：jowashop-ordinary-girlの子ども表示・権利矛盾・物理検査（2026-10-11）
+
+- 開始時`main`/`origin/main`は`833ebea4dcbc3e8b5dbb72473c30d67a517fbe11`。読み取り専用NAS verifierは487 ZIP/974 WebP、`ok:true`/`errors:[]`、index SHA-256 `0bf57c18c66a14caaa79578f8865f2d8242df49a4a2e7cb7b68e19c7c1ec3a9f`。mode/ACL/NFSは前回監査と同じで、NASへの書込みなし。
+- [BOOTH item 7392963](https://booth.pm/ja/items/7392963)の無料UIから`一般子供.zip`（16,605,054 bytes）を取得。ZIPは`testzip`成功、unsafe path/symlinkなし、2 member（`一般子供.vrm`と`.vroid`）。`.vroid`は展開/使用せず。ZIP SHA-256 `01ab3ee63216df77786a5ed357e9812cce53635737be6fd26253ffcf14493ab6`。
+- 唯一のVRMは15,591,436 bytes、VRM 0.x/GLB2、SHA-256 `9317d9b428b8434748bb72bac99e1cfcc7e8f899ed3d2c651afe4c1d24b9b2c7`。metadata title=`一般子供`、author=`じょわ`、`allowedUserName=OnlyAuthor`、`licenseName=Redistribution_Prohibited`、commercial/sexual/violent=`Disallow`。公式[UniVRM metadata仕様](https://vrm.dev/en/univrm/meta/univrm_meta/)は`OnlyAuthor`を作者のみがアバターを操作できる設定、`Redistribution Prohibited`を配布/改変ライセンス区分として記載。
+- 作者ページは約115cm・小学生/幼稚園児タグを掲載し、使用/改変と友人向けの無償調整・引渡しを許可する一方、自作発言・販売を禁止。子どもとして示されたモデルを成人とは扱わない。数値年齢/年齢ゲートは見当たらず、年齢属性のみを中立・非性的検査の停止理由にしない。成人・性的・暴力的用途は行っていない。
+- ページの友人向け無償改変・引渡し許可と埋込`OnlyAuthor`/`Redistribution_Prohibited`がアバター利用/第三者移転軸で矛盾する。commercial Disallowは販売禁止と整合する。矛盾は私的保存禁止を意味しない。非公開技術検査・そのための長期保管条件はページ/metadataに明示されていないため許諾・禁止のどちらにも推測せず、この1 IDを`rights_unverified_hold`から`official_binary_inspected_rights_conflict_not_archived`へ変更。
+- rendererはVRMを外部へ送らないローカルHTTP経由で実行。`jowashop-ordinary-girl-tpose.webp` 768×1024 SHA-256 `2322c09e8267b08a52103ebaae02b5d969ea8f6439df03031e1c08dcb60f8890`、face 512×512 SHA-256 `5e693f7404fc67a198c9724ec292141d3410e4e9d5328ea99330acc28beda2c7`。目視で頭・胴・両腕・両脚の全身と正面顔を確認。
+- `jowashop-ordinary-girl`を`rights_unverified_hold`から`official_binary_inspected_rights_conflict_not_archived`へ移した。NAS保存なし。作業後にscratch内のZIP/VRM/WebPと一時`node_modules`を削除。797 ID内集計は権利矛盾130、利用条件等未確認237。B35 hold29は全件未保存で、全体として未完了。

@@ -4796,16 +4796,16 @@
         "avatar",
         "chibi"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/7392963",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "一般子供.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/7392963",
-      "verification": "rights_unverified_hold",
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
       "checked_at": "2026-10-11",
-      "notes": "公式BOOTHページは0円15.8 MBの一般子供.zipを掲載し、内容はVRMと編集可能な.vroidの同梱。作者記載の身長は約115cmで、小学生・幼稚園児タグもある。VRM-only取得範囲外の混合ソースパッケージとして除外し、取得していない。 B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: Creator explicitly describes a child avatar (~115 cm and elementary/kindergarten tags); fail-closed age hold. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
+      "notes": "B42 2026-10-11: 公式BOOTHの0円zipをUIから取得。ZIPは2 memberだけ（一般子供.vrm、一般子供.vroid）で、本ID向けVRMは一対一に確認。VRM 0.x、title=一般子供、author=じょわ。作者は身長約115cm、小学生/幼稚園児タグを示し、.vrm/.vroidを提供、使用・改変可、友人向けに無料調整して渡すのは可、自作発言・販売は禁止。数値年齢/年齢ゲートは確認できないが、子どもとして提示されたモデルであり成人とは扱わない。中立・非性的な全身Tポーズ/顔previewを生成し、頭・胴・両腕・両脚と正面顔を確認。埋込metadataはallowedUserName=OnlyAuthor、licenseName=Redistribution_Prohibited、commercial/sexual/violent=Disallow。公式UniVRMのVRM0.x定義と照合し、OnlyAuthor/再配布禁止のflagsは作者ページの友人向け無償改変・引渡し許可とアバター/第三者移転軸で矛盾する。commercial Disallowは販売禁止と整合。矛盾は私的保存禁止を意味しない。私的技術検査/長期保管の明示条件は確認できず、許諾・禁止いずれにも推測しない。権利矛盾として未保存、NAS未使用。検査用ZIP/VRM/previewはscratchから消去。"
     },
     {
       "id": "ariroom-umeko",

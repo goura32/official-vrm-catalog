@@ -192,7 +192,7 @@ python3 scripts/validate.py
 
 ## ローカル取得したVRMの調査
 
-GitHub経由でバイナリ本文を取得できなかった大型VRMや、ログインして入手したBOOTHのVRM/ZIPは、後日のHermes Agent実機確認でローカル解析します。**NAS `/mnt/hdd/vrm/models/` に人型VRMを `<catalog_id>.zip` または `<catalog_id>.vrm.zst` として保存し、`previews/` に全身Tポーズ・顔WebPを保存**します。対応表は `index.jsonl` に記録します。元ZIP・その他の同梱物は永続化しません。実測比較・画像生成・保存スクリプトの使い方は[NAS保存方式](docs/nas-storage.md)を参照。**VRMファイルや圧縮ファイルをGitHubに追加しないでください。**
+実取得済みVRMはHermesの実機検証結果を正本に反映し、未取得・保留モデルは個別の取得条件が解消した場合のみ追加解析します。**NAS `/mnt/hdd/vrm/models/` に人型VRMを `<catalog_id>.zip`（内部 `model.vrm`）として保存し、`previews/` に全身Tポーズ・顔WebPを保存**します。対応表は `index.jsonl` に記録します。元ZIP・その他の同梱物は永続化しません。実測比較・画像生成・保存スクリプトの使い方は[NAS保存方式](docs/nas-storage.md)を参照。**VRMファイルや圧縮ファイルをGitHubに追加しないでください。**
 
 ```bash
 python3 scripts/inspect_vrm.py /path/to/Seed-san.vrm /path/to/model-pack.zip

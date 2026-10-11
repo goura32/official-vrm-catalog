@@ -4803,9 +4803,9 @@
       "distribution_filename": "一般子供.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/7392963",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者がVRMおよびVRoidファイルを同梱すると記載。身長約115cm。自作発言・販売禁止。公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_product_page_scope_excluded_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "公式BOOTHページは0円15.8 MBの一般子供.zipを掲載し、内容はVRMと編集可能な.vroidの同梱。作者記載の身長は約115cmで、小学生・幼稚園児タグもある。VRM-only取得範囲外の混合ソースパッケージとして除外し、取得していない。"
     },
     {
       "id": "ariroom-umeko",
@@ -4881,9 +4881,9 @@
       "distribution_filename": "Quanstella_v1.04.vrm.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5922294",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者のVRM版が0円。VRChat版やPSD等の別形式はこのレコードに含めない。配布ファイル名のv1.04はVRM仕様バージョンではない。公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "公式BOOTHページはVRM版の0円・24.2 MB ZIPを別配布と明記。リンク先の日本語VN3規約は性的表現を棲み分け条件付きで許可し、未改変・改変データの再配布を禁止する一方、キャラクター年齢は確認できない。年齢/内容条件を確定できないため取得せず保留。"
     },
     {
       "id": "kazurat-bird-original",
@@ -4941,9 +4941,9 @@
       "distribution_filename": "小動物系少女.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5094429",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者の0円VRM。編集可能なVRoid版は有料。改変可、再配布・自作発言禁止。公式商品ページで0円のVRM配布を確認。実ダウンロード・内部VRM解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "公式ページの0円直接VRMは11.3 MBで、編集可能な.vroid版は有料。説明は「小動物系の少女」、身長151 cmとするが年齢は不明。改変可、再配布・自作発言禁止。商品ページの全身レンダーでは頭・胴・両腕・両脚のある人型形状を確認したが、年齢不明のため取得せず保留。"
     },
     {
       "id": "nekomishouten-yuru-neko",
@@ -5535,9 +5535,9 @@
       "distribution_filename": "さくらリクオ_フリーアバター_50F_みるっち.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5715397",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "原作者がVRM同梱を明記した0円フリーアバター。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_product_page_scope_excluded_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "公式BOOTHページは0円20.2 MB ZIPを掲載し、同梱物を.vroid、VRM、READMEと明記。性的・暴力的表現を許可するがキャラクター年齢は不明。編集可能ソースを含む混合パッケージのためVRM-only取得範囲外として、取得していない。"
     },
     {
       "id": "sakurabido-megumicchi",

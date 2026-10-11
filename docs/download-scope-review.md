@@ -1,6 +1,6 @@
-# 登録凍結・人型ダウンロード選別レビュー（2026-10-09、2026-10-11 B34/B35/B43/B44更新）
+# 登録凍結・人型ダウンロード選別レビュー（2026-10-09、2026-10-12 B34/B35/B43/B44/B45更新）
 
-**最新の完成判定・残件**：B44後は登録1,297件／NAS487 ZIP・974 WebP／BOOTH認証待ち0件。形状予備分類は人型候補601・非人型230・未判定466。B35の混合ZIP41 ID/35商品は保存3、非人型9、根拠不足hold29。B43/B44では`jima-muscle-mantis`/`jima-muscle-pigeon`を公式ZIPから一時検査し、物理VRMとのID対応と人型全身形状を確認してpendingから人型候補へ移したが、私的保存条件は未確認のためrights hold・NAS未保存。物理VRM対応不明14 IDの別リストに両IDは含まれず、14件は全件保留のまま。本書内のB34/B35小計は履歴値であり、最新スナップショットと混同しない。詳細は[B35/B43/B44実機結果](hermes-bulk-run-results.md)と[完成条件](completion-criteria.md)。
+**最新の完成判定・残件**：B45後は登録1,297件／NAS487 ZIP・974 WebP／BOOTH認証待ち0件。形状予備分類は人型候補602・非人型230・未判定465。B35の混合ZIP41 ID/35商品は保存3、非人型9、根拠不足hold29。B43/B44/B45では`jima-muscle-mantis`/`jima-muscle-pigeon`/`kumayui-kumano-yucha`を公式無料配布物から一時検査し、物理VRMとのID対応と人型全身形状を確認して人型候補へ移したが、私的保存条件は未確認のためrights hold・NAS未保存。物理VRM対応不明14 IDの別リストに3 IDは含まれず、14件は全件保留のまま。本書内のB34/B35小計は履歴値であり、最新スナップショットと混同しない。詳細は[B35/B43/B44/B45実機結果](hermes-bulk-run-results.md)と[完成条件](completion-criteria.md)。
 
 ## 結論
 
@@ -177,3 +177,9 @@ VRMバイナリを取得することなく、公開作者データから次の�
 - B35で混合ZIP範囲外として保留された`jima-muscle-pigeon`を、公式BOOTH無料UIから取得したZIPで再確認。READMEをVRM使用前に読み、FBX/GLB/texture/制作scriptを含むZIPから実VRM memberだけを抽出して本IDへ一対一対応させた。`__MACOSX/._`はAppleDouble sidecarであり、第二のモデルとして数えない。
 - metadata/README/商品ページのアバター利用条件は整合するが、非公開技術検査・長期保管の明示条件は見つからない。混合ZIPや再配布禁止を保存禁止と読み替えず、shape候補へ追加する一方、`rights_unverified_hold`・NAS未保存を維持。
 - VRM 0.xの中立Tポーズで頭・胴・両腕・両脚、顔画像で正面頭部を確認。数値年齢/年齢ゲートはなく、年齢未記載だけで中立検査を止めない。別枠のmapping不明14 IDにも含まれない。
+
+## 2026-10-12 B45：kumayui-kumano-yuchaの形状分類
+
+- B35で混合ZIP/年齢「？？？」として保留された`kumayui-kumano-yucha`を、公式BOOTHの¥0 UIから再確認。単一の物理VRM member `熊野ゆちゃ/熊野ゆちゃ.vrm`を本IDへ一対一対応させ、VRM 0.xをローカルで検査した。ページはPNG 2点を列挙するが実ZIPには1点のみで、他に`.vroid`とUnitypackageを含む。混合ZIPというだけで対象外とはしない。
+- metadataとページ規約は、個人/金銭目的の商用利用可・改変可と再配布禁止の軸で整合。年齢は明示的にunknownだが年齢ゲートはなく、中立・非性的なTポーズ/顔を検査した。頭・胴・両腕・両脚が見える人型形状を根拠に`download-scope`へ追加し、候補数を602/230/465へ更新。
+- 私的な非公開技術検査・長期保管条件は明記されず、許可/禁止を推測せず`rights_unverified_hold`を維持。NAS未保存。権利矛盾130・利用条件等未確認237、B35 hold29、mapping不明14はいずれも変化なし。

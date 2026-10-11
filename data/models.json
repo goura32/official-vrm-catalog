@@ -5213,7 +5213,7 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/7039529",
       "download_url": null,
       "access_method": "booth_free_download",
@@ -5221,8 +5221,8 @@
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/7039529",
       "verification": "rights_unverified_hold",
-      "checked_at": "2026-10-11",
-      "notes": "公式BOOTHページに年齢「？？？」と記載。無料ZIP「熊野ゆちゃ.zip」19.5 MBはPNG、VRM、編集可能な.vroid、Unitypackageを同梱する混合パッケージのため、VRM-only範囲外として取得していない。 B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: Product page explicitly lists age as unknown; fail-closed hold. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
+      "checked_at": "2026-10-12",
+      "notes": "B35 2026-10-11: mixed ZIP scope and age-unknown annotations did not establish a ban; exact VRM mapping/physical shape were unverified, so held. B45 2026-10-12: official BOOTH item 7039529 lists ¥0 熊野ゆちゃ.zip (19.5 MB), age 「？？？」 and no age gate. Terms allow personal use, commercial use for financial gain, modifications, and optional credit; redistribution, including modified versions, is prohibited. This is not a stated private technical-inspection/retention rule, so do not infer either permission or prohibition for that separate action. The authenticated official free-download UI yielded a temporary ZIP (20,409,872 bytes, SHA-256=e7e3ce06f639a8709de2876b2d407b6ddf6157aeed71bfac449eb3032fc772fe); testzip passed, 5 entries including one directory, with no unsafe paths or symlinks. Page lists two PNGs; the ZIP contains one PNG plus one VRM, one editable .vroid, and one Unity package. Its sole VRM member `熊野ゆちゃ/熊野ゆちゃ.vrm` uniquely matches this ID. VRM 0.x/GLB2, 12,763,404 bytes, SHA-256=c14e3ab59823e3eba9b51e26a812c7d61f4b255c8f08216c1d310011c7a1ae76. Metadata: allowedUserName=Everyone, commercialUssageName=Allow, licenseName=Redistribution_Prohibited, sexualUssageName=Allow, violentUssageName=Allow; the checked page and metadata align on the applicable use/redistribution axes. Age unknown alone did not block neutral nonsexual inspection; no age was inferred and no sexual/violent depiction was made. Local renderer confirmed visible head/torso/arms/legs and a front-facing face; T-pose 768x1024 SHA-256=9796c086b7fa6153e7e7a8dd2ccefbb0392046696491ef618d6abb76578e6ac2, face 512x512 SHA-256=29610c081c1b2235d8df9e78ecca33ec46e8978c2038315342bf19ba7fb1cb39 (face framing corrected with --face-y-offset-frac 0.04). Shape candidate only; rights_unverified_hold remains because private technical-copy/long-term-retention conditions are unstated. NAS not saved. Temporary ZIP/VRM/previews and node_modules removed; package.json/lockfile unchanged."
     },
     {
       "id": "yuuritoka-hanamaru",

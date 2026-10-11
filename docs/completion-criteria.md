@@ -1,6 +1,6 @@
 # 完成条件・未保存モデルの扱い（2026-10-11）
 
-この文書は、**カタログの完成**と**NASへの人型VRM収集の完了**を分けて判定するための方針。正本は`data/models.json`、`data/collections/*.json`、`data/download-scope.json`。以下の現行値はB42（2026-10-11）時点であり、B35の混合ZIP再評価・14 ID照合、B36の権利/NAS再評価、B37〜B42の用途別レビューを反映する。履歴値は実績レポートを参照する。
+この文書は、**カタログの完成**と**NASへの人型VRM収集の完了**を分けて判定するための方針。正本は`data/models.json`、`data/collections/*.json`、`data/download-scope.json`。以下の現行値はB43（2026-10-11）時点であり、B35の混合ZIP再評価・14 ID照合、B36の権利/NAS再評価、B37〜B43の用途別レビューを反映する。履歴値は実績レポートを参照する。
 
 ## 完成の定義
 
@@ -9,7 +9,7 @@
 - **未保存の正確な管理**：権利未確定・人型でない・ページ不存在・取得制限・要会員認証・ID対応不明・VRoid Studio書き出し専用などは、根拠と再開条件があれば保留・除外でよい。**1,297件すべてをNAS保存することは完成条件にしない**。一方、無償取得可能な人型VRMを、推測上の「ZIP同梱ファイル」を理由に見落とさない。
 - **作業の終了**：現行方針で実行可能な対象が無くなり、残件が理由別に記録されている状態を「現時点の収集フェーズ完了」と呼ぶ。技術的に未検査のものを「実VRM検証済み」に変更しない。保留の解除は**新しい作者根拠・利用条件・正規ログイン・モデル対応資料**がある場合だけ行う。
 
-## B42時点の排他的内訳（2026-10-11）
+## B43時点の排他的内訳（2026-10-11）
 
 | R1/R2/R3以外の797 ID | 件数 | 扱い |
 | --- | ---: | --- |
@@ -71,6 +71,13 @@
 - 作者は約115cm・小学生/幼稚園児タグを掲示し、使用/改変と友人への無償調整・引渡しを許可、自作発言/販売を禁止。子どもとして提示されたモデルであり成人とは扱わないが、数値年齢/年齢ゲートは見当たらない。中立・非性的なTポーズ/顔を確認し、性的/暴力的表現は行わない。
 - 埋込`allowedUserName=OnlyAuthor`と`licenseName=Redistribution_Prohibited`は、作者の友人向け無償調整・引渡し許可とアバター利用/第三者移転軸で矛盾する。`commercialUssageName=Disallow`は販売禁止と整合する。これらの軸差だけを私的保存禁止へ読み替えず、個人的な技術検査/長期保管の明示条件も未確認として保留する。
 - 1件を`rights_unverified_hold`から`official_binary_inspected_rights_conflict_not_archived`へ移動。NAS保存なし。797 ID内の現行集計は権利矛盾130、利用条件等未確認237。B35 hold29全件は未保存であり、全体として未完了。
+
+## B43 jima-muscle-mantisの再評価（2026-10-11）
+
+- 公式BOOTHの無料ZIPと同梱READMEを確認し、1 VRM/FBX/Blender/texture類の混合パッケージを正規UIから一時取得。唯一のVRM memberは`MuscleMantis.vrm`、本IDと一対一で対応し、VRM 1.0である。
+- 商品条件は個人商用・改変・配信/SNS利用を許し、モデルデータの再配布（改変版含む）と性的/暴力表現を禁じる。VRM metadataも`personalProfit`、`allowModification`、`allowRedistribution=false`、`allowExcessivelySexualUsage=false`、`allowExcessivelyViolentUsage=false`で主要な利用軸は整合する。README/metadataはcredit必須だが商品ページは任意と記載する。クレジットを付ければ両条件を満たせるため、権利矛盾には数えず、利用時は必須表記に従う。再配布禁止を保存禁止とは解釈しない。
+- 数値年齢/年齢ゲートは見当たらず、年齢未記載のみで中立・非性的構造検査を止めない。ローカルTポーズ/顔を目視確認し、人型の全身表示と正面頭部を確認。性的/暴力的用途は行っていない。
+- [VRM Public License 1.0](https://vrm.dev/licenses/1.0/)はModel/Avatar Useに必要な複製をRedistributionと区別するが、構造検査/長期保管が許諾されたUseに含まれるかは明記されない。私的検査用コピーの条件は可否を推定せず保留し、`rights_unverified_hold`を維持。NAS保存なし。B35 hold29は全件未保存、集計は権利矛盾130・利用条件等未確認237のまま。
 
 ## 優先する実作業
 

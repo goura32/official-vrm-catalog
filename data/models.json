@@ -6093,7 +6093,7 @@
       "license_url": "https://booth.pm/ja/items/8768066",
       "verification": "rights_unverified_hold",
       "checked_at": "2026-10-11",
-      "notes": "商品ページで無料ZIPにVRM、FBX、編集用Blender rig/sourceを同梱すると確認。VRM-only取得範囲外のためダウンロードせず未保存。 B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: No explicit adulthood evidence in the retained product-page record; do not infer age from name, height, clothing, or appearance. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
+      "notes": "B43 2026-10-11: 公式BOOTHの0円UIから混合ZIPを取得し、唯一のVRM member/本IDの対応を確認。VRM 1.0 metadata: avatarPermission=everyone, commercialUsage=personalProfit, modification=allowModification, allowRedistribution=false, creditNotation=required, allowExcessivelySexualUsage=false, allowExcessivelyViolentUsage=false。商品ページも個人商用・改変・配信/SNS利用を許可し、モデルデータの再配布（改変版含む）と性的/暴力表現を禁止するため、これらの利用軸はmetadataと整合。再配布禁止だけで私的保存禁止とは推論しない。VRM Public License 1.0はModel/Avatar Useに必要な複製はRedistributionに当たらないと定義するが、中立的な構造検査/長期保管がその用途に含まれるかは未確定。BOOTH欄はcredit任意、READMEとVRM metadataはcredit必須なので、利用時は厳しい方の表記を採用する。任意表記と必須表記はクレジットを付ければ両立するため、これだけを権利矛盾には数えない。年齢設定/ゲートは見当たらず、年齢不明のみで中立・非性的構造検査を止めない。humanoid mantis/bodybuilderとして提示され、Tポーズ全身と正面頭部/顔を確認。性的/暴力的表現なし。私的検査用複製/保管の条件が明記されず、権利未確認holdを維持。NAS未保存、検査用ZIP/VRM/previewはscratchから削除。"
     },
     {
       "id": "tori-no-tomoshibi-red",

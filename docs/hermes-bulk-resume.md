@@ -1,30 +1,28 @@
 # Hermes Agent 一括実機継続指示（BOOTH認証済みChromeプロファイル）
 
-本指示は2026-10-11のHermes実機確認に基づく。新規取得作業の開始時は必ず`origin/main`をfetchし、最新main・NAS索引・ローカルcheckpointを先に確認する。B33は`507e6d76d4f62dbf11f3721fce21bef40ef4cb4f`から実行し、commit/push・NAS監査・既存355件照合・作業物整理を完了。B34は同じcheckpointで継続し、現在105商品ページ・145状態遷移を記録した部分実績である。BOOTH認証待ち145 IDは全件状態遷移済み。保存済みIDや過去保留を再取得しない。
+本指示は2026-10-11のHermes実機確認に基づく。新規取得作業の開始時は必ず`origin/main`をfetchし、最新main・NAS索引・ローカルcheckpointを先に確認する。B33は`507e6d76d4f62dbf11f3721fce21bef40ef4cb4f`から実行し、commit/push・NAS監査・既存355件照合・作業物整理を完了。B34は145状態遷移を記録した部分実績で、BOOTH認証待ちは0 ID。B35では混合ZIP41 ID/35商品を再評価し、物理VRM対応不明14 IDを既存記録と照合した。B35結果・ローカルcheckpointは本書の後続節を参照する。保存済みIDや過去の権利/年齢保留を新しい根拠なしに再取得しない。
 
 ## 状況：認証障壁が部分的に解消
 
 ユーザーがChromeに正規ログインし、Hermesは`browser.use_real_profile: true`、実プロファイルをコピーしたローカルブラウザーセッション`booth-real-profile-local-2`を起動できた。BOOTHトップページでログイン済みアカウントメニューを画面確認。カタログID `pixellangel-dolly-devil` のパイロットは2026-10-10に実取得・検査・Tポーズ/顔確認・NAS保存まで完了。パイロット後にBOOTH認証済み32バッチを実施した。パスワード・Cookie・トークン・認証付き一時ダウンロードURLは表示、記録、リポジトリ追加、チャット出力を禁止。Cookieを手動抽出・curl等へ転送して認証を代用しない。
 
-**現在の実績（2026-10-11、B34継続チェックポイント後）**：
-- カタログ計1,297件。R1/R2/R3以外の797件は、NAS保存154、実バイナリ非人型8、作者索引非人型1、商品ページ形状非人型50、埋込権利矛盾130、許諾未確認208、モデル対応未確定14、配布範囲外41、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち0、別途未検証1（ENRAI燕、source_urlはnote.comの会員登録ゲート）、VRoid Hub認証待ち16、商品ページ404 3、VRoid Studioエクスポート専用23、公式メタデータ確認3、公式リポジトリ掲載2。合計797。過去の保留と既保存IDを再取得しない。
-- B34は105商品ページ（候補ページnavigation loads 113）、無料UI操作4回、取得catalog ID/物理VRM9件、転送36,591,848 bytes、NAS新規保存1件、合計145状態遷移（権利矛盾7、権利/年齢保留49、範囲外33、ページ非人型50、ID対応不明5、保存1）。HTTP 429は0。BOOTH認証待ちは0件。別途未検証1件は未完了のまま維持し、B34全体は部分checkpoint。
-- NASは484 ZIP・968 WebP、未圧縮VRM 3,905,568,141 bytes、ZIP 2,153,972,896 bytes、WebP 15,132,012 bytes、削減率44.8487%。`verify_nas.py`は`ok:true, errors:[]`。既存355件の保護対象SHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`で不変。
-- B33 checkpointは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261011-33.json`。B34 checkpointは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261011-34.json`（`batch34_checkpointed_partial`）。累計summaryは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/authenticated-summary-20261010.json`。B33 commit/push後にB34を開始。匿名302確認を繰り返さず、権利・内容保留案件を新しい根拠なしに再取得しない。
+**現在の実績（2026-10-11、B35再評価後）**：
+- カタログ計1,297件。R1/R2/R3以外の797件は、NAS保存157、非人型68（実体8・作者索引1・商品ページ59）、埋込権利矛盾130、年齢/利用条件等の未確認237、モデル対応未確定14、混合ZIPのみを理由とした範囲外0、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち0、別途未検証1（ENRAI燕・note.com会員登録ゲート）、VRoid Hub認証待ち16、商品ページ404 3、VRoid Studioエクスポート専用23、公式メタデータ/リポジトリのみ5。合計797。
+- B35は41 ID/35商品を再評価し、3 IDを2商品の正規無料混合ZIPからVRMのみ抽出して保存、9 IDを既存レンダー根拠で非人型、29 IDを年齢/権利/メンバー対応/物理形状の不足でfail-closed保留とした。14 IDは既存検査記録と照合したが一対一マッピングは0件で、14すべて対応不明のまま維持。
+- NASは487 ZIP・974 WebP、未圧縮VRM 3,925,815,073 bytes、ZIP 2,168,476,533 bytes、WebP 15,210,140 bytes、削減率44.7637%。`verify_nas.py`は`ok:true, errors:[]`。B35開始時484行の索引SHA群は全行一致し、旧355件の保護対象SHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`で不変。
+- B33 checkpointは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261011-33.json`。B34 checkpointは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261011-34.json`（`batch34_checkpointed_partial`）。B35 checkpointは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-mixed-zip-batch-20261011-35.json`。権利/年齢保留・保存済みIDは新しい根拠なしに再取得しない。
 
-## 次の優先作業：混合ZIPの分類を再点検
+## B35結果：混合ZIP再評価と対応不明ID照合
 
-[完成条件・残件の扱い](completion-criteria.md)を次回実行の判断基準に追加する。**BOOTH認証待ちは0 IDで完了**したが、過去の「VRM-only配布範囲外」**41 ID／35商品**は、無料ZIPに編集ソースなどが同梱されることのみを理由に未保存となっている可能性がある。正本`docs/collection-policy.md`と`docs/nas-storage.md`は**混合ZIPを入力として認め、許諾確認済みの人型VRMのみ抽出してNAS保存**する方式である。過去の実績・履歴は書き換えず、次の作業で一件ずつ根拠を更新する。
+現在の方針では、無料の正規ZIPに`.vroid`、Blender、FBX、PSD、Unitypackage等が混在していても、混合形式だけでは除外しない。B35では同一商品URLの重複取得を避け、41 ID/35商品を一件ずつ再評価した。正規無料UIで取得したのは2 ZIP（67,186,856 bytes）だけで、3 IDを物理VRM・埋込メタデータ・年齢/規約・全身形状・プレビューまで確認してNASへ保存した。残る29 IDは独立した年齢/権利/モデル対応/物理形状の不足があり保留。9 IDは非人型として保存しない。混合ZIPそのものは、いずれのhold理由にも用いない。
 
-1. 最新main、実NAS484件・968 WebP、旧355件保護ハッシュ、B34 checkpointの照合から始める。既存データの削除・上書きは禁止。B34の`batch34_checkpointed_partial`はBOOTH145 ID処理済み、別途ENRAI1件未完了を表すため、無理に完了へ変更しない。
-2. `data/models.json`から`official_product_page_scope_excluded_not_archived` 38 IDと`official_package_inspected_scope_excluded_not_archived` 3 IDを抽出し、**同一商品URLで重複ダウンロードしない**。これらは41 ID／35商品。まず明示的なVRMファイル名がある公式・原作者無料配布（例：公式ずんだもん2025歩行/飛行、PURIN/PURIN+、ねおねこ商店の明記VRM）を少数で検証し、成功条件を確立後、他の安全な候補へ続ける。
-3. **VRM以外の同梱自体は取得禁止ではない**が、成人向け・年齢未確定・利用許諾不明・他者権利矛盾の問題が独立してあるモデルは個別保留し、無条件に取得/保存しない。無料ファイルと有料支援版を区別。zip bombや巨大アーカイブを避けるサイズ・展開上限を設け、パス逸脱を拒否。ローカル取得原本・source・VRoidプロジェクト・texture等は最終NASへ移さず削除する。
-4. 取得できたVRMはファイル名とID対応、GLB/VRM版、埋込権利、形状、正面全身Tポーズ/顔画像、元VRM SHA-256を実際に検査し、保存可能なIDだけ`archive_vrm.py --format zip --confirm-humanoid`で追加。`pike-aurora`等の`verification`と`notes`に検査済み/未取得の不一致が見られる場合は先にローカルチェックポイントでどちらが真実か確認する。分類だけを推測で更新しない。
-5. その次に**物理VRMとIDの対応不明14 ID**について、既存パッケージマニフェストと作者のモデル別表記を優先して照合する。モデル対応を勝手に割り当てず、1カタログIDに複数の別VRMがある事実が確認できたら訂正根拠を記録する。新規の大量スキャンを開始する前に今回の現実的な未完了分を優先。
-6. HTTP 429を返したホストへ再要求せず、`dweb.link`の141 IDを別ゲートウェイで迂回しない。BOOTHの過去145件を再実行しない。ENRAI/noteの別認証1 ID、VRoid Hub16 ID、VRoid Studio書き出し23 IDは別作業として保留。権利矛盾130・許諾未確認208は新たな根拠なしに再取得しない。
-7. 実作業の区切りでNAS全件`verify_nas.py`、開始時の484件と旧355件の不変性、`validate.py`、必要な既存テスト、`git diff --check`を確認。実際に確認できた差分だけモデル正本・scope・結果レポート・本書へ反映し、変更ファイルを限定してcommit/push。中断再開用のローカルcheckpointを残す。**RDC・GitHub Actionsを使わない**。
+1. 41 IDの混合ZIP再評価はB35で完了。`official_product_page_scope_excluded_not_archived`/`official_package_inspected_scope_excluded_not_archived`の対象は0 ID。29 IDは新しい権利・年齢・対応・形状根拠が得られるまで保留し、9非人型IDは取得しない。
+2. 対応不明14 IDは既存checkpoint/manifest照合を完了したが全件保留のまま。5 IDには物理VRM記録があり、2 IDにはパッケージ内の複数VRM一覧、7 IDには商品ページ根拠があるものの、いずれも一対一対応を証明しない。別の作者根拠・一意なmember対応資料なしに再取得・再割当てしない。
+3. 新しい正式な根拠が届いた場合だけ、最新版main・NAS監査・B35 checkpointから再開する。混合ZIPでは正規の無料UIから一時取得し、許諾済み・年齢適合・物理member対応済みの人型VRMだけ抽出する。zip bomb上限とパス逸脱検査を継続し、元ZIP/source/VRoid/textureをNASへ保存しない。
+4. HTTP 429を返したホストへ再要求せず、`dweb.link`141 IDを別ゲートウェイで迂回しない。BOOTH認証待ちは0。ENRAI/note1、VRoid Hub16、VRoid Studio export23は別作業として保留。権利矛盾130・許諾未確認237は新しい根拠なしに再取得しない。
+5. 実作業の区切りでNAS全件`verify_nas.py`、B35開始484件の行ハッシュと旧355件の不変性、`validate.py`、既存テスト、`git diff --check`を確認する。GitHub Actions/RDCを使わない。
 
-上記の次回優先順位を、以下の過去バッチ実行手順よりも優先する。実機処理はこの文書を書いた時点で実施していない。
+以下はB34までの履歴であり、B35の実機処理と結果を反映した現在の作業計画ではない。現時点で未解決の作業は上記に明記したfail-closed holdのみ。新しい根拠がないまま過去のページ確認・ZIP取得を再実行しない。
 
 ## 継続実行手順（認証済みBOOTH結果）
 
@@ -37,17 +35,15 @@
 
 - 2026-10-10に`pixellangel-dolly-devil`（`https://booth.pm/ja/items/4795020`）の無料`dolly_devil.vrm`を正規UIから取得し、権利・VRM実体・人型・Tポーズ・顔を確認してNASへ保存済み。有料の`.vroid`は取得していない。保存済みIDの再ダウンロードや上書きは禁止。
 
-### C. 次回の優先実作業：BOOTH認証待ちキューは完了、別途未検証は維持
+### C. B34実行履歴（再実行禁止）
 
-1. B33のpush/clean条件は完了済み。再開時は最新main、NASマウント、NAS監査、B34 checkpointを照合する。B34開始145 IDすべてに状態遷移を記録し、BOOTH認証待ちは0 ID、別途未検証は1 IDである。B34開始時点のNAS保存483件は全て保護し、現在の保存済み484 ID、権利/年齢/規約保留、対応不明、範囲外source package、商品ページ非人型、404、アクセス制限、エクスポート専用を対象へ戻さない。正規の無料BOOTH VRM/VRM-only ZIPだけを商品ページ単位で処理する。`VRoid Hub`等、別サービスの認証をBOOTHログインで通せると仮定しない。
-2. B34は105商品ページ（候補navigation 113回）、無料UI操作4回、物理VRM9件検査、転送36,591,848 bytes、NAS新規保存1件、145状態遷移（権利矛盾7、権利/年齢保留49、範囲外33、商品ページ非人型50、ID対応不明5、保存1）を記録。継続Nは10ページ（11 loads）・12 ID、Oは9ページ・13 ID、PはPomesuke全身ギャラリーを1回再確認し非人型へ遷移した。N/O/Pではダウンロード・保存なし。B34で新たに保存したのは既記録の`aonecodo-skelton`だけ。HTTP 429は0。作業中、カタログ候補に対応しない未確認item IDを誤って一度開き404になったが、商品ページ数に含めず再試行・代替URL確認をしていない。残る`enrai-tsubame-official-vrm`はsource_urlがnote.comの会員登録ゲートで、BOOTH認証待ちキューとは別。登録や認証の推測をせず、未検証のまま保留する。
-3. 1商品に複数VRM・色違い・0.x/1.0同梱がある場合は**既存のカタログIDごとに**内部ファイル名・SHA-256と対応させる。違うモデルや同一モデルを重複登録しない。無料版と有料支援版を区別する。モデル1件ごとに権利/形状/プレビュー/ZIP/索引を検証し、失敗したものだけ記録して残りを続ける。再配布禁止等のライセンスを破らない。
-4. 作業機`~/.local/state/official-vrm-catalog/`に`downloaded`, `archived`, `non_humanoid`, `preview_hold`, `license_hold`, `auth_failed`, `free_not_available`, `rate_limited`等の排他的処理状態と再開用ジャーナルを残す。追加取得の進捗件数を適宜ログ出力し、tmux等で中断に耐える。Cookie/認証トークン/期限付きURLはチェックポイントにも出さない。ユーザー本人の追加操作が不可欠になった場合は、その部分だけ保留。
-5. ログイン状態が失われた、BOOTHが利用条件を変更した、またはサイト全体で無料取得できない場合はバッチを止めて報告し、認証回避・購入・別ホスト迂回をしない。商品固有の権利/ID/内容問題は保留し、影響のない他の候補を続ける。
+- B34は105商品ページ（候補navigation 113回）、無料UI操作4回、物理VRM9件検査、転送36,591,848 bytes、NAS新規保存1件、145状態遷移を記録した。B34開始145 IDすべてに状態遷移があり、BOOTH認証待ちは0、別途未検証のENRAI燕1 IDは未完了のまま維持。B34時点の詳細は`docs/hermes-bulk-run-results.md`に残す。
+- B34作業中に候補外item IDを誤って一度開き404となったが、ページ件数に含めず再試行・代替URL確認をしていない。この履歴は監査用であり、再アクセスしない。
+- B34の権利/年齢保留・対応不明・範囲外・非人型は、B35で明示的に再評価したID以外を再取得対象へ戻さない。BOOTHや別サービスの認証を推測・迂回しない。
 
 ### D. 最終処理
 
-NAS全件`verify_nas.py`で`ok:true, errors:[]`、開始時の355件の索引行・ファイル実体が不変であることを確認。全797 IDの排他的状態を再計算し、認証待ちの減少と新規保存数を明記する。モデル対応未確定は権利保留と別集計する。正本JSON、`data/download-scope.json`、`docs/hermes-bulk-run-results.md`、必要に応じて本指示書を更新。最低限の`scripts/validate.py`、既存テスト、`git diff --check`後に作業内容だけをcommit/push。GitHub Actions/RDCを使用せず、NAS上のVRM/ZIP/WebP、ログ、ユーザー認証情報をGitHubへpushしない。
+NAS全件`verify_nas.py`で`ok:true, errors:[]`、B35開始時484行と旧355件の索引行・ファイル実体が不変であることを確認。全797 IDの排他的状態を再計算し、認証待ち・新規保存数・hold理由を明記する。モデル対応未確定は権利/年齢保留と別集計する。正本JSON、`data/download-scope.json`、`docs/hermes-bulk-run-results.md`、必要に応じて本指示書を更新。最低限の`scripts/validate.py`、既存テスト、`git diff --check`後に作業内容だけをcommit/push。GitHub Actions/RDCを使用せず、NAS上のVRM/ZIP/WebP、ログ、ユーザー認証情報をGitHubへpushしない。
 
 **日本語の最終報告**：ログインとダウンロードの成功可否、パイロット結果、今回処理した商品/ID数、ダウンロード成功・失敗、人型/非人型/権利保留/画像保留、NAS新規・累計件数、ZIP容量と圧縮率、NAS監査、旧355件不変性、797 IDの内訳、commit SHA・再開チェックポイントと次回必要なユーザー操作。未実施は成功と書かない。
 

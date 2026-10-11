@@ -683,3 +683,43 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - 別途未検証1 IDは`enrai-tsubame-official-vrm`。source_urlはnote.comの会員登録ゲートでありBOOTH認証待ちとは別分類。会員登録/取得を推測で行わず、状態を未検証のまま維持。
 - N/O/P後の追加NAS保存は0。総数484 ZIP・968 WebP、旧355件SHA-256とB34開始483件SHA-256は一致。2026-10-11 15:08 JST時点で`validate.py`（1,297 unique、scope 596/230/471）、既存unit tests（5件）、NAS全件監査（`ok:true`、`errors:[]`）、797件排他的集計、145遷移ID/status照合、`git diff --check`はすべて成功。N/O/Pの一時ブラウザー画面1ファイル（63,024 bytes）は分類記録後に削除し、不在を確認。commit/pushのreadback結果はこのcheckpointのdelivery欄に記録する。
 - checkpoint: `/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261011-34.json`、status `batch34_checkpointed_partial`。次の継続ではBOOTH認証待ちが0件であることと、別途未検証1件が未完了であることを先に確認し、保存済みID・既存holdを再取得しない。
+
+## 2026-10-11 B35：混合ZIP41 ID再評価・物理VRM対応不明14 ID照合
+
+- B35開始時のmainは`ab6c91473b5c5c171d87bf43264d1512b6bece52`。対象41 ID/35商品を正本のsource URL・同日までの保持ページ証拠・既存の実体検査記録と照合し、41件すべてに個別の権利/年齢/形状/ID対応/outcomeを記録した。混合ZIPだけを理由とする範囲外は0 IDになった。
+- 正規の無料UIから新規取得した配布物は2 ZIP、合計67,186,856 bytes。商品`2744821`の`ずんだもん_通常_2025モデルセット.zip`は25,914,816 bytes、SHA-256 `066ad32b0b35686dc59cf6ad7f07896b172f6e7ad185f85d6e52cd1f66f45b98`。商品`8806174`の`MiddleAgedMarmot_v1.0.0.zip`は41,272,040 bytes、SHA-256 `39ae1ec838acd3535bbc7781c518239b8d75b270a900e57d30342d1a082ece50`。ZIP integrity/path検査は正常。保存対象は下表のVRM単体だけで、配布元の元ZIP・編集素材はNAS/Gitに保存していない。
+
+| ID | ZIP内の選択VRM | VRM SHA-256 | NAS ZIP SHA-256 | T-pose WebP SHA-256 | face WebP SHA-256 |
+| --- | --- | --- | --- | --- | --- |
+| `tohozunko-zundamon-2025-walking` | `歩行(Walking)/VRM/Zundamon(Walking Type)_vrm10.vrm`（2,837,984 bytes, VRM 1.0） | `d0a6125c5c6b89d286fc05a64834e7b47c30910f9d5c0a5e26f6fe70b82267bc` | `4bbb2ed536512c72d8195724fbaad92a78dee3d158bb4adbea15263d3fa506e6` | `58a593e30e9d6a93b89ce2f2009f81a9e215f8a262c6ba71b0d63bb08ca60a4c` | `928f4eee2adadcc5aea085a2dc0723e44ccda1ae670f9a62fca4e301a42cb60f` |
+| `tohozunko-zundamon-2025-flying` | `飛行(Flying)/VRM/Zundamon(Flying Type)_vrm10.vrm`（2,556,688 bytes, VRM 1.0） | `627fae1c24d6530511d853492a2b283adae87fdb8fde802a50383e40117363a9` | `388e2a816b5fbf6a9fa643af2576e8c1dc3ddec8a3db2bea8f7a5bc1d236e8cc` | `c38b2352003d84c151a88f4b1459918358a9137822f143c9fe25fec5baea05f2` | `39310234f5e493deb662a5bff17370452ef20bf76d0544c9a8981fd4d0b2c902` |
+| `jima-middle-aged-marmot` | `MiddleAgedMarmot/Models/MiddleAgedMarmot.vrm`（14,852,260 bytes, VRM 1.0） | `cf391c0b72cc2cffeeb10919ea088c68a5c222897a23ae64484d345a87943ba5` | `a61204f84ffbf0c18f8d204fd1ea4c70e6853b1a105aa50e36859cdc23430cef` | `86885abf91fed1aaae0e96e54aff81cc13b7bb87ad5b1c0b56e7526839a4bfbc` | `e98a29bd62dc9508a3c094fcb653daa019e05dd5842acaa352cff32e62cd3264` |
+
+- ずんだもんは公式プロフィールに年齢概念なしと明記。配布物の日本語VN3は非営利の個人/法人利用と本人用アバター利用を許可し、性的/暴力的/政治宗教的利用・第三者利用を禁止する。選択VRM1.0 metadataは`commercialUsage=personalNonProfit`、`allowRedistribution=false`、`modification=prohibited`、`creditNotation=required`。VN3サマリー表の未改変再配布/credit欄とは差があるため、より厳しいmetadata側を適用し、非営利・非改変・非再配布、credit保持で私用保管した。VRM0.xのwalking/flying各1メンバーもmetadataまで確認したが、既存カタログIDが明記するVRM1.0だけを選び、0.xは抽出・保存していない。
+- マーモットは作者が商品名・説明・同梱規約でmiddle-aged/Humanoidと明記。VRM1.0実体と全身レンダーで頭・胴・両腕・両脚を確認。商用/改変は許可される一方、再配布・第三者取得可能な公開は禁止のため、元VRMのまま私用NASへ保存した。B35追加モデルZIP3件とWebP6枚はowner-only mode0600。親ディレクトリの既存modeは変更していない。
+
+- 41 IDの排他的結果：NAS保存3（上表）、既存商品レンダーで非人型9（`moopee-akabeko-chan`, `mxu-purin-normal`, `mxu-purin-plus`, `neoneko-affordable-dog-corgi`, `neoneko-affordable-dog-default`, `neoneko-affordable-dog-husky`, `neoneko-affordable-dog-shiba`, `neoneko-affordable-dog-tanuki`, `neoneko-aorinu`）、年齢/権利/モデルmember対応/物理全身形状の独立根拠不足でhold29（`branshop-nao`, `jima-muscle-mantis`, `jima-muscle-pigeon`, `jowashop-ordinary-girl`, `kumayui-kumano-yucha`, `lillian-nanaka`, `mxu-suu-vrm`, `neoneko-leo`, `neoneko-ngii`, `neoneko-nolt`, `neoneko-roa`, `neoneko-romuru`, `neoneko-shitakee`, `neoneko-shoki-avatar-2`, `neoneko-tofu-seijin`, `neoneko-tsukiyomi-akane`, `pike-aurora`, `pike-moon-night`, `pike-steam-rabbit`, `propofol7-satake-nagisa`, `ratenosu-untitled`, `sakurabido-hapicchi`, `sakurabido-megumicchi`, `sakurabido-mirucchi`, `shounokoto-kotatsu-mikan`, `tatougai-oninoko-kiri`, `youkihi-long-black-hair`, `youkihi-recruit-suit`, `yumenonakaya-rem-lowpoly`)。29件は取得/保存しておらず、物理形状が全件確認済みとは主張しない。`data/models.json`の各ID notesが個別の年齢/権利/形状/対応根拠とhold条件を記録する。
+
+- 物理VRMとの対応不明14 IDを既存記録のみで照合。結果は全件ambiguous維持、B35新規取得・ページアクセス0。
+- 特記：`pike-aurora`と`pike-steam-rabbit`はB34に単一VRM memberとmetadataを物理パッケージから検査済み。B35で再取得せず、その既存member対応を維持した。年齢根拠と物理VRMの全身T-pose検査が不足するためholdであり、ID-to-member対応不明へは分類していない。
+
+| ID | 既存検査記録の種類と照合結果 |
+| --- | --- |
+| `dojima-akashiyaki-kun` | 商品ページのみ。1無料ZIPに2名が記載され、個別VRM memberの対応なし |
+| `dojima-takoyaki-chan` | 上記と同じ商品。ページ記録のみで一対一対応なし |
+| `hiyoriya-sakuya-v2` | B23にVRM 0.x 4 members（Sakuya-v2-1/1_ps/2/2_ps）のSHA記録。1 IDが複数variantを含み、個別IDなし |
+| `pike-monotone-blossom` | 商品ページにouter A/B。ZIP未検査、IDは1件 |
+| `pike-red-dragon` | 商品ページにA/B。ZIP/memberとIDの対応なし |
+| `pike-snowflake` | 商品ページにA/B。ZIP/memberとIDの対応なし |
+| `pike-yumeiro-rainy` | 商品ページにAjisai/Snail body。ZIP/memberとIDの対応なし |
+| `shounokoto-moyashi` | B30 ZIP inventoryに`moyashi-vrm-after.vrm`/`moyashi-vrm-human.vrm`の2候補。どちらも抽出・検査なし |
+| `teoteome-young-seven-sailor-a` | B25物理VRM `ないちせーら.vrm` SHA `e8ea5d51418d9ea30acd2efdfe57ea36bdcdabf0b76da1a9055ebae3cdb13e38`。A/B候補のどちらかを示す作者根拠なし |
+| `teoteome-young-seven-sailor-b` | B25物理VRM `あるちせーら.vrm` SHA `e4c56b996cf7407998fa3303933318004bf53d1d5a7625ba0060ca4977098e6b`。A/B対応根拠なし |
+| `teoteome-young-seven-silver-eye-a` | B25物理VRM `ジト目オッド銀.vrm` SHA `61b60fd9f8b51b77a11ec5f40b142b4007cf1cdebaf276c1cc5043a30b831189`。A/B対応根拠なし |
+| `teoteome-young-seven-silver-eye-b` | B25物理VRM `ジト目オッド薄茶.vrm` SHA `97175b1043e2aa59e751c611247fbc7458719fb90531855b9b8314a6dbfe4198`。A/B対応根拠なし |
+| `watanosoko-ayame-v1` | 商品ページに通常版/Cluster版2 variants。物理member記録なし |
+| `watanosoko-ayame-v2` | B28 inventoryに12 VRM variantsとlicense記録。1 ID内のper-variant mappingなし |
+
+- B35のNAS最終実測：487 ZIP/974 WebP、未圧縮VRM 3,925,815,073 bytes、ZIP 2,168,476,533 bytes、WebP 15,210,140 bytes、圧縮削減率44.7637%。index SHA-256 `0bf57c18c66a14caaa79578f8865f2d8242df49a4a2e7cb7b68e19c7c1ec3a9f`。`verify_nas.py`は`ok:true`/`errors:[]`。B35開始時484行それぞれのline SHA-256が全件一致。旧355行を基準時刻で再構成したSHA-256も`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`と一致。全797 IDの排他的集計はNAS157、非人型68、埋込権利矛盾130、権利/年齢/内容未確認237、mapping不明14、混合ZIPのみ範囲外0、別host2、`dweb.link`141、BOOTH auth0、別途未検証1、VRoid Hub16、404 3、VRoid Studio export23、公式metadata/repo5（合計797）。shape予備分類は人型599・非人型230・未判定468。
+- `validate.py`は1,297 unique・scope 599/230/468で成功。既存unit tests 5件成功。HTTP 429は0、RDC/GitHub Actionsは不使用、購入/checkoutなし。Gallery操作中に意図しないcreator cart/security interstitial（HTTP 403）へ一度遷移したが、checkout/paymentは行わず、interstitialを回避・再要求していない（詳細は非公開B35 checkpoint `ui_safety_events`）。
+- B35 checkpoint: `/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-mixed-zip-batch-20261011-35.json`。B35は41/41 outcomeと14/14照合記録済み。B35専用scratchの29ファイル（89,943,366 bytes）と生成した`tools/vrm-preview/node_modules`（2,229ファイル、112,569,124 bytes）は、NAS/チェックポイントへの反映後に削除し不存在を確認した。Gitへはカタログ正本・scope・文書だけをstageする。

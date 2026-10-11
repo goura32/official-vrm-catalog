@@ -4743,9 +4743,9 @@
       "distribution_filename": "PURIN.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5082441",
-      "verification": "official_product_page_scope_excluded_not_archived",
+      "verification": "official_product_page_shape_non_humanoid_not_archived",
       "checked_at": "2026-10-11",
-      "notes": "公式BOOTHページは無料ZIP「PURIN.zip」1.08 MBにBlenderデータ/テクスチャ、Unitypackage、PURIN/PURIN+の2 VRMを同梱と明記。VRM-only配布範囲外のため取得していない。"
+      "notes": "公式BOOTHページは無料ZIP「PURIN.zip」1.08 MBにBlenderデータ/テクスチャ、Unitypackage、PURIN/PURIN+の2 VRMを同梱と明記。VRM-only配布範囲外のため取得していない。 B35 2026-10-11: Mixed-format package is not itself a rejection reason. Existing product-render review confirms non-humanoid shape, so no VRM was extracted or archived."
     },
     {
       "id": "mxu-purin-plus",
@@ -4764,9 +4764,9 @@
       "distribution_filename": "PURIN.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5082441",
-      "verification": "official_product_page_scope_excluded_not_archived",
+      "verification": "official_product_page_shape_non_humanoid_not_archived",
       "checked_at": "2026-10-11",
-      "notes": "公式BOOTHページは無料ZIP「PURIN.zip」1.08 MBにBlenderデータ/テクスチャ、Unitypackage、PURIN/PURIN+の2 VRMを同梱と明記。VRM-only配布範囲外のため取得していない。"
+      "notes": "公式BOOTHページは無料ZIP「PURIN.zip」1.08 MBにBlenderデータ/テクスチャ、Unitypackage、PURIN/PURIN+の2 VRMを同梱と明記。VRM-only配布範囲外のため取得していない。 B35 2026-10-11: Mixed-format package is not itself a rejection reason. Existing product-render review confirms non-humanoid shape, so no VRM was extracted or archived."
     },
     {
       "id": "atelier-yozora-sayo",
@@ -4803,9 +4803,9 @@
       "distribution_filename": "一般子供.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/7392963",
-      "verification": "official_product_page_scope_excluded_not_archived",
+      "verification": "rights_unverified_hold",
       "checked_at": "2026-10-11",
-      "notes": "公式BOOTHページは0円15.8 MBの一般子供.zipを掲載し、内容はVRMと編集可能な.vroidの同梱。作者記載の身長は約115cmで、小学生・幼稚園児タグもある。VRM-only取得範囲外の混合ソースパッケージとして除外し、取得していない。"
+      "notes": "公式BOOTHページは0円15.8 MBの一般子供.zipを掲載し、内容はVRMと編集可能な.vroidの同梱。作者記載の身長は約115cmで、小学生・幼稚園児タグもある。VRM-only取得範囲外の混合ソースパッケージとして除外し、取得していない。 B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: Creator explicitly describes a child avatar (~115 cm and elementary/kindergarten tags); fail-closed age hold. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
     },
     {
       "id": "ariroom-umeko",
@@ -5141,9 +5141,9 @@
       "distribution_filename": "Nao_Contents.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6595645",
-      "verification": "official_product_page_scope_excluded_not_archived",
+      "verification": "rights_unverified_hold",
       "checked_at": "2026-10-11",
-      "notes": "公式BOOTHページの無料ZIP「Nao_Contents.zip」9.16 MBはUnitypackage、FBX、TextureとVRMモデルを同梱。VRM-only配布範囲外のため取得していない。"
+      "notes": "公式BOOTHページの無料ZIP「Nao_Contents.zip」9.16 MBはUnitypackage、FBX、TextureとVRMモデルを同梱。VRM-only配布範囲外のため取得していない。 B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: No explicit adulthood evidence in the retained product-page record; do not infer age from name, height, clothing, or appearance. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
     },
     {
       "id": "cloodworks-hatsuka-pc",
@@ -5220,9 +5220,9 @@
       "distribution_filename": "熊野ゆちゃ.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/7039529",
-      "verification": "official_product_page_scope_excluded_not_archived",
+      "verification": "rights_unverified_hold",
       "checked_at": "2026-10-11",
-      "notes": "公式BOOTHページに年齢「？？？」と記載。無料ZIP「熊野ゆちゃ.zip」19.5 MBはPNG、VRM、編集可能な.vroid、Unitypackageを同梱する混合パッケージのため、VRM-only範囲外として取得していない。"
+      "notes": "公式BOOTHページに年齢「？？？」と記載。無料ZIP「熊野ゆちゃ.zip」19.5 MBはPNG、VRM、編集可能な.vroid、Unitypackageを同梱する混合パッケージのため、VRM-only範囲外として取得していない。 B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: Product page explicitly lists age as unknown; fail-closed hold. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
     },
     {
       "id": "yuuritoka-hanamaru",
@@ -5279,9 +5279,9 @@
       "distribution_filename": "oninoko_kiri_free_.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5189443",
-      "verification": "official_product_page_scope_excluded_not_archived",
+      "verification": "rights_unverified_hold",
       "checked_at": "2026-10-11",
-      "notes": "公式BOOTHページの無料ZIP「oninoko_kiri_free_.zip」25.7 MBは.vroid編集ソースとVRMを同梱。VRM-only配布範囲外のため取得していない。有償おまけ版は別商品。"
+      "notes": "公式BOOTHページの無料ZIP「oninoko_kiri_free_.zip」25.7 MBは.vroid編集ソースとVRMを同梱。VRM-only配布範囲外のため取得していない。有償おまけ版は別商品。 B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: No explicit adulthood evidence in the retained product-page record; do not infer age from name, height, clothing, or appearance. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
     },
     {
       "id": "shounokoto-kotatsu-mikan",
@@ -5300,9 +5300,9 @@
       "distribution_filename": "kotatsumikan.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6686224",
-      "verification": "official_product_page_scope_excluded_not_archived",
+      "verification": "rights_unverified_hold",
       "checked_at": "2026-10-11",
-      "notes": "作者がVRMモデルの0円ZIPを公開。作者はVRMからVRChatへ変換した旨を記載。商用・改変可。詳細ライセンスは配布ZIP内。公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B33 (2026-10-11): 商品ページ/配布範囲を再確認し、VRM単体の対象範囲外として未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
+      "notes": "作者がVRMモデルの0円ZIPを公開。作者はVRMからVRChatへ変換した旨を記載。商用・改変可。詳細ライセンスは配布ZIP内。公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B33 (2026-10-11): 商品ページ/配布範囲を再確認し、VRM単体の対象範囲外として未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。 B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: No explicit adulthood evidence in the retained product-page record; do not infer age from name, height, clothing, or appearance. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
     },
     {
       "id": "hiyoriya-miu-standard",
@@ -5535,9 +5535,9 @@
       "distribution_filename": "さくらリクオ_フリーアバター_50F_みるっち.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5715397",
-      "verification": "official_product_page_scope_excluded_not_archived",
+      "verification": "rights_unverified_hold",
       "checked_at": "2026-10-11",
-      "notes": "公式BOOTHページは0円20.2 MB ZIPを掲載し、同梱物を.vroid、VRM、READMEと明記。性的・暴力的表現を許可するがキャラクター年齢は不明。編集可能ソースを含む混合パッケージのためVRM-only取得範囲外として、取得していない。"
+      "notes": "公式BOOTHページは0円20.2 MB ZIPを掲載し、同梱物を.vroid、VRM、READMEと明記。性的・暴力的表現を許可するがキャラクター年齢は不明。編集可能ソースを含む混合パッケージのためVRM-only取得範囲外として、取得していない。 B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: Product page gives no character age and permits sexual/violent expression; fail-closed hold. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
     },
     {
       "id": "sakurabido-megumicchi",
@@ -5554,9 +5554,9 @@
       "distribution_filename": "さくらリクオ_フリーアバター_50F_めぐみっち.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5689713",
-      "verification": "official_product_page_scope_excluded_not_archived",
+      "verification": "rights_unverified_hold",
       "checked_at": "2026-10-11",
-      "notes": "公式BOOTHページの無料ZIP「さくらリクオ_フリーアバター_50F_めぐみっち.zip」14.8 MBは.vroid編集ソース、VRM、READMEを同梱。VRM-only配布範囲外のため取得していない。"
+      "notes": "公式BOOTHページの無料ZIP「さくらリクオ_フリーアバター_50F_めぐみっち.zip」14.8 MBは.vroid編集ソース、VRM、READMEを同梱。VRM-only配布範囲外のため取得していない。 B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: No explicit adulthood evidence in the retained product-page record; do not infer age from name, height, clothing, or appearance. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
     },
     {
       "id": "sakurabido-makinocchi",
@@ -6048,9 +6048,9 @@
       "distribution_filename": "MusclePigeon_v1.0.0.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/8737858",
-      "verification": "official_package_inspected_scope_excluded_not_archived",
+      "verification": "rights_unverified_hold",
       "checked_at": "2026-10-11",
-      "notes": "商品ページの無料MusclePigeon ZIPを一度取得（20,207,030 bytes）したが、VRMに加えてFBX、GLB、テクスチャ、編集用Pythonツール等を含むフルソースパッケージと判明。VRMを抽出/検査せずZIPを削除し、VRM-only取得範囲外として未保存。"
+      "notes": "商品ページの無料MusclePigeon ZIPを一度取得（20,207,030 bytes）したが、VRMに加えてFBX、GLB、テクスチャ、編集用Pythonツール等を含むフルソースパッケージと判明。VRMを抽出/検査せずZIPを削除し、VRM-only取得範囲外として未保存。 B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: No explicit adulthood evidence in the retained product-page record; do not infer age from name, height, clothing, or appearance. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
     },
     {
       "id": "jima-middle-aged-marmot",
@@ -6070,9 +6070,9 @@
       "distribution_filename": "MiddleAgedMarmot_v1.0.0.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/8806174",
-      "verification": "official_product_page_scope_excluded_not_archived",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
       "checked_at": "2026-10-11",
-      "notes": "商品ページで無料ZIPにVRMと編集用Blender原本を同梱すると確認。VRM-only取得範囲外のためダウンロードせず未保存。"
+      "notes": "商品ページで無料ZIPにVRMと編集用Blender原本を同梱すると確認。VRM-only取得範囲外のためダウンロードせず未保存。 B35 2026-10-11: Mixed-format free ZIP was accepted; only the explicitly mapped VRM 1.0 member was extracted. Member=MiddleAgedMarmot/Models/MiddleAgedMarmot.vrm; VRM SHA-256=cf391c0b72cc2cffeeb10919ea088c68a5c222897a23ae64484d345a87943ba5. Rights/age and humanlike biped shape were checked; T-pose/face previews generated. Private NAS archive=models/jima-middle-aged-marmot.zip; source VRM remains unmodified and is not redistributed."
     },
     {
       "id": "jima-muscle-mantis",
@@ -6091,9 +6091,9 @@
       "distribution_filename": "MuscleMantis_v1.0.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/8768066",
-      "verification": "official_product_page_scope_excluded_not_archived",
+      "verification": "rights_unverified_hold",
       "checked_at": "2026-10-11",
-      "notes": "商品ページで無料ZIPにVRM、FBX、編集用Blender rig/sourceを同梱すると確認。VRM-only取得範囲外のためダウンロードせず未保存。"
+      "notes": "商品ページで無料ZIPにVRM、FBX、編集用Blender rig/sourceを同梱すると確認。VRM-only取得範囲外のためダウンロードせず未保存。 B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: No explicit adulthood evidence in the retained product-page record; do not infer age from name, height, clothing, or appearance. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
     },
     {
       "id": "tori-no-tomoshibi-red",
@@ -7297,9 +7297,9 @@
       "distribution_filename": "さくらリクオ_フリーアバター_はぴっち.zip",
       "license_name": "制作者の配布ページで案内された利用条件",
       "license_url": "https://booth.pm/ja/items/4979735",
-      "verification": "official_product_page_scope_excluded_not_archived",
+      "verification": "rights_unverified_hold",
       "checked_at": "2026-10-11",
-      "notes": "公式BOOTHページの無料ZIP「さくらリクオ_フリーアバター_はぴっち.zip」17.2 MBは.vroid編集ソース、VRM、READMEを同梱。VRM-only配布範囲外のため取得していない。"
+      "notes": "公式BOOTHページの無料ZIP「さくらリクオ_フリーアバター_はぴっち.zip」17.2 MBは.vroid編集ソース、VRM、READMEを同梱。VRM-only配布範囲外のため取得していない。 B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: No explicit adulthood evidence in the retained product-page record; do not infer age from name, height, clothing, or appearance. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
     },
     {
       "id": "sakurabido-souma",
@@ -8210,9 +8210,9 @@
       "distribution_filename": "Rem_ver0.01.zip",
       "license_name": "作者が案内する利用規約",
       "license_url": "https://drive.google.com/file/d/1MUBo3BoWZavjcnpyG3r6wASf9yjRF5dS/view",
-      "verification": "official_product_page_scope_excluded_not_archived",
-      "checked_at": "2026-10-10",
-      "notes": "¥0の無料ZIPにVRMデータ同梱の明記あり。説明本文の内容物見出しはRem_ver1.00、更新履歴はv1.01であり公開ZIP名と異なるため配布版を確定しない。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 2026-10-11 商品ページは無料ZIPの内容としてVRMデータに加えUnityPackage、blend、PNG texture、FBXを列挙。VRM-only ZIP条件外の混合配布物として取得前に除外。キャラクター年齢は別途未確認。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "¥0の無料ZIPにVRMデータ同梱の明記あり。説明本文の内容物見出しはRem_ver1.00、更新履歴はv1.01であり公開ZIP名と異なるため配布版を確定しない。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 2026-10-11 商品ページは無料ZIPの内容としてVRMデータに加えUnityPackage、blend、PNG texture、FBXを列挙。VRM-only ZIP条件外の混合配布物として取得前に除外。キャラクター年齢は別途未確認。 B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: No explicit adulthood evidence in the retained product-page record; do not infer age from name, height, clothing, or appearance. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
     },
     {
       "id": "niumu-shinotchi",
@@ -8386,9 +8386,9 @@
       "distribution_filename": "_無料版_free_VRoid_VRM_Aurora_ぴケの創作屋さん_.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5353568",
-      "verification": "official_package_inspected_scope_excluded_not_archived",
+      "verification": "rights_unverified_hold",
       "checked_at": "2026-10-11",
-      "notes": "オーロラモチーフの無料アバター。 作者ページで無料VRMと記載し、有料版のフルセットと区別。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。 B33 (2026-10-11): 無料配布パッケージは複数形式/アセット混在のため、VRM単体の対象範囲外として未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
+      "notes": "オーロラモチーフの無料アバター。 作者ページで無料VRMと記載し、有料版のフルセットと区別。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。 B33 (2026-10-11): 無料配布パッケージは複数形式/アセット混在のため、VRM単体の対象範囲外として未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。 B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: No age statement; sensitive depictions may be allowed, so age remains unconfirmed. Existing B34 package inspection identified the single VRM member and embedded metadata for this catalog ID (no variant ambiguity); no B35 re-download. The physical VRM has no retained full-body T-pose render, and age is unconfirmed, so hold. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
     },
     {
       "id": "pike-sakura-uniform",
@@ -8519,9 +8519,9 @@
       "distribution_filename": "_無料版_free_VRoid_VRM_Moon__night_ぴケの創作屋さん_.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5167120",
-      "verification": "official_product_page_scope_excluded_not_archived",
+      "verification": "rights_unverified_hold",
       "checked_at": "2026-10-11",
-      "notes": "インナーカラーの魔女セット。blue/redの独立VRM有無は未確認。 作者ページで無料VRMと記載し、有料版のフルセットと区別。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。 2026-10-11 authenticated page lists blue/red variants plus VRM, PSD, and textures in the single free offer; mixed editable-source scope excluded without download."
+      "notes": "インナーカラーの魔女セット。blue/redの独立VRM有無は未確認。 作者ページで無料VRMと記載し、有料版のフルセットと区別。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。 2026-10-11 authenticated page lists blue/red variants plus VRM, PSD, and textures in the single free offer; mixed editable-source scope excluded without download. B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: No explicit adulthood evidence in the retained product-page record; do not infer age from name, height, clothing, or appearance. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
     },
     {
       "id": "pike-snowflake",
@@ -8557,9 +8557,9 @@
       "distribution_filename": "_Free_VRoid_VRM_Steam_Rabbit_ぴケの創作屋さん_.zip",
       "license_name": "商品条件と埋込ライセンス確認済み（編集用ソース同梱のため範囲外）",
       "license_url": "https://booth.pm/ja/items/4468213",
-      "verification": "official_package_inspected_scope_excluded_not_archived",
+      "verification": "rights_unverified_hold",
       "checked_at": "2026-10-11",
-      "notes": "B34 (2026-10-11): 正規UIの無料ZIPを確認。27-member packageに単一VRM (SHA-256=78f4ab6f497b640557c0b9c8597226683fc4b5ac4d0760052219f27b82860e3)だけでなく.vroid/.vroidcustomitem、textures、sample等の編集用ソースを同梱。VRM metadataとREADMEの商用/センシティブ利用・credit・原本再配布禁止を確認したが、取得範囲外としてプレビュー/NAS保存をせず、一時ZIP/VRM削除済み。"
+      "notes": "B34 (2026-10-11): 正規UIの無料ZIPを確認。27-member packageに単一VRM (SHA-256=78f4ab6f497b640557c0b9c8597226683fc4b5ac4d0760052219f27b82860e3)だけでなく.vroid/.vroidcustomitem、textures、sample等の編集用ソースを同梱。VRM metadataとREADMEの商用/センシティブ利用・credit・原本再配布禁止を確認したが、取得範囲外としてプレビュー/NAS保存をせず、一時ZIP/VRM削除済み。 B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: No age statement; retained page terms permit use but prohibit source redistribution; age remains unconfirmed. Existing B34 ZIP inspection identified the single VRM member for this catalog ID and recorded its SHA-256/README terms (no variant ambiguity); no B35 re-download. No physical full-body T-pose render is retained and age is unconfirmed, so hold. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
     },
     {
       "id": "yonagi-emil",
@@ -10122,9 +10122,9 @@
       "distribution_filename": "無題.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/1571536",
-      "verification": "official_product_page_scope_excluded_not_archived",
+      "verification": "rights_unverified_hold",
       "checked_at": "2026-10-11",
-      "notes": "作者が2025年に無料化したオリジナル3Dモデル。無題.zipにはVRMとUnitypackageを同梱すると説明。おまけZIPは別モデルと数えない。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。 B32 2026-10-11: 商品ページで無料ZIPにVRMのほかUnitypackage/Blender/PSD/PMX等を同梱と確認。VRM-only保存範囲外のためダウンロードなし。"
+      "notes": "作者が2025年に無料化したオリジナル3Dモデル。無題.zipにはVRMとUnitypackageを同梱すると説明。おまけZIPは別モデルと数えない。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。 B32 2026-10-11: 商品ページで無料ZIPにVRMのほかUnitypackage/Blender/PSD/PMX等を同梱と確認。VRM-only保存範囲外のためダウンロードなし。 B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: No explicit adulthood evidence in the retained product-page record; do not infer age from name, height, clothing, or appearance. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
     },
     {
       "id": "doridori-nanami",
@@ -10726,9 +10726,9 @@
       "distribution_filename": "NegativeSet.zip",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/3841471",
-      "verification": "official_product_page_scope_excluded_not_archived",
+      "verification": "rights_unverified_hold",
       "checked_at": "2026-10-11",
-      "notes": "B34 (2026-10-11): 正規BOOTH item3841471は無料配布をVRM+sample imagesの混在ZIPで提供し、VRM-only商品は表示されないため取得対象外。商品名は少女だが年齢も明記されず、年齢・内容条件は解消していない。ダウンロードなし。"
+      "notes": "B34 (2026-10-11): 正規BOOTH item3841471は無料配布をVRM+sample imagesの混在ZIPで提供し、VRM-only商品は表示されないため取得対象外。商品名は少女だが年齢も明記されず、年齢・内容条件は解消していない。ダウンロードなし。 B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: Page title identifies a girl/woman but gives no explicit age; do not infer from role or appearance. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
     },
     {
       "id": "youkihi-recruit-suit",
@@ -10745,9 +10745,9 @@
       "distribution_filename": "FreshWomanSet.zip",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/3823494",
-      "verification": "official_product_page_scope_excluded_not_archived",
+      "verification": "rights_unverified_hold",
       "checked_at": "2026-10-11",
-      "notes": "作者がVRoid Studioで制作した暫定版を無料のVRM+サンプル画像ZIPとして公開。ZIP内の実VRMファイル名・仕様版は未検証。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。 B33 (2026-10-11): 商品ページ/配布範囲を再確認し、VRM単体の対象範囲外として未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
+      "notes": "作者がVRoid Studioで制作した暫定版を無料のVRM+サンプル画像ZIPとして公開。ZIP内の実VRMファイル名・仕様版は未検証。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。 B33 (2026-10-11): 商品ページ/配布範囲を再確認し、VRM単体の対象範囲外として未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。 B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: Page title identifies a girl/woman but gives no explicit age; do not infer from role or appearance. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
     },
     {
       "id": "youkihi-businessman",
@@ -10824,9 +10824,9 @@
       "distribution_filename": "akabeko_chan.zip",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/6580617",
-      "verification": "official_product_page_scope_excluded_not_archived",
-      "checked_at": "2026-10-10",
-      "notes": "作者製のVRM 0.xアバター。商品本文でZIP内 akabeko.chan.vrm を明示。首揺れ・瞬き・鼻の穴によるリップシンク。商用利用と改変を許可、再配布禁止。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。 2026-10-11 Free ZIP contents explicitly list a VRM, FBX and image files; mixed-format package is outside the VRM-only scope. Excluded before download."
+      "verification": "official_product_page_shape_non_humanoid_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "作者製のVRM 0.xアバター。商品本文でZIP内 akabeko.chan.vrm を明示。首揺れ・瞬き・鼻の穴によるリップシンク。商用利用と改変を許可、再配布禁止。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。 2026-10-11 Free ZIP contents explicitly list a VRM, FBX and image files; mixed-format package is outside the VRM-only scope. Excluded before download. B35 2026-10-11: Mixed-format package is not itself a rejection reason. Existing product-render review confirms non-humanoid shape, so no VRM was extracted or archived."
     },
     {
       "id": "lillian-nanaka",
@@ -10844,9 +10844,9 @@
       "distribution_filename": "エプロンナースアバター_ななか.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6259209",
-      "verification": "official_product_page_scope_excluded_not_archived",
-      "checked_at": "2026-10-10",
-      "notes": "無料ZIPにVRMとVRoidプロジェクト・肌テクスチャを収録。支援版は色違いテクスチャを追加するのみで別VRMとして数えない。商用利用・改変可、再配布禁止。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。 2026-10-11 Free ZIP explicitly includes a VRM model, editable .vroid file and bodysuit texture; mixed-format package is outside the VRM-only scope. Excluded before download."
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "無料ZIPにVRMとVRoidプロジェクト・肌テクスチャを収録。支援版は色違いテクスチャを追加するのみで別VRMとして数えない。商用利用・改変可、再配布禁止。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。 2026-10-11 Free ZIP explicitly includes a VRM model, editable .vroid file and bodysuit texture; mixed-format package is outside the VRM-only scope. Excluded before download. B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: No explicit adulthood evidence in the retained product-page record; do not infer age from name, height, clothing, or appearance. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
     },
     {
       "id": "sasanoki-kitsune-akyo",
@@ -10884,9 +10884,9 @@
       "distribution_filename": "SatakeNagisa_0.4.zip",
       "license_name": "作者・権利者が案内する利用規約",
       "license_url": "https://drive.google.com/file/d/14U15diGcYLZ69mFis9sv4-Ge71rjD29v/view",
-      "verification": "official_product_page_scope_excluded_not_archived",
+      "verification": "rights_unverified_hold",
       "checked_at": "2026-10-11",
-      "notes": "作者のオリジナル。無料版内容物にVRMファイルを明記。EX版のギミックやおまけを別アバターとして計上しない。VN3規約を参照。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。 B33 (2026-10-11): 商品ページ/配布範囲を再確認し、VRM単体の対象範囲外として未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
+      "notes": "作者のオリジナル。無料版内容物にVRMファイルを明記。EX版のギミックやおまけを別アバターとして計上しない。VN3規約を参照。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。 B33 (2026-10-11): 商品ページ/配布範囲を再確認し、VRM単体の対象範囲外として未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。 B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: BOOTH tag 青年, but no numerical/adult-only age in the product page or public creator manual; VN3 allows sexual expression, so age remains unconfirmed and download is held. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
     },
     {
       "id": "chicken-stickman",
@@ -11000,7 +11000,8 @@
         "avatar",
         "official",
         "mascot",
-        "zundamon"
+        "zundamon",
+        "humanoid"
       ],
       "vrm_version": "1.0",
       "source_url": "https://booth.pm/ja/items/2744821",
@@ -11009,9 +11010,9 @@
       "distribution_filename": "ずんだもん_通常_2025モデルセット.zip",
       "license_name": "作者・権利者が案内する利用規約",
       "license_url": "https://zunko.jp/guideline.html",
-      "verification": "official_product_page_scope_excluded_not_archived",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
       "checked_at": "2026-10-11",
-      "notes": "公式が2025年版の無料ZIPに歩行VRMと飛行VRMの2体を明記。VRM 1.0対応との更新履歴あり。ミニずんだもんとは別商品・別モデル。寄付版は同じ内容。公式ガイドラインを優先する。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。 2026-10-11 authenticated BOOTH page: the only free offer is a 24.7 MB combined MMD/VRM/VRChat model-set ZIP; no separate VRM-only offer is shown, so it was excluded without download."
+      "notes": "公式が2025年版の無料ZIPに歩行VRMと飛行VRMの2体を明記。VRM 1.0対応との更新履歴あり。ミニずんだもんとは別商品・別モデル。寄付版は同じ内容。公式ガイドラインを優先する。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。 2026-10-11 authenticated BOOTH page: the only free offer is a 24.7 MB combined MMD/VRM/VRChat model-set ZIP; no separate VRM-only offer is shown, so it was excluded without download. B35 2026-10-11: Mixed-format free ZIP was accepted; only the explicitly mapped VRM 1.0 member was extracted. Member=ずんだもん（通常）2025モデルセット/歩行(Walking)/VRM/Zundamon(Walking Type)_vrm10.vrm; VRM SHA-256=d0a6125c5c6b89d286fc05a64834e7b47c30910f9d5c0a5e26f6fe70b82267bc. Rights/age and humanlike biped shape were checked; T-pose/face previews generated. Private NAS archive=models/tohozunko-zundamon-2025-walking.zip; source VRM remains unmodified and is not redistributed. B35 rights clarification: included Japanese VN3 permits noncommercial personal use, but its redistribution/credit matrix differs from the VRM 1.0 metadata. The stricter embedded metadata is followed: no redistribution or modification; credit retained in catalog data. Private NAS files use mode 0600; source VRM bytes are unchanged."
     },
     {
       "id": "tohozunko-zundamon-2025-flying",
@@ -11022,7 +11023,8 @@
         "avatar",
         "official",
         "mascot",
-        "zundamon"
+        "zundamon",
+        "humanoid"
       ],
       "vrm_version": "1.0",
       "source_url": "https://booth.pm/ja/items/2744821",
@@ -11031,9 +11033,9 @@
       "distribution_filename": "ずんだもん_通常_2025モデルセット.zip",
       "license_name": "作者・権利者が案内する利用規約",
       "license_url": "https://zunko.jp/guideline.html",
-      "verification": "official_product_page_scope_excluded_not_archived",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
       "checked_at": "2026-10-11",
-      "notes": "公式が2025年版の無料ZIPに歩行VRMと飛行VRMの2体を明記。VRM 1.0対応との更新履歴あり。ミニずんだもんとは別商品・別モデル。寄付版は同じ内容。公式ガイドラインを優先する。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。 2026-10-11 authenticated BOOTH page: the only free offer is a 24.7 MB combined MMD/VRM/VRChat model-set ZIP; no separate VRM-only offer is shown, so it was excluded without download."
+      "notes": "公式が2025年版の無料ZIPに歩行VRMと飛行VRMの2体を明記。VRM 1.0対応との更新履歴あり。ミニずんだもんとは別商品・別モデル。寄付版は同じ内容。公式ガイドラインを優先する。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。 2026-10-11 authenticated BOOTH page: the only free offer is a 24.7 MB combined MMD/VRM/VRChat model-set ZIP; no separate VRM-only offer is shown, so it was excluded without download. B35 2026-10-11: Mixed-format free ZIP was accepted; only the explicitly mapped VRM 1.0 member was extracted. Member=ずんだもん（通常）2025モデルセット/飛行(Flying)/VRM/Zundamon(Flying Type)_vrm10.vrm; VRM SHA-256=627fae1c24d6530511d853492a2b283adae87fdb8fde802a50383e40117363a9. Rights/age and humanlike biped shape were checked; T-pose/face previews generated. Private NAS archive=models/tohozunko-zundamon-2025-flying.zip; source VRM remains unmodified and is not redistributed. B35 rights clarification: included Japanese VN3 permits noncommercial personal use, but its redistribution/credit matrix differs from the VRM 1.0 metadata. The stricter embedded metadata is followed: no redistribution or modification; credit retained in catalog data. Private NAS files use mode 0600; source VRM bytes are unchanged."
     },
     {
       "id": "pumpkinyoi-yoshida-dive",
@@ -11351,9 +11353,9 @@
       "distribution_filename": "ロムル.zip",
       "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
       "license_url": "https://booth.pm/ja/items/7933498",
-      "verification": "official_product_page_scope_excluded_not_archived",
-      "checked_at": "2026-10-10",
-      "notes": "作者が無料配布物ロムル.zipにロムル_v1.0.vrmを収録と説明。0円のZIPを作者が公開。商品ページにVRM 0.0と明記。商品版番号はVRM仕様版ではない。投げ銭版は別計上しない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 Free ZIP contents list VRM plus an editable .vroid file. Excluded before download."
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が無料配布物ロムル.zipにロムル_v1.0.vrmを収録と説明。0円のZIPを作者が公開。商品ページにVRM 0.0と明記。商品版番号はVRM仕様版ではない。投げ銭版は別計上しない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 Free ZIP contents list VRM plus an editable .vroid file. Excluded before download. B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: No explicit character age or age-neutral statement in the retained product-page record; do not infer from name/appearance. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
     },
     {
       "id": "neoneko-nolt",
@@ -11370,9 +11372,9 @@
       "distribution_filename": "Nolt_ノルト_.zip",
       "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
       "license_url": "https://booth.pm/ja/items/7933453",
-      "verification": "official_product_page_scope_excluded_not_archived",
-      "checked_at": "2026-10-10",
-      "notes": "作者が無料配布物Nolt_ノルト_.zipにノルト（Nolt）_1.3.vrmを収録と説明。0円のZIPを作者が公開。商品ページにVRM 0.0と明記。商品版番号はVRM仕様版ではない。投げ銭版は別計上しない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 Free ZIP contents list VRM plus an editable .vroid file. Excluded before download."
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が無料配布物Nolt_ノルト_.zipにノルト（Nolt）_1.3.vrmを収録と説明。0円のZIPを作者が公開。商品ページにVRM 0.0と明記。商品版番号はVRM仕様版ではない。投げ銭版は別計上しない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 Free ZIP contents list VRM plus an editable .vroid file. Excluded before download. B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: No explicit character age or age-neutral statement in the retained product-page record; do not infer from name/appearance. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
     },
     {
       "id": "neoneko-aorinu",
@@ -11389,9 +11391,9 @@
       "distribution_filename": "あおりーぬ.zip",
       "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
       "license_url": "https://booth.pm/ja/items/6525130",
-      "verification": "official_product_page_scope_excluded_not_archived",
-      "checked_at": "2026-10-10",
-      "notes": "作者が無料配布物あおりーぬ.zipにあおりーぬ_v1.03.vrmを収録と説明。0円のZIPを作者が公開。商品ページにVRM 0.0と明記。商品版番号はVRM仕様版ではない。投げ銭版は別計上しない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 Free ZIP contents list blend, FBX, VRM, PNG and PSD. Excluded before download."
+      "verification": "official_product_page_shape_non_humanoid_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "作者が無料配布物あおりーぬ.zipにあおりーぬ_v1.03.vrmを収録と説明。0円のZIPを作者が公開。商品ページにVRM 0.0と明記。商品版番号はVRM仕様版ではない。投げ銭版は別計上しない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 Free ZIP contents list blend, FBX, VRM, PNG and PSD. Excluded before download. B35 2026-10-11: Mixed-format package is not itself a rejection reason. Existing product-render review confirms non-humanoid shape, so no VRM was extracted or archived."
     },
     {
       "id": "neoneko-tsukiyomi-akane",
@@ -11408,9 +11410,9 @@
       "distribution_filename": "月詠赤音.zip",
       "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
       "license_url": "https://booth.pm/ja/items/5036417",
-      "verification": "official_product_page_scope_excluded_not_archived",
+      "verification": "rights_unverified_hold",
       "checked_at": "2026-10-11",
-      "notes": "作者が無料配布物月詠赤音.zipに月詠赤音_1.02.vrmを収録と説明。0円のZIPを作者が公開。商品ページにVRM 0.0と明記。商品版番号はVRM仕様版ではない。投げ銭版は別計上しない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 authenticated page lists both 月詠赤音_1.0_ベース.vroid and 月詠赤音_1.02.vrm in the same free ZIP; mixed editable-source scope excluded without download."
+      "notes": "作者が無料配布物月詠赤音.zipに月詠赤音_1.02.vrmを収録と説明。0円のZIPを作者が公開。商品ページにVRM 0.0と明記。商品版番号はVRM仕様版ではない。投げ銭版は別計上しない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 authenticated page lists both 月詠赤音_1.0_ベース.vroid and 月詠赤音_1.02.vrm in the same free ZIP; mixed editable-source scope excluded without download. B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: No explicit adulthood evidence in the retained product-page record; do not infer age from name, height, clothing, or appearance. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
     },
     {
       "id": "neoneko-shoki-avatar-2",
@@ -11427,9 +11429,9 @@
       "distribution_filename": "さんぷるあばたー_2.zip",
       "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
       "license_url": "https://booth.pm/ja/items/8721870",
-      "verification": "official_product_page_scope_excluded_not_archived",
-      "checked_at": "2026-10-10",
-      "notes": "作者が無料配布物さんぷるあばたー_2.zipにしょきあばたー_2_v1.0.vrmを収録と説明。0円のZIPを作者が公開。商品ページにVRM 0.0と明記。商品版番号はVRM仕様版ではない。投げ銭版は別計上しない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 Free ZIP contents list blend, FBX, VRM, PNG/PSD and UV/source files. Excluded before download."
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が無料配布物さんぷるあばたー_2.zipにしょきあばたー_2_v1.0.vrmを収録と説明。0円のZIPを作者が公開。商品ページにVRM 0.0と明記。商品版番号はVRM仕様版ではない。投げ銭版は別計上しない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 Free ZIP contents list blend, FBX, VRM, PNG/PSD and UV/source files. Excluded before download. B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: No explicit adulthood evidence in the retained product-page record; do not infer age from name, height, clothing, or appearance. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
     },
     {
       "id": "neoneko-ngii",
@@ -11446,9 +11448,9 @@
       "distribution_filename": "ンギィ.zip",
       "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
       "license_url": "https://booth.pm/ja/items/6254853",
-      "verification": "official_product_page_scope_excluded_not_archived",
-      "checked_at": "2026-10-10",
-      "notes": "作者が無料配布物ンギィ.zipにンギィ_v1.06.vrmを収録と説明。0円のZIPを作者が公開。商品ページにVRM 0.0と明記。商品版番号はVRM仕様版ではない。投げ銭版は別計上しない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 Free ZIP contents list blend, FBX, VRM and UV/source files. Excluded before download."
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が無料配布物ンギィ.zipにンギィ_v1.06.vrmを収録と説明。0円のZIPを作者が公開。商品ページにVRM 0.0と明記。商品版番号はVRM仕様版ではない。投げ銭版は別計上しない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 Free ZIP contents list blend, FBX, VRM and UV/source files. Excluded before download. B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: No explicit adulthood evidence in the retained product-page record; do not infer age from name, height, clothing, or appearance. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
     },
     {
       "id": "neoneko-shitakee",
@@ -11465,9 +11467,9 @@
       "distribution_filename": "シタケェ.zip",
       "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
       "license_url": "https://booth.pm/ja/items/6254560",
-      "verification": "official_product_page_scope_excluded_not_archived",
-      "checked_at": "2026-10-10",
-      "notes": "作者が無料配布物シタケェ.zipにシタケェ2_v1.01.vrmを収録と説明。0円のZIPを作者が公開。商品ページにVRM 0.0と明記。商品版番号はVRM仕様版ではない。投げ銭版は別計上しない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 Free ZIP contents list blend, FBX, VRM and texture/source files. Excluded before download."
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が無料配布物シタケェ.zipにシタケェ2_v1.01.vrmを収録と説明。0円のZIPを作者が公開。商品ページにVRM 0.0と明記。商品版番号はVRM仕様版ではない。投げ銭版は別計上しない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 Free ZIP contents list blend, FBX, VRM and texture/source files. Excluded before download. B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: No explicit adulthood evidence in the retained product-page record; do not infer age from name, height, clothing, or appearance. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
     },
     {
       "id": "neoneko-roa",
@@ -11484,9 +11486,9 @@
       "distribution_filename": "ロア.zip",
       "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
       "license_url": "https://booth.pm/ja/items/5108925",
-      "verification": "official_product_page_scope_excluded_not_archived",
+      "verification": "rights_unverified_hold",
       "checked_at": "2026-10-11",
-      "notes": "作者が無料配布物ロア.zipにロア_1.01.vrmを収録と説明。0円のZIPを作者が公開。商品ページにVRM 0.0と明記。商品版番号はVRM仕様版ではない。投げ銭版は別計上しない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 authenticated page lists both ロア_1.0.vroid and ロア_1.01.vrm in the same free ZIP; mixed editable-source scope excluded without download."
+      "notes": "作者が無料配布物ロア.zipにロア_1.01.vrmを収録と説明。0円のZIPを作者が公開。商品ページにVRM 0.0と明記。商品版番号はVRM仕様版ではない。投げ銭版は別計上しない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 authenticated page lists both ロア_1.0.vroid and ロア_1.01.vrm in the same free ZIP; mixed editable-source scope excluded without download. B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: No explicit adulthood evidence in the retained product-page record; do not infer age from name, height, clothing, or appearance. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
     },
     {
       "id": "neoneko-leo",
@@ -11503,9 +11505,9 @@
       "distribution_filename": "レオ.zip",
       "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
       "license_url": "https://booth.pm/ja/items/6505161",
-      "verification": "official_product_page_scope_excluded_not_archived",
-      "checked_at": "2026-10-10",
-      "notes": "作者が無料配布物レオ.zipにレオ_v1.09.vrmを収録と説明。0円のZIPを作者が公開。商品ページにVRM 0.0と明記。商品版番号はVRM仕様版ではない。投げ銭版は別計上しない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 Free ZIP contents list VRM and .vroid; page describes a boy, but mixed-format scope exclusion does not infer age. Excluded before download."
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が無料配布物レオ.zipにレオ_v1.09.vrmを収録と説明。0円のZIPを作者が公開。商品ページにVRM 0.0と明記。商品版番号はVRM仕様版ではない。投げ銭版は別計上しない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 Free ZIP contents list VRM and .vroid; page describes a boy, but mixed-format scope exclusion does not infer age. Excluded before download. B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: Product page says boy, but no age setting; fail-closed hold. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
     },
     {
       "id": "neoneko-tofu-seijin",
@@ -11522,9 +11524,9 @@
       "distribution_filename": "とーふ星人.zip",
       "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
       "license_url": "https://booth.pm/ja/items/5101910",
-      "verification": "official_product_page_scope_excluded_not_archived",
-      "checked_at": "2026-10-10",
-      "notes": "作者が無料配布物とーふ星人.zipにtofu_seijin.vrmを収録と説明。0円のZIPを作者が公開。商品ページにVRM 0.0と明記。商品版番号はVRM仕様版ではない。投げ銭版は別計上しない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 Free ZIP contents list blend, FBX, VRM, PNG and PSD. Excluded before download."
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が無料配布物とーふ星人.zipにtofu_seijin.vrmを収録と説明。0円のZIPを作者が公開。商品ページにVRM 0.0と明記。商品版番号はVRM仕様版ではない。投げ銭版は別計上しない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 Free ZIP contents list blend, FBX, VRM, PNG and PSD. Excluded before download. B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: No explicit adulthood evidence in the retained product-page record; do not infer age from name, height, clothing, or appearance. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
     },
     {
       "id": "neoneko-junk-konojiblockun",
@@ -11663,9 +11665,9 @@
       "distribution_filename": "お手頃いーぬ.zip",
       "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
       "license_url": "https://booth.pm/ja/items/7612513",
-      "verification": "official_product_page_scope_excluded_not_archived",
-      "checked_at": "2026-10-10",
-      "notes": "作者が無料配布物お手頃いーぬ.zipにお手頃いーぬ_v1.8.vrmを収録と説明。0円ZIP中の5種類のVRMが作者の内容物一覧に別ファイルとして記載。VRM 0.0と明記。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 Shared free ZIP contents list blend, FBX, five VRM variants and texture/PSD files. Excluded before download."
+      "verification": "official_product_page_shape_non_humanoid_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "作者が無料配布物お手頃いーぬ.zipにお手頃いーぬ_v1.8.vrmを収録と説明。0円ZIP中の5種類のVRMが作者の内容物一覧に別ファイルとして記載。VRM 0.0と明記。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 Shared free ZIP contents list blend, FBX, five VRM variants and texture/PSD files. Excluded before download. B35 2026-10-11: Mixed-format package is not itself a rejection reason. Existing product-render review confirms non-humanoid shape, so no VRM was extracted or archived."
     },
     {
       "id": "neoneko-affordable-dog-shiba",
@@ -11684,9 +11686,9 @@
       "distribution_filename": "お手頃いーぬ.zip",
       "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
       "license_url": "https://booth.pm/ja/items/7612513",
-      "verification": "official_product_page_scope_excluded_not_archived",
-      "checked_at": "2026-10-10",
-      "notes": "作者が無料配布物お手頃いーぬ.zipにお手頃いーぬ_v1.8.1_くろしば.vrmを収録と説明。0円ZIP中の5種類のVRMが作者の内容物一覧に別ファイルとして記載。VRM 0.0と明記。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 Shared free ZIP contents list blend, FBX, five VRM variants and texture/PSD files. Excluded before download."
+      "verification": "official_product_page_shape_non_humanoid_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "作者が無料配布物お手頃いーぬ.zipにお手頃いーぬ_v1.8.1_くろしば.vrmを収録と説明。0円ZIP中の5種類のVRMが作者の内容物一覧に別ファイルとして記載。VRM 0.0と明記。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 Shared free ZIP contents list blend, FBX, five VRM variants and texture/PSD files. Excluded before download. B35 2026-10-11: Mixed-format package is not itself a rejection reason. Existing product-render review confirms non-humanoid shape, so no VRM was extracted or archived."
     },
     {
       "id": "neoneko-affordable-dog-corgi",
@@ -11705,9 +11707,9 @@
       "distribution_filename": "お手頃いーぬ.zip",
       "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
       "license_url": "https://booth.pm/ja/items/7612513",
-      "verification": "official_product_page_scope_excluded_not_archived",
-      "checked_at": "2026-10-10",
-      "notes": "作者が無料配布物お手頃いーぬ.zipにお手頃いーぬ_v1.8.2_こーぎー.vrmを収録と説明。0円ZIP中の5種類のVRMが作者の内容物一覧に別ファイルとして記載。VRM 0.0と明記。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 Shared free ZIP contents list blend, FBX, five VRM variants and texture/PSD files. Excluded before download."
+      "verification": "official_product_page_shape_non_humanoid_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "作者が無料配布物お手頃いーぬ.zipにお手頃いーぬ_v1.8.2_こーぎー.vrmを収録と説明。0円ZIP中の5種類のVRMが作者の内容物一覧に別ファイルとして記載。VRM 0.0と明記。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 Shared free ZIP contents list blend, FBX, five VRM variants and texture/PSD files. Excluded before download. B35 2026-10-11: Mixed-format package is not itself a rejection reason. Existing product-render review confirms non-humanoid shape, so no VRM was extracted or archived."
     },
     {
       "id": "neoneko-affordable-dog-tanuki",
@@ -11726,9 +11728,9 @@
       "distribution_filename": "お手頃いーぬ.zip",
       "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
       "license_url": "https://booth.pm/ja/items/7612513",
-      "verification": "official_product_page_scope_excluded_not_archived",
-      "checked_at": "2026-10-10",
-      "notes": "作者が無料配布物お手頃いーぬ.zipにお手頃いーぬ_v1.8.3_たぬき.vrmを収録と説明。0円ZIP中の5種類のVRMが作者の内容物一覧に別ファイルとして記載。VRM 0.0と明記。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 Shared free ZIP contents list blend, FBX, five VRM variants and texture/PSD files. Excluded before download."
+      "verification": "official_product_page_shape_non_humanoid_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "作者が無料配布物お手頃いーぬ.zipにお手頃いーぬ_v1.8.3_たぬき.vrmを収録と説明。0円ZIP中の5種類のVRMが作者の内容物一覧に別ファイルとして記載。VRM 0.0と明記。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 Shared free ZIP contents list blend, FBX, five VRM variants and texture/PSD files. Excluded before download. B35 2026-10-11: Mixed-format package is not itself a rejection reason. Existing product-render review confirms non-humanoid shape, so no VRM was extracted or archived."
     },
     {
       "id": "neoneko-affordable-dog-husky",
@@ -11747,9 +11749,9 @@
       "distribution_filename": "お手頃いーぬ.zip",
       "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
       "license_url": "https://booth.pm/ja/items/7612513",
-      "verification": "official_product_page_scope_excluded_not_archived",
-      "checked_at": "2026-10-10",
-      "notes": "作者が無料配布物お手頃いーぬ.zipにお手頃いーぬ_v1.8.4_はすきー.vrmを収録と説明。0円ZIP中の5種類のVRMが作者の内容物一覧に別ファイルとして記載。VRM 0.0と明記。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 Shared free ZIP contents list blend, FBX, five VRM variants and texture/PSD files. Excluded before download."
+      "verification": "official_product_page_shape_non_humanoid_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "作者が無料配布物お手頃いーぬ.zipにお手頃いーぬ_v1.8.4_はすきー.vrmを収録と説明。0円ZIP中の5種類のVRMが作者の内容物一覧に別ファイルとして記載。VRM 0.0と明記。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 Shared free ZIP contents list blend, FBX, five VRM variants and texture/PSD files. Excluded before download. B35 2026-10-11: Mixed-format package is not itself a rejection reason. Existing product-render review confirms non-humanoid shape, so no VRM was extracted or archived."
     },
     {
       "id": "mxu-yone",
@@ -11785,9 +11787,9 @@
       "distribution_filename": "スゥ_リメイクv1.2.zip",
       "license_name": "作者BOOTH掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/3933882",
-      "verification": "official_product_page_scope_excluded_not_archived",
+      "verification": "rights_unverified_hold",
       "checked_at": "2026-10-11",
-      "notes": "作者が無料配布物スゥ_リメイクv1.2.zipをVRM形式のモデルとして案内。作者が無料ZIPを公開しVRMモデルv1.2と明記。商品バージョンとVRM仕様は別。2025年に別衣装VRMを追加。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 authenticated page confirms this mapped normal package includes editable .vroid source and a setup VRM; mixed package excluded without download."
+      "notes": "作者が無料配布物スゥ_リメイクv1.2.zipをVRM形式のモデルとして案内。作者が無料ZIPを公開しVRMモデルv1.2と明記。商品バージョンとVRM仕様は別。2025年に別衣装VRMを追加。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 authenticated page confirms this mapped normal package includes editable .vroid source and a setup VRM; mixed package excluded without download. B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: Product page describes a girl about 90 cm tall but gives no age; do not infer adulthood. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
     },
     {
       "id": "mxu-suu-valentine",

@@ -8348,9 +8348,9 @@
       "distribution_filename": "_無料版_free_VRoid_VRM_Yumeiro_Rainy_ぴケの創作屋さん_.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4822659",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "梅雨モチーフのVRM配布。Ajisai/Snailの各bodyが独立VRMか未確認。 作者ページで無料VRMと記載し、有料版のフルセットと区別。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+      "verification": "official_product_page_model_mapping_ambiguous_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "梅雨モチーフのVRM配布。Ajisai/Snailの各bodyが独立VRMか未確認。 作者ページで無料VRMと記載し、有料版のフルセットと区別。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。 2026-10-11 authenticated page lists Yumeiro Ajisai body and Yumeiro Snail body in one free ZIP without mapping them to separate catalog records; no download to avoid guessing."
     },
     {
       "id": "pike-rainy-sunny",
@@ -8424,9 +8424,9 @@
       "distribution_filename": "_free_VRoid_VRM_Clown_doll_ぴケの創作屋さん_.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4244865",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "無料のClown doll A VRM版。有料版のdoll Bは収録しない。 作者ページで無料VRMと記載し、有料版のフルセットと区別。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "無料のClown doll A VRM版。有料版のdoll Bは収録しない。 作者ページで無料VRMと記載し、有料版のフルセットと区別。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。 2026-10-11 authenticated page: the creator permits model use and says the data should be backed up by the user, but no character age is stated for the clown doll; no file downloaded under the age/content hold rule."
     },
     {
       "id": "pike-red-dragon",
@@ -8500,9 +8500,9 @@
       "distribution_filename": "_無料版_free_VRoid_VRM_Monotone_Blossom_ぴケの創作屋さん_.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4680754",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "モノクロ桜のアバターセット。作者説明にouter A/Bがあるが独立VRM数未確認。 作者ページで無料VRMと記載し、有料版のフルセットと区別。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+      "verification": "official_product_page_model_mapping_ambiguous_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "モノクロ桜のアバターセット。作者説明にouter A/Bがあるが独立VRM数未確認。 作者ページで無料VRMと記載し、有料版のフルセットと区別。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。 2026-10-11 authenticated page lists Monotone Blossom outer A and outer B in one free ZIP but does not map them to this single catalog ID; no download to avoid guessing."
     },
     {
       "id": "pike-moon-night",
@@ -8519,9 +8519,9 @@
       "distribution_filename": "_無料版_free_VRoid_VRM_Moon__night_ぴケの創作屋さん_.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5167120",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "インナーカラーの魔女セット。blue/redの独立VRM有無は未確認。 作者ページで無料VRMと記載し、有料版のフルセットと区別。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+      "verification": "official_product_page_scope_excluded_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "インナーカラーの魔女セット。blue/redの独立VRM有無は未確認。 作者ページで無料VRMと記載し、有料版のフルセットと区別。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。 2026-10-11 authenticated page lists blue/red variants plus VRM, PSD, and textures in the single free offer; mixed editable-source scope excluded without download."
     },
     {
       "id": "pike-snowflake",
@@ -8538,9 +8538,9 @@
       "distribution_filename": "_無料版_free_VRoid_VRM_Snowflake_ぴケの創作屋さん_.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5295098",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "雪の結晶をイメージした冬服VRM。説明中のA/Bが別VRMか未確認。 作者ページで無料VRMと記載し、有料版のフルセットと区別。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+      "verification": "official_product_page_model_mapping_ambiguous_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "雪の結晶をイメージした冬服VRM。説明中のA/Bが別VRMか未確認。 作者ページで無料VRMと記載し、有料版のフルセットと区別。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。 2026-10-11 authenticated page lists Snowflake A free and Snowflake B free in the same package but does not map them to this single catalog ID; no download to avoid guessing."
     },
     {
       "id": "pike-steam-rabbit",
@@ -9377,9 +9377,9 @@
       "distribution_filename": "nadeshiko_v2.0.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/3845065",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が0円で直接公開。本体と素体を別配布。素体単独での公共利用は禁止、再配布・譲渡不可。BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が0円で直接公開。本体と素体を別配布。素体単独での公共利用は禁止、再配布・譲渡不可。BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 2026-10-11 authenticated page: terms allow personal commercial/avatar use and prohibit redistribution; the school-uniform character's age is unstated, so no file was downloaded under the age/content hold rule."
     },
     {
       "id": "schoolroid-nadeshiko-body",
@@ -9397,9 +9397,9 @@
       "distribution_filename": "nadeshiko_body_v2.0.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/3845065",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が0円で直接公開。本体と素体を別配布。素体単独での公共利用は禁止、再配布・譲渡不可。BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が0円で直接公開。本体と素体を別配布。素体単独での公共利用は禁止、再配布・譲渡不可。BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 2026-10-11 authenticated page: the body-only offer is explicitly restricted from public use, and the character age is unstated; no file was downloaded."
     },
     {
       "id": "piyotaso-official-piyotaso",
@@ -9516,9 +9516,9 @@
       "distribution_filename": "kimoneze.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4125225",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "原作者が自分のペットキャラクターの3D VRMを無料公開。改変可、配信・再配布・NFT利用は禁止。 BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。"
+      "verification": "official_product_page_shape_non_humanoid_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "原作者が自分のペットキャラクターの3D VRMを無料公開。改変可、配信・再配布・NFT利用は禁止。 BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。 2026-10-11 authenticated product page identifies a pet naked mole rat; rendered views show an animal-like head/body and short legs, not a human-like biped avatar. Excluded without download."
     },
     {
       "id": "aonecodo-skelton",
@@ -10104,9 +10104,9 @@
       "distribution_filename": "08_Pippa.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4613310",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者の汎用オリジナル猫耳アバター。2024年から0円のZIP形式で配布。ファイル構成・VRMバージョンは原本未取得。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者の汎用オリジナル猫耳アバター。2024年から0円のZIP形式で配布。ファイル構成・VRMバージョンは原本未取得。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。 2026-10-11 authenticated page describes a female cat-eared character in a sailor-style uniform, gives height 155.6 cm but no age, and permits sexual expression with zoning; age/content remains unverified, so no file downloaded."
     },
     {
       "id": "ratenosu-untitled",
@@ -10785,9 +10785,9 @@
       "distribution_filename": "Flower_Girl_Vroid.zip",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/3878527",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が0円でVRM形式のVRoidキャラクターを配布。商品本文からZIP内部の詳細構成は未確定のため1件のみ計上。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が0円でVRM形式のVRoidキャラクターを配布。商品本文からZIP内部の詳細構成は未確定のため1件のみ計上。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。 2026-10-11 authenticated page says credit is optional but provides no explicit usage license, character age, or VRM-only ZIP contents; no file downloaded."
     },
     {
       "id": "yuureiningyo-kogitsune",
@@ -11011,9 +11011,9 @@
       "distribution_filename": "ずんだもん_通常_2025モデルセット.zip",
       "license_name": "作者・権利者が案内する利用規約",
       "license_url": "https://zunko.jp/guideline.html",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "公式が2025年版の無料ZIPに歩行VRMと飛行VRMの2体を明記。VRM 1.0対応との更新履歴あり。ミニずんだもんとは別商品・別モデル。寄付版は同じ内容。公式ガイドラインを優先する。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。"
+      "verification": "official_product_page_scope_excluded_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "公式が2025年版の無料ZIPに歩行VRMと飛行VRMの2体を明記。VRM 1.0対応との更新履歴あり。ミニずんだもんとは別商品・別モデル。寄付版は同じ内容。公式ガイドラインを優先する。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。 2026-10-11 authenticated BOOTH page: the only free offer is a 24.7 MB combined MMD/VRM/VRChat model-set ZIP; no separate VRM-only offer is shown, so it was excluded without download."
     },
     {
       "id": "tohozunko-zundamon-2025-flying",
@@ -11033,9 +11033,9 @@
       "distribution_filename": "ずんだもん_通常_2025モデルセット.zip",
       "license_name": "作者・権利者が案内する利用規約",
       "license_url": "https://zunko.jp/guideline.html",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "公式が2025年版の無料ZIPに歩行VRMと飛行VRMの2体を明記。VRM 1.0対応との更新履歴あり。ミニずんだもんとは別商品・別モデル。寄付版は同じ内容。公式ガイドラインを優先する。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。"
+      "verification": "official_product_page_scope_excluded_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "公式が2025年版の無料ZIPに歩行VRMと飛行VRMの2体を明記。VRM 1.0対応との更新履歴あり。ミニずんだもんとは別商品・別モデル。寄付版は同じ内容。公式ガイドラインを優先する。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。 2026-10-11 authenticated BOOTH page: the only free offer is a 24.7 MB combined MMD/VRM/VRChat model-set ZIP; no separate VRM-only offer is shown, so it was excluded without download."
     },
     {
       "id": "pumpkinyoi-yoshida-dive",
@@ -11410,9 +11410,9 @@
       "distribution_filename": "月詠赤音.zip",
       "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
       "license_url": "https://booth.pm/ja/items/5036417",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が無料配布物月詠赤音.zipに月詠赤音_1.02.vrmを収録と説明。0円のZIPを作者が公開。商品ページにVRM 0.0と明記。商品版番号はVRM仕様版ではない。投げ銭版は別計上しない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
+      "verification": "official_product_page_scope_excluded_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "作者が無料配布物月詠赤音.zipに月詠赤音_1.02.vrmを収録と説明。0円のZIPを作者が公開。商品ページにVRM 0.0と明記。商品版番号はVRM仕様版ではない。投げ銭版は別計上しない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 authenticated page lists both 月詠赤音_1.0_ベース.vroid and 月詠赤音_1.02.vrm in the same free ZIP; mixed editable-source scope excluded without download."
     },
     {
       "id": "neoneko-shoki-avatar-2",
@@ -11486,9 +11486,9 @@
       "distribution_filename": "ロア.zip",
       "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
       "license_url": "https://booth.pm/ja/items/5108925",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が無料配布物ロア.zipにロア_1.01.vrmを収録と説明。0円のZIPを作者が公開。商品ページにVRM 0.0と明記。商品版番号はVRM仕様版ではない。投げ銭版は別計上しない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
+      "verification": "official_product_page_scope_excluded_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "作者が無料配布物ロア.zipにロア_1.01.vrmを収録と説明。0円のZIPを作者が公開。商品ページにVRM 0.0と明記。商品版番号はVRM仕様版ではない。投げ銭版は別計上しない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 authenticated page lists both ロア_1.0.vroid and ロア_1.01.vrm in the same free ZIP; mixed editable-source scope excluded without download."
     },
     {
       "id": "neoneko-leo",
@@ -11787,9 +11787,9 @@
       "distribution_filename": "スゥ_リメイクv1.2.zip",
       "license_name": "作者BOOTH掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/3933882",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が無料配布物スゥ_リメイクv1.2.zipをVRM形式のモデルとして案内。作者が無料ZIPを公開しVRMモデルv1.2と明記。商品バージョンとVRM仕様は別。2025年に別衣装VRMを追加。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
+      "verification": "official_product_page_scope_excluded_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "作者が無料配布物スゥ_リメイクv1.2.zipをVRM形式のモデルとして案内。作者が無料ZIPを公開しVRMモデルv1.2と明記。商品バージョンとVRM仕様は別。2025年に別衣装VRMを追加。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 authenticated page confirms this mapped normal package includes editable .vroid source and a setup VRM; mixed package excluded without download."
     },
     {
       "id": "mxu-suu-valentine",
@@ -11806,9 +11806,9 @@
       "distribution_filename": "Suu_Valentine_1.0.zip",
       "license_name": "作者BOOTH掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/3933882",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が無料配布物Suu_Valentine_1.0.zipをVRM形式のモデルとして案内。作者の商品更新欄で『VRMのみバレンタイン衣装ver』を追加と明記。通常版とは別衣装・別の無料ZIP。配布物の1.0はVRM仕様版とは限らない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が無料配布物Suu_Valentine_1.0.zipをVRM形式のモデルとして案内。作者の商品更新欄で『VRMのみバレンタイン衣装ver』を追加と明記。通常版とは別衣装・別の無料ZIP。配布物の1.0はVRM仕様版とは限らない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 authenticated page describes the character as a 90 cm girl and does not state age; no download under the age/content hold rule."
     }
   ]
 }

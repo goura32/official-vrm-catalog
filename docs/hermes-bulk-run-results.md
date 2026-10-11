@@ -770,6 +770,7 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 ## B40：pike-moon-nightの年齢・権利・mapping hold再評価（2026-10-11）
 
 - 開始時の`main`/`origin/main`は`c9295601cc56a2b81f3e6362203f86fef7ab63cf`で一致。NASの読み取り専用検証は487 ZIP/974 WebP、`ok:true`/`errors:[]`、index SHA-256 `0bf57c18c66a14caaa79578f8865f2d8242df49a4a2e7cb7b68e19c7c1ec3a9f`。今回もNASへの書込み・削除・権限変更なし。
+- B40完了時点の再監査では、`/mnt/hdd/vrm`/`models`/`previews`が0777、`other::rwx`、名前付き/default ACLなし。1,461 assetと`index.jsonl`は0600だが、空の`.index.lock`は0777。NFSv3 `rw,sec=sys,local_lock=none`。`showmount -e`は`RPC: Program not registered`で失敗し、export範囲を再確認できず。B36でprivate IPv4 /24限定を見た記録は履歴情報としてのみ保持し、現在の隔離根拠には使わない。サーバー側ACL、UID/GID mapping、squash、lock有効性は不明。NAS設定・権限変更はせず、新規保存停止を継続。
 - BOOTH [item 5167120](https://booth.pm/ja/items/5167120)の現行本文と作者の[紹介記事](https://kodaiga.xyz/2023/10/16/moon-night/)を読んだ。商品は0円で、ページはblue/red・VRM・PSD・textureを列挙、作者記事は無料版にモデル本体と髪型を含むと説明する。本文には「download時に利用規約へ同意」とあるため、今回はダウンロード・同意操作なし。
 - 規約は商品を使うモデル等の無料/商用利用・成果配布・改変を許可し、元データそのままの再配布を禁止、改変データ再配布は相談、credit表記を求める。また、データbackupは利用者側の責任とする。したがって再配布禁止だけを私的保存禁止と読み替えないが、backup案内は中立的な構造検査の明示許諾と同一視しない。利用規約の性的/暴力的内容は作成・検査用途に用いていない。
 - 公開ページに数値年齢や実年齢ゲートは見つからず、年齢未記載だけを中立・非性的構造検査/Tポーズの停止理由にしない。ただし同ページのblue/red各 variant が実ファイルで何memberか、どのmemberが本IDに対応するかは未確認。実VRMの全身形状/Tポーズも未検査。追加ダウンロードは規約への同意を伴うため、明示的承認なしには行わない。

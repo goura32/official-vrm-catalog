@@ -111,15 +111,15 @@ python3 scripts/verify_nas.py --nas-root /mnt/hdd/vrm
 ## 実行状況（2026-10-11更新）
 
 - **保存実績（B35後）**：ZIP Deflate level 6で**487モデル・WebP 974枚**。未圧縮VRM 3,925,815,073 bytes、ZIP 2,168,476,533 bytes、WebP 15,210,140 bytes。ZIPによる削減率44.7637%。B35後の`verify_nas.py`は`ok:true`、`errors:[]`。
-- **現在の残件（797 IDの排他的区分）**：NAS保存157、非人型68（実体8・作者索引1・商品ページ59）、埋込権利矛盾130、利用条件/年齢/内容未確認237、物理VRM対応不明14、混合ZIPだけを理由にした範囲外0、別hostリダイレクト拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち0、別途未検証1、VRoid Hub認証待ち16、商品ページ404 3、VRoid Studioエクスポート専用23、公式メタデータ/リポジトリのみ5。合計797。B35は41 ID/35商品を再評価し、3 ID保存・9 ID非人型・29 IDを独立根拠不足で保留した。物理VRM対応不明14 IDは既存記録照合後もすべて保留。B34のBOOTH認証待ち145件は全件状態遷移済み。別途未検証1件は未完了のまま維持する。
+- **B35終了時の残件（797 IDの排他的区分、履歴値）**：NAS保存157、非人型68（実体8・作者索引1・商品ページ59）、埋込権利矛盾130、利用条件/年齢/内容未確認237、物理VRM対応不明14、混合ZIPだけを理由にした範囲外0、別hostリダイレクト拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち0、別途未検証1、VRoid Hub認証待ち16、商品ページ404 3、VRoid Studioエクスポート専用23、公式メタデータ/リポジトリのみ5。合計797。B35は41 ID/35商品を再評価し、3 ID保存・9 ID非人型・29 IDを独立根拠不足で保留した。物理VRM対応不明14 IDは既存記録照合後もすべて保留。B34のBOOTH認証待ち145件は全件状態遷移済み。別途未検証1件は未完了のまま維持する。現行の後続再評価後の集計は[完成条件](completion-criteria.md)を参照。
 - **保護方針**：B35開始時の484 ZIP・968 WebPの全索引行SHA-256を保持し、読み取り専用監査も全ファイル整合を確認。旧355件の保護対象行SHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`でbaselineと一致する。B35で追加したモデル/プレビューはmode0600。GitHub Actions・RDCは使わない。
 
 ## 読み取り専用アクセス管理監査（2026-10-11）
 
 監査は読み取り専用。`chmod`/`chown`、ACL変更、NAS/NFS共有設定変更は行っていない。
 
-- B36で読み取り専用`verify_nas.py`を再実行し`ok:true`、`errors:[]`、ZIP entries 487、previews 974、ZIP bytes 2,168,476,533、形式ZIPのみを確認。現行`index.jsonl` SHA-256は`0bf57c18c66a14caaa79578f8865f2d8242df49a4a2e7cb7b68e19c7c1ec3a9f`でB35後の値と一致。既存索引・画像・アーカイブに監査上の変更なし。`models/`と`previews/`の1,461ファイルは全てmode 0600、owner UID/GID 1000/1000。`index.jsonl`もmode 0600、owner UID/GID 1000/1000。
-- `/mnt/hdd/vrm`、`models/`、`previews/`の各ディレクトリはmode 0777（ACLの`other::rwx`）。`getfacl`でこれらに名前付きACL・default ACLは見つからず、`models/`と`previews/`の1,463対象（2ディレクトリ+1,461ファイル）にも名前付き/default ACLはなかった。
-- 実マウントはautofs配下のNFSv3、`rw`、`sec=sys`。`showmount -e`は3 exportを示し、対象`/volume1/hdd`はprivate IPv4 /24に限定、wildcard exportはなかった。実IP・許可ネットワーク値は本書に記録しない。
+- B40で読み取り専用`verify_nas.py`を再実行し`ok:true`、`errors:[]`、ZIP entries 487、previews 974、ZIP bytes 2,168,476,533、形式ZIPのみを確認。現行`index.jsonl` SHA-256は`0bf57c18c66a14caaa79578f8865f2d8242df49a4a2e7cb7b68e19c7c1ec3a9f`で不変。索引・画像・アーカイブへの監査書込みなし。`models/`487 ZIPと`previews/`974 WebPの計1,461 asset、および`index.jsonl`はmode 0600、owner UID/GID 1000/1000。空の`.index.lock`はmode 0777。
+- `/mnt/hdd/vrm`、`models/`、`previews/`の各ディレクトリはmode 0777（`other::rwx`）。再帰的`getfacl`で対象内に名前付きACL・default ACLは見つからなかった。通常ファイルは計1,462（1,461 assetsと`index.jsonl`）が0600、`.index.lock`だけは0 bytes/0777である。chmod/chown・ACL・共有設定変更は行っていない。
+- 実マウントはautofs配下のNFSv3、`rw`、`sec=sys`、`local_lock=none`。B40の`showmount -e`は`RPC: Program not registered`で失敗し、export allowlistを再確認できなかった。B36の過去観測では3 exports中の対象`/volume1/hdd`はprivate IPv4 /24に限定、wildcardなしだったが、これは現時点の再確認ではない。実IP・許可ネットワーク値は本書に記録しない。
 - これはLAN範囲の制限であり、ユーザー単位の私有性を証明しない。NFSv3 AUTH_SYSはクライアント側のUID/GIDを用いる方式で、強い暗号学的なユーザー認証境界ではない（[RFC 5531](https://www.rfc-editor.org/rfc/rfc5531)）。`sec=sys`環境下でサーバーが資格情報をどう制限・マップするか、`root_squash`/`all_squash`、NAS側ACL・共有権限、他の許可クライアントはクライアントから確認できていない。mode 0600だけではこの不足を埋めない。
-- **評価：アクセスはprivate subnetに限定されているが、第三者が読めない/変更できない「非公開保存」とは確認できていない。** 0777の親ディレクトリと`sec=sys`の組合せでは、許可ネットワーク内の他クライアントによるUID/GID扱い・ディレクトリエントリ操作の実効性が未確定。第三者取得禁止の規約がある新規モデルは、NAS管理者が実効的なクライアント・ユーザー隔離を確認するまで追加保存しない。既存487件は依頼に従って保持し、削除・権限変更は行わない。
+- **評価：第三者が読めない/変更できない「非公開保存」とは確認できていない。** 親ディレクトリと`.index.lock`が0777、NFSv3 `sec=sys`、`local_lock=none`であり、現在のexport allowlistもクライアントから取得できなかった。NAS側の共有ACL、UID/GID mapping、`root_squash`/`all_squash`、許可クライアント、実効lock制御は未確認。B36でprivate subnet制限を観測した記録はあるが、B40で再確認できなかった。第三者取得禁止条件がある新規モデルは、NAS管理者が実効的なクライアント・ユーザー隔離とlock運用を確認するまで追加保存しない。既存487件は保持し、削除・権限変更は行わない。

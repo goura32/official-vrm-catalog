@@ -5945,9 +5945,9 @@
       "distribution_filename": "はんぺん.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4671530",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "0円配布のオリジナルこんにゃく系アバター。改変は作者へ事前連絡が必要、法人利用とR-18利用不可。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_product_page_shape_non_humanoid_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "公式BOOTHページは無料直接VRM「はんぺん.vrm」（1.22 MB）を掲載。商品レンダーは四角いはんぺん/こんにゃく系食品ブロックに小さな腕が付いたマスコットで、頭・胴・両腕・両脚を持つ二足人型ではない。個人利用/配信可、法人/R18不可。取得前に非人型として除外。"
     },
     {
       "id": "ryuden-kashitofu",
@@ -5965,9 +5965,9 @@
       "distribution_filename": "樫豆腐.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4671530",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "はんぺんとは独立した無料VRM。作者が個別ファイル名を明記。法人利用禁止、改変は事前相談。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_product_page_shape_non_humanoid_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "公式BOOTHページは無料直接VRM「樫豆腐.vrm」（1.54 MB）を掲載。作者はこんにゃく系食品アバターと説明し、商品レンダーは豆腐/食品マスコット形状で二足人型ではない。個人利用/配信可、法人利用不可、改変は事前相談。取得前に非人型として除外。"
     },
     {
       "id": "renga-wisp-mira",
@@ -6113,9 +6113,9 @@
       "distribution_filename": "とりのともしび.zip",
       "license_name": "作者の公式利用規約（配布ページに案内）",
       "license_url": "https://booth.pm/ja/items/3898075",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "0円の3色VRMセット。説明中に内部VRM名「とり灯_Red.vrm」を記載。原モデル「たびマル倉庫 とり」の作者許可を受けて再配布と明記するが、許諾原文の直接確認は未実施。改変・再配布は原モデル規約に従う。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_product_page_shape_non_humanoid_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "実配布元BOOTH item4226437の3色VRMセット内「とり灯_Red.vrm」を対応付け。作者はitem3898075の鳥モデルを改変した許可済み配布と説明。item4226437の公式レンダーは発光する丸い鳥体・翼・羽で、人型の胴/腕/脚ではない。再配布条件は元モデル規約を継承。取得前に非人型として除外。"
     },
     {
       "id": "tori-no-tomoshibi-green",
@@ -6135,9 +6135,9 @@
       "distribution_filename": "とりのともしび.zip",
       "license_name": "作者の公式利用規約（配布ページに案内）",
       "license_url": "https://booth.pm/ja/items/3898075",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "0円の3色VRMセット。説明中に内部VRM名「とり灯_Green.vrm」を記載。原モデル「たびマル倉庫 とり」の作者許可を受けて再配布と明記するが、許諾原文の直接確認は未実施。改変・再配布は原モデル規約に従う。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_product_page_shape_non_humanoid_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "実配布元BOOTH item4226437の3色VRMセット内「とり灯_Green.vrm」を対応付け。作者はitem3898075の鳥モデルを改変した許可済み配布と説明。item4226437の公式レンダーは発光する丸い鳥体・翼・羽で、人型の胴/腕/脚ではない。再配布条件は元モデル規約を継承。取得前に非人型として除外。"
     },
     {
       "id": "tori-no-tomoshibi-blue",
@@ -6157,9 +6157,9 @@
       "distribution_filename": "とりのともしび.zip",
       "license_name": "作者の公式利用規約（配布ページに案内）",
       "license_url": "https://booth.pm/ja/items/3898075",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "0円の3色VRMセット。説明中に内部VRM名「とり灯_Blue.vrm」を記載。原モデル「たびマル倉庫 とり」の作者許可を受けて再配布と明記するが、許諾原文の直接確認は未実施。改変・再配布は原モデル規約に従う。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_product_page_shape_non_humanoid_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "実配布元BOOTH item4226437の3色VRMセット内「とり灯_Blue.vrm」を対応付け。作者はitem3898075の鳥モデルを改変した許可済み配布と説明。item4226437の公式レンダーは発光する丸い鳥体・翼・羽で、人型の胴/腕/脚ではない。再配布条件は元モデル規約を継承。取得前に非人型として除外。"
     },
     {
       "id": "customlive2davatar-maid-body",
@@ -7138,9 +7138,9 @@
       "distribution_filename": "96475386253260786.zip",
       "license_name": "制作者の配布ページで案内された利用条件",
       "license_url": "https://booth.pm/ja/items/2448274",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "0円の性別不明モデル。VRoid標準髪型の改変を利用と説明。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "公式BOOTHページは12.9 MBの無料ZIPを掲載し、性別不明だが見た目は男の子/ショタ系と明記。正確な年齢と適用利用条件はページで確認できないため、年齢/内容/権利をfail-closedで保留し、取得していない。"
     },
     {
       "id": "mingshop-ming-v12-normal",
@@ -7811,9 +7811,9 @@
       "distribution_filename": "ぷちくらげ.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/7227119",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が同一無料商品で異なる色のVRMを6ファイル公開。VRChat用の併売ZIPには同じVRMが含まれる可能性があるため別モデルとして追加しない。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_product_page_shape_non_humanoid_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "公式BOOTH item7227119の無料直接VRM「ぷちくらげ（通常色）」を確認。商品ページのレンダーはクラゲの傘状頭部と触手からなる非人型で、二足人型ではない。6色は独立直接VRM、別の併売ZIPは選択せず取得前に除外。"
     },
     {
       "id": "kanjukuslime-petit-jellyfish-white",
@@ -7832,9 +7832,9 @@
       "distribution_filename": "ぷちくらげ_白.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/7227119",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が同一無料商品で異なる色のVRMを6ファイル公開。VRChat用の併売ZIPには同じVRMが含まれる可能性があるため別モデルとして追加しない。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_product_page_shape_non_humanoid_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "公式BOOTH item7227119の無料直接VRM「ぷちくらげ（白）」を確認。商品ページのレンダーはクラゲの傘状頭部と触手からなる非人型で、二足人型ではない。6色は独立直接VRM、別の併売ZIPは選択せず取得前に除外。"
     },
     {
       "id": "kanjukuslime-petit-jellyfish-pink",
@@ -7853,9 +7853,9 @@
       "distribution_filename": "ぷちくらげ_ピンク.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/7227119",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が同一無料商品で異なる色のVRMを6ファイル公開。VRChat用の併売ZIPには同じVRMが含まれる可能性があるため別モデルとして追加しない。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_product_page_shape_non_humanoid_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "公式BOOTH item7227119の無料直接VRM「ぷちくらげ（ピンク）」を確認。商品ページのレンダーはクラゲの傘状頭部と触手からなる非人型で、二足人型ではない。6色は独立直接VRM、別の併売ZIPは選択せず取得前に除外。"
     },
     {
       "id": "kanjukuslime-petit-jellyfish-green",
@@ -7874,9 +7874,9 @@
       "distribution_filename": "ぷちくらげ_グリーン.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/7227119",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が同一無料商品で異なる色のVRMを6ファイル公開。VRChat用の併売ZIPには同じVRMが含まれる可能性があるため別モデルとして追加しない。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_product_page_shape_non_humanoid_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "公式BOOTH item7227119の無料直接VRM「ぷちくらげ（グリーン）」を確認。商品ページのレンダーはクラゲの傘状頭部と触手からなる非人型で、二足人型ではない。6色は独立直接VRM、別の併売ZIPは選択せず取得前に除外。"
     },
     {
       "id": "kanjukuslime-petit-jellyfish-orange",
@@ -7895,9 +7895,9 @@
       "distribution_filename": "ぷちくらげ_オレンジ.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/7227119",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が同一無料商品で異なる色のVRMを6ファイル公開。VRChat用の併売ZIPには同じVRMが含まれる可能性があるため別モデルとして追加しない。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_product_page_shape_non_humanoid_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "公式BOOTH item7227119の無料直接VRM「ぷちくらげ（オレンジ）」を確認。商品ページのレンダーはクラゲの傘状頭部と触手からなる非人型で、二足人型ではない。6色は独立直接VRM、別の併売ZIPは選択せず取得前に除外。"
     },
     {
       "id": "kanjukuslime-petit-jellyfish-yellow",
@@ -7916,9 +7916,9 @@
       "distribution_filename": "ぷちくらげ_イエロー.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/7227119",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が同一無料商品で異なる色のVRMを6ファイル公開。VRChat用の併売ZIPには同じVRMが含まれる可能性があるため別モデルとして追加しない。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_product_page_shape_non_humanoid_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "公式BOOTH item7227119の無料直接VRM「ぷちくらげ（イエロー）」を確認。商品ページのレンダーはクラゲの傘状頭部と触手からなる非人型で、二足人型ではない。6色は独立直接VRM、別の併売ZIPは選択せず取得前に除外。"
     },
     {
       "id": "kanjukuslime-tall-slime-base",
@@ -7937,9 +7937,9 @@
       "distribution_filename": "ノッポスライム無料.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6037662",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "無料で直接配布される4色の独立VRM。VRChat向けZIPは別モデルの証拠がないため数えない。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_product_page_shape_non_humanoid_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "公式BOOTH item6037662の無料直接VRM「ノッポスライム（通常）」を確認。商品説明は胴体の長いスライムとし、公式レンダーは眼のある縦長の粘液体と細い突起で、頭・胴・腕を持つ人型ではない。4色は独立VRM。取得前に非人型として除外。"
     },
     {
       "id": "kanjukuslime-tall-slime-green",
@@ -7958,9 +7958,9 @@
       "distribution_filename": "ノッポスライム緑_無料.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6037662",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "無料で直接配布される4色の独立VRM。VRChat向けZIPは別モデルの証拠がないため数えない。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_product_page_shape_non_humanoid_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "公式BOOTH item6037662の無料直接VRM「ノッポスライム（緑）」を確認。商品説明は胴体の長いスライムとし、公式レンダーは眼のある縦長の粘液体と細い突起で、頭・胴・腕を持つ人型ではない。4色は独立VRM。取得前に非人型として除外。"
     },
     {
       "id": "kanjukuslime-tall-slime-red",
@@ -7979,9 +7979,9 @@
       "distribution_filename": "ノッポスライム赤_無料.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6037662",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "無料で直接配布される4色の独立VRM。VRChat向けZIPは別モデルの証拠がないため数えない。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_product_page_shape_non_humanoid_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "公式BOOTH item6037662の無料直接VRM「ノッポスライム（赤）」を確認。商品説明は胴体の長いスライムとし、公式レンダーは眼のある縦長の粘液体と細い突起で、頭・胴・腕を持つ人型ではない。4色は独立VRM。取得前に非人型として除外。"
     },
     {
       "id": "kanjukuslime-tall-slime-yellow",
@@ -8000,9 +8000,9 @@
       "distribution_filename": "ノッポスライム黄_無料.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6037662",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "無料で直接配布される4色の独立VRM。VRChat向けZIPは別モデルの証拠がないため数えない。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_product_page_shape_non_humanoid_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "公式BOOTH item6037662の無料直接VRM「ノッポスライム（黄）」を確認。商品説明は胴体の長いスライムとし、公式レンダーは眼のある縦長の粘液体と細い突起で、頭・胴・腕を持つ人型ではない。4色は独立VRM。取得前に非人型として除外。"
     },
     {
       "id": "kanjukuslime-pudding-slime",
@@ -9631,9 +9631,9 @@
       "distribution_filename": "とり_VRM.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/3898075",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者本人が無料でVRMを配布。既登録『とり灯』3色はこのモデルに基づく別作者の許可付き派生配布であり、元モデルとは異なる。 BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。"
+      "verification": "official_product_page_shape_non_humanoid_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "公式BOOTH item3898075の無料VRM ZIP「とり_VRM.zip」（4.12 MB）を確認。公式レンダーと商品説明は嘴・翼・鳥脚を持つカラーバリエーション鳥アバターで、人型二足形状ではない。許諾PDFは未取得。取得前に非人型として除外。"
     },
     {
       "id": "zepto002-icecream-strawberry",

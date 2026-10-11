@@ -749,4 +749,12 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - BOOTH [商品4911831](https://booth.pm/ja/items/4911831)の現在表示を確認。0円の直接VRMとしてType 1〜4と各body版、計8 variantが列挙され、別に任意の100円一括ZIPが案内される。商品説明はモデル/改変物の商用利用を許可し、再販のみを禁止している。今回はページ文面だけを再確認し、再取得・購入・一括ZIPの取得はしていない。
 - 対応する8 IDは`yousoron-amane-type-1`, `yousoron-amane-type-1-body`, `yousoron-amane-type-2`, `yousoron-amane-type-2-body`, `yousoron-amane-type-3`, `yousoron-amane-type-3-body`, `yousoron-amane-type-4`, `yousoron-amane-type-4-body`。各既存noteは実VRM metadataの`commercialUssageName=Disallow`と`licenseName=Redistribution_Prohibited`を記録している。
 - ここには実際の公開条件と埋込metadataの商用/再配布軸の矛盾があるが、その矛盾だけでは非公開の非商用構造検査や私的保存を禁止するとは言えない。確認した商品ページには私的保存を明示的に禁じる記載は見つからなかったものの、それだけで保存許諾・著作権法上の適用を断定しない。NASの第三者アクセスも未確認のため、8 IDすべて`official_binary_inspected_rights_conflict_not_archived`を維持し、NASへ追加しない。
-- この8 IDは「単純な商用/再配布フラグを保存禁止と誤読した可能性がある」優先レビュー群として整理する。130件全体の解除や他商品への一般化は行わない。次は同様の記録を持つsource familyを一つずつ照合し、保存・技術検査・アバター利用・商用・第三者配布を別軸で記録する。
+- この8 IDは「単純な商用/再配布フラグを保存禁止と誤読した可能性がある」優先レビュー群として整理する。B37時点の130件全体を一括解除したり、他商品へ一般化したりはしない。次は同様の記録を持つsource familyを一つずつ照合し、保存・技術検査・アバター利用・商用・第三者配布を別軸で記録する。
+
+## B38：Kizuna AIの利用条件と保存軸の個別再評価（2026-10-11）
+
+- 最新main・NASの開始状態は`c116ab99711f0a7e223754de1421624b05c0237c`、487 ZIP/974 WebP、`verify_nas.py ok:true/errors:[]`。今回も既存NASへの書込み、削除、chmod/chown、ACL/NFS設定変更なし。
+- 公式配布ページはVRM 1.x/0.xを案内し、ダウンロード前に利用規約への同意を求める。`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/official-page-20261009/official-page-checkpoint-20261009.jsonl`には両VRM member、サイズ、SHA-256、埋込metadataが記録されているため、カタログの「実ダウンロード未確認」は誤記として修正した。checkpointに同意イベントの記録はない。今回その同意ボタン操作・再取得は行っていない。
+- [二次創作ガイドライン](https://kizunaai.com/guideline/)は二次創作活動を私的使用の範囲に限定し、二次創作活動とは関係しないコンテンツの複製等を認めない旨を記載する。3Dモデル規則は元/改変モデルの配布・販売・譲渡を禁じ、改変モデルのSNS/VRChat利用を条件付きで認める一方、自由に取得/コピーできるpublic avatarを禁じる。[キャラクター利用規約](https://kizunaai.com/terms/)は適用法上一般に認められる利用を妨げない旨を記載する。非公開の中立技術検査用複製がこれらの条項・適用法とどう交差するかはページだけでは確定できず、法的結論を出さない。
+- `kizuna-ai-kamatte-vrm0`の`licenseName=Redistribution_Prohibited`は公式の3Dモデル再配布禁止と整合する。これだけで保存禁止/権利矛盾とは扱わず、技術検査用複製・保持条件が未確認として`rights_unverified_hold`へ再分類した。`kizuna-ai-kamatte-vrm1`の`allowRedistribution=false`も再配布禁止と整合するが、`avatarPermission=onlyAuthor`は改変モデルのSNS/VRChat利用条件とアバター利用軸で差が残るためrights-conflictを維持する。どちらも非公開技術保存の根拠とはせず、NAS未保存を維持する。
+- 797 ID内の排他的集計は埋込権利矛盾129、利用条件等未確認238（他の区分は不変）。B35 hold29、物理対応不明14、NAS 487/974も不変。正本は`data/models.json`、現行集計と保留条件は`docs/completion-criteria.md`/`docs/hermes-bulk-resume.md`を参照。

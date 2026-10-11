@@ -1,16 +1,16 @@
 # Hermes Agent 一括実機継続指示（BOOTH認証済みChromeプロファイル）
 
-本指示は2026-10-11のHermes実機確認に基づく。新規取得作業の開始時は必ず`origin/main`をfetchし、最新main・NAS索引・ローカルcheckpointを先に確認する。バッチ30開始時のmainは`7df4d78c94e5aae61f455bec7ce5f95dd128a1d2`だった（履歴上のbaseであり、次回の最新SHAを意味しない）。これより新しい正当な差分を壊さない。
+本指示は2026-10-11のHermes実機確認に基づく。新規取得作業の開始時は必ず`origin/main`をfetchし、最新main・NAS索引・ローカルcheckpointを先に確認する。B33はmain `507e6d76d4f62dbf11f3721fce21bef40ef4cb4f`から実行し、NAS監査・既存355件照合・作業物整理を完了した。B33のリポジトリ反映後にのみB34を開始する。
 
 ## 状況：認証障壁が部分的に解消
 
 ユーザーがChromeに正規ログインし、Hermesは`browser.use_real_profile: true`、実プロファイルをコピーしたローカルブラウザーセッション`booth-real-profile-local-2`を起動できた。BOOTHトップページでログイン済みアカウントメニューを画面確認。カタログID `pixellangel-dolly-devil` のパイロットは2026-10-10に実取得・検査・Tポーズ/顔確認・NAS保存まで完了。パイロット後にBOOTH認証済み32バッチを実施した。パスワード・Cookie・トークン・認証付き一時ダウンロードURLは表示、記録、リポジトリ追加、チャット出力を禁止。Cookieを手動抽出・curl等へ転送して認証を代用しない。
 
-**現在の実績（2026-10-11、バッチ32反映後）**：
-- カタログ計1,297件。R1/R2/R3以外の797件は、NAS保存150、実バイナリ非人型8、作者索引由来非人型1、埋込権利矛盾111、許諾未確認90、モデル対応未確定8、VRM-only範囲外4、別hostリダイレクト拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち234、VRoid Hub認証待ち16、公式ページ認証未確認1、404が3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2。合計797。過去バッチの権利・ID保留は再取得せず。
-- BOOTH認証済み実取得は、パイロット＋32バッチで商品ページ183件、無料取得catalog ID227件、物理VRM検査245件、NAS新規保存125件、非人型7件、権利矛盾81件、権利未確認57件、モデル対応未確定8件、HTTP 429は0件。バッチ32は23ページ（全てHTTP 200）、無料UI操作6回で12 ID/物理VRMを検査し、8件をNAS保存（棒人間、煌星、ぴえん系6体）。BREAK VENOM/OXYGEN ERROR/くまは埋込`OnlyAuthor`または商用不可とページ許可が矛盾して3件保留。ぴえ子は年齢不明・女性化/胸部表現・性的利用許可のため保留し、実体とプレビューを削除。許諾/年齢保留は34 ID（33件はページ確認のみ、ぴえ子1件は実VRM確認後に削除）、source同梱範囲外は1 ID。ぴえん系7 IDは実VRMの全身Tポーズ確認に基づき非人型予備分類から人型候補へ修正したが、ぴえ子は権利/年齢保留で保存していない。
-- NASは480 ZIP・960 WebP、未圧縮VRM 3,803,310,921 bytes、ZIP 2,115,806,978 bytes、WebP 14,979,780 bytes、削減率44.3693%。`verify_nas.py`は`ok:true, errors:[]`。既存355件の保護対象ハッシュは`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`で不変。
-- 最新のローカルチェックポイントは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261011-32.json`、累計は`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/authenticated-summary-20261010.json`。次回は最新main・NAS・チェックポイントを再照合し、残り234 IDを続行する。匿名302確認を繰り返さず、権利保留案件を新しい許諾根拠なしに再取得しない。
+**現在の実績（2026-10-11、バッチ33完了後）**：
+- カタログ計1,297件。R1/R2/R3以外の797件は、NAS保存153、実バイナリ非人型8、作者索引由来非人型1、埋込権利矛盾123、許諾未確認159、モデル対応未確定9、配布範囲外8、別hostリダイレクト拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち145、別途BOOTH未検証1、VRoid Hub認証待ち16、商品ページ404 3、VRoid Studioエクスポート専用23、公式メタデータ確認のみ3、公式リポジトリ掲載のみ2。合計797。過去の権利・ID保留と既保存IDは再取得しない。
+- BOOTH認証済み実取得はパイロット＋33バッチで商品ページ250件、無料取得catalog ID243件、物理VRM検査261件、NAS新規保存128件、非人型7件、権利矛盾93件、許諾未確認126件、モデル対応未確定9件、HTTP 429は0件。B33は67ページ、無料UI操作16回で16 ID/VRMを検査し、3件をNAS保存。89遷移の理由別内訳は、埋込権利とページ条件の矛盾12、私的保管/プレビュー許諾範囲が不明12、年齢/内容懸念55、権利・規約不明2、配布範囲外4、ID対応不明1、保存3。別途未検証1件は未完了のまま維持。
+- NASは483 ZIP・966 WebP、未圧縮VRM 3,899,265,521 bytes、ZIP 2,148,721,691 bytes、WebP 15,091,308 bytes、削減率44.8942%。`verify_nas.py`は`ok:true, errors:[]`。既存355件の保護対象ハッシュは`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`で不変。
+- B33 checkpointは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261011-33.json`、累計summaryは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/authenticated-summary-20261010.json`。B33をcommit/pushし、clean worktreeを検証した後、残り145件のB34を開始する。匿名302確認を繰り返さず、権利・内容保留案件を新しい根拠なしに再取得しない。
 
 ## 継続実行手順（認証済みBOOTH残件）
 
@@ -23,9 +23,9 @@
 
 - 2026-10-10に`pixellangel-dolly-devil`（`https://booth.pm/ja/items/4795020`）の無料`dolly_devil.vrm`を正規UIから取得し、権利・VRM実体・人型・Tポーズ・顔を確認してNASへ保存済み。有料の`.vroid`は取得していない。保存済みIDの再ダウンロードや上書きは禁止。
 
-### C. 次回の優先実作業：認証待ち234件を継続
+### C. 次回の優先実作業：B34で認証待ち145件を継続
 
-1. 作業開始時に最新main、worktree、NASマウント、NAS監査、ローカルcheckpointを照合し、`authenticated-summary-20261010.json`とバッチ32 checkpointを再集計する。現在のBOOTH認証待ちは234 ID。既保存125、非人型、権利保留、モデル対応未確定、範囲外source package、404、アクセス制限、エクスポート専用を対象へ戻さず、正規の無料BOOTH VRM/VRM-only ZIPだけを商品ページ単位で処理する。`VRoid Hub`等、別サービスの認証をBOOTHログインで通せると仮定しない。
+1. B33のpushとclean worktreeを確認後にのみ開始する。最新main、NASマウント、NAS監査、B33 checkpointを照合し、BOOTH認証待ちは145 ID、別途未検証は1 IDと再集計する。既保存128 ID、非人型、権利/年齢/規約保留、モデル対応未確定、範囲外source package、404、アクセス制限、エクスポート専用を対象へ戻さず、正規の無料BOOTH VRM/VRM-only ZIPだけを商品ページ単位で処理する。`VRoid Hub`等、別サービスの認証をBOOTHログインで通せると仮定しない。
 2. 最初は少数（例えば5～10商品）で連続動作・エラー・負荷を確認し、問題がなければ**恣意的な少件数で終了せず**、入手できる分を順次続ける。直列または低並列で配布元へ適切に間隔をあけ、過剰なアクセスをしない。HTTP 429を一度でも返したホストはその時点で**全IDを含め要求禁止**（別ホスト/ゲートウェイ/プロキシへの迂回もしない）。ブラウザーでのログイン・無料ダウンロードを優先し、匿名URLを再調査しない。
 3. 1商品に複数VRM・色違い・0.x/1.0同梱がある場合は**既存のカタログIDごとに**内部ファイル名・SHA-256と対応させる。違うモデルや同一モデルを重複登録しない。無料版と有料支援版を区別する。モデル1件ごとに権利/形状/プレビュー/ZIP/索引を検証し、失敗したものだけ記録して残りを続ける。再配布禁止等のライセンスを破らない。
 4. 作業機`~/.local/state/official-vrm-catalog/`に`downloaded`, `archived`, `non_humanoid`, `preview_hold`, `license_hold`, `auth_failed`, `free_not_available`, `rate_limited`等の排他的処理状態と再開用ジャーナルを残す。追加取得の進捗件数を適宜ログ出力し、tmux等で中断に耐える。Cookie/認証トークン/期限付きURLはチェックポイントにも出さない。ユーザー本人の追加操作が不可欠になった場合は、その部分だけ保留。

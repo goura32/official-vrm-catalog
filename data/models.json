@@ -5300,9 +5300,9 @@
       "distribution_filename": "kotatsumikan.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6686224",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者がVRMモデルの0円ZIPを公開。作者はVRMからVRChatへ変換した旨を記載。商用・改変可。詳細ライセンスは配布ZIP内。公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_product_page_scope_excluded_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "作者がVRMモデルの0円ZIPを公開。作者はVRMからVRChatへ変換した旨を記載。商用・改変可。詳細ライセンスは配布ZIP内。公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B33 (2026-10-11): 商品ページ/配布範囲を再確認し、VRM単体の対象範囲外として未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "hiyoriya-miu-standard",
@@ -5478,9 +5478,9 @@
       "distribution_filename": "さくらリクオ_フリーアバター_ブルーベル.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5375274",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者制作の無料VRoid・VRM同梱アバター。VTuber用途は利用条件で禁止。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者制作の無料VRoid・VRM同梱アバター。VTuber用途は利用条件で禁止。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B33 (2026-10-11): 認証済みBOOTH UIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "sakurabido-meimei",
@@ -5497,9 +5497,9 @@
       "distribution_filename": "さくらリクオ_フリーアバター_50F_めいめい.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6516048",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "50フォロワー記念として無料のVRMを配布。VRoid編集ファイルの支援・投げ銭版とは区別。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "50フォロワー記念として無料のVRMを配布。VRoid編集ファイルの支援・投げ銭版とは区別。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B33 (2026-10-11): 認証済みBOOTH UIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "sakurabido-kamiya",
@@ -5516,9 +5516,9 @@
       "distribution_filename": "さくらリクオ_フリーアバター_50F_かみや.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6046175",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "50フォロワー記念の無料VRM入りZIP。VRoid編集ファイルの別支援版は対象外。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "50フォロワー記念の無料VRM入りZIP。VRoid編集ファイルの別支援版は対象外。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B33 (2026-10-11): 認証済みBOOTH UIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "sakurabido-mirucchi",
@@ -5573,9 +5573,9 @@
       "distribution_filename": "さくらリクオ_フリーアバター_50F_まきのっち.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5597575",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者公式の50フォロワー記念フリーアバター。VRM入りの無料ZIP。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者公式の50フォロワー記念フリーアバター。VRM入りの無料ZIP。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B33 (2026-10-11): 認証済みBOOTH UIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "kuranmo-jellyfish-static",
@@ -5654,9 +5654,9 @@
       "distribution_filename": "エルフ_魔法使い_.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5775339",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "0円の作者配布VRM。アバター利用可。VTuberキャラクター利用・改変・再配布は禁止。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "0円の作者配布VRM。アバター利用可。VTuberキャラクター利用・改変・再配布は禁止。原本の取得、ZIP中の全ファイル実在、表示・動作・ライセンス内蔵値は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "mujo-emoji-pien",
@@ -6497,9 +6497,9 @@
       "distribution_filename": "サングラスどこ行った.vrm",
       "license_name": "制作者の配布ページで案内された利用条件",
       "license_url": "https://booth.pm/ja/items/5181031",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "0円の別VRM3ファイル。3体を収録する無料『サングラスない.zip』は重複計上しない。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "0円の別VRM3ファイル。3体を収録する無料『サングラスない.zip』は重複計上しない。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "teoteome-sunglasses-misaligned",
@@ -6517,9 +6517,9 @@
       "distribution_filename": "サングラスちょっとズレた.vrm",
       "license_name": "制作者の配布ページで案内された利用条件",
       "license_url": "https://booth.pm/ja/items/5181031",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "0円の別VRM3ファイル。3体を収録する無料『サングラスない.zip』は重複計上しない。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "0円の別VRM3ファイル。3体を収録する無料『サングラスない.zip』は重複計上しない。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "teoteome-sunglasses-none",
@@ -6537,9 +6537,9 @@
       "distribution_filename": "サングラスない.vrm",
       "license_name": "制作者の配布ページで案内された利用条件",
       "license_url": "https://booth.pm/ja/items/5181031",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "0円の別VRM3ファイル。3体を収録する無料『サングラスない.zip』は重複計上しない。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "0円の別VRM3ファイル。3体を収録する無料『サングラスない.zip』は重複計上しない。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "teoteome-proxy-young-soft-pink",
@@ -6897,9 +6897,9 @@
       "distribution_filename": "お.vrm",
       "license_name": "制作者の配布ページで案内された利用条件",
       "license_url": "https://booth.pm/ja/items/4695847",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "無料のVRM単体配布。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "無料のVRM単体配布。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "teoteome-red-oni-remake",
@@ -6917,9 +6917,9 @@
       "distribution_filename": "和風リメイクあかおに.zip",
       "license_name": "制作者の配布ページで案内された利用条件",
       "license_url": "https://booth.pm/ja/items/2055475",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者がVRM形式モデルと明記した0円ZIP。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者がVRM形式モデルと明記した0円ZIP。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "teoteome-clever-boy-scholar",
@@ -7158,9 +7158,9 @@
       "distribution_filename": "mingちゃんver1.2.zip",
       "license_name": "制作者の配布ページで案内された利用条件",
       "license_url": "https://booth.pm/ja/items/8619590",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が0円で2つのVRM・VRoidデータ入りZIPを公開。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が0円で2つのVRM・VRoidデータ入りZIPを公開。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B33 (2026-10-11): 認証済みBOOTH UIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "mingshop-ming-v12-black",
@@ -7178,9 +7178,9 @@
       "distribution_filename": "黒mingちゃんver1.2.zip",
       "license_name": "制作者の配布ページで案内された利用条件",
       "license_url": "https://booth.pm/ja/items/8619590",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が0円で2つのVRM・VRoidデータ入りZIPを公開。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が0円で2つのVRM・VRoidデータ入りZIPを公開。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B33 (2026-10-11): 認証済みBOOTH UIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "nekomishouten-fine-v151",
@@ -7198,9 +7198,9 @@
       "distribution_filename": "Fine-VRM.zip",
       "license_name": "制作者の配布ページで案内された利用条件",
       "license_url": "https://booth.pm/ja/items/8019545",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "同名ZIPだが作者が無料の独立配布版として掲載。VRM規格版ではなく配布物のバージョン。各ZIPに含まれるモデル種類とファイル数は未確認で、追加個別計上しない。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "同名ZIPだが作者が無料の独立配布版として掲載。VRM規格版ではなく配布物のバージョン。各ZIPに含まれるモデル種類とファイル数は未確認で、追加個別計上しない。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B33 (2026-10-11): 認証済みBOOTH UIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "nekomishouten-fine-v150",
@@ -7218,9 +7218,9 @@
       "distribution_filename": "Fine-VRM.zip",
       "license_name": "制作者の配布ページで案内された利用条件",
       "license_url": "https://booth.pm/ja/items/8019545",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "同名ZIPだが作者が無料の独立配布版vol.1.5として掲載。VRM規格版ではなく配布物のバージョン。各ZIPに含まれるモデル種類とファイル数は未確認で、追加個別計上しない。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "同名ZIPだが作者が無料の独立配布版vol.1.5として掲載。VRM規格版ではなく配布物のバージョン。各ZIPに含まれるモデル種類とファイル数は未確認で、追加個別計上しない。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B33 (2026-10-11): 認証済みBOOTH UIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "nekomishouten-fine-v120",
@@ -7238,9 +7238,9 @@
       "distribution_filename": "Fine-VRM.zip",
       "license_name": "制作者の配布ページで案内された利用条件",
       "license_url": "https://booth.pm/ja/items/8019545",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "同名ZIPだが作者が無料の独立配布版vol.1.2として掲載。VRM規格版ではなく配布物のバージョン。各ZIPに含まれるモデル種類とファイル数は未確認で、追加個別計上しない。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "同名ZIPだが作者が無料の独立配布版vol.1.2として掲載。VRM規格版ではなく配布物のバージョン。各ZIPに含まれるモデル種類とファイル数は未確認で、追加個別計上しない。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B33 (2026-10-11): 認証済みBOOTH UIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "nekomishouten-fine-v110",
@@ -7258,9 +7258,9 @@
       "distribution_filename": "Fine-VRM.zip",
       "license_name": "制作者の配布ページで案内された利用条件",
       "license_url": "https://booth.pm/ja/items/8019545",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "同名ZIPだが作者が無料の独立配布版vol.1.1として掲載。VRM規格版ではなく配布物のバージョン。各ZIPに含まれるモデル種類とファイル数は未確認で、追加個別計上しない。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "同名ZIPだが作者が無料の独立配布版vol.1.1として掲載。VRM規格版ではなく配布物のバージョン。各ZIPに含まれるモデル種類とファイル数は未確認で、追加個別計上しない。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B33 (2026-10-11): 認証済みBOOTH UIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "nekomishouten-fine-v100",
@@ -7278,9 +7278,9 @@
       "distribution_filename": "Fine-VRM.zip",
       "license_name": "制作者の配布ページで案内された利用条件",
       "license_url": "https://booth.pm/ja/items/8019545",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "同名ZIPだが作者が無料の独立配布版vol.1.0として掲載。VRM規格版ではなく配布物のバージョン。各ZIPに含まれるモデル種類とファイル数は未確認で、追加個別計上しない。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "同名ZIPだが作者が無料の独立配布版vol.1.0として掲載。VRM規格版ではなく配布物のバージョン。各ZIPに含まれるモデル種類とファイル数は未確認で、追加個別計上しない。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B33 (2026-10-11): 認証済みBOOTH UIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "sakurabido-hapicchi",
@@ -7316,9 +7316,9 @@
       "distribution_filename": "さくらリクオ_フリーアバター_そうま.zip",
       "license_name": "制作者の配布ページで案内された利用条件",
       "license_url": "https://booth.pm/ja/items/4393522",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者の無料ZIPにVRMとVRoidを収録。VTuber利用は禁止。ももこ・そうまは法人利用禁止。個人商用利用の条件は個別ページに従う。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者の無料ZIPにVRMとVRoidを収録。VTuber利用は禁止。ももこ・そうまは法人利用禁止。個人商用利用の条件は個別ページに従う。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B33 (2026-10-11): 認証済みBOOTH UIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "sakurabido-momoko",
@@ -7335,9 +7335,9 @@
       "distribution_filename": "さくらリクオ_フリーアバター_ももこ.zip",
       "license_name": "制作者の配布ページで案内された利用条件",
       "license_url": "https://booth.pm/ja/items/4382676",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者の無料ZIPにVRMとVRoidを収録。VTuber利用は禁止。ももこ・そうまは法人利用禁止。個人商用利用の条件は個別ページに従う。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者の無料ZIPにVRMとVRoidを収録。VTuber利用は禁止。ももこ・そうまは法人利用禁止。個人商用利用の条件は個別ページに従う。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B33 (2026-10-11): 認証済みBOOTH UIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "abendgift-axis",
@@ -7375,9 +7375,9 @@
       "distribution_filename": "まゆら.vrm.zip",
       "license_name": "制作者の配布ページで案内された利用条件",
       "license_url": "https://booth.pm/ja/items/6134913",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者オリジナルのケモノアバター。0円のVRM ZIPのみ、寄付は任意。商用改変可・再配布販売不可。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者オリジナルのケモノアバター。0円のVRM ZIPのみ、寄付は任意。商用改変可・再配布販売不可。商品ページの0円配布案内を根拠に登録。取得成功・ZIP内部・VRMファイルの仕様版と描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "darthpock-knight-2m",
@@ -7769,9 +7769,9 @@
       "distribution_filename": "うさぎさん.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5872452",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "白いうさぎ単体VRMのみ無料。FBXとテクスチャの有料セットは対象外。無断配布・政治利用・転売を禁止。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "白いうさぎ単体VRMのみ無料。FBXとテクスチャの有料セットは対象外。無断配布・政治利用・転売を禁止。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B33 (2026-10-11): 正規無料UIから取得して埋込権利を検査した結果、ページ/規約と埋込値が矛盾。取得ファイルは削除しNAS未保存。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "kanjukuslime-little-death",
@@ -7790,9 +7790,9 @@
       "distribution_filename": "リトルデス.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/7467859",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "無料の直接VRMと同モデルのZIPを掲載。重複登録しない。再配布、転売、政治利用を禁止。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "無料の直接VRMと同モデルのZIPを掲載。重複登録しない。再配布、転売、政治利用を禁止。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "kanjukuslime-petit-jellyfish-default",
@@ -8084,9 +8084,9 @@
       "distribution_filename": "03_Aisling1.2free.zip",
       "license_name": "作者が案内する利用規約",
       "license_url": "https://loulouyurika.fanbox.cc/posts/3037404",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "無料のVRM-only版として版別ZIPを配布。Perfect Sync版とVRoid編集データは有料版限定。再配布・NFT・AIイラスト素材使用は禁止。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "無料のVRM-only版として版別ZIPを配布。Perfect Sync版とVRoid編集データは有料版限定。再配布・NFT・AIイラスト素材使用は禁止。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "loulouyurika-aisling-13",
@@ -8105,9 +8105,9 @@
       "distribution_filename": "Aisling1.3free.zip",
       "license_name": "作者が案内する利用規約",
       "license_url": "https://loulouyurika.fanbox.cc/posts/3037404",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "無料のVRM-only版として版別ZIPを配布。Perfect Sync版とVRoid編集データは有料版限定。再配布・NFT・AIイラスト素材使用は禁止。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "無料のVRM-only版として版別ZIPを配布。Perfect Sync版とVRoid編集データは有料版限定。再配布・NFT・AIイラスト素材使用は禁止。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "vcfshop-pomesuke",
@@ -8291,9 +8291,9 @@
       "distribution_filename": "アシュリー_v1.0_無料版.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/2803381",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "¥0でVRMのみのZIP。VRoid編集・PSD入り版は有料。商品版番号v1.0はVRM仕様バージョンではない。商用利用は禁止（要相談）。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "¥0でVRMのみのZIP。VRoid編集・PSD入り版は有料。商品版番号v1.0はVRM仕様バージョンではない。商用利用は禁止（要相談）。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "pike-choco-orange",
@@ -8386,9 +8386,9 @@
       "distribution_filename": "_無料版_free_VRoid_VRM_Aurora_ぴケの創作屋さん_.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5353568",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "オーロラモチーフの無料アバター。 作者ページで無料VRMと記載し、有料版のフルセットと区別。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+      "verification": "official_package_inspected_scope_excluded_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "オーロラモチーフの無料アバター。 作者ページで無料VRMと記載し、有料版のフルセットと区別。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。 B33 (2026-10-11): 無料配布パッケージは複数形式/アセット混在のため、VRM単体の対象範囲外として未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "pike-sakura-uniform",
@@ -8443,9 +8443,9 @@
       "distribution_filename": "_free_VRoid_VRM_赤龍_ぴケの創作屋さん_.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5452012",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "龍をイメージしたパンクアバター。説明上のA/BはZIP未解析で別VRMと断定しない。 作者ページで無料VRMと記載し、有料版のフルセットと区別。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+      "verification": "official_product_page_model_mapping_ambiguous_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "龍をイメージしたパンクアバター。説明上のA/BはZIP未解析で別VRMと断定しない。 作者ページで無料VRMと記載し、有料版のフルセットと区別。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。 B33 (2026-10-11): 商品ページの複数モデルとカタログIDの対応を特定できず未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "pike-monster-animal",
@@ -8474,16 +8474,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/4748888",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "_無料版_free_VRoid_VRM_Steam_PunkCat_ぴケの創作屋さん_.zip",
-      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_name": "ぴケの創作屋さん 利用規約（同梱readme）",
       "license_url": "https://booth.pm/ja/items/4748888",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "すぐに使用できる猫人間のスチームパンクアバターと作者が説明。 作者ページで無料VRMと記載し、有料版のフルセットと区別。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-11",
+      "notes": "正規BOOTHから無料版ZIPを取得。元ZIP 25,266,134 bytes（SHA-256 aa571b068491ddcf392e9c833224d20e8b1bb8d9df30f218fb74873c3590f37e）。同梱VRMは1本のみ（Steam Punk Cat body.vrm、18,806,020 bytes、SHA-256 779f24cc1b365f55aff4d1bafb82f0c365972134311ad652b00bae8e98fa6ac3）、VRM 0.x。ページ・日英readme・埋込Other権利条件が整合。商用利用と改変可、未改変データ再配布不可、改変データ再配布は制作者への相談、クレジット必須。Tポーズと顔WebPを視認し、人型の頭・胴・両腕・両脚・足を確認。NAS保存: models/pike-steam-punk-cat.zip。"
     },
     {
       "id": "pike-monotone-blossom",
@@ -8576,9 +8576,9 @@
       "distribution_filename": "_00_emil_-エミル-.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5361030",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者制作のVRoid Studio製VRM。 アバターの改変・配信・収益化配信可、再配布・自作発言禁止。有料.vroidは収録しない。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者制作のVRoid Studio製VRM。 アバターの改変・配信・収益化配信可、再配布・自作発言禁止。有料.vroidは収録しない。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "yonagi-haruko",
@@ -8595,9 +8595,9 @@
       "distribution_filename": "_01_はる子_vrm.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5568171",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者制作のVRoid Studio製VRM。 アバターの改変・配信・収益化配信可、再配布・自作発言禁止。有料.vroidは収録しない。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者制作のVRoid Studio製VRM。 アバターの改変・配信・収益化配信可、再配布・自作発言禁止。有料.vroidは収録しない。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "yonagi-kirari",
@@ -8614,9 +8614,9 @@
       "distribution_filename": "きらり_vrm.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5638883",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者制作のVRoid Studio製VRM。 アバターの改変・配信・収益化配信可、再配布・自作発言禁止。有料.vroidは収録しない。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者制作のVRoid Studio製VRM。 アバターの改変・配信・収益化配信可、再配布・自作発言禁止。有料.vroidは収録しない。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "yonagi-hayato-hifumi",
@@ -8652,9 +8652,9 @@
       "distribution_filename": "_04_ルーナ.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5752643",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者制作のVRoid Studio製VRM。 アバターの改変・配信・収益化配信可、再配布・自作発言禁止。有料.vroidは収録しない。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "作者制作のVRoid Studio製VRM。 アバターの改変・配信・収益化配信可、再配布・自作発言禁止。有料.vroidは収録しない。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。 B33 (2026-10-11): 正規無料UIから取得して埋込権利を検査した結果、ページ/規約と埋込値が矛盾。取得ファイルは削除しNAS未保存。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "yonagi-mint",
@@ -8671,9 +8671,9 @@
       "distribution_filename": "みんと_vrm.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5940674",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者制作のVRoid Studio製VRM。 アバターの改変・配信・収益化配信可、再配布・自作発言禁止。有料.vroidは収録しない。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "作者制作のVRoid Studio製VRM。 アバターの改変・配信・収益化配信可、再配布・自作発言禁止。有料.vroidは収録しない。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。 B33 (2026-10-11): 正規無料UIから取得して埋込権利を検査した結果、ページ/規約と埋込値が矛盾。取得ファイルは削除しNAS未保存。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "starria-mizki-00",
@@ -8691,9 +8691,9 @@
       "distribution_filename": "Gal_base_body0.0.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6016249",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "原作者が0円のVRM版を2つ掲載したうち0.0と表示された版。『VRoid ver.』表記のみでVRM内部仕様バージョンの保証とはみなさない。VRoid Project File ZIPは同じキャラの編集用データなので別計上しない。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "原作者が0円のVRM版を2つ掲載したうち0.0と表示された版。『VRoid ver.』表記のみでVRM内部仕様バージョンの保証とはみなさない。VRoid Project File ZIPは同じキャラの編集用データなので別計上しない。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。 B33 (2026-10-11): 認証済みBOOTH UIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "starria-mizki-10",
@@ -8711,9 +8711,9 @@
       "distribution_filename": "Gal_base_body1.0.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6016249",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "原作者が0円で公開した1.0表示版。仕様バージョンはZIPのGLB未解析のためnull。再配布・作者詐称は禁止。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "原作者が0円で公開した1.0表示版。仕様バージョンはZIPのGLB未解析のためnull。再配布・作者詐称は禁止。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。 B33 (2026-10-11): 認証済みBOOTH UIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "sanacou-homura-standard",
@@ -8789,9 +8789,9 @@
       "distribution_filename": "らい.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/8436605",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者による0円の直接VRM。併売の.xavatarは同モデルの別形式として計上しない。改変可・再配布禁止。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者による0円の直接VRM。併売の.xavatarは同モデルの別形式として計上しない。改変可・再配布禁止。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "avatarshop-sora",
@@ -8827,9 +8827,9 @@
       "distribution_filename": "maid.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4645887",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が0円のmaid.vrmとmaid.vroidを別々に公開。VRMのみ収録。改変可・再配布禁止・配信時クレジット要。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が0円のmaid.vrmとmaid.vroidを別々に公開。VRMのみ収録。改変可・再配布禁止・配信時クレジット要。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "0ctr4d-four",
@@ -8846,9 +8846,9 @@
       "distribution_filename": "四號.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5820982",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者による0円直接VRM。利用制限（権利表記・テクスチャ流用制限・公序良俗）あり。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者による0円直接VRM。利用制限（権利表記・テクスチャ流用制限・公序良俗）あり。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "jowa-ordinary-man",
@@ -8865,9 +8865,9 @@
       "distribution_filename": "一般男性.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/7128850",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が0円ZIPに.vrmと.vroidを同梱と説明。ベースとして改変可、販売・自作発言禁止。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "作者が0円ZIPに.vrmと.vroidを同梱と説明。ベースとして改変可、販売・自作発言禁止。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。 B33 (2026-10-11): 正規無料UIから取得して埋込権利を検査した結果、ページ/規約と埋込値が矛盾。取得ファイルは削除しNAS未保存。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "baby0to1-roidchan",
@@ -9057,9 +9057,9 @@
       "distribution_filename": "還魂符.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/8902791",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者オリジナルVRoid基盤の無料VRMアバター。配信・ゲーム等で商用利用可、改変可。VRM自体の再配布・販売不可。ZIPにはVRM本体を含むと明記。 公開ページで0円配布を確認したが実ダウンロード・ZIP内部・VRMバイナリは未確認。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者オリジナルVRoid基盤の無料VRMアバター。配信・ゲーム等で商用利用可、改変可。VRM自体の再配布・販売不可。ZIPにはVRM本体を含むと明記。 公開ページで0円配布を確認したが実ダウンロード・ZIP内部・VRMバイナリは未確認。 B33 (2026-10-11): 認証済みBOOTH UIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "kaso-88-cherry-steps",
@@ -9076,9 +9076,9 @@
       "distribution_filename": "88_Cherry_Steps.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/8893212",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者オリジナルVRoid基盤の無料VRMアバター。配信・ゲーム等で商用利用可、改変可。VRM自体の再配布・販売不可。ZIPにはVRM本体を含むと明記。 公開ページで0円配布を確認したが実ダウンロード・ZIP内部・VRMバイナリは未確認。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者オリジナルVRoid基盤の無料VRMアバター。配信・ゲーム等で商用利用可、改変可。VRM自体の再配布・販売不可。ZIPにはVRM本体を含むと明記。 公開ページで0円配布を確認したが実ダウンロード・ZIP内部・VRMバイナリは未確認。 B33 (2026-10-11): 認証済みBOOTH UIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "kaso-noise-frills",
@@ -9095,9 +9095,9 @@
       "distribution_filename": "NOISE___FRILLS.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/8866564",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者オリジナルVRoid基盤の無料VRMアバター。配信・ゲーム等で商用利用可、改変可。VRM自体の再配布・販売不可。ZIPにはVRM本体を含むと明記。 公開ページで0円配布を確認したが実ダウンロード・ZIP内部・VRMバイナリは未確認。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "作者オリジナルVRoid基盤の無料VRMアバター。配信・ゲーム等で商用利用可、改変可。VRM自体の再配布・販売不可。ZIPにはVRM本体を含むと明記。 公開ページで0円配布を確認したが実ダウンロード・ZIP内部・VRMバイナリは未確認。 B33 (2026-10-11): 正規無料UIから取得して埋込権利を検査した結果、ページ/規約と埋込値が矛盾。取得ファイルは削除しNAS未保存。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "kaso-oxygen-error",
@@ -9133,9 +9133,9 @@
       "distribution_filename": "爪モンスター.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/8708753",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "無料VRM単体のみ。¥500のVRM+FBXセットは同一VRMを含むため重複登録しない。 公開ページで0円配布を確認したが実ダウンロード・ZIP内部・VRMバイナリは未確認。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "無料VRM単体のみ。¥500のVRM+FBXセットは同一VRMを含むため重複登録しない。 公開ページで0円配布を確認したが実ダウンロード・ZIP内部・VRMバイナリは未確認。 B33 (2026-10-11): 正規無料UIから取得して埋込権利を検査した結果、ページ/規約と埋込値が矛盾。取得ファイルは削除しNAS未保存。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "ator-commando-rabbit",
@@ -9152,9 +9152,9 @@
       "distribution_filename": "コマンドーうさぎ.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/8908754",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者オリジナルの直接配布VRM。¥500の別パッケージは無料モデルの追加カウントに含めない。 公開ページで0円配布を確認したが実ダウンロード・ZIP内部・VRMバイナリは未確認。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "作者オリジナルの直接配布VRM。¥500の別パッケージは無料モデルの追加カウントに含めない。 公開ページで0円配布を確認したが実ダウンロード・ZIP内部・VRMバイナリは未確認。 B33 (2026-10-11): 正規無料UIから取得して埋込権利を検査した結果、ページ/規約と埋込値が矛盾。取得ファイルは削除しNAS未保存。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "neryo-komari-shione",
@@ -9171,9 +9171,9 @@
       "distribution_filename": "潮音こまり_VRM.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/7034844",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者（モデル制作）とキャラクターデザイナー共同のオリジナルモデル。無料VRMのみ版と無料VRM+VRoid版は同一キャラクターであり1件のみ登録。 公開ページで0円配布を確認したが実ダウンロード・ZIP内部・VRMバイナリは未確認。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者（モデル制作）とキャラクターデザイナー共同のオリジナルモデル。無料VRMのみ版と無料VRM+VRoid版は同一キャラクターであり1件のみ登録。 公開ページで0円配布を確認したが実ダウンロード・ZIP内部・VRMバイナリは未確認。 B33 (2026-10-11): 認証済みBOOTH UIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "doridori-miu-girl",
@@ -9209,9 +9209,9 @@
       "distribution_filename": "sora_v2.0.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/7969137",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者オリジナル無料ZIP中にsora_Naked.vrm（着せ替え素体）を明記。投げ銭版も同じモデルデータ。 公開ページで0円配布を確認したが実ダウンロード・ZIP内部・VRMバイナリは未確認。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者オリジナル無料ZIP中にsora_Naked.vrm（着せ替え素体）を明記。投げ銭版も同じモデルデータ。 公開ページで0円配布を確認したが実ダウンロード・ZIP内部・VRMバイナリは未確認。 B33 (2026-10-11): 認証済みBOOTH UIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "hinzka-perfect-sync-female-v113",
@@ -9494,9 +9494,9 @@
       "distribution_filename": "ぽたみ_TECK.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5726412",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "無料のTECK用VRMのみ収録。同一商品の無料TECK ZIPは別モデルに数えず、有料TRAVEL/SLEEPは対象外。 BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "無料のTECK用VRMのみ収録。同一商品の無料TECK ZIPは別モデルに数えず、有料TRAVEL/SLEEPは対象外。 BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。 B33 (2026-10-11): 正規無料UIから取得して埋込権利を検査した結果、ページ/規約と埋込値が矛盾。取得ファイルは削除しNAS未保存。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "anninshizuku-kimoneze",
@@ -9553,9 +9553,9 @@
       "distribution_filename": "EliseV1.01.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/3119855",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者によるオリジナルモデルの無料ZIP。Elise V1.vrmを同梱すると説明、FBXとPNGは追加モデルではない。 BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者によるオリジナルモデルの無料ZIP。Elise V1.vrmを同梱すると説明、FBXとPNGは追加モデルではない。 BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。 B33 (2026-10-11): 認証済みBOOTH UIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "chemical-laurosi",
@@ -9573,9 +9573,9 @@
       "distribution_filename": "ラウロシ_2025_08_11_001.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/7288825",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "制作者の無料ZIPにはラウロシ.vrmとUnityPackageを含む旨を明記。有料支援版は着せ替えPrefab追加のため別VRMとしては計上しない。 BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "制作者の無料ZIPにはラウロシ.vrmとUnityPackageを含む旨を明記。有料支援版は着せ替えPrefab追加のため別VRMとしては計上しない。 BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。 B33 (2026-10-11): 認証済みBOOTH UIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "brochimanac-julius",
@@ -9585,16 +9585,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/5380991",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "Julius_VRM_1.1.0.zip",
-      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_name": "brochiManac3D_Julius利用規約（VN3 1.2.0）",
       "license_url": "https://booth.pm/ja/items/5380991",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者本人のオリジナル3Dモデル、無料配布物の最上段がVRM専用ZIPと説明。同じ商品ページのFBX、PSD、Unityデータは別レコードとしない。 BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-11",
+      "notes": "正規BOOTHから無料VRM専用ZIPを取得。ZIP 11,598,390 bytes（SHA-256 541b7b7c5603a1d031d7ad2391a0f94a906f1a3808b50a534e7f6e93289919dd）、単一VRMメンバー Julius_VRM_1.1.0/Julius_VRM_1.1.0.vrm。VRM 0.x、60,206,252 bytes、SHA-256 b8b69f70ac936a9186052d79a0e9e62ea820858b0644daa1b6ee3c907cebf343。商品ページ、同梱VN3利用規約 v1.2.0、埋込Other権利URLが一致。個人/法人の商用・非商用利用、改変、プラットフォーム公開可。性的/暴力表現は棲み分け、政治/宗教活動は禁止。再配布は受領者への同規約適用が条件。本件はNAS内保管のみで再配布しない。全身Tポーズと顔を確認し、頭・胴・両腕・両脚・足を視認。NAS保存: models/brochimanac-julius.zip。"
     },
     {
       "id": "zen-ayame-camisole",
@@ -9611,9 +9611,9 @@
       "distribution_filename": "ayame_キャミ.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5476076",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "制作者の無料VRM単体。同梱・別配布のayame_tyakui.vroidはVRoid編集データでVRMとして別計上しない。既登録の『彩瞳 Ayame』とは異なる作者・モデル。 BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "制作者の無料VRM単体。同梱・別配布のayame_tyakui.vroidはVRoid編集データでVRMとして別計上しない。既登録の『彩瞳 Ayame』とは異なる作者・モデル。 BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "tabimaru-original-bird",
@@ -9714,9 +9714,9 @@
       "distribution_filename": "ジョン_ドゥ_黒_.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4927040",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が直接公開する透明人間VRMの独立した色違い。第三者によるパブリックアバター公開禁止、個人アバター利用のみ、法人・商用利用・再配布禁止。まとめ配布ZIPと重複計上しない。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "作者が直接公開する透明人間VRMの独立した色違い。第三者によるパブリックアバター公開禁止、個人アバター利用のみ、法人・商用利用・再配布禁止。まとめ配布ZIPと重複計上しない。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。 B33 (2026-10-11): 正規無料UIから取得して埋込権利を検査した結果、ページ/規約と埋込値が矛盾。取得ファイルは削除しNAS未保存。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "ayasaki-john-doe-white",
@@ -9734,9 +9734,9 @@
       "distribution_filename": "ジョン_ドゥ_白_.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4927040",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が直接公開する透明人間VRMの独立した色違い。第三者によるパブリックアバター公開禁止、個人アバター利用のみ、法人・商用利用・再配布禁止。まとめ配布ZIPと重複計上しない。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が直接公開する透明人間VRMの独立した色違い。第三者によるパブリックアバター公開禁止、個人アバター利用のみ、法人・商用利用・再配布禁止。まとめ配布ZIPと重複計上しない。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "ayasaki-john-doe-red",
@@ -9754,9 +9754,9 @@
       "distribution_filename": "ジョン_ドゥ_赤_.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4927040",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が直接公開する透明人間VRMの独立した色違い。第三者によるパブリックアバター公開禁止、個人アバター利用のみ、法人・商用利用・再配布禁止。まとめ配布ZIPと重複計上しない。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が直接公開する透明人間VRMの独立した色違い。第三者によるパブリックアバター公開禁止、個人アバター利用のみ、法人・商用利用・再配布禁止。まとめ配布ZIPと重複計上しない。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "ayasaki-john-doe-blue",
@@ -9774,9 +9774,9 @@
       "distribution_filename": "ジョン_ドゥ_青_.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4927040",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が直接公開する透明人間VRMの独立した色違い。第三者によるパブリックアバター公開禁止、個人アバター利用のみ、法人・商用利用・再配布禁止。まとめ配布ZIPと重複計上しない。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が直接公開する透明人間VRMの独立した色違い。第三者によるパブリックアバター公開禁止、個人アバター利用のみ、法人・商用利用・再配布禁止。まとめ配布ZIPと重複計上しない。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "ayasaki-john-doe-cyan",
@@ -9794,9 +9794,9 @@
       "distribution_filename": "ジョン_ドゥ_水_.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4927040",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が直接公開する透明人間VRMの独立した色違い。第三者によるパブリックアバター公開禁止、個人アバター利用のみ、法人・商用利用・再配布禁止。まとめ配布ZIPと重複計上しない。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が直接公開する透明人間VRMの独立した色違い。第三者によるパブリックアバター公開禁止、個人アバター利用のみ、法人・商用利用・再配布禁止。まとめ配布ZIPと重複計上しない。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "ayasaki-john-doe-green",
@@ -9814,9 +9814,9 @@
       "distribution_filename": "ジョン_ドゥ_緑_.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4927040",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が直接公開する透明人間VRMの独立した色違い。第三者によるパブリックアバター公開禁止、個人アバター利用のみ、法人・商用利用・再配布禁止。まとめ配布ZIPと重複計上しない。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が直接公開する透明人間VRMの独立した色違い。第三者によるパブリックアバター公開禁止、個人アバター利用のみ、法人・商用利用・再配布禁止。まとめ配布ZIPと重複計上しない。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "ayasaki-john-doe-purple",
@@ -9834,9 +9834,9 @@
       "distribution_filename": "ジョン_ドゥ_紫_.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4927040",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が直接公開する透明人間VRMの独立した色違い。第三者によるパブリックアバター公開禁止、個人アバター利用のみ、法人・商用利用・再配布禁止。まとめ配布ZIPと重複計上しない。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が直接公開する透明人間VRMの独立した色違い。第三者によるパブリックアバター公開禁止、個人アバター利用のみ、法人・商用利用・再配布禁止。まとめ配布ZIPと重複計上しない。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "ayasaki-john-doe-swim-gray",
@@ -9855,9 +9855,9 @@
       "distribution_filename": "ジョン_ドゥ_水着灰_.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5010593",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者の水着アレンジVRM。単体7色とVRMセットZIPを無料公開しており、同一VRMを二重登録しない。個人の利用は許可、法人・商用・再配布・パブリック登録禁止。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "作者の水着アレンジVRM。単体7色とVRMセットZIPを無料公開しており、同一VRMを二重登録しない。個人の利用は許可、法人・商用・再配布・パブリック登録禁止。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。 B33 (2026-10-11): 正規無料UIから取得して埋込権利を検査した結果、ページ/規約と埋込値が矛盾。取得ファイルは削除しNAS未保存。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "ayasaki-john-doe-swim-yellow",
@@ -9876,9 +9876,9 @@
       "distribution_filename": "ジョン_ドゥ_水着黄_.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5010593",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者の水着アレンジVRM。単体7色とVRMセットZIPを無料公開しており、同一VRMを二重登録しない。個人の利用は許可、法人・商用・再配布・パブリック登録禁止。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者の水着アレンジVRM。単体7色とVRMセットZIPを無料公開しており、同一VRMを二重登録しない。個人の利用は許可、法人・商用・再配布・パブリック登録禁止。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "ayasaki-john-doe-swim-purple",
@@ -9897,9 +9897,9 @@
       "distribution_filename": "ジョン_ドゥ_水着紫_.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5010593",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者の水着アレンジVRM。単体7色とVRMセットZIPを無料公開しており、同一VRMを二重登録しない。個人の利用は許可、法人・商用・再配布・パブリック登録禁止。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者の水着アレンジVRM。単体7色とVRMセットZIPを無料公開しており、同一VRMを二重登録しない。個人の利用は許可、法人・商用・再配布・パブリック登録禁止。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "ayasaki-john-doe-swim-cyan",
@@ -9918,9 +9918,9 @@
       "distribution_filename": "ジョン_ドゥ_水着水_.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5010593",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者の水着アレンジVRM。単体7色とVRMセットZIPを無料公開しており、同一VRMを二重登録しない。個人の利用は許可、法人・商用・再配布・パブリック登録禁止。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者の水着アレンジVRM。単体7色とVRMセットZIPを無料公開しており、同一VRMを二重登録しない。個人の利用は許可、法人・商用・再配布・パブリック登録禁止。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "ayasaki-john-doe-swim-blue",
@@ -9939,9 +9939,9 @@
       "distribution_filename": "ジョン_ドゥ_水着青_.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5010593",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者の水着アレンジVRM。単体7色とVRMセットZIPを無料公開しており、同一VRMを二重登録しない。個人の利用は許可、法人・商用・再配布・パブリック登録禁止。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者の水着アレンジVRM。単体7色とVRMセットZIPを無料公開しており、同一VRMを二重登録しない。個人の利用は許可、法人・商用・再配布・パブリック登録禁止。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "ayasaki-john-doe-swim-green",
@@ -9960,9 +9960,9 @@
       "distribution_filename": "ジョン_ドゥ_水着緑_.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5010593",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者の水着アレンジVRM。単体7色とVRMセットZIPを無料公開しており、同一VRMを二重登録しない。個人の利用は許可、法人・商用・再配布・パブリック登録禁止。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者の水着アレンジVRM。単体7色とVRMセットZIPを無料公開しており、同一VRMを二重登録しない。個人の利用は許可、法人・商用・再配布・パブリック登録禁止。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "ayasaki-john-doe-swim-red",
@@ -9981,9 +9981,9 @@
       "distribution_filename": "ジョン_ドゥ_水着赤_.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5010593",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者の水着アレンジVRM。単体7色とVRMセットZIPを無料公開しており、同一VRMを二重登録しない。個人の利用は許可、法人・商用・再配布・パブリック登録禁止。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者の水着アレンジVRM。単体7色とVRMセットZIPを無料公開しており、同一VRMを二重登録しない。個人の利用は許可、法人・商用・再配布・パブリック登録禁止。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "busycreations-dona",
@@ -10001,9 +10001,9 @@
       "distribution_filename": "_オリジナルキャラVRMモデル_ドナ_ドニー.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4180044",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "VRoidとBlender製の作者オリジナル無料テストアバター。ドニーと同じZIPに同梱すると商品名・説明に記載。作者は著作権放棄・再配布可を表明するが、個別GLBのライセンス未確認。公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "VRoidとBlender製の作者オリジナル無料テストアバター。ドニーと同じZIPに同梱すると商品名・説明に記載。作者は著作権放棄・再配布可を表明するが、個別GLBのライセンス未確認。公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B33 (2026-10-11): 認証済みBOOTH UIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "busycreations-donny",
@@ -10021,9 +10021,9 @@
       "distribution_filename": "_オリジナルキャラVRMモデル_ドナ_ドニー.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/4180044",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "ドナとは別キャラでポリゴン数も異なると作者が説明。ZIP内部の実ファイル名・VRM仕様版は未確認。公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "ドナとは別キャラでポリゴン数も異なると作者が説明。ZIP内部の実ファイル名・VRM仕様版は未確認。公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B33 (2026-10-11): 認証済みBOOTH UIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "kagekin-nikuneko-fresh",
@@ -10141,9 +10141,9 @@
       "distribution_filename": "nanami_v1.0.vrm",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/7753385",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者ショップが0円の直接VRMとして公開し、VRM0形式と記載。商品規約に別キャラクター名が混在するため適用規約の精査を残す。無料の.vroid形式は同一キャラとして除外。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者ショップが0円の直接VRMとして公開し、VRM0形式と記載。商品規約に別キャラクター名が混在するため適用規約の精査を残す。無料の.vroid形式は同一キャラとして除外。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "tadapan-lowpoly-panda",
@@ -10265,9 +10265,9 @@
       "distribution_filename": "Quest_20240515.vrm",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/5718823",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が同一モデルのVRChat Unitypackageとは別に無料のQuest向け直接VRMを配布。作者自身はQuest実機で未検証と明記。VRoid Studio/AvatarSample_Cの一部テクスチャ由来ライセンスを参照。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が同一モデルのVRChat Unitypackageとは別に無料のQuest向け直接VRMを配布。作者自身はQuest実機で未検証と明記。VRoid Studio/AvatarSample_Cの一部テクスチャ由来ライセンスを参照。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "siroihakumai-savi-default",
@@ -10344,9 +10344,9 @@
       "distribution_filename": "Tomboy.vrm",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/8675244",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "無料VRMと無料VRoidファイルを作者が別配布。商用・配信・改変可、再販売・共有は禁止。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "無料VRMと無料VRoidファイルを作者が別配布。商用・配信・改変可、再販売・共有は禁止。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "pixellangel-dolly-devil",
@@ -10382,9 +10382,9 @@
       "distribution_filename": "VROID_AND_VRM_FILES.zip",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/8024833",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "0円のVRoid+VRM同梱ZIP。制作者は『not rigged』と案内しており、動作適合性は別途要検証。テクスチャのみの無料ZIPを別件としない。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "0円のVRoid+VRM同梱ZIP。制作者は『not rigged』と案内しており、動作適合性は別途要検証。テクスチャのみの無料ZIPを別件としない。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。 B33 (2026-10-11): 認証済みBOOTH UIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "junebunnyyy-blue-panda",
@@ -10394,16 +10394,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/5391496",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "BasicBluePanda.vrm",
-      "license_name": "配布者BOOTH商品ページ掲載の利用条件",
-      "license_url": "https://booth.pm/ja/items/5391496",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者による¥0の直接VRM。編集可能なVRoidファイルは有料のため除外。再配布不可、クレジット要請あり、無料版の改変は制限。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。"
+      "license_name": "作者BOOTH条件と埋込VRoid Hubライセンス",
+      "license_url": "https://hub.vroid.com/license?allowed_to_use_user=everyone&characterization_allowed_user=everyone&corporate_commercial_use=disallow&credit=necessary&modification=disallow&personal_commercial_use=disallow&redistribution=disallow&sexual_expression=disallow&version=1&violent_expression=disallow",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-11",
+      "notes": "正規BOOTH UIからBasicBluePanda.vrmを取得・検査。VRM 0.x、16,942,328 bytes、SHA-256 41430aff0d308f650c2d3af463ce03015a17377bc31b12ea50334b1fc59893d3。BOOTH条件はcredit必須・改変/再配布不可。埋込VRoid HubライセンスはEveryone/アバター利用可、商用利用・改変・再配布・性的/暴力表現不可、credit必須。非商用の私的ローカル保管に限定し、外部共有・商用利用・改変をしない。無料VRoid編集ファイルは別料金のため取得せず。生成Tポーズ/顔の全身形状・正面画角を確認し、models/junebunnyyy-blue-panda.zipとWebP2枚をNASへ保存。"
     },
     {
       "id": "junebunnyyy-soft-rabbit",
@@ -10420,9 +10420,9 @@
       "distribution_filename": "SoftRabbit.vrm",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/5415963",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者による¥0の直接VRM。編集可能なVRoidファイルは有料のため除外。再配布不可、クレジット要請あり、無料版の改変は制限。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "作者による¥0の直接VRM。編集可能なVRoidファイルは有料のため除外。再配布不可、クレジット要請あり、無料版の改変は制限。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。 B33 (2026-10-11): 正規無料UIから取得して埋込権利を検査した結果、ページ/規約と埋込値が矛盾。取得ファイルは削除しNAS未保存。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "junebunnyyy-honey-bear",
@@ -10439,9 +10439,9 @@
       "distribution_filename": "BasicHoneyBearModel.vrm",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/5391506",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者による¥0の直接VRM。編集可能なVRoidファイルは有料のため除外。再配布不可、クレジット要請あり、無料版の改変は制限。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者による¥0の直接VRM。編集可能なVRoidファイルは有料のため除外。再配布不可、クレジット要請あり、無料版の改変は制限。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "junebunnyyy-pink-cat",
@@ -10458,9 +10458,9 @@
       "distribution_filename": "BasicPinkCat.vrm",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/5396966",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者による¥0の直接VRM。編集可能なVRoidファイルは有料のため除外。再配布不可、クレジット要請あり、無料版の改変は制限。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者による¥0の直接VRM。編集可能なVRoidファイルは有料のため除外。再配布不可、クレジット要請あり、無料版の改変は制限。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "wondrous21-diamond",
@@ -10477,9 +10477,9 @@
       "distribution_filename": "Diamond.vrm",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/4466505",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が無料の直接VRMファイルとして個別掲載。クレジットを商品ページに求めるモデルあり。再投稿・再配布禁止を明記する例があるため各商品条件を参照。眼鏡の有無は別VRMとして区別。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。"
+      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "作者が無料の直接VRMファイルとして個別掲載。クレジットを商品ページに求めるモデルあり。再投稿・再配布禁止を明記する例があるため各商品条件を参照。眼鏡の有無は別VRMとして区別。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。 B33 (2026-10-11): 正規無料UIから取得して埋込権利を検査した結果、ページ/規約と埋込値が矛盾。取得ファイルは削除しNAS未保存。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "wondrous21-cesilia",
@@ -10496,9 +10496,9 @@
       "distribution_filename": "Cesilia.vrm",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/4156760",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が無料の直接VRMファイルとして個別掲載。クレジットを商品ページに求めるモデルあり。再投稿・再配布禁止を明記する例があるため各商品条件を参照。眼鏡の有無は別VRMとして区別。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が無料の直接VRMファイルとして個別掲載。クレジットを商品ページに求めるモデルあり。再投稿・再配布禁止を明記する例があるため各商品条件を参照。眼鏡の有無は別VRMとして区別。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "wondrous21-astera",
@@ -10515,9 +10515,9 @@
       "distribution_filename": "astera.vrm",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/4370874",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が無料の直接VRMファイルとして個別掲載。クレジットを商品ページに求めるモデルあり。再投稿・再配布禁止を明記する例があるため各商品条件を参照。眼鏡の有無は別VRMとして区別。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が無料の直接VRMファイルとして個別掲載。クレジットを商品ページに求めるモデルあり。再投稿・再配布禁止を明記する例があるため各商品条件を参照。眼鏡の有無は別VRMとして区別。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "wondrous21-cinna",
@@ -10534,9 +10534,9 @@
       "distribution_filename": "Cinna.vrm",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/4646885",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が無料の直接VRMファイルとして個別掲載。クレジットを商品ページに求めるモデルあり。再投稿・再配布禁止を明記する例があるため各商品条件を参照。眼鏡の有無は別VRMとして区別。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が無料の直接VRMファイルとして個別掲載。クレジットを商品ページに求めるモデルあり。再投稿・再配布禁止を明記する例があるため各商品条件を参照。眼鏡の有無は別VRMとして区別。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "wondrous21-mari",
@@ -10553,9 +10553,9 @@
       "distribution_filename": "Mari.vrm",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/4507087",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が無料の直接VRMファイルとして個別掲載。クレジットを商品ページに求めるモデルあり。再投稿・再配布禁止を明記する例があるため各商品条件を参照。眼鏡の有無は別VRMとして区別。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が無料の直接VRMファイルとして個別掲載。クレジットを商品ページに求めるモデルあり。再投稿・再配布禁止を明記する例があるため各商品条件を参照。眼鏡の有無は別VRMとして区別。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "wondrous21-fran",
@@ -10572,9 +10572,9 @@
       "distribution_filename": "Fran.vrm",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/4130101",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が無料の直接VRMファイルとして個別掲載。クレジットを商品ページに求めるモデルあり。再投稿・再配布禁止を明記する例があるため各商品条件を参照。眼鏡の有無は別VRMとして区別。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が無料の直接VRMファイルとして個別掲載。クレジットを商品ページに求めるモデルあり。再投稿・再配布禁止を明記する例があるため各商品条件を参照。眼鏡の有無は別VRMとして区別。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "wondrous21-rex",
@@ -10591,9 +10591,9 @@
       "distribution_filename": "Rex.vrm",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/4056449",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が無料の直接VRMファイルとして個別掲載。クレジットを商品ページに求めるモデルあり。再投稿・再配布禁止を明記する例があるため各商品条件を参照。眼鏡の有無は別VRMとして区別。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が無料の直接VRMファイルとして個別掲載。クレジットを商品ページに求めるモデルあり。再投稿・再配布禁止を明記する例があるため各商品条件を参照。眼鏡の有無は別VRMとして区別。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "wondrous21-mimi",
@@ -10610,9 +10610,9 @@
       "distribution_filename": "Mimi.vrm",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/4050278",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が無料の直接VRMファイルとして個別掲載。クレジットを商品ページに求めるモデルあり。再投稿・再配布禁止を明記する例があるため各商品条件を参照。眼鏡の有無は別VRMとして区別。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が無料の直接VRMファイルとして個別掲載。クレジットを商品ページに求めるモデルあり。再投稿・再配布禁止を明記する例があるため各商品条件を参照。眼鏡の有無は別VRMとして区別。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "wondrous21-soft-kitty",
@@ -10629,9 +10629,9 @@
       "distribution_filename": "Soft_Kitty.vrm",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/4220966",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が無料の直接VRMファイルとして個別掲載。クレジットを商品ページに求めるモデルあり。再投稿・再配布禁止を明記する例があるため各商品条件を参照。眼鏡の有無は別VRMとして区別。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が無料の直接VRMファイルとして個別掲載。クレジットを商品ページに求めるモデルあり。再投稿・再配布禁止を明記する例があるため各商品条件を参照。眼鏡の有無は別VRMとして区別。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "wondrous21-cell-glasses",
@@ -10688,9 +10688,9 @@
       "distribution_filename": "six.vrm",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/4147351",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が無料の直接VRMファイルとして個別掲載。クレジットを商品ページに求めるモデルあり。再投稿・再配布禁止を明記する例があるため各商品条件を参照。眼鏡の有無は別VRMとして区別。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が無料の直接VRMファイルとして個別掲載。クレジットを商品ページに求めるモデルあり。再投稿・再配布禁止を明記する例があるため各商品条件を参照。眼鏡の有無は別VRMとして区別。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "wondrous21-maroo",
@@ -10707,9 +10707,9 @@
       "distribution_filename": "Maroo.vrm",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/4021658",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者が無料の直接VRMファイルとして個別掲載。クレジットを商品ページに求めるモデルあり。再投稿・再配布禁止を明記する例があるため各商品条件を参照。眼鏡の有無は別VRMとして区別。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。"
+      "verification": "rights_unverified_hold",
+      "checked_at": "2026-10-11",
+      "notes": "作者が無料の直接VRMファイルとして個別掲載。クレジットを商品ページに求めるモデルあり。再投稿・再配布禁止を明記する例があるため各商品条件を参照。眼鏡の有無は別VRMとして区別。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。 B33 (2026-10-11): BOOTHの認証済みUIでページを再確認したが、年齢・利用許諾・適用規約・権利範囲の不明または懸念により未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "youkihi-long-black-hair",
@@ -10745,9 +10745,9 @@
       "distribution_filename": "FreshWomanSet.zip",
       "license_name": "配布者BOOTH商品ページ掲載の利用条件",
       "license_url": "https://booth.pm/ja/items/3823494",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者がVRoid Studioで制作した暫定版を無料のVRM+サンプル画像ZIPとして公開。ZIP内の実VRMファイル名・仕様版は未検証。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。"
+      "verification": "official_product_page_scope_excluded_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "作者がVRoid Studioで制作した暫定版を無料のVRM+サンプル画像ZIPとして公開。ZIP内の実VRMファイル名・仕様版は未検証。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。 B33 (2026-10-11): 商品ページ/配布範囲を再確認し、VRM単体の対象範囲外として未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "youkihi-businessman",
@@ -10884,9 +10884,9 @@
       "distribution_filename": "SatakeNagisa_0.4.zip",
       "license_name": "作者・権利者が案内する利用規約",
       "license_url": "https://drive.google.com/file/d/14U15diGcYLZ69mFis9sv4-Ge71rjD29v/view",
-      "verification": "official_free_download_auth_required",
-      "checked_at": "2026-10-10",
-      "notes": "作者のオリジナル。無料版内容物にVRMファイルを明記。EX版のギミックやおまけを別アバターとして計上しない。VN3規約を参照。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。"
+      "verification": "official_product_page_scope_excluded_not_archived",
+      "checked_at": "2026-10-11",
+      "notes": "作者のオリジナル。無料版内容物にVRMファイルを明記。EX版のギミックやおまけを別アバターとして計上しない。VN3規約を参照。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。 B33 (2026-10-11): 商品ページ/配布範囲を再確認し、VRM単体の対象範囲外として未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。"
     },
     {
       "id": "chicken-stickman",

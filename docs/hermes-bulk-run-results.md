@@ -645,3 +645,15 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - NASは480 ZIP・960 WebP、未圧縮VRM 3,803,310,921 bytes、ZIP 2,115,806,978 bytes、WebP 14,979,780 bytes、削減率44.3693%。`verify_nas.py`は`ok:true`、`errors:[]`、formats `zip`。index SHA-256は`0164d6e60fefed0c8314a7fe39bbe29c17dd6dfc6f35e8ef39141e3a000d6608`。baseline時刻以前に保存済みの355行を現在indexから再構成したSHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`でbaselineと一致。
 - BOOTH累計は183商品ページ、取得ID227、物理VRM検査245、NAS新規125、権利矛盾81、権利未確認57、対応未確定8、認証待ち234、HTTP 429 0。797件の排他的内訳はNAS保存150、実バイナリ非人型8、作者索引非人型1、埋込権利矛盾111、許諾未確認90、モデル対応未確定8、VRM-only範囲外4、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち234、VRoid Hub認証待ち16、公式ページ認証未確認1、404 3、VRoid Studioエクスポート専用23、公式メタデータのみ3、公式リポジトリのみ2（合計797）。形状選別は人型572、非人型238、未判定487。
 - ローカルcheckpointは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261011-32.json`。GitHub Actions/RDCは不使用。
+
+## 2026-10-11 BOOTH認証済み追加バッチ33
+
+- 開始時mainは`507e6d76d4f62dbf11f3721fce21bef40ef4cb4f`。B33専用workerは実行中でなく、NAS索引、archive記録、正本JSONの89状態遷移を突合した。遷移IDとJSON変更IDは89件で一致し、status不一致は0件。
+- ログイン済みBOOTHセッションで67商品ページを確認し、正規無料UI操作16回、取得catalog ID16件、物理VRM16件を検査した。取得転送量は213,408,944 bytes、HTTP 429は0。
+- 89件の遷移内訳：埋込権利と商品ページ条件の矛盾12、rights-unverified 69（私的保管/プレビュー許諾範囲不明12、年齢/内容懸念55、権利・規約不明2）、配布範囲外4（商品ページだけで範囲外を確認3、混合編集素材ZIPを検査1）、ID対応不明1、権利と形状確認を通過したNAS保存3。別途の`official_free_download_auth_required_not_verified` 1件はこの89件に含めず、未検証のまま維持。
+- 権利矛盾12件のうち2件は、埋込`allowedUserName=Everyone`と商品ページの個人アバター限定・公開アップロード禁止が整合せず、取得物を描画前に削除。残る矛盾品も埋込`OnlyAuthor`/商用利用禁止等とページ・配布許可が両立しないため保管していない。保留・範囲外品のVRM/ZIP/プレビューはNASへ保存していない。
+- 新規NAS保存は`junebunnyyy-blue-panda`、`brochimanac-julius`、`pike-steam-punk-cat`。各ZIPの単一`model.vrm`を展開してSHA-256を照合し、Tポーズ/顔WebPのindex hashも実体と一致。3件すべてreadback成功。
+- B33後のNASは483 ZIP・966 WebP、未圧縮VRM 3,899,265,521 bytes、ZIP 2,148,721,691 bytes、削減1,750,543,830 bytes（44.8942%）、WebP15,091,308 bytes。`verify_nas.py`は`ok:true`、`errors:[]`、index SHA-256は`e6f596f51eb8c1a94c148141c7f261f4b702430de45ebdca318b86ddbe8e4c36`。B33新規3行を除いた開始時480行はSHA-256`0164d6e60fefed0c8314a7fe39bbe29c17dd6dfc6f35e8ef39141e3a000d6608`と一致。新規128 IDを除いた保護対象355行はbaseline SHA-256`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`と一致。
+- 作業機のB33 scratch 15ファイル（133,932,317 bytes）はNAS readback後に削除し不存在を確認。`tools/vrm-preview/node_modules/`はnpm生成マーカー付き・Git未追跡と確認して削除。Cookie、パスワード、認証トークン、認証付き一時URLは記録していない。
+- 累計（pilot＋B01–B33）は商品ページ250、無料取得ID243、物理VRM検査261、NAS新規128、権利矛盾93、許諾未確認126、対応未確定9、HTTP 429 0。R1/R2/R3以外の797件の排他的内訳はNAS保存153、実バイナリ非人型8、作者索引非人型1、埋込権利矛盾123、許諾未確認159、モデル対応未確定9、配布範囲外8、別host拒否2、`dweb.link`ブロック/未試行141、BOOTH認証待ち145、別途BOOTH未検証1、VRoid Hub認証待ち16、ページ404 3、VRoid Studioエクスポート専用23、公式メタデータのみ3、公式リポジトリのみ2（合計797）。形状選別は人型575・非人型238・未判定484。
+- `scripts/validate.py`は1,297件一意・scope 575/238/484で成功。既存unittest 5件成功、`git diff --check`成功。GitHub Actions/RDCは使用していない。

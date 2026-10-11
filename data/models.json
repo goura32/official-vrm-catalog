@@ -8521,7 +8521,7 @@
       "license_url": "https://booth.pm/ja/items/5167120",
       "verification": "rights_unverified_hold",
       "checked_at": "2026-10-11",
-      "notes": "インナーカラーの魔女セット。blue/redの独立VRM有無は未確認。 作者ページで無料VRMと記載し、有料版のフルセットと区別。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。 2026-10-11 authenticated page lists blue/red variants plus VRM, PSD, and textures in the single free offer; mixed editable-source scope excluded without download. B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: No explicit adulthood evidence in the retained product-page record; do not infer age from name, height, clothing, or appearance. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
+      "notes": "2026-10-11公式BOOTH/作者ページを再確認。0円ZIPのDLは規約同意とみなされ、商品説明はblue/redとVRM・PSD・textureを列挙、作者記事は無料版にモデル本体/髪型を含むと説明。規約は商品を使うモデル等の無料・商用利用/成果配布を認める一方、元データのそのまま再配布を禁止し、改変データ再配布は相談、credit表記と利用者によるbackupを求める。年齢記載/実ゲートは確認できず、未記載だけで中立・非性的構造検査を止めない。ただしblue/redの独立VRM数・内部memberとcatalog IDの対応、実形状/Tポーズは未確認。規約に構造検査目的の許諾は明記されないため可否を推測しない。DLは規約同意を伴うため今回はクリック・同意・取得なし。rights_unverified_holdを維持し、NAS未保存。"
     },
     {
       "id": "pike-snowflake",

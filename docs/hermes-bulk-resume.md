@@ -1,17 +1,17 @@
 # Hermes Agent 一括実機継続指示（BOOTH認証済みChromeプロファイル）
 
-本指示は2026-10-11のHermes実機確認に基づく。新規取得作業の開始時は必ず`origin/main`をfetchし、最新main・NAS索引・ローカルcheckpointを先に確認する。B33は`507e6d76d4f62dbf11f3721fce21bef40ef4cb4f`から実行し、commit/push・NAS監査・既存355件照合・作業物整理を完了。B34は145状態遷移を記録した部分実績で、BOOTH認証待ちは0 ID。B35では混合ZIP41 ID/35商品を再評価し、物理VRM対応不明14 IDを既存記録と照合した。B36では権利/保存を別軸に整理し、NASアクセス設定を読み取り専用で調査。B38ではKizuna AI 2件を再評価し、1件を権利未確認へ再分類。B39ではSony RAYNOS 3件のEULAを確認したが権利status/countsは変更なし。現行集計は権利矛盾129、利用条件等未確認238。NASは487 ZIP/974 WebPだが、NFSv3 `sec=sys`と0777親ディレクトリのため第三者隔離は未確認。NAS管理者の確認まで新規NAS保存を停止する。詳細は後続のB35/B36/B38/B39節を参照。年齢設定の未記載だけを中立・非性的検査の禁止理由にしない。
+本指示は2026-10-11のHermes実機確認に基づく。新規取得作業の開始時は必ず`origin/main`をfetchし、最新main・NAS索引・ローカルcheckpointを先に確認する。B33は`507e6d76d4f62dbf11f3721fce21bef40ef4cb4f`から実行し、commit/push・NAS監査・既存355件照合・作業物整理を完了。B34は145状態遷移を記録した部分実績で、BOOTH認証待ちは0 ID。B35では混合ZIP41 ID/35商品を再評価し、物理VRM対応不明14 IDを既存記録と照合した。B36では権利/保存を別軸に整理し、NASアクセス設定を読み取り専用で調査。B38ではKizuna AI 2件を再評価し、1件を権利未確認へ再分類。B39ではSony RAYNOS 3件のEULAを確認したが権利status/countsは変更なし。B40ではpike-moon-nightの年齢未記載を中立検査の停止理由から外し、member/形状・取得同意のholdを維持した。現行集計は権利矛盾129、利用条件等未確認238。NASは487 ZIP/974 WebPだが、NFSv3 `sec=sys`と0777親ディレクトリのため第三者隔離は未確認。NAS管理者の確認まで新規NAS保存を停止する。詳細は後続のB35/B36/B38〜B40節を参照。年齢設定の未記載だけを中立・非性的検査の禁止理由にしない。
 
 ## 状況：認証障壁が部分的に解消
 
 ユーザーがChromeに正規ログインし、Hermesは`browser.use_real_profile: true`、実プロファイルをコピーしたローカルブラウザーセッション`booth-real-profile-local-2`を起動できた。BOOTHトップページでログイン済みアカウントメニューを画面確認。カタログID `pixellangel-dolly-devil` のパイロットは2026-10-10に実取得・検査・Tポーズ/顔確認・NAS保存まで完了。パイロット後にBOOTH認証済み32バッチを実施した。パスワード・Cookie・トークン・認証付き一時ダウンロードURLは表示、記録、リポジトリ追加、チャット出力を禁止。Cookieを手動抽出・curl等へ転送して認証を代用しない。
 
-**現在の実績（2026-10-11、B39時点）**：
+**現在の実績（2026-10-11、B40時点）**：
 - カタログ計1,297件。R1/R2/R3以外の797件は、NAS保存157、非人型68（実体8・作者索引1・商品ページ59）、埋込権利矛盾129、年齢/利用条件等の未確認238、モデル対応未確定14、混合ZIPのみを理由とした範囲外0、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち0、別途未検証1（ENRAI燕・note.com会員登録ゲート）、VRoid Hub認証待ち16、商品ページ404 3、VRoid Studioエクスポート専用23、公式メタデータ/リポジトリのみ5。合計797。
 - B35は41 ID/35商品を再評価し、3 IDを2商品の正規無料混合ZIPからVRMのみ抽出して保存、9 IDを既存レンダー根拠で非人型、29 IDを独立根拠不足で保留とした。B36ではそのうち`pike-aurora`の中立Tポーズ/顔をローカル確認したがNAS隔離未確認のため未保存、`pike-steam-rabbit`はプレビュー条件未達で未保存。年齢未記載だけは停止理由としない。14 IDは既存検査記録と照合したが一対一マッピングは0件で、14すべて対応不明のまま維持。
 - NASは487 ZIP・974 WebP、未圧縮VRM 3,925,815,073 bytes、ZIP 2,168,476,533 bytes、WebP 15,210,140 bytes、削減率44.7637%。`verify_nas.py`は`ok:true, errors:[]`。B35開始時484行の索引SHA群は全行一致し、旧355件の保護対象SHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`で不変。
 - B33 checkpointは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261011-33.json`。B34 checkpointは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261011-34.json`（`batch34_checkpointed_partial`）。B35 checkpointは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-mixed-zip-batch-20261011-35.json`。権利/年齢保留・保存済みIDは新しい根拠なしに再取得しない。
-- B36ではNASファイル・索引を書き換えていない。B38の権利再分類とB39のSony EULA確認もカタログメタデータ・文書だけで、NASファイル・索引・権限に変更なし。`collection-policy.md`の「年齢未記載だけで中立技術検査を止めない」方針と[NAS読み取り専用監査](nas-storage.md)を優先する。487件の既存保存は保持し、第三者アクセスを排除できると確認されるまで新規保存しない。
+- B36ではNASファイル・索引を書き換えていない。B38〜B40の権利再評価もカタログメタデータ・文書だけで、NASファイル・索引・権限に変更なし。`collection-policy.md`の「年齢未記載だけで中立技術検査を止めない」方針と[NAS読み取り専用監査](nas-storage.md)を優先する。487件の既存保存は保持し、第三者アクセスを排除できると確認されるまで新規保存しない。
 
 ## B35結果：混合ZIP再評価と対応不明ID照合
 

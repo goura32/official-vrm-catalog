@@ -5298,11 +5298,11 @@
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "kotatsumikan.zip",
-      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_name": "Shounokoto VN3 license (in-package; Japanese original)",
       "license_url": "https://booth.pm/ja/items/6686224",
       "verification": "rights_unverified_hold",
-      "checked_at": "2026-10-11",
-      "notes": "作者がVRMモデルの0円ZIPを公開。作者はVRMからVRChatへ変換した旨を記載。商用・改変可。詳細ライセンスは配布ZIP内。公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B33 (2026-10-11): 商品ページ/配布範囲を再確認し、VRM単体の対象範囲外として未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。 B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: No explicit adulthood evidence in the retained product-page record; do not infer age from name, height, clothing, or appearance. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
+      "checked_at": "2026-10-13",
+      "notes": "作者がVRMモデルの0円ZIPを公開。作者はVRMからVRChatへ変換した旨を記載。商用・改変可。詳細ライセンスは配布ZIP内。公式商品ページで0円のVRM配布を確認。実ダウンロード・ZIP内部解析は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B33 (2026-10-11): 商品ページ/配布範囲を再確認し、VRM単体の対象範囲外として未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。 B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: No explicit adulthood evidence in the retained product-page record; do not infer age from name, height, clothing, or appearance. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment). B49 (2026-10-13): Official BOOTH item 6686224 ZIP was retrieved once to review the included Japanese VN3 license. Archive SHA-256 247d76ebea57ee3372a8653a27fd94dd05d6f374f2b8c3faad84f256d686131c; one VRM member was listed but not extracted, parsed, rendered, or mapped to this catalog ID. The license permits individual/corporate commercial and noncommercial use and copying within scope; unmodified redistribution is prohibited, which alone is not a private-storage ban. Article 2(6) requires prior explicit permission for uses not described. Neutral private structural inspection and long-term local retention are not expressly specified, so keep rights_unverified_hold; missing character age is not the blocker. The terms deem download to be agreement and require prior guardian consent for minor users; the user's age/consent status was not verified. Scratch ZIP/PDF binaries were removed; no NAS write. See B49 in docs/hermes-bulk-run-results.md."
     },
     {
       "id": "hiyoriya-miu-standard",

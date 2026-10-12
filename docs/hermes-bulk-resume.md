@@ -1,10 +1,10 @@
 # Hermes Agent 一括実機継続指示（BOOTH認証済みChromeプロファイル）
 
-本指示は2026-10-13のB48実機確認に基づく。新規取得作業の開始時は必ず`origin/main`をfetchし、最新main・NAS索引・ローカルcheckpointを先に確認する。B33〜B47の履歴とB48詳細は`docs/hermes-bulk-run-results.md`を参照する。
+本指示は2026-10-13のB49確認に基づく。新規取得作業の開始時は必ず`origin/main`をfetchし、最新main・NAS索引・ローカルcheckpointを先に確認する。B33〜B48の履歴とB49詳細は`docs/hermes-bulk-run-results.md`を参照する。
 
-B48ではB35 hold `lillian-nanaka`（BOOTH item6259209）の正規無料ZIPを一時取得し、2つのVRM memberとmetadataを検査。標準`ななか.vrm`を既存IDへ商品名/metadata titleで対応し、血のりなしmemberの中立Tポーズ/顔で人型形状を確認した。別memberに新IDは推測で割り当てず、年齢も推定しない。非公開技術検査用の複製/保管条件が明記されないため`rights_unverified_hold`を維持し、NAS未保存。形状予備分類は603/230/464、権利矛盾130・利用条件等未確認235・NAS隔離hold2、物理対応不明14、B35 hold29は全件未アーカイブ。
+B49ではB35 hold `shounokoto-kotatsu-mikan`（BOOTH item6686224）の公式無料ZIPを一時取得して同梱VN3規約を確認。個人/法人の営利・非営利利用と許諾範囲内の複製は認められるが、規約外利用には事前の明示許諾が必要。未改変再配布禁止は保存禁止とは同義でないものの、私的な中立構造検査/長期保管の明示許諾は確認できず`rights_unverified_hold`を維持。ページにモデル年齢/ゲートはなく、年齢不記載を理由に保留していない。規約上ダウンロードは同意とみなされ、未成年者は事前の法定代理人同意が必要だが、利用者側条件は未確認。VRM memberは抽出・metadata検査・描画せず、ZIP/PDFをscratchから削除。B35 hold29は全件未アーカイブ。形状603/230/464、権利矛盾130・利用条件等未確認235・NAS隔離hold2、物理対応不明14は不変。
 
-B48 NAS read-only auditは487 ZIP/974 WebP、`verify_nas.py` `ok:true`/`errors:[]`、ZIP bytes 2,168,476,533。index 548,641 bytes/SHA-256 `0bf57c18c66a14caaa79578f8865f2d8242df49a4a2e7cb7b68e19c7c1ec3a9f`。root/models/previews 0777、index 0600、`.index.lock` 0 bytes/mode 000、named/default ACLなし。NFSv3 `rw,sec=sys,local_lock=none`。`showmount -e`はtarget exportを含む3 exportsがprivate IPv4 /24に限られwildcardなしと表示したが、これは第三者/ユーザー隔離を証明しない。NAS server ACL、UID/GID mapping、squash、個別client allowlist、実効lock制御は未確認。権限変更は行わず、新規保存停止を継続する。年齢設定未記載だけを中立・非性的検査の禁止理由にしない。
+B49 NAS read-only auditは487 ZIP/974 WebP、`verify_nas.py` `ok:true`/`errors:[]`、ZIP bytes 2,168,476,533。index 548,641 bytes/SHA-256 `0bf57c18c66a14caaa79578f8865f2d8242df49a4a2e7cb7b68e19c7c1ec3a9f`。root/models/previews 0777、index 0600、`.index.lock` 0 bytes/mode 000、named/default ACLなし。NFSv3 `rw,sec=sys,local_lock=none`。`showmount -e`はtarget exportを含む3 exportsがprivate IPv4 /24に限られwildcardなしと表示したが、これは第三者/ユーザー隔離を証明しない。NAS server ACL、UID/GID mapping、squash、個別client allowlist、実効lock制御は未確認。NASの既存資産/権限は変更せず、新規保存停止を継続する。年齢設定未記載だけを中立・非性的検査の禁止理由にしない。
 
 ## 状況：認証障壁が部分的に解消
 

@@ -1,6 +1,6 @@
-# 登録凍結・人型ダウンロード選別レビュー（2026-10-09、2026-10-12 B34/B35/B43/B44/B45更新）
+# 登録凍結・人型ダウンロード選別レビュー（2026-10-09、2026-10-12 B34/B35/B43/B44/B45/B46更新）
 
-**最新の完成判定・残件**：B45後は登録1,297件／NAS487 ZIP・974 WebP／BOOTH認証待ち0件。形状予備分類は人型候補602・非人型230・未判定465。B35の混合ZIP41 ID/35商品は保存3、非人型9、根拠不足hold29。B43/B44/B45では`jima-muscle-mantis`/`jima-muscle-pigeon`/`kumayui-kumano-yucha`を公式無料配布物から一時検査し、物理VRMとのID対応と人型全身形状を確認して人型候補へ移したが、私的保存条件は未確認のためrights hold・NAS未保存。物理VRM対応不明14 IDの別リストに3 IDは含まれず、14件は全件保留のまま。本書内のB34/B35小計は履歴値であり、最新スナップショットと混同しない。詳細は[B35/B43/B44/B45実機結果](hermes-bulk-run-results.md)と[完成条件](completion-criteria.md)。
+**最新の完成判定・残件**：B46後は登録1,297件／NAS487 ZIP・974 WebP／BOOTH認証待ち0件。形状予備分類は人型候補602・非人型230・未判定465。B35の混合ZIP41 ID/35商品は保存3、非人型9、未アーカイブhold29。B43/B44/B45の`jima-muscle-mantis`/`jima-muscle-pigeon`/`kumayui-kumano-yucha`は権利未確認hold。B46 `youkihi-recruit-suit`は埋込CC_BYの複製許諾を確認し、権利未確認236からNAS隔離未確認1へ区分を分離した。NAS隔離が確認できないため同IDも未保存。対応不明14 IDの別リストにこれら4 IDは含まれず、14件は全件保留のまま。詳細は[B35/B43/B44/B45/B46実機結果](hermes-bulk-run-results.md)と[完成条件](completion-criteria.md)。
 
 ## 結論
 
@@ -183,3 +183,9 @@ VRMバイナリを取得することなく、公開作者データから次の�
 - B35で混合ZIP/年齢「？？？」として保留された`kumayui-kumano-yucha`を、公式BOOTHの¥0 UIから再確認。単一の物理VRM member `熊野ゆちゃ/熊野ゆちゃ.vrm`を本IDへ一対一対応させ、VRM 0.xをローカルで検査した。ページはPNG 2点を列挙するが実ZIPには1点のみで、他に`.vroid`とUnitypackageを含む。混合ZIPというだけで対象外とはしない。
 - metadataとページ規約は、個人/金銭目的の商用利用可・改変可と再配布禁止の軸で整合。年齢は明示的にunknownだが年齢ゲートはなく、中立・非性的なTポーズ/顔を検査した。頭・胴・両腕・両脚が見える人型形状を根拠に`download-scope`へ追加し、候補数を602/230/465へ更新。
 - 私的な非公開技術検査・長期保管条件は明記されず、許可/禁止を推測せず`rights_unverified_hold`を維持。NAS未保存。権利矛盾130・利用条件等未確認237、B35 hold29、mapping不明14はいずれも変化なし。
+
+## 2026-10-12 B46：Youkihi Recruit Suitのライセンス・形状確認
+
+- B35 holdの`youkihi-recruit-suit`を公式¥0 BOOTH UIから取得。ZIP内唯一の`FreshWomanSet/FreshWoman.vrm`を本IDへ対応させ、neutral Tポーズ/顔を確認した。年齢や年齢ゲートの記載はなく、年齢を推定せず非性的検査を実施。
+- 商品ページに作者独自の使用制限は見当たらず、VRM metadataの`licenseName=CC_BY`は公式VRM metadata仕様のCC BY 4.0へ対応。CC BY 4.0は複製・共有・改変を帰属表示条件で許諾するため、私的技術検査用コピーを禁止とも未許諾とも扱わない。これは肯定的なlicenseNameに基づく判断であり、無禁止からの推測ではない。
+- 形状は人物型と確認し、既存の`humanoid_candidates`分類を物理検証で補強（scope件数変更なし）。ライセンス複製許諾は確認したが、NASの実効的な第三者隔離は未確認のため`official_binary_inspected_humanoid_render_confirmed_nas_privacy_hold`へ分離し、NAS未保存。権利矛盾130・利用条件等未確認236・NAS隔離hold1。

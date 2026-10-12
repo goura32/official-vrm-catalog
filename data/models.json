@@ -10738,16 +10738,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/3823494",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "FreshWomanSet.zip",
-      "license_name": "配布者BOOTH商品ページ掲載の利用条件",
-      "license_url": "https://booth.pm/ja/items/3823494",
-      "verification": "rights_unverified_hold",
-      "checked_at": "2026-10-11",
-      "notes": "作者がVRoid Studioで制作した暫定版を無料のVRM+サンプル画像ZIPとして公開。ZIP内の実VRMファイル名・仕様版は未検証。 公開された商品ページで¥0のVRM配布案内を確認。実ダウンロード・ファイル内部・レンダリングは未確認。 B33 (2026-10-11): 商品ページ/配布範囲を再確認し、VRM単体の対象範囲外として未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。 B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: Page title identifies a girl/woman but gives no explicit age; do not infer from role or appearance. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
+      "license_name": "VRM metadata `CC_BY` (CC BY 4.0; attribution)",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_privacy_hold",
+      "checked_at": "2026-10-12",
+      "notes": "B35 2026-10-11: age/title was not a reason to bar neutral inspection, but VRM member mapping and physical shape were unverified. B46 2026-10-12: official BOOTH item 3823494 lists ¥0 FreshWomanSet.zip (7.9 MB), describes one VRM plus sample images, and displays no author-specific use terms, numeric age, or age gate. The authorized UI yielded a temporary ZIP (8,279,720 bytes, SHA-256=e362bc2ba7787f49780e0b716c47cafd1af13a63a382ff7586a257afbf35a85b); testzip passed, 6 entries including one directory, no unsafe paths/symlinks. One VRM member `FreshWomanSet/FreshWoman.vrm` maps uniquely to this ID; four sample images were not retained. VRM 0.x/GLB2, 12,819,856 bytes, SHA-256=4201b77d17e8e334ddd40b2e1f63c68d3b6ad37c14c537bda1c0e13aa8ab423a. Metadata: author=Youkihi, title=FreshWoman, allowedUserName=Everyone, commercialUssageName=Allow, sexualUssageName=Allow, violentUssageName=Allow, licenseName=CC_BY. The official VRM metadata mapping identifies CC_BY as CC BY 4.0; that license grants reproduction and adaptation with attribution, so the private technical-inspection copy is not held for lack of a copy grant. This is an affirmative license basis, not an inference from silence; attribution is retained here, and CC BY covers only rights the licensor can grant. No age was inferred and no sexual/violent depiction was made. Neutral local renderer confirmed head, torso, both arms and both legs plus front face: T-pose 768x1024 SHA-256=bad3677d54a17b2773fdd99ba1f0c6122497dc781fcbef212c5addc2ac58aaf1; face 512x512 SHA-256=e4a1b009abf394f176b36a7c4a327a9bfbfa846555949d5ed7473edfd8981dc9. The ID was already a humanoid scope candidate; no scope count change. NAS archive remains on hold solely because effective NAS third-party isolation is unverified. Scratch ZIP/VRM/previews and temporary node_modules were removed; package.json/lockfile unchanged."
     },
     {
       "id": "youkihi-businessman",

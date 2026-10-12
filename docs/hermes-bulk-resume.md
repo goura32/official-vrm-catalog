@@ -1,6 +1,6 @@
 # Hermes Agent 一括実機継続指示（BOOTH認証済みChromeプロファイル）
 
-本指示は2026-10-12のHermes実機確認に基づく。新規取得作業の開始時は必ず`origin/main`をfetchし、最新main・NAS索引・ローカルcheckpointを先に確認する。B33〜B44の履歴とB45詳細は`docs/hermes-bulk-run-results.md`を参照。B45では`kumayui-kumano-yucha`（BOOTH item7039529）の正規無料ZIPから唯一のVRM memberを本IDへ対応させ、中立Tポーズ/顔で人型全身形状を確認した。年齢「？？？」だけで検査を止めず、形状候補へ追加しscope 602/230/465。ページ/metadataの商用・改変・再配布条件は整合するが、非公開技術検査/長期保管条件が明示されないため`rights_unverified_hold`・NAS未保存を維持。現行権利集計は矛盾130、利用条件等未確認237。NAS B45再確認は487 ZIP/974 WebP、index SHA-256不変、`verify_nas.py`成功。root/models/previewsは0777、indexは0600、`.index.lock`は0 bytes/mode 000。名前付き/default ACLなし。NFSv3 `rw,sec=sys,local_lock=none`、`showmount -e`失敗でexport範囲・サーバー側隔離未確認。権限変更は行わず、NAS管理者確認まで新規保存を停止する。年齢設定の未記載だけを中立・非性的検査の禁止理由にしない。
+本指示は2026-10-12のHermes実機確認に基づく。新規取得作業の開始時は必ず`origin/main`をfetchし、最新main・NAS索引・ローカルcheckpointを先に確認する。B33〜B45の履歴とB46詳細は`docs/hermes-bulk-run-results.md`を参照。B46では`youkihi-recruit-suit`（BOOTH item3823494）の唯一のVRM memberをIDへ対応させ、中立Tポーズ/顔で人型全身形状を確認した。年齢は推定せず、既存shape候補数602/230/465は不変。metadataの`CC_BY`は公式VRM仕様によりCC BY 4.0へ対応し、複製許諾を確認したため`rights_unverified_hold`から`official_binary_inspected_humanoid_render_confirmed_nas_privacy_hold`へ区分変更。NAS隔離が未確認のため未保存。現行内訳は権利矛盾130、利用条件等未確認236、NAS隔離hold1。NAS B46再確認は487 ZIP/974 WebP、index SHA-256不変、`verify_nas.py`成功。root/models/previewsは0777、indexは0600、`.index.lock`は0 bytes/mode 000。名前付き/default ACLなし。NFSv3 `rw,sec=sys,local_lock=none`、`showmount -e`失敗でexport範囲・サーバー側隔離未確認。権限変更は行わず、NAS管理者確認まで新規保存を停止する。年齢設定の未記載だけを中立・非性的検査の禁止理由にしない。
 
 ## 状況：認証障壁が部分的に解消
 

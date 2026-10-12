@@ -10837,7 +10837,7 @@
         "avatar",
         "chibi"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/6259209",
       "download_url": null,
       "access_method": "booth_free_download",
@@ -10845,8 +10845,8 @@
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/6259209",
       "verification": "rights_unverified_hold",
-      "checked_at": "2026-10-11",
-      "notes": "無料ZIPにVRMとVRoidプロジェクト・肌テクスチャを収録。支援版は色違いテクスチャを追加するのみで別VRMとして数えない。商用利用・改変可、再配布禁止。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。 2026-10-11 Free ZIP explicitly includes a VRM model, editable .vroid file and bodysuit texture; mixed-format package is outside the VRM-only scope. Excluded before download. B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: No explicit adulthood evidence in the retained product-page record; do not infer age from name, height, clothing, or appearance. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
+      "checked_at": "2026-10-13",
+      "notes": "無料ZIPはVRM、編集可能な.vroid、肌テクスチャを含む。支援版は衣装色違いテクスチャを追加する。商用利用・改変可、再配布禁止。2026-10-13 B48: BOOTH item 6259209の認証済み¥0 UIから配布ZIPを一時取得。ZIPは7 entries、50,972,225 bytes、SHA-256 46c42f490453a08bf52e88848e802cc59e5fbc0adac7ee015b679ed9b2c3fac5、testzip成功、expanded 64,460,955 bytes、unsafe path/symlink/encryptionなし。VRM memberは`ななか.vrm`（21,334,648 bytes、SHA-256 00be1fb7261483bf2d1c76b90be7d12fc5303dd97dfc98f8c7ffdd853c38465d）と`ななか　血のりなし.vrm`（21,272,920 bytes、SHA-256 12cb8abff40725226937e4f4b5604319a1909d68fa1abd2deef7fd14dad0e346）。両方VRM 0.x/GLB2、meta title=ななか、author=LINK@、同一の構造名/mesh名/material名/humanoid bone名。中立表示は血のりなしmemberのみ。ページ許可事項は商用利用・X等への投稿・改変、禁止事項は自作発言・再配布・性的/暴力表現。埋込flags（ExplicitlyLicensedPerson、commercial Allow、sexual/violent Disallow、Redistribution_Prohibited）は表示された制限と整合し、商用/再配布禁止だけを私的保存禁止とは扱わない。一方、非公開技術検査用の長期複製/保管条件は確認できず、年齢も推定しない。`rights_unverified_hold`を維持しNAS未保存。詳細はdocs/hermes-bulk-run-results.mdのB48節。"
     },
     {
       "id": "sasanoki-kitsune-akyo",

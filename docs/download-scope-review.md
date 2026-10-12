@@ -1,6 +1,6 @@
-# 登録凍結・人型ダウンロード選別レビュー（2026-10-09、2026-10-13 B34/B35/B43/B44/B45/B46/B47更新）
+# 登録凍結・人型ダウンロード選別レビュー（2026-10-09、2026-10-13 B34/B35/B43/B44/B45/B46/B47/B48更新）
 
-**最新の完成判定・残件**：B47後は登録1,297件／NAS487 ZIP・974 WebP／BOOTH認証待ち0件。形状予備分類は人型候補602・非人型230・未判定465。B35の混合ZIP41 ID/35商品は保存3、非人型9、未アーカイブhold29。B43/B44/B45の`jima-muscle-mantis`/`jima-muscle-pigeon`/`kumayui-kumano-yucha`は権利未確認hold。B46 `youkihi-recruit-suit`とB47 `youkihi-long-black-hair`は埋込CC_BYの複製許諾を確認し、権利未確認からNAS隔離未確認（計2件）へ区分を分離した。NAS隔離が確認できないため両IDとも未保存。対応不明14 IDの別リストにこれら5 IDは含まれず、14件は全件保留のまま。現行は権利矛盾130・利用条件等未確認235。詳細は[B35/B43/B44/B45/B46/B47実機結果](hermes-bulk-run-results.md)と[完成条件](completion-criteria.md)。
+**最新の完成判定・残件**：B48後も登録1,297件／NAS487 ZIP・974 WebP／BOOTH認証待ち0件。形状予備分類は人型候補603・非人型230・未判定464。B35の混合ZIP41 ID/35商品は保存3、非人型9、未アーカイブhold29のまま。B48 `lillian-nanaka`はB35 holdの1件で、正規無料ZIP内のVRM member/metadataと血のりなし版の中立Tポーズを確認し、人型候補へ追加した。年齢は推定せず、数値年齢・年齢ゲートは表示範囲で確認されなかった。商品ページの利用制限と埋込metadataは表示された各行為について整合するが、非公開の技術検査用複製/保管条件は明記されず`rights_unverified_hold`を維持。商用/再配布の禁止だけを保存禁止とは扱わず、NAS隔離も確認できないため未保存。B46/B47のNAS隔離hold2件、権利矛盾130、利用条件等未確認235、物理対応不明14は不変。詳細は[B35/B43/B44/B45/B46/B47/B48実機結果](hermes-bulk-run-results.md)と[完成条件](completion-criteria.md)。
 
 ## 結論
 
@@ -196,3 +196,11 @@ VRMバイナリを取得することなく、公開作者データから次の�
 - ZIP内唯一の物理member `NegativeSet/NegativeGirL.vrm`を本IDへ一対一対応させ、VRM 0.x/GLB2 metadataの`licenseName=CC_BY`、allowedUser/commercial/sexual/violent flagsを確認。公式metadata license mappingのCC_BY→CC BY 4.0リンクを根拠に、作者が許諾できる権利の範囲で私的技術検査用コピーを複製許諾確認済みと分類。商用・avatar・再配布等のflagと保存許諾を混同せず、第三者権利等は別途扱う。
 - 数値年齢未記載のみで中立検査を止めず、非性的Tポーズ/顔を生成・目視。Tポーズは頭・胴・両腕・両脚が見え、着衣状態。顔は正面だが長髪に大きく隠れる。既存shape candidateの追加確認でありscope件数602/230/465は不変。
 - `rights_unverified_hold`から`official_binary_inspected_humanoid_render_confirmed_nas_privacy_hold`へ分離。複製許諾を確認したが、NASの第三者隔離未確認により未保存。権利矛盾130・利用条件等未確認235・NAS隔離hold2。B35 hold29は全件未アーカイブで、本IDもその1件。
+
+## 2026-10-13 B48：lillian-nanakaの実体・形状確認
+
+- B35 hold29の`lillian-nanaka`を[公式BOOTH item 6259209](https://booth.pm/ja/items/6259209)で再確認。認証済みUIに¥0「無料ダウンロード」`エプロンナースアバター_ななか.zip`（表示48.6 MB）があり、一度だけ一時取得した。ページ本文は無料版にVRM、`.vroid`、肌テクスチャを含むと説明。表示範囲の利用条件は商用利用・X等への投稿・改変を許可し、自作発言・再配布・性的/暴力表現を禁止。数値年齢・年齢ゲートは確認されず、年齢は推定していない。
+- ZIP実体は50,972,225 bytes、SHA-256 `46c42f490453a08bf52e88848e802cc59e5fbc0adac7ee015b679ed9b2c3fac5`。`testzip`成功、7 entries（directory 2、PNG texture 2、VRM 2、`.vroid` 1）、expanded 64,460,955 bytes、unsafe path/symlink/encryptionなし。物理memberは`エプロンナースアバター ななか/ななか.vrm`と`エプロンナースアバター ななか/ななか　血のりなし.vrm`。
+- 両VRMはGLB2/VRM 0.x、meta `title=ななか`、`author=LINK@`。標準memberは21,334,648 bytes/SHA-256 `00be1fb7261483bf2d1c76b90be7d12fc5303dd97dfc98f8c7ffdd853c38465d`、血のりなしmemberは21,272,920 bytes/SHA-256 `12cb8abff40725226937e4f4b5604319a1909d68fa1abd2deef7fd14dad0e346`。両者のnode/mesh/material名とhumanoid bone名は一致するが、JSONチャンク全体は同一ではない。標準memberは商品名/metadata titleと一致する。血のりなし版は同一モデルの明示的な別memberとして扱い、別カタログIDを推測で作成しない。
+- 中立プレビューは規約の暴力表現禁止を避け、血のりなしmemberだけで生成・目視した。Tポーズは頭・胴・両腕・両脚が見える着衣の非性的表示（スカートから出た脚に装飾あり）で、血・性的/暴力表現なし。Tポーズ768×1024 SHA-256 `87d0bfcdab564c35a70114789413b096159c81a2cf954ae8fdf66a16f6e7e3ef`、正面顔512×512 SHA-256 `0fa5a1ac42edec697cc57e78e31826196b973c2d5f5bd60aa82c21efb3f8b07f`。年齢推定なし。
+- 埋込metadata `allowedUserName=ExplicitlyLicensedPerson`、`commercialUssageName=Allow`、`sexualUssageName=Disallow`、`violentUssageName=Disallow`、`licenseName=Redistribution_Prohibited`は表示された各制限と整合する。商用/再配布等の制限だけを私的保存禁止とは扱わない一方、非公開技術検査用の複製/保管条件は明記されないため`rights_unverified_hold`を維持。NASの第三者隔離も未確認で、保存しない。人型候補602→603、未判定465→464（非人型230不変）、既存ZIP/WebP・NAS索引は不変。B35 hold29は全件未アーカイブ。

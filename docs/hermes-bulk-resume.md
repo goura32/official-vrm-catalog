@@ -1,12 +1,16 @@
 # Hermes Agent 一括実機継続指示（BOOTH認証済みChromeプロファイル）
 
-本指示は2026-10-13のHermes実機確認に基づく。新規取得作業の開始時は必ず`origin/main`をfetchし、最新main・NAS索引・ローカルcheckpointを先に確認する。B33〜B46の履歴とB47詳細は`docs/hermes-bulk-run-results.md`を参照。B47ではB35 hold `youkihi-long-black-hair`（BOOTH item3841471）の唯一のVRM memberをIDへ対応させ、中立Tポーズ/顔で人型全身形状を確認した。年齢は推定せず、既存shape候補数602/230/465は不変。metadataの`CC_BY`は公式VRM仕様のCC BY 4.0リンクに対応し、複製許諾を確認したため`rights_unverified_hold`から`official_binary_inspected_humanoid_render_confirmed_nas_privacy_hold`へ区分変更。NAS隔離が未確認のため未保存。現行内訳は権利矛盾130、利用条件等未確認235、NAS隔離hold2。NAS B47再確認は487 ZIP/974 WebP、index SHA-256不変、`verify_nas.py`成功。root/models/previewsは0777、indexは0600、`.index.lock`は0 bytes/mode 000。名前付き/default ACLなし。`nfsstat -m`はNFSv3 `rw,sec=sys,local_lock=none`。B47の`showmount -e`はRPC errorで失敗し、current export範囲は未確認。B36のprivate IPv4 /24観測は履歴情報のみ。UID/GID mapping、squash、server-side ACLと実効ユーザー隔離も未確認。権限変更は行わず、NAS管理者確認まで新規保存を停止する。年齢設定の未記載だけを中立・非性的検査の禁止理由にしない。
+本指示は2026-10-13のB48実機確認に基づく。新規取得作業の開始時は必ず`origin/main`をfetchし、最新main・NAS索引・ローカルcheckpointを先に確認する。B33〜B47の履歴とB48詳細は`docs/hermes-bulk-run-results.md`を参照する。
+
+B48ではB35 hold `lillian-nanaka`（BOOTH item6259209）の正規無料ZIPを一時取得し、2つのVRM memberとmetadataを検査。標準`ななか.vrm`を既存IDへ商品名/metadata titleで対応し、血のりなしmemberの中立Tポーズ/顔で人型形状を確認した。別memberに新IDは推測で割り当てず、年齢も推定しない。非公開技術検査用の複製/保管条件が明記されないため`rights_unverified_hold`を維持し、NAS未保存。形状予備分類は603/230/464、権利矛盾130・利用条件等未確認235・NAS隔離hold2、物理対応不明14、B35 hold29は全件未アーカイブ。
+
+B48 NAS read-only auditは487 ZIP/974 WebP、`verify_nas.py` `ok:true`/`errors:[]`、ZIP bytes 2,168,476,533。index 548,641 bytes/SHA-256 `0bf57c18c66a14caaa79578f8865f2d8242df49a4a2e7cb7b68e19c7c1ec3a9f`。root/models/previews 0777、index 0600、`.index.lock` 0 bytes/mode 000、named/default ACLなし。NFSv3 `rw,sec=sys,local_lock=none`。`showmount -e`はtarget exportを含む3 exportsがprivate IPv4 /24に限られwildcardなしと表示したが、これは第三者/ユーザー隔離を証明しない。NAS server ACL、UID/GID mapping、squash、個別client allowlist、実効lock制御は未確認。権限変更は行わず、新規保存停止を継続する。年齢設定未記載だけを中立・非性的検査の禁止理由にしない。
 
 ## 状況：認証障壁が部分的に解消
 
 ユーザーがChromeに正規ログインし、Hermesは`browser.use_real_profile: true`、実プロファイルをコピーしたローカルブラウザーセッション`booth-real-profile-local-2`を起動できた。BOOTHトップページでログイン済みアカウントメニューを画面確認。カタログID `pixellangel-dolly-devil` のパイロットは2026-10-10に実取得・検査・Tポーズ/顔確認・NAS保存まで完了。パイロット後にBOOTH認証済み32バッチを実施した。パスワード・Cookie・トークン・認証付き一時ダウンロードURLは表示、記録、リポジトリ追加、チャット出力を禁止。Cookieを手動抽出・curl等へ転送して認証を代用しない。
 
-**現在の実績（2026-10-11、B40時点）**：
+**履歴スナップショット（2026-10-11、B40時点）**：
 - カタログ計1,297件。R1/R2/R3以外の797件は、NAS保存157、非人型68（実体8・作者索引1・商品ページ59）、埋込権利矛盾129、年齢/利用条件等の未確認238、モデル対応未確定14、混合ZIPのみを理由とした範囲外0、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち0、別途未検証1（ENRAI燕・note.com会員登録ゲート）、VRoid Hub認証待ち16、商品ページ404 3、VRoid Studioエクスポート専用23、公式メタデータ/リポジトリのみ5。合計797。
 - B35は41 ID/35商品を再評価し、3 IDを2商品の正規無料混合ZIPからVRMのみ抽出して保存、9 IDを既存レンダー根拠で非人型、29 IDを独立根拠不足で保留とした。B36ではそのうち`pike-aurora`の中立Tポーズ/顔をローカル確認したがNAS隔離未確認のため未保存、`pike-steam-rabbit`はプレビュー条件未達で未保存。年齢未記載だけは停止理由としない。14 IDは既存検査記録と照合したが一対一マッピングは0件で、14すべて対応不明のまま維持。
 - NASは487 ZIP・974 WebP、未圧縮VRM 3,925,815,073 bytes、ZIP 2,168,476,533 bytes、WebP 15,210,140 bytes、削減率44.7637%。`verify_nas.py`は`ok:true, errors:[]`。B35開始時484行の索引SHA群は全行一致し、旧355件の保護対象SHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`で不変。

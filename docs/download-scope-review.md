@@ -1,6 +1,6 @@
-# 登録凍結・人型ダウンロード選別レビュー（2026-10-09、2026-10-12 B34/B35/B43/B44/B45/B46更新）
+# 登録凍結・人型ダウンロード選別レビュー（2026-10-09、2026-10-13 B34/B35/B43/B44/B45/B46/B47更新）
 
-**最新の完成判定・残件**：B46後は登録1,297件／NAS487 ZIP・974 WebP／BOOTH認証待ち0件。形状予備分類は人型候補602・非人型230・未判定465。B35の混合ZIP41 ID/35商品は保存3、非人型9、未アーカイブhold29。B43/B44/B45の`jima-muscle-mantis`/`jima-muscle-pigeon`/`kumayui-kumano-yucha`は権利未確認hold。B46 `youkihi-recruit-suit`は埋込CC_BYの複製許諾を確認し、権利未確認236からNAS隔離未確認1へ区分を分離した。NAS隔離が確認できないため同IDも未保存。対応不明14 IDの別リストにこれら4 IDは含まれず、14件は全件保留のまま。詳細は[B35/B43/B44/B45/B46実機結果](hermes-bulk-run-results.md)と[完成条件](completion-criteria.md)。
+**最新の完成判定・残件**：B47後は登録1,297件／NAS487 ZIP・974 WebP／BOOTH認証待ち0件。形状予備分類は人型候補602・非人型230・未判定465。B35の混合ZIP41 ID/35商品は保存3、非人型9、未アーカイブhold29。B43/B44/B45の`jima-muscle-mantis`/`jima-muscle-pigeon`/`kumayui-kumano-yucha`は権利未確認hold。B46 `youkihi-recruit-suit`とB47 `youkihi-long-black-hair`は埋込CC_BYの複製許諾を確認し、権利未確認からNAS隔離未確認（計2件）へ区分を分離した。NAS隔離が確認できないため両IDとも未保存。対応不明14 IDの別リストにこれら5 IDは含まれず、14件は全件保留のまま。現行は権利矛盾130・利用条件等未確認235。詳細は[B35/B43/B44/B45/B46/B47実機結果](hermes-bulk-run-results.md)と[完成条件](completion-criteria.md)。
 
 ## 結論
 
@@ -189,3 +189,10 @@ VRMバイナリを取得することなく、公開作者データから次の�
 - B35 holdの`youkihi-recruit-suit`を公式¥0 BOOTH UIから取得。ZIP内唯一の`FreshWomanSet/FreshWoman.vrm`を本IDへ対応させ、neutral Tポーズ/顔を確認した。年齢や年齢ゲートの記載はなく、年齢を推定せず非性的検査を実施。
 - 商品ページに作者独自の使用制限は見当たらず、VRM metadataの`licenseName=CC_BY`は公式VRM metadata仕様のCC BY 4.0へ対応。CC BY 4.0は複製・共有・改変を帰属表示条件で許諾するため、私的技術検査用コピーを禁止とも未許諾とも扱わない。これは肯定的なlicenseNameに基づく判断であり、無禁止からの推測ではない。
 - 形状は人物型と確認し、既存の`humanoid_candidates`分類を物理検証で補強（scope件数変更なし）。ライセンス複製許諾は確認したが、NASの実効的な第三者隔離は未確認のため`official_binary_inspected_humanoid_render_confirmed_nas_privacy_hold`へ分離し、NAS未保存。権利矛盾130・利用条件等未確認236・NAS隔離hold1。
+
+## 2026-10-13 B47：youkihi-long-black-hairの複製許諾・形状確認
+
+- B35のhold候補を公式BOOTH item 3841471の認証済みUIで再確認し、¥0 `NegativeSet.zip`を1回取得。ページ本文はVRM+sample imagesのZIPと無料prototypeを説明し、表示範囲に作者独自利用条件・数値年齢・年齢ゲートなし。タイトル/説明に「少女」とあることから年齢は推定しない。
+- ZIP内唯一の物理member `NegativeSet/NegativeGirL.vrm`を本IDへ一対一対応させ、VRM 0.x/GLB2 metadataの`licenseName=CC_BY`、allowedUser/commercial/sexual/violent flagsを確認。公式metadata license mappingのCC_BY→CC BY 4.0リンクを根拠に、作者が許諾できる権利の範囲で私的技術検査用コピーを複製許諾確認済みと分類。商用・avatar・再配布等のflagと保存許諾を混同せず、第三者権利等は別途扱う。
+- 数値年齢未記載のみで中立検査を止めず、非性的Tポーズ/顔を生成・目視。Tポーズは頭・胴・両腕・両脚が見え、着衣状態。顔は正面だが長髪に大きく隠れる。既存shape candidateの追加確認でありscope件数602/230/465は不変。
+- `rights_unverified_hold`から`official_binary_inspected_humanoid_render_confirmed_nas_privacy_hold`へ分離。複製許諾を確認したが、NASの第三者隔離未確認により未保存。権利矛盾130・利用条件等未確認235・NAS隔離hold2。B35 hold29は全件未アーカイブで、本IDもその1件。

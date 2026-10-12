@@ -10719,16 +10719,16 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://booth.pm/ja/items/3841471",
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "NegativeSet.zip",
-      "license_name": "配布者BOOTH商品ページ掲載の利用条件",
-      "license_url": "https://booth.pm/ja/items/3841471",
-      "verification": "rights_unverified_hold",
-      "checked_at": "2026-10-11",
-      "notes": "B34 (2026-10-11): 正規BOOTH item3841471は無料配布をVRM+sample imagesの混在ZIPで提供し、VRM-only商品は表示されないため取得対象外。商品名は少女だが年齢も明記されず、年齢・内容条件は解消していない。ダウンロードなし。 B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: Page title identifies a girl/woman but gives no explicit age; do not infer from role or appearance. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
+      "license_name": "VRM metadata `CC_BY` (CC BY 4.0; attribution)",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_privacy_hold",
+      "checked_at": "2026-10-13",
+      "notes": "B34 (2026-10-11): official BOOTH item 3841471 offered a mixed VRM+sample-image ZIP; no download. B35: mixed format and missing age alone were not grounds to prohibit neutral inspection; physical member mapping and shape remained unverified. B47 (2026-10-13): authenticated official BOOTH UI showed ¥0 `NegativeSet.zip` (14.7 MB), one free offer; visible product copy describes a VRM plus sample images and no author-specific terms, numeric age, or age gate. The authorized UI downloaded 15,389,698 bytes (SHA-256=5d6ed73d1d2554a1c071643150c94faf24d8acceaa69bd08b57b4f440e233c09). ZIP test passed, 7 entries (one directory, five sample PNGs, one VRM), 21,761,412 expanded bytes, no unsafe path/symlink. The sole member `NegativeSet/NegativeGirL.vrm` maps uniquely to this ID. VRM 0.x/GLB2, 18,633,964 bytes, SHA-256=708df3de1f415fc1516dfd8bbdf7e82e1be974e41d6487938a3d035257536ee0. Metadata: author=Youkihi, title=NegativeGirL, allowedUserName=Everyone, commercialUssageName=Allow, sexualUssageName=Allow, violentUssageName=Allow, licenseName=CC_BY. Official VRM mapping identifies CC_BY as CC BY 4.0; the affirmative license permits copying/adaptation with attribution for rights the licensor can grant. No age was inferred. Neutral local previews show head, torso, both arms and both legs; the fully clothed T-pose has no apparent sexual/violent depiction. Face preview is frontal but partly obscured by long hair. T-pose 768x1024 SHA-256=428b75afc221103ec413e28572f70f6932f7af9d45050f6f7da0bd0072da9f05; face 512x512 SHA-256=a21e789c52f5595bb29a11ab7bdcad35fdd36747f4d3ed902c4c00872cd4628d. Existing humanoid scope candidate; no scope count change. NAS archive remains held because effective third-party/user isolation is unverified; no NAS write. Scratch ZIP/VRM/previews removed after recording; package.json/lockfile unchanged."
     },
     {
       "id": "youkihi-recruit-suit",

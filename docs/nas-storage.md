@@ -1,6 +1,6 @@
 # NAS保存とVRMプレビュー生成
 
-2026-10-11更新。**本書がNAS保存方針の正本**。過去の「配布ZIP原本を残す」「zstd確定」は旧方針であり、適用しない。
+2026-10-13更新。**本書がNAS保存方針の正本**。過去の「配布ZIP原本を残す」「zstd確定」は旧方針であり、適用しない。
 
 ## 基本原則
 
@@ -130,3 +130,4 @@ python3 scripts/verify_nas.py --nas-root /mnt/hdd/vrm
 - **B47読み取り専用再確認（2026-10-13）**：既存487 ZIP/974 WebP、`verify_nas.py`は`ok:true`/`errors:[]`、ZIP bytes 2,168,476,533。`index.jsonl` 548,641 bytes、SHA-256 `0bf57c18c66a14caaa79578f8865f2d8242df49a4a2e7cb7b68e19c7c1ec3a9f`。root/models/previews 0777、index 0600、空`.index.lock` 0 bytes/mode 000。再帰`getfacl`でnamed/default ACLなし。`nfsstat -m`はNFSv3 `rw,vers=3,sec=sys,local_lock=none`を報告し、`findmnt -T`はautofs層を表示。`showmount -e`はRPC errorで失敗し、export範囲を現在確認できない。NASへの書込み、`chmod`/`chown`、ACL/NFS共有設定変更なし。実効的な第三者隔離は未確認のため新規保存停止を継続する。
 
 - **B48読み取り専用再確認（2026-10-13）**：`verify_nas.py`は487 ZIP/974 WebP、`ok:true`、`errors:[]`、ZIP bytes 2,168,476,533。`index.jsonl`は548,641 bytes、SHA-256 `0bf57c18c66a14caaa79578f8865f2d8242df49a4a2e7cb7b68e19c7c1ec3a9f`。root/models/previewsは0777、indexは0600、`.index.lock`は0 bytes/mode 000。`getfacl`でnamed/default ACLなし。実マウントはautofs配下のNFSv3 `rw,sec=sys,local_lock=none`。`showmount -e nas1.local`は対象exportを含む3 exportsをprivate IPv4 /24に限定しwildcardなしと表示した（実IP/許可ネットワーク値は記録しない）。これはネットワーク範囲の制限に留まり、0777親ディレクトリ下の第三者・利用者別アクセスを排除する根拠ではない。サーバー側ACL、UID/GID mapping、`root_squash`/`all_squash`、個別許可クライアント、実効lock制御は未確認。NASへの書込み、`chmod`/`chown`、ACL/NFS共有設定変更は行わず、新規保存停止を継続する。
+- **B50読み取り専用再確認（2026-10-13）**：`verify_nas.py`は487 ZIP/974 WebP、ZIP bytes 2,168,476,533、ZIPのみ、`ok:true`/`errors:[]`。`index.jsonl`は548,641 bytes、SHA-256 `0bf57c18c66a14caaa79578f8865f2d8242df49a4a2e7cb7b68e19c7c1ec3a9f`。root/models/previewsは0777、indexは0600、`.index.lock`は0 bytes/mode 000。`getfacl`でnamed/default ACLなし。実マウントはautofs配下のNFSv3 `rw,sec=sys,local_lock=none`。`showmount -e nas1.local`はHDD exportを含む3 exportsをprivate IPv4 /24に限定しwildcardなしと表示した（実IP/許可ネットワーク値は記録しない）。ネットワーク制限は見えるが、サーバー側ACL、UID/GID mapping、`root_squash`/`all_squash`、個別client/user isolation、実効lock制御は未確認のため、非公開保存の第三者隔離は証明できない。NASへの書込み、`chmod`/`chown`、ACL/NFS共有設定変更は行わず、既存487件を保護し新規保存停止を継続する。

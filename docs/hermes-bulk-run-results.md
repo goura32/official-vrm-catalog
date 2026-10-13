@@ -980,7 +980,7 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 
 ## B64：sakurabido-megumicchi のB35 hold再評価（2026-10-14）
 
-- B63後に`git fetch --no-tags origin main`。開始基準`main`/`origin/main`は`3ba4a9a48ff5a2ce8d1706cca8c19d2ef903055d`で一致。B35 `per_model_review`順33/41・hold29中23番目の`sakurabido-megumicchi`（BOOTH item5689713）を選定。B64は継続中handoffを先行処理したため、B35の次の未再評価holdは`pike-aurora`（27/41、17/29）である。
+- B63後に`git fetch --no-tags origin main`。開始基準`main`/`origin/main`は`3ba4a9a48ff5a2ce8d1706cca8c19d2ef903055d`で一致。B35 `per_model_review`順33/41・hold29中23番目の`sakurabido-megumicchi`（BOOTH item5689713）を選定。B64は継続中handoffを先行処理したため順序外。B35順27–29番の`pike-aurora`/`pike-moon-night`/`pike-steam-rabbit`はB36/B40で個別再評価済み。よって次の未再評価holdは`propofol7-satake-nagisa`（review30/41、hold20/29）。
 - 公式商品ページは無料ZIP `さくらリクオ_フリーアバター_50F_めぐみっち.zip` 14.8 MBと、Vroid/VRM/readmeのページ記載を示す。一方、支援/tip版ではVroidファイル付きZIPを取得できる旨もあり、両offerの物理内容やVRM memberとcatalog IDの対応は未確認。商品ページの範囲を超えてZIP/VRMを取得・検査していない。
 - 商品ページはアバター/Vtuber/個人/個人商用/法人利用・改変を許可し、再配布を禁止、法人クレジットを可能な範囲で必須とする。これらの利用条件を私的保存禁止とは読み替えないが、非公開の技術検査・一時複製・長期保管も明示されないため保存許可/禁止を推定せず、私的保存権利は未解決。
 - 詳細規約リンクの匿名・cookieなし・redirectなしHEADはHTTP/2 404。本文、login、代替URLには進んでいない。商品ページの50フォロワー記念はキャラクター年齢ではなく、年齢関連語も見当たらない。年齢を推定せず、年齢不記載だけで中立構造検査/T-poseを禁止しない。実VRM内容や年齢は未確認。

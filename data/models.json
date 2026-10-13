@@ -5141,9 +5141,9 @@
       "distribution_filename": "Nao_Contents.zip",
       "license_name": "UVライセンス（PCU/DDW/SEU/VEU）",
       "license_url": "https://uv-license.com/ja/license?utf8=%E2%9C%93&pcu=true&ddw=true&seu=true&veu=true",
-      "verification": "rights_unverified_hold",
-      "checked_at": "2026-10-11",
-      "notes": "2026-10-11公式BOOTH商品ページとリンクされたUVライセンスを確認。無料ページはUnitypackage/FBX/Texture等とVRM形式モデルを掲示。個別条項PCU/DDW/SEU/VEUは個人商用、二次著作物配布、成人向け性的/暴力表現の各軸を許可するが、成人向け表現の許可はキャラクター年齢の証拠ではない。UVライセンス本文に私的な技術検査/そのための保管の明示的な許諾・禁止は確認できず、どちらにも推測しない。年齢未記載だけで中立・非性的な構造検査/Tポーズを止めない。混合パッケージも単独の除外理由ではない。一方、元VRMの配布可否はDDW（派生物配布許可）から推定せず、ZIP内のVRM member/ catalog ID対応と実形状も未確認。個人的な検査用複製・保管の根拠と物理確認が未解決のためrights_unverified_holdを維持。追加取得・同意操作・NAS保存なし。"
+      "verification": "official_free_download_auth_required_not_verified",
+      "checked_at": "2026-10-14",
+      "notes": "2026-10-11公式BOOTH商品ページとリンクされたUVライセンスを確認。無料ページはUnitypackage/FBX/Texture等とVRM形式モデルを掲示。個別条項PCU/DDW/SEU/VEUは個人商用、二次著作物配布、成人向け性的/暴力表現の各軸を許可するが、成人向け表現の許可はキャラクター年齢の証拠ではない。UVライセンス本文に私的な技術検査/そのための保管の明示的な許諾・禁止は確認できず、どちらにも推測しない。年齢未記載だけで中立・非性的な構造検査/Tポーズを止めない。混合パッケージも単独の除外理由ではない。一方、元VRMの配布可否はDDW（派生物配布許可）から推定せず、ZIP内のVRM member/ catalog ID対応と実形状も未確認。個人的な検査用複製・保管の根拠と物理確認が未解決のためrights_unverified_holdを維持。追加取得・同意操作・NAS保存なし。B54 2026-10-14: 現行公式BOOTH item6595645は無料Nao_Contents.zip（9.16 MB）にVRChat用一式とVRM形式モデルを掲示。UVライセンス基礎条項は個人非商用利用の範囲内での改変・パーツ流用を許可し、PCUは個人商用利用、DDWは二次著作物配布、SEU/VEUは成人向け表現の利用を許可する。再配布制限を私的保存禁止と解釈せず、DDWから未改変の元VRMの再配布許可も推定しない。商品ページとライセンス本文は非公開の中立技術検査・長期保管を明示せず、その禁止・許可いずれも推定しない。成人向け表現の設定は利用内容の許可であり、モデル年齢の証拠ではない。数値年齢/年齢ゲートは確認できず、年齢不記載だけを中立構造検査/Tポーズの禁止理由にしない。正規download URLの無認証・redirect追従なしHEADはHTTP/2 302でBOOTH sign-in。認証/cookie/GET/ダウンロード/VRM検査なし。verificationを認証待ちへ移し、私的検査/保存の権利軸は独立に未解決。物理ZIP/VRM/member-ID対応/shape未確認、未判定scopeを維持、NAS未変更。B54 citation source IDs21/22/41。"
     },
     {
       "id": "cloodworks-hatsuka-pc",

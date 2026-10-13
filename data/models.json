@@ -11427,11 +11427,11 @@
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "さんぷるあばたー_2.zip",
-      "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
+      "license_name": "Creator-listed terms: use/modification allowed; sale of modified model, transfer of original, and resale prohibited",
       "license_url": "https://booth.pm/ja/items/8721870",
-      "verification": "rights_unverified_hold",
-      "checked_at": "2026-10-11",
-      "notes": "作者が無料配布物さんぷるあばたー_2.zipにしょきあばたー_2_v1.0.vrmを収録と説明。0円のZIPを作者が公開。商品ページにVRM 0.0と明記。商品版番号はVRM仕様版ではない。投げ銭版は別計上しない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 Free ZIP contents list blend, FBX, VRM, PNG/PSD and UV/source files. Excluded before download. B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: No explicit adulthood evidence in the retained product-page record; do not infer age from name, height, clothing, or appearance. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
+      "verification": "official_free_download_auth_required_not_verified",
+      "checked_at": "2026-10-14",
+      "notes": "2026-10-14 B61 anonymous official page (HTTP 200) lists the free さんぷるあばたー_2.zip (1.09 MB), VRM 0.0, and member しょきあばたー_2_v1.0.vrm alongside blend/FBX/image/source files; a separate ¥500 support offer is not treated as the free offer. Page listing only: no physical ZIP/member verification, binary inspection, rendering, or age inference. Creator terms indicate use/modification allowed and prohibit selling the modified model, giving away the unchanged original, and resale. Those sale/transfer restrictions alone do not prohibit private storage, but the page does not explicitly address private neutral technical inspection, temporary copying, or long-term retention; neither permission nor prohibition is inferred. No numeric age or age gate was found in the reviewed page text; omission alone is not a barrier to neutral structure inspection/T-pose. Anonymous no-cookie HEAD to the official free-download URL returned 302 sign-in with redirects disabled. No login, GET on the download URL, download, or VRM inspection/rendering. Private-storage rights, physical shape, and exact catalog-ID/member mapping remain unresolved. B35 mixed-ZIP exclusion and age-omission blocker are corrected; no B35 download or NAS archive."
     },
     {
       "id": "neoneko-ngii",

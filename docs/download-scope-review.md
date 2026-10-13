@@ -1,6 +1,6 @@
-# 登録凍結・人型ダウンロード選別レビュー（2026-10-09、2026-10-14 B34/B35/B43/B44/B45/B46/B47/B48/B51/B53/B54/B55/B56/B57/B58更新）
+# 登録凍結・人型ダウンロード選別レビュー（2026-10-09、2026-10-14 B34/B35/B43/B44/B45/B46/B47/B48/B51/B53/B54/B55/B56/B57/B58/B59更新）
 
-**最新の完成判定・残件（B58、2026-10-14）**：登録1,297件／NAS487 ZIP・974 WebP。形状予備分類は人型候補603・非人型230・未判定464。B35混合ZIP41 ID/35商品は保存3、非人型9、hold29で全件未アーカイブ。B58 `neoneko-roa`（BOOTH item5108925）は無料`ロア.zip`（18.9 MB）にVRM 0.0と`.vroid`を掲載し、別の500円offerも表示するが実物未取得。使用/改変使用OKと改変物販売/原本譲渡/転売NGを分離し、販売・移転制限を私的保存禁止へ読み替えない。非公開検査/一時複製/長期保管の明示許可も推定しない。数値年齢/age gateは確認できず、年齢不記載だけで中立検査を止めない。無認証・cookieなし・redirect追従なしHEADは302 sign-in、GET/ログイン/取得なし。主状態は`official_free_download_auth_required_not_verified`、私的保存権利軸・physical member対応・shapeは独立に未解決/未確認。797件の排他的主状態は権利矛盾130、利用条件等未確認228、BOOTH認証待ち7、他サービス認証17、NAS隔離hold2、物理対応不明14。B35 hold29全件未アーカイブ。詳細は[B58実機結果](hermes-bulk-run-results.md)、[完成条件](completion-criteria.md)。根拠source IDs46/47。
+**最新の完成判定・残件（B59、2026-10-14）**：登録1,297件／NAS487 ZIP・974 WebP。形状予備分類は人型候補603・非人型230・未判定464。B35混合ZIP41 ID/35商品は保存3、非人型9、hold29で全件未アーカイブ。B59 `neoneko-romuru`（BOOTH item7933498）の公式ページは無料`ロムル.zip`（22.8 MB）にVRM 0.0 `ロムル_v1.0.vrm`と編集用`.vroid`を掲載し、別の500円支援offerは別扱い。作者表示の使用/改造使用OKと改変物販売/原本譲渡/転売NGを分離し、販売・移転制限だけを私的保存禁止へ読み替えない。一方、非公開の中立検査/一時複製/長期保管は明示されず許可/禁止を推定しない。年齢数値/年齢制限は見当たらず、年齢不記載だけで中立検査を止めない。無認証・cookieなし・redirect追従なしHEADは302 sign-in、GET/ログイン/取得/VRM検査なし。主状態は`official_free_download_auth_required_not_verified`、私的保存権利・physical member対応・shapeは独立に未解決/未確認。797件の排他的主状態は権利矛盾130、利用条件等未確認227、BOOTH認証待ち8、他サービス認証17、NAS隔離hold2、物理対応不明14。B35 hold29全件未アーカイブ。詳細は[B59実機結果](hermes-bulk-run-results.md)、[完成条件](completion-criteria.md)。根拠source IDs48/49。
 
 ## 結論
 

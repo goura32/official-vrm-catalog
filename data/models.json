@@ -7295,11 +7295,11 @@
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "さくらリクオ_フリーアバター_はぴっち.zip",
-      "license_name": "制作者の配布ページで案内された利用条件",
+      "license_name": "作者記載条件（個人・個人商用・法人利用/改変可、Vtuber利用/再配布不可）",
       "license_url": "https://booth.pm/ja/items/4979735",
-      "verification": "rights_unverified_hold",
-      "checked_at": "2026-10-11",
-      "notes": "公式BOOTHページの無料ZIP「さくらリクオ_フリーアバター_はぴっち.zip」17.2 MBは.vroid編集ソース、VRM、READMEを同梱。VRM-only配布範囲外のため取得していない。 B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: No explicit adulthood evidence in the retained product-page record; do not infer age from name, height, clothing, or appearance. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
+      "verification": "official_free_download_auth_required_not_verified",
+      "checked_at": "2026-10-14",
+      "notes": "B53 2026-10-14: 公式BOOTHページは¥0の「さくらリクオ_フリーアバター_はぴっち.zip」（17.2 MB）にVroidファイル・VRMファイル・readmeを記載。混合ZIPは単独の除外理由にしない。利用条件はアバター/個人/個人商用/法人利用と改変OK、Vtuber利用/再配布NG、暴力・性的表現OK、クレジット可能な範囲。Vtuber利用・再配布制限だけを私的保存禁止と解釈しない。非公開の中立技術検査・一時複製・長期保管は明示されず、許可/禁止いずれも推定しない。数値年齢/年齢ゲートはページ上で確認できず、年齢不記載だけを中立非性的な構造検査/Tポーズの禁止理由にしない。商品画像は頭・胴・両腕までの切抜きで両脚が見えず、全身形状は未確認。公式download URLの認証なしHEADは302でBOOTH sign-inへ遷移。GET/ログインなし。verificationは認証待ちを示し、私的複製/保管の権利軸は独立に未解決。物理ZIP/VRM/member-to-ID対応/metadata/T-pose未確認、NAS未保存。人型/非人型scopeへ追加せず、未判定を維持。"
     },
     {
       "id": "sakurabido-souma",

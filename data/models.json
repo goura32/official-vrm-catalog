@@ -11446,11 +11446,11 @@
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "ンギィ.zip",
-      "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
+      "license_name": "作者BOOTH掲載の利用条件（改変物販売・原本譲渡・転売禁止）",
       "license_url": "https://booth.pm/ja/items/6254853",
-      "verification": "rights_unverified_hold",
-      "checked_at": "2026-10-11",
-      "notes": "作者が無料配布物ンギィ.zipにンギィ_v1.06.vrmを収録と説明。0円のZIPを作者が公開。商品ページにVRM 0.0と明記。商品版番号はVRM仕様版ではない。投げ銭版は別計上しない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 Free ZIP contents list blend, FBX, VRM and UV/source files. Excluded before download. B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: No explicit adulthood evidence in the retained product-page record; do not infer age from name, height, clothing, or appearance. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
+      "verification": "official_free_download_auth_required_not_verified",
+      "checked_at": "2026-10-14",
+      "notes": "B35初回は無料ZIPにblend/FBX/VRM/UV-sourceを含むページ情報だけで物理member検証なし。B55 2026-10-14: 現行公式ページHTTP 200、無料offerは`ンギィ.zip` 828 KBで、別に500円の支援offerを表示（free/paidの内容同一とは仮定しない）。無料packageのページ説明はVRM 0.0、`ンギィ_v1.06.vrm`（221 KB）とFBX/UV/sourceを列記するが、ZIP/VRM実体・member・ID対応は未確認。作者表示は使用/改変使用OK、改変物販売/原本譲渡/転売NG。これらの販売・移転制限だけを私的保存禁止へ読み替えない。一般商用利用、非公開の中立技術検査、個人的な一時複製/長期保管は明示されず、許可/禁止を推定しない。数値年齢/age gateなし。キノコ説明・寸法から年齢/形状を推定せず、年齢不記載だけを中立構造検査の禁止理由にしない。公式無料download URLへの無認証・redirect追従なしHEADはHTTP 302 sign-in。認証/cookie/GET/取得/VRM検査なし。主状態を`official_free_download_auth_required_not_verified`へ変更し、私的保存権利軸は独立に未解決。shape unclassified、NAS未保存。citation source IDs42/43; B55 checkpoint参照。"
     },
     {
       "id": "neoneko-shitakee",

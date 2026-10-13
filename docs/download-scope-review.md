@@ -1,6 +1,6 @@
-# 登録凍結・人型ダウンロード選別レビュー（2026-10-09、2026-10-14 B34/B35/B43/B44/B45/B46/B47/B48/B51/B53/B54更新）
+# 登録凍結・人型ダウンロード選別レビュー（2026-10-09、2026-10-14 B34/B35/B43/B44/B45/B46/B47/B48/B51/B53/B54/B55更新）
 
-**最新の完成判定・残件（B54、2026-10-14）**：登録1,297件／NAS487 ZIP・974 WebP。形状予備分類は人型候補603・非人型230・未判定464。B35混合ZIP41 ID/35商品は保存3、非人型9、hold29で全件未アーカイブ。B54 `branshop-nao`（BOOTH item6595645）は無料`Nao_Contents.zip`（9.16 MB）にVRM形式モデルを掲示。UVライセンスの個人商用・二次著作物配布・成人向け表現などの許可は私的検査/保存とは別軸であり、再配布制限を私的保存禁止に、DDWを未改変VRM配布許可に読み替えない。非公開技術検査/長期保管の明示はなく、許可・禁止いずれも推定しない。年齢数値/ゲートなし、年齢不記載だけで中立検査を止めない。無認証・追従なしHEADは302 sign-inで、未ログイン・未取得・物理形状未確認。主状態は`official_free_download_auth_required_not_verified`、私的保存権利軸と形状scopeは独立に未解決。B35 hold29全件未アーカイブ。797件の排他的主状態は権利矛盾130、利用条件等未確認232、BOOTH認証待ち3、他サービス認証17、NAS隔離hold2、物理対応不明14。詳細は[B54実機結果](hermes-bulk-run-results.md)、[完成条件](completion-criteria.md)。根拠source ID21/22/41。
+**最新の完成判定・残件（B55、2026-10-14）**：登録1,297件／NAS487 ZIP・974 WebP。形状予備分類は人型候補603・非人型230・未判定464。B35混合ZIP41 ID/35商品は保存3、非人型9、hold29で全件未アーカイブ。B55 `neoneko-ngii`（BOOTH item6254853）は無料`ンギィ.zip`（828 KB）と別の500円支援offerを掲載し、無料版ページはVRM 0.0とmember名を記載するが実体未確認。作者は使用/改変使用OK、改変物販売/原本譲渡/転売NGと表示。販売・移転制限を私的保存禁止とは扱わず、非公開検査/一時複製/長期保管は明示されず、許可/禁止いずれも推定しない。数値年齢/ゲートなし。キノコ説明・寸法から年齢/形状を推測せず、年齢不記載だけで中立検査を止めない。無認証・追従なしHEADは302 sign-inで未ログイン・未取得・物理形状未確認。主状態は`official_free_download_auth_required_not_verified`、私的保存権利軸とshape scopeは独立に未解決。B35 hold29全件未アーカイブ。797件の排他的主状態は権利矛盾130、利用条件等未確認231、BOOTH認証待ち4、他サービス認証17、NAS隔離hold2、物理対応不明14。詳細は[B55実機結果](hermes-bulk-run-results.md)、[完成条件](completion-criteria.md)。根拠source ID42/43。
 
 ## 結論
 
@@ -226,4 +226,4 @@ VRMバイナリを取得することなく、公開作者データから次の�
 - 作者表示は使用と改造使用をOK、改変物販売・原本譲渡・転売をNGとする。販売/移転制限だけを私的保存禁止へ読み替えない一方、個人的な非公開技術検査/長期保管は明示されず、許可も推定しない。現行holdはこの禁止条項からではなく、認証障壁と物理未検証、独立した保存範囲の未解決に基づく。
 - 商品説明は「明るい活発な少年」だが数値年齢/年齢ゲートの記載は見当たらない。年齢を推定せず、不記載だけを中立・非性的な構造検査/Tポーズの禁止理由にしない。
 - ページに掲載された無料ダウンロードURLを認証なし、リダイレクト追従なしで1回GETした結果はHTTP 302、LocationはBOOTH sign-in。ログイン、取得、ZIP/VRM解析、Tポーズ生成は行わず、verificationを`official_free_download_auth_required_not_verified`に更新。物理member-ID対応、metadata、shapeは未確認。B35旧age-reviewの年齢を理由にしたholdと混合ZIP除外を訂正する。根拠はcitation ledger source ID35/36、B51 checkpoint。
-- 797件の再集計はNAS保存157、非人型68、権利矛盾130、利用条件等未確認232、NAS隔離hold2、物理対応不明14、混合ZIPのみの除外0、別host拒否2、dweb.link未取得/429 141、BOOTH認証待ち3、他サービス認証17、404 3、export-only 23、metadata/repository-only 5。合計797。B54 `branshop-nao`をBOOTH認証待ちへ分類し、私的保存条件は別途未解決。shape scope603/230/464、NAS487 ZIP/974 WebPは不変。
+- 797件の再集計はNAS保存157、非人型68、権利矛盾130、利用条件等未確認231、NAS隔離hold2、物理対応不明14、混合ZIPのみの除外0、別host拒否2、dweb.link未取得/429 141、BOOTH認証待ち4、他サービス認証17、404 3、export-only 23、metadata/repository-only 5。合計797。B54 `branshop-nao`とB55 `neoneko-ngii`をBOOTH認証待ちへ分類し、私的保存条件は別途未解決。shape scope603/230/464、NAS487 ZIP/974 WebPは不変。

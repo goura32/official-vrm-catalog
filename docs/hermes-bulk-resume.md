@@ -1,6 +1,6 @@
 # Hermes Agent 一括実機継続指示（BOOTH認証済みChromeプロファイル）
 
-本指示は2026-10-14のB54確認に基づく。新規取得作業の開始時は必ず`origin/main`をfetchし、最新main・NAS索引・ローカルcheckpointを先に確認する。B33〜B54の履歴とB51/B53/B54詳細は`docs/hermes-bulk-run-results.md`を参照する。
+本指示は2026-10-14のB55確認に基づく。新規取得作業の開始時は必ず`origin/main`をfetchし、最新main・NAS索引・ローカルcheckpointを先に確認する。B33〜B55の履歴とB51/B53/B54/B55詳細は`docs/hermes-bulk-run-results.md`を参照する。
 
 B49ではB35 hold `shounokoto-kotatsu-mikan`（BOOTH item6686224）の公式無料ZIPを一時取得して同梱VN3規約を確認。個人/法人の営利・非営利利用と許諾範囲内の複製は認められるが、規約外利用には事前の明示許諾が必要。未改変再配布禁止は保存禁止とは同義でないものの、私的な中立構造検査/長期保管の明示許諾は確認できず`rights_unverified_hold`を維持。ページにモデル年齢/ゲートはなく、年齢不記載を理由に保留していない。規約上ダウンロードは同意とみなされ、未成年者は事前の法定代理人同意が必要だが、利用者側条件は未確認。VRM memberは抽出・metadata検査・描画せず、ZIP/PDFをscratchから削除。B35 hold29は全件未アーカイブ。形状603/230/464、権利矛盾130・利用条件等未確認235・NAS隔離hold2、物理対応不明14は不変。
 B50ではB35 hold `mxu-suu-vrm`（BOOTH item3933882）の公式ページを確認。通常VRM ZIPとVRC/Valentine別offerがあり、通常offerは`.vroid`とセットアップ済みVRMを同梱する混合package。商用/改変可・再配布/販売不可・VRChat clone/public upload可は別々の利用軸であり、公開VRoidHub uploadは再配布扱い。再配布禁止だけを保存禁止とは扱わない。一方、ページはダウンロードを同意とみなし、非公開技術検査/長期保管を明示しないため取得せず`rights_unverified_hold`。身長約90cm/女の子表記から年齢を推定せず、年齢不記載のみを中立検査の禁止理由にしない。物理VRM/shape未検査。B35 hold29は全件未アーカイブ。形状603/230/464、権利矛盾130・利用条件等未確認235・NAS隔離hold2、物理対応不明14は不変。
@@ -15,7 +15,9 @@ B51 NAS read-only auditは487 ZIP/974 WebP、`verify_nas.py` `ok:true`/`errors:[
 
 B54ではB35 hold `branshop-nao`（BOOTH item6595645）を公式公開ページ・リンク先UVライセンスで再確認。無料`Nao_Contents.zip`（9.16 MB）にVRM形式モデルを掲示するが、実ZIP/VRMは未取得。利用条件は個人商用・二次著作物配布・成人向け表現などの軸別許可であり、再配布制限を私的保存禁止とは扱わず、DDWから未改変VRM配布許可も推定しない。非公開の中立技術検査・長期保管は明示されず、許可/禁止いずれも推定しない。数値年齢/年齢ゲートは確認できず、年齢不記載や成人向け表現条項だけで年齢を推定しない。公式download URLの無認証・追従なしHEADはHTTP/2 302 sign-in。認証/cookie/redirect follow/GET/取得/VRM検査なし。catalog verificationを`official_free_download_auth_required_not_verified`へ更新し、私的保存権利と形状scopeは別途未解決・未判定を維持。citation source IDs21/22/41、checkpoint `work/holiday-batch/booth-mixed-zip-reassessment-20261014-b54.json`。
 
-B54後の読み取り専用NAS監査は487 ZIP/974 WebP、ZIP 2,168,476,533 bytes、`verify_nas.py` `ok:true`/`errors:[]`。root 0777、index 0600、lock mode 000、named/default ACLなし、NFSv3 `rw,sec=sys,local_lock=none`、3 exportsはprivate IPv4 /24表示。実効server-side隔離・UID/GID mapping/squashは依然未確認。新規NAS保存停止、chmod/chown/ACL/NFS設定変更なし。現行797件は利用条件等未確認232、BOOTH認証待ち3、権利矛盾130、物理対応不明14。B35 hold29全件未アーカイブ。
+B55ではB35 hold `neoneko-ngii`（BOOTH item6254853）を再評価。無料828 KB ZIPのページ掲載情報・利用表示を記録したが、公式download URLの匿名HEADは302 sign-in。取得/ログイン/VRM解析なし。販売/譲渡制限を保存禁止とは扱わず、私的な中立検査・一時複製・長期保管は明示されないため許可も推定しない。数値年齢/age gateなしと確認し、キノコ説明・寸法から年齢/shapeを推測しない。主状態は`official_free_download_auth_required_not_verified`、shape unclassified、私的保存の権利軸は独立に未解決。source IDs42/43、checkpoint `work/holiday-batch/booth-mixed-zip-reassessment-20261014-b55.json`。
+
+B55後の読み取り専用NAS監査は487 ZIP/974 WebP、ZIP 2,168,476,533 bytes、`verify_nas.py` `ok:true`/`errors:[]`。index 548,641 bytes、SHA-256 `0bf57c18c66a14caaa79578f8865f2d8242df49a4a2e7cb7b68e19c7c1ec3a9f`。root/models/previews 0777、index 0600、lock mode 000、named/default ACLなし、NFSv3 `rw,sec=sys,local_lock=none`、3 exportsはprivate IPv4 /24表示。実効server-side隔離・UID/GID mapping/squash/利用者別隔離/lockは依然未確認。新規NAS保存停止、chmod/chown/ACL/NFS設定変更なし。現行797件は権利矛盾130、利用条件等未確認231、BOOTH認証待ち4、他サービス認証17、物理対応不明14。B35 hold29は全件未アーカイブ。次の候補へ進む前に最新main・NAS・checkpointを再確認し、認証ゲートを迂回しない。
 
 ## 状況：認証障壁が部分的に解消
 

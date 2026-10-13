@@ -11503,11 +11503,11 @@
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "レオ.zip",
-      "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
+      "license_name": "作者BOOTH掲載の利用条件（改変物販売・原本譲渡・転売を禁止）",
       "license_url": "https://booth.pm/ja/items/6505161",
-      "verification": "rights_unverified_hold",
-      "checked_at": "2026-10-11",
-      "notes": "作者が無料配布物レオ.zipにレオ_v1.09.vrmを収録と説明。0円のZIPを作者が公開。商品ページにVRM 0.0と明記。商品版番号はVRM仕様版ではない。投げ銭版は別計上しない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 Free ZIP contents list VRM and .vroid; page describes a boy, but mixed-format scope exclusion does not infer age. Excluded before download. B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: Product page says boy, but no age setting; fail-closed hold. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
+      "verification": "official_free_download_auth_required_not_verified",
+      "checked_at": "2026-10-13",
+      "notes": "B35旧評価の混合ZIP範囲外・年齢不記載だけを理由にしたholdをB51で訂正。2026-10-13公式BOOTHページは無料レオ.zip（23.1 MB）にレオ_v1.09.vrmとレオ_素体.vroidを列挙し、仕様VRM 0.0と表示（物理ZIP/VRM未確認）。ページは使用・改造して使用をOK、改変物販売・原本譲渡・転売をNGと表示。販売/譲渡制限だけで私的保存禁止とは判定しないが、非公開技術検査/長期保管の明示条件はなく、許可も推定しない。商品説明は明るい活発な少年とするが数値年齢/年齢ゲートの記載はなく、年齢を推定しない。年齢不記載だけで中立構造検査/Tポーズを止めない。公式ダウンロードURLの認証なし・リダイレクト追従なしGETは302 LocationがBOOTH sign_in。認証/ダウンロードなし。実member-ID対応、metadata、shape/Tポーズ未検証。アクセス状態をofficial_free_download_auth_required_not_verifiedへ変更し、保存条件は別軸で未解決。NAS未変更。B51結果・citation source ID35/36参照。"
     },
     {
       "id": "neoneko-tofu-seijin",

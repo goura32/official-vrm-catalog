@@ -1,11 +1,13 @@
 # Hermes Agent 一括実機継続指示（BOOTH認証済みChromeプロファイル）
 
-本指示は2026-10-13のB50確認に基づく。新規取得作業の開始時は必ず`origin/main`をfetchし、最新main・NAS索引・ローカルcheckpointを先に確認する。B33〜B49の履歴とB50詳細は`docs/hermes-bulk-run-results.md`を参照する。
+本指示は2026-10-13のB51確認に基づく。新規取得作業の開始時は必ず`origin/main`をfetchし、最新main・NAS索引・ローカルcheckpointを先に確認する。B33〜B50の履歴とB51詳細は`docs/hermes-bulk-run-results.md`を参照する。
 
 B49ではB35 hold `shounokoto-kotatsu-mikan`（BOOTH item6686224）の公式無料ZIPを一時取得して同梱VN3規約を確認。個人/法人の営利・非営利利用と許諾範囲内の複製は認められるが、規約外利用には事前の明示許諾が必要。未改変再配布禁止は保存禁止とは同義でないものの、私的な中立構造検査/長期保管の明示許諾は確認できず`rights_unverified_hold`を維持。ページにモデル年齢/ゲートはなく、年齢不記載を理由に保留していない。規約上ダウンロードは同意とみなされ、未成年者は事前の法定代理人同意が必要だが、利用者側条件は未確認。VRM memberは抽出・metadata検査・描画せず、ZIP/PDFをscratchから削除。B35 hold29は全件未アーカイブ。形状603/230/464、権利矛盾130・利用条件等未確認235・NAS隔離hold2、物理対応不明14は不変。
 B50ではB35 hold `mxu-suu-vrm`（BOOTH item3933882）の公式ページを確認。通常VRM ZIPとVRC/Valentine別offerがあり、通常offerは`.vroid`とセットアップ済みVRMを同梱する混合package。商用/改変可・再配布/販売不可・VRChat clone/public upload可は別々の利用軸であり、公開VRoidHub uploadは再配布扱い。再配布禁止だけを保存禁止とは扱わない。一方、ページはダウンロードを同意とみなし、非公開技術検査/長期保管を明示しないため取得せず`rights_unverified_hold`。身長約90cm/女の子表記から年齢を推定せず、年齢不記載のみを中立検査の禁止理由にしない。物理VRM/shape未検査。B35 hold29は全件未アーカイブ。形状603/230/464、権利矛盾130・利用条件等未確認235・NAS隔離hold2、物理対応不明14は不変。
 
-B50 NAS read-only auditは487 ZIP/974 WebP、`verify_nas.py` `ok:true`/`errors:[]`、ZIP bytes 2,168,476,533。index 548,641 bytes/SHA-256 `0bf57c18c66a14caaa79578f8865f2d8242df49a4a2e7cb7b68e19c7c1ec3a9f`。root/models/previews 0777、index 0600、`.index.lock` 0 bytes/mode 000、named/default ACLなし。NFSv3 `rw,sec=sys,local_lock=none`。`showmount -e`はtarget exportを含む3 exportsがprivate IPv4 /24に限られwildcardなしと表示したが、これは第三者/ユーザー隔離を証明しない。NAS server ACL、UID/GID mapping、squash、個別client allowlist、実効lock制御は未確認。NASの既存資産/権限は変更せず、新規保存停止を継続する。年齢設定未記載だけを中立・非性的検査の禁止理由にしない。
+B51ではB35 hold `neoneko-leo`（BOOTH item6505161）を再評価。無料offerは`レオ.zip`（23.1 MB）で、ページは`レオ_v1.09.vrm`と`レオ_素体.vroid`、仕様VRM 0.0を掲載。ページの利用表示は使用/改造使用OK、改変物販売/原本譲渡/転売NG。販売・譲渡制限だけを保存禁止とは扱わないが、非公開検査/長期保管は明示されず、許可も推定しない。商品説明は「少年」で数値年齢は記載なし。年齢を推測せず、年齢不記載だけで中立構造検査/Tポーズを止めない。公式無料URLの認証なし・redirect追従なしGETは302 Location `https://booth.pm/users/sign_in`。ログイン/ダウンロードは行わず、`official_free_download_auth_required_not_verified`へ再分類。物理member-ID対応、metadata、shape/Tポーズは未確認。B35旧age-reviewの年齢理由と混合ZIP除外を訂正。B35 hold29は全件未アーカイブ。形状603/230/464、権利矛盾130、利用条件等未確認234、BOOTH認証待ち1、他サービス認証17、NAS隔離hold2、物理対応不明14は計797。根拠source ID35/36、B51 checkpointは`work/holiday-batch/booth-mixed-zip-reassessment-20261013-b51.json`。
+
+B51 NAS read-only auditは487 ZIP/974 WebP、`verify_nas.py` `ok:true`/`errors:[]`、ZIP bytes 2,168,476,533。index 548,641 bytes/SHA-256 `0bf57c18c66a14caaa79578f8865f2d8242df49a4a2e7cb7b68e19c7c1ec3a9f`。root/models/previews 0777、index 0600、`.index.lock` 0 bytes/mode 000、named/default ACLなし。`findmnt`は`nas1.local:/volume1/hdd`のNFSv3 `rw,sec=sys,local_lock=none`を確認。`showmount -e`は3 exportsをprivate IPv4 /24に限りwildcardなしと表示したが、これは第三者/ユーザー隔離を証明しない。NAS server ACL、UID/GID mapping、squash、個別client allowlist、実効lock制御は未確認。NASの既存資産/権限は変更せず、新規保存停止を継続する。年齢設定未記載だけを中立・非性的検査の禁止理由にしない。
 
 ## 状況：認証障壁が部分的に解消
 

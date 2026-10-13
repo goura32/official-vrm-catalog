@@ -11522,11 +11522,11 @@
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "とーふ星人.zip",
-      "license_name": "作者BOOTH掲載の利用条件（再配布・転売禁止）",
+      "license_name": "作者BOOTH掲載の利用条件（使用・改変可、改変物販売・原本譲渡・転売禁止）",
       "license_url": "https://booth.pm/ja/items/5101910",
-      "verification": "rights_unverified_hold",
-      "checked_at": "2026-10-11",
-      "notes": "作者が無料配布物とーふ星人.zipにtofu_seijin.vrmを収録と説明。0円のZIPを作者が公開。商品ページにVRM 0.0と明記。商品版番号はVRM仕様版ではない。投げ銭版は別計上しない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 Free ZIP contents list blend, FBX, VRM, PNG and PSD. Excluded before download. B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: No explicit adulthood evidence in the retained product-page record; do not infer age from name, height, clothing, or appearance. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
+      "verification": "official_product_page_shape_non_humanoid_not_archived",
+      "checked_at": "2026-10-14",
+      "notes": "2026-10-14 B62: BOOTH item5101910を無認証・cookieなし・redirect追従なしGETでHTTP 200確認。無料「とーふ星人.zip」431 KB、ページ記載VRM 0.0/280 KB/member「tofu_seijin.vrm」。別500円offerは別扱い。利用・改変可、改変物販売・原本譲渡・転売不可。これらの制限を私的保存禁止へ読み替えないが、非公開技術検査/一時複製/長期保管の明示条件はなく、許可/禁止を推定しない。ページ本文に数値年齢/age gateなし。年齢不記載だけでは中立検査を止めない。公式プレビューは黄色い塊状の胴・両脚・両目を示し、腕/手や明確な頭胴区分は見えない。商品説明も手/口なしとし、名前ではなくプレビューの形状から非人型に分類。確認できた画像に明確な性的/不適切表示なし。物理ZIP/VRM・実内容/member-ID対応は未確認、ダウンロード/認証gate probeなし。source IDs55-58、B62 checkpointと実機結果を参照。"
     },
     {
       "id": "neoneko-junk-konojiblockun",

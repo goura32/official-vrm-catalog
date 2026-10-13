@@ -10119,12 +10119,12 @@
       "source_url": "https://booth.pm/ja/items/1571536",
       "download_url": null,
       "access_method": "booth_free_download",
-      "distribution_filename": "無題.zip",
-      "license_name": "制作者BOOTH商品ページの利用条件",
+      "distribution_filename": "無題 .zip",
+      "license_name": "作者BOOTH商品ページの利用条件（販売・未改造再配布禁止）",
       "license_url": "https://booth.pm/ja/items/1571536",
-      "verification": "rights_unverified_hold",
-      "checked_at": "2026-10-11",
-      "notes": "作者が2025年に無料化したオリジナル3Dモデル。無題.zipにはVRMとUnitypackageを同梱すると説明。おまけZIPは別モデルと数えない。 公開商品ページで0円配布とVRM形式を確認。実ダウンロード・ZIP内部・バイナリ・表示は未検証。 B32 2026-10-11: 商品ページで無料ZIPにVRMのほかUnitypackage/Blender/PSD/PMX等を同梱と確認。VRM-only保存範囲外のためダウンロードなし。 B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: No explicit adulthood evidence in the retained product-page record; do not infer age from name, height, clothing, or appearance. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
+      "verification": "official_free_download_auth_required_not_verified",
+      "checked_at": "2026-10-14",
+      "notes": "B35初回は無料ZIPにVRM/Unitypackage等を同梱する商品ページ記載のみで物理member・ID対応は未確認。B52/B56 2026-10-14: 現行公式ページは無料`無題 .zip`（33.1 MB）と`無題_おまけ .zip`（5.24 MB）を別項目で表示し、主packageにVRM/Unitypackage/Blend/PSDを記載。bonus ZIPの内容が主packageと同じとは推定しない。作者条件は無改造モデル/textureの再配布禁止、販売禁止、自作発言禁止、VRChatのpublic pedestalは無断不可。販売/再配布制限を私的保存禁止と解釈しない一方、個人的な非公開技術検査・一時複製・長期保管の明示許諾も確認できず、許可/禁止を推定しない。数値年齢/age gateはページ上で確認できず、商品名のお兄さん表現から成年を推定しない。年齢不記載だけを中立構造検査/T-poseの禁止理由にしないが、実際の年齢/内容条件は個別判断する。主package無料download URLへの認証/cookieなし・redirect追従なしHEADはHTTP 302 sign-in。GET、ログイン、取得、VRM解析/描画なし。主状態を`official_free_download_auth_required_not_verified`へ更新し、私的保存権利軸は独立に未解決。download_url null、VRM version/member-to-ID mapping/shapeは未確認、shape unclassified、NAS未保存。Citation source IDs37/38; see B56 record/checkpoint."
     },
     {
       "id": "doridori-nanami",

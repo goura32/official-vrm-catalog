@@ -31,7 +31,9 @@
 
 **B55再評価記録**：`neoneko-ngii`の詳細は[B55実機結果](docs/hermes-bulk-run-results.md)を参照。
 
-**B56最新状況（2026-10-14）**：`ratenosu-untitled`（[BOOTH item 1571536](https://booth.pm/ja/items/1571536)）の無料主package `無題 .zip`（33.1 MB）と別の`無題_おまけ .zip`（5.24 MB）を公式ページで確認。主packageにはVRM/Unitypackage/Blend/PSDの記載があるが、取得・物理member検査は未実施。無改造再配布・販売禁止を私的保存禁止とは扱わず、非公開検査/一時複製/長期保管の許可も推定しない。数値年齢/age gateなし。商品名から成年を推定せず、年齢不記載だけで中立検査を禁じない。無認証・追従なしHEADは302 sign-in。主状態はBOOTH認証待ち、私的保存権利軸は未解決、shape unclassified。B35 hold29は全件未アーカイブ。797件の主状態は権利矛盾130、利用条件等未確認230、BOOTH認証待ち5、他サービス認証17、NAS隔離hold2、物理対応不明14。shape603/230/464、NAS487 ZIP/974 WebPは維持。NFSの実効的な第三者隔離は未証明のため新規NAS保存を停止。根拠source ID37/38、[B56記録](docs/hermes-bulk-run-results.md)、[完成条件](docs/completion-criteria.md)、[継続指示](docs/hermes-bulk-resume.md)。
+**B56履歴スナップショット（2026-10-14）**：`ratenosu-untitled`の再評価は[実機結果](docs/hermes-bulk-run-results.md)を参照。
+
+**B57最新状況（2026-10-14）**：B35 hold `neoneko-nolt`（[BOOTH item 7933453](https://booth.pm/ja/items/7933453)）は無料`Nolt_ノルト_.zip`（22.9 MB）と別の500円支援offerを表示。無料ZIPにVRMと`.vroid`を掲載するが実物は未取得。作者の使用/改変使用OKと改変物販売/原本譲渡/転売NGを行為別に記録し、販売・移転制限だけを私的保存禁止とは扱わない。非公開の中立技術検査・一時複製・長期保管は明示されず、許可/禁止を推定しない。数値年齢/age gateなしで、年齢不記載だけで中立検査を止めない。無認証・redirect追従なしHEADは302 sign-in。主状態はBOOTH認証待ち、私的保存権利/shape/member対応は別軸で未解決。797件の区分は権利矛盾130、利用条件等未確認229、BOOTH認証待ち6。B35 hold29は全件未アーカイブ。NAS487 ZIP/974 WebPを保持し、新規保存停止。根拠source IDs44/45、[B57記録](docs/hermes-bulk-run-results.md)、[完成条件](docs/completion-criteria.md)。
 
 **画像・形状の根拠**： [R1/2 前半](docs/shape-review-100avatars-1-100.md) ／ [R1/2 後半](docs/shape-review-100avatars-101-200.md) ／ [R3](docs/shape-review-100avatars-r3.md) ／ [季節系・その他](docs/shape-review-indexed-other.md) ／ [MJMoonbow](docs/shape-review-mjmoonbow.md)。画像ファイル671件をIDに対応付けていますが、R1/R2のPNGはUVテクスチャで外形判定には使えません。画像対応付けは実VRMの形状確認やダウンロード許可を意味しません。
 

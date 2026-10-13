@@ -1,6 +1,8 @@
-# 登録凍結・人型ダウンロード選別レビュー（2026-10-09、2026-10-14 B34/B35/B43/B44/B45/B46/B47/B48/B51/B53/B54/B55/B56/B57/B58/B59/B60/B61/B62更新）
+# 登録凍結・人型ダウンロード選別レビュー（2026-10-09、2026-10-14 B34/B35/B43/B44/B45/B46/B47/B48/B51/B53/B54/B55/B56/B57/B58/B59/B60/B61/B62/B63更新）
 
-**最新の完成判定・残件（B62、2026-10-14）**：登録1,297件／NAS487 ZIP・974 WebP。形状予備分類は人型候補603・非人型231・未判定463。B35混合ZIP41 ID/35商品は保存3、非人型9、当初hold29で、29件すべて現在もNAS未収録。B62 `neoneko-tofu-seijin`（BOOTH item5101910）は公式ページを無認証GETで確認し、無料ZIP 431 KBとVRM 0.0/member listingを確認。商品プレビューは塊状の胴・両脚を示し、腕/手や明確な頭胴区分はなく、作者説明も手/口なし。モデル名ではなく見える形状から非人型へ分類した。ページの年齢/age gate記載なしだけを除外理由にせず、確認できたプレビューに明確な性的/不適切表示もないが、実VRM/実内容は未確認。ダウンロード・認証gate probeなし、物理member-ID対応は未検証。作者表示の使用/改変可と改変物販売/原本譲渡/転売禁止を分け、これらを私的保存禁止とは推論しない。一方、非公開中立検査/一時複製/長期保管の明示がなく、許可/禁止を推定しない。主状態を`rights_unverified_hold`から`official_product_page_shape_non_humanoid_not_archived`へ変更。B36時点の「237件」は履歴値で、現在の排他的区分は権利矛盾130・利用条件等未確認224・BOOTH認証待ち10・他サービス認証17・NAS隔離hold2・物理対応不明14（全区分重複なし）。これらの件数を保存禁止の断定と扱わず、取得・複製/保管・中立検査・アバター利用・商用・再配布を分けて確認する。NAS index SHA-256 `0bf57c18c66a14caaa79578f8865f2d8242df49a4a2e7cb7b68e19c7c1ec3a9f`、`/mnt/hdd`とNAS親directory 0777、NFSv3 `sec=sys`。サーバー側ユーザー隔離未証明のため新規保存停止を継続。詳細は[B62実機結果](hermes-bulk-run-results.md)、[完成条件](completion-criteria.md)、[NAS監査](nas-storage.md)。根拠source IDs55-58。
+**B62履歴（2026-10-14）**：`neoneko-tofu-seijin`を公式プレビューから非人型へ予備分類。ZIP/VRM未取得、私的保存条件は未解決。詳細は[B62実機結果](hermes-bulk-run-results.md)。
+
+**最新の完成判定・残件（B63、2026-10-14）**：登録1,297件／NAS487 ZIP・974 WebP。形状予備分類は人型候補604・非人型231・未判定462。B35混合ZIP41 ID/35商品は保存3、非人型9、当初hold29で、29件すべてNAS未収録。B63 `neoneko-tsukiyomi-akane`（BOOTH item5036417）の公式ページは無料ZIP 20.5 MB、VRM 0.0/14.2 MB、`.vroid`を掲載し、別500円支援variantとは分けた。使用/改変使用と改変物販売・原本譲渡・転売の制限を別軸で記録し、これらを私的保存禁止とは推論しないが、非公開検査・一時複製・長期保管の条件も明示されず、許可を推定しない。年齢/age gateの記載がないだけでは中立検査を止めず、年齢を推定しない。公式四面プレビューは頭・胴・両腕・両脚を示すため人型候補へ追加。実VRM・年齢・member対応は未確認。B28の既存12商品/12代表probe集計は12件302で、本IDを含む。商品別response rowがないためB63で再probeせず、既存根拠を記録して主状態をBOOTH認証待ちへ更新。NAS保存なし。B36時点の237件は履歴値、現行の排他的区分は権利矛盾130・利用条件等未確認223・BOOTH認証待ち11・他サービス認証17・NAS隔離hold2・物理対応不明14（合計797）。制限条項を保存禁止と一律解釈せず、禁止がないことも保存許可とはみなさない。NAS隔離未証明のため新規保存停止。根拠source IDs59-62、[B63実機結果](hermes-bulk-run-results.md)、[完成条件](completion-criteria.md)、[NAS監査](nas-storage.md)。
 
 ## 結論
 
@@ -25,11 +27,11 @@
 | 制作者索引のURLのみ未検証 | 132 | `creator_index_direct_url_listed_download_untested`の件数。IPFS / Arweave等。別枠で429終端9、redirect拒否2、作者画像で非人型1件 |
 | 制作者索引のURLがHTTP 429 | 9 | 001両ID、Halloween 002/003/004/005/006、Xmas 002は旧方針下で再試行終了。Halloween 007は初回429後に最新指示で再試行なしで終端化。dweb.linkは恒久ブロックし、残る131季節IDは未要求・以後もアクセスしない |
 | 別host redirectを拒否 | 2 | NeonGlitch86の索引掲載URL、代替hostへ追跡していない |
-| 人型候補 | **603** | 既存候補にR3/R1/R2、実VRM・商品レンダーの形状確認を反映。B34でSkeltonを実VRM、Sharumeinを全身レンダーで確認。Roid-chan、Monster Animal、Miu、Mini Azuha、Riko、Kogitsune、リス/肉ねこ各バリアント、Virtual Munchkin Yoshida 8種を公式レンダーの二足人型形状から候補に追加（年齢・権利保留とは別軸） |
+| 人型候補 | **604** | 既存候補にR3/R1/R2、実VRM・商品レンダーの形状確認を反映。B34でSkeltonを実VRM、Sharumeinを全身レンダーで確認。Roid-chan、Monster Animal、Miu、Mini Azuha、Riko、Kogitsune、リス/肉ねこ各バリアント、Virtual Munchkin Yoshida 8種を公式レンダーの二足人型形状から候補に追加（年齢・権利保留とは別軸）。B63 `neoneko-tsukiyomi-akane`は公式四面プレビューの頭・胴・両腕・両脚を根拠に候補へ追加（実VRM未検査、年齢/保存許諾は未解決） |
 | 非人型候補 | **231** | 既存候補にR3/R1/R2、作者・実バイナリの形状確認を反映。B34でValentine's mimic 4色、Kimoneze、Nagi E. coli/ファージ、アナゴ、墓石、鳥、韓国海苔、食品マスコット、たけぴよ、クラゲ、スライム、トナカイ、うさぎ、ひよこ、ぶた、雪だるま、おばけ、ねこ、いぬ、洋なし、パンダ、狐AkyO、Cube、ぽめ助を商品ページから取得前に除外。B62 `neoneko-tofu-seijin`も公式商品プレビューの実際の体形から非人型に分類。たこやきちゃん/あかしやきくんはID別形状が曖昧なため非人型候補から外し、未判定に戻した |
-| 形状判断保留 | **463** | R1/R2保留、MJMoonbow Dragon 8、DojimaのID別形状未確定2件と未処理IDを含む。永続保存禁止 |
+| 形状判断保留 | **462** | R1/R2保留、MJMoonbow Dragon 8、DojimaのID別形状未確定2件と未処理IDを含む。永続保存禁止 |
 
-注：人型候補603件には以前の予備分類も含まれ、すべての実物確認を意味しない。R3は88件を実VRMで形状確認し、12件を取得前に除外。R1/R2は400件すべてを実取得・バイナリ検査し、243人型、150非人型、4形状保留、3権利保留に分類。ぴえん系7件は実VRMの頭・胴・両腕・両脚を全身プレビューで確認し、名前だけに依らず非人型から人型候補へ訂正した。B33ではBlue Panda、Julius、Steam Punk Cat、B34ではSkeltonを実VRMの全身プレビューで人型形状と確認した。B34ではSharumein、Monster Animal、Roid-chan、Miu、Mini Azuha、Riko、Kogitsune、リス/肉ねこ各variant、Virtual Munchkin Yoshida 8種を公式レンダーで人型二足構造と確認して候補に追加したが、年齢/権利保留のため取得していない。Valentine's mimic 4色、Kimoneze、Nagi E. coli/ファージモデル、アナゴ、墓石、鳥、おにぎり、たけぴよ、クラゲ、こんにゃく、スライム、kanon MK3Dの動物/食物アバター、韓国海苔、Piyotaso、パンダ、狐AkyO、Cube、Pomesukeを商品ページの説明・全身レンダーから非人型に分類した。Dojimaのたこやきちゃん/あかしやきくんは個別IDへの形状対応が不明なため非人型候補から外した。当該記録時点の未判定数は464件である。
+注（B48時点の形状分類）：人型候補603件には以前の予備分類も含まれ、すべての実物確認を意味しない。R3は88件を実VRMで形状確認し、12件を取得前に除外。R1/R2は400件すべてを実取得・バイナリ検査し、243人型、150非人型、4形状保留、3権利保留に分類。ぴえん系7件は実VRMの頭・胴・両腕・両脚を全身プレビューで確認し、名前だけに依らず非人型から人型候補へ訂正した。B33ではBlue Panda、Julius、Steam Punk Cat、B34ではSkeltonを実VRMの全身プレビューで人型形状と確認した。B34ではSharumein、Monster Animal、Roid-chan、Miu、Mini Azuha、Riko、Kogitsune、リス/肉ねこ各variant、Virtual Munchkin Yoshida 8種を公式レンダーで人型二足構造と確認して候補に追加したが、年齢/権利保留のため取得していない。Valentine's mimic 4色、Kimoneze、Nagi E. coli/ファージモデル、アナゴ、墓石、鳥、おにぎり、たけぴよ、クラゲ、こんにゃく、スライム、kanon MK3Dの動物/食物アバター、韓国海苔、Piyotaso、パンダ、狐AkyO、Cube、Pomesukeを商品ページの説明・全身レンダーから非人型に分類した。Dojimaのたこやきちゃん/あかしやきくんは個別IDへの形状対応が不明なため非人型候補から外した。B48時点の未判定数は464件である。
 
 ## 画像根拠の対応付け（2026-10-08追補）
 

@@ -1,10 +1,12 @@
 # Hermes Agent 一括実機継続指示（BOOTH認証済みChromeプロファイル）
 
-本指示は2026-10-14のB63確認に基づく。新規取得作業の開始時は必ず`origin/main`をfetchし、最新main・NAS索引・ローカルcheckpointを先に確認する。B33〜B63の履歴とB51/B53/B54/B55/B56/B57/B58/B59/B60/B61/B62/B63詳細は`docs/hermes-bulk-run-results.md`を参照する。
+本指示は2026-10-14のB64確認に基づく。新規取得作業の開始時は必ず`origin/main`をfetchし、最新main・NAS索引・ローカルcheckpointを先に確認する。B33〜B64の履歴とB51/B53/B54/B55/B56/B57/B58/B59/B60/B61/B62/B63/B64詳細は`docs/hermes-bulk-run-results.md`を参照。
 
 B62履歴：B35 hold `neoneko-tofu-seijin`（BOOTH item5101910、per-model review 25/41）を商品プレビューから非人型予備分類した。実ZIP/VRMは未取得。詳細はsource IDs55-58とB62 checkpoint `work/holiday-batch/booth-mixed-zip-reassessment-20261014-b62.json`。
 B63ではB35 hold `neoneko-tsukiyomi-akane`（BOOTH item5036417、per-model review 26/41、hold29中16番目）を再評価。公式ページは無料`月詠赤音.zip`（20.5 MB）とVRM 0.0/14.2 MB、`.vroid`を掲載し、別500円支援variantはページ上で内容不変と説明。作者は使用/改変使用と髪型・衣装変更を認める一方、改変物販売・原本譲渡・転売を禁じる。これは私的保存禁止を意味しないが、非公開技術検査/一時複製/長期保管の明示条件もなく、許可/禁止を推定しない。ページ本文に数値年齢/age gateは見当たらず、年齢を推定せず、年齢不記載だけで中立検査/Tポーズを止めない。公式四面プレビューは頭・胴・両腕・両脚を示すため人型候補へ追加。実VRM/物理member対応/年齢は未確認。B28 checkpointには本IDを含む12商品/12代表probeの集計12件302 loginがあるが商品別response rowはないため再probeせず、既存根拠を明記して主状態をauth-requiredへ整理。ログイン/ダウンロード/VRM検査/NAS保存なし。source IDs59-62、checkpoint `work/holiday-batch/booth-mixed-zip-reassessment-20261014-b63.json`。
 B63 NAS read-only auditは487 ZIP/974 WebP、ZIP 2,168,476,533 bytes、index 487 rows/548,641 bytes・SHA-256 `0bf57c18c66a14caaa79578f8865f2d8242df49a4a2e7cb7b68e19c7c1ec3a9f`。`/mnt/hdd` 0777 root:root、`/mnt/hdd/vrm` 0777 ws2:uucp、models/previews 0777 ws2:ws2、index 0600、lock 0 bytes/mode000。確認pathにnamed/default ACLなし。autofs配下NFSv3 `rw,sec=sys,local_lock=none`、HDD exportを含む3 exportsはprivate IPv4 /24限定、wildcardなし。サーバー側ACL/UID-GID mapping/squash/user isolation/effective lock未確認のため第三者隔離は未証明。既存資産維持、新規保存停止。NAS書込み・chmod/chown/ACL/NFS変更なし。
+
+B64ではB35 hold `sakurabido-megumicchi`（item5689713、review33/41・hold23/29）を再評価。無料ZIP14.8 MBとVroid/VRM/readmeは商品ページ記載のみで、無料版/支援版の同一性・物理member・VRM-ID対応は未確認。アバター等の利用/改変可、再配布不可を記録し、私的検査/一時複製/長期保存の許諾を推定せず権利保留軸は維持。FANBOX詳細規約は無認証HEAD 404で本文未取得。50フォロワー記念から年齢を推定せず、年齢不記載だけで中立検査/Tポーズを禁じない。作者の後ろ向き全身previewは人型候補を支持するが、VRM/Tポーズ未検査。既存B13 checkpointは12商品・17 ID・14 probeすべて302 loginを記録し個別response rowなし。本IDを認証待ちへ整理し、gate再probe/ログイン/ダウンロード/NAS保存は行わず。source IDs63-66、checkpoint `work/holiday-batch/booth-mixed-zip-reassessment-20261014-b64.json`。B64 read-only NAS再監査は487 ZIP/974 WebP、ZIP 2,168,476,533 bytes、index hash `0bf57c18c66a14caaa79578f8865f2d8242df49a4a2e7cb7b68e19c7c1ec3a9f`、verifier `ok:true`/`errors:[]`。mode/ACL/NFS確認値はB63 baselineと同一。server-side隔離未証明のため新規保存停止、NAS/権限/NFS変更なし。B64は継続中handoffを先行処理したため、次の未再評価B35 holdは`pike-aurora`（review27/41・hold17/29）。
 
 以下のB49〜B62各記録は履歴スナップショットであり、記載当時の件数・状態は現行値ではない。現行値は本書冒頭および`docs/completion-criteria.md`を参照。
 

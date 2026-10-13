@@ -5552,11 +5552,11 @@
       "download_url": null,
       "access_method": "booth_free_download",
       "distribution_filename": "さくらリクオ_フリーアバター_50F_めぐみっち.zip",
-      "license_name": "制作者BOOTH商品ページの利用条件",
+      "license_name": "BOOTH掲載条件（アバター/VTuber/個人・個人商用・法人利用・改変可、再配布不可）",
       "license_url": "https://booth.pm/ja/items/5689713",
-      "verification": "rights_unverified_hold",
-      "checked_at": "2026-10-11",
-      "notes": "公式BOOTHページの無料ZIP「さくらリクオ_フリーアバター_50F_めぐみっち.zip」14.8 MBは.vroid編集ソース、VRM、READMEを同梱。VRM-only配布範囲外のため取得していない。 B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: No explicit adulthood evidence in the retained product-page record; do not infer age from name, height, clothing, or appearance. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
+      "verification": "official_free_download_auth_required_not_verified",
+      "checked_at": "2026-10-14",
+      "notes": "B35 (2026-10-11) history: held for age/rights/member-mapping uncertainty after a mixed-package scope exclusion; mixed format alone is not an exclusion. B64 (2026-10-14): BOOTH item 5689713 lists a free 14.8 MB ZIP and page-level Vroid/VRM/readme contents, but separately describes a support/tip ZIP with a Vroid file; free-versus-tip members and exact VRM-to-ID mapping remain unverified without the physical package. Page terms allow avatar/Vtuber use, personal and personal-commercial use, corporate use, and modification; prohibit redistribution; and state that corporate credit is required where feasible. They do not explicitly address private technical inspection, temporary private copy, or long-term retention. The linked detailed FANBOX terms returned anonymous HEAD 404; no body, login, or alternate URL was accessed. Page text identifies a 50-follower milestone, not a character age; no age terms were found and age is not inferred. Missing age alone does not bar neutral inspection/T-pose; actual age/content and age-sensitive use remain separate. Creator rear full-body preview shows head, torso, both arms, and both legs, so this is a page-preview humanoid candidate only; no physical VRM or T-pose inspection. Existing B13 gate checkpoint includes this ID among 12 product pages/17 catalog IDs and 14 representative probes, all HTTP 302 to login; no item-level response row, so do not repeat the probe. No login action, download, extraction, or NAS archive. Private-storage rights remain unresolved; download_url remains null. See source IDs 63-66 and B64 checkpoint."
     },
     {
       "id": "sakurabido-makinocchi",

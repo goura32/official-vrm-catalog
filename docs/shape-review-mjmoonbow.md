@@ -1,6 +1,6 @@
 # MJMoonbow：公式PNGとVRM対応一覧
 
-制作者の[VRMavatarsリポジトリ](https://github.com/MJMoonbow/VRMavatars)内にあるPNGと、既登録18 VRMのファイル名を対応付けた。後続処理で固定コミット`6af59479c61ab13b6caa96a9b915498489f2b9cd`のDragon画像4件を確認し、2/3は人型候補、8は保留、9は非人型と分類した。また別途VRM実体16件を検査したが、全件で埋込`Redistribution_Prohibited`を確認してNAS未保存。作者PNGの画面分類は実VRMのTポーズ/顔プレビューや再配布許可を代替しない。詳細は[実機検証レポート](hermes-bulk-run-results.md)を参照。
+制作者の[VRMavatarsリポジトリ](https://github.com/MJMoonbow/VRMavatars)内にあるPNGと、既登録18 VRMのファイル名を対応付けた。後続処理で固定コミット`6af59479c61ab13b6caa96a9b915498489f2b9cd`のDragon画像4件を確認し、2/3は人型候補、8は保留、9は非人型と分類した。また別途VRM実体16件を検査し、全件で埋込`Redistribution_Prohibited`を確認して権利矛盾holdとした。B84ではDragon 2を個別再確認し、公式VRM 0.0 schema上この`licenseName`は再配布/改変軸であり、単独で私的保存禁止を意味しないと整理。repository-level CC0表示と埋込値の不一致は残り、権利者権限/構成要素の根拠未確認のため保留は維持（source IDs109-111）。作者PNGの画面分類は実VRMのTポーズ/顔プレビューや再配布許可を代替しない。詳細は[実機検証レポート](hermes-bulk-run-results.md)を参照。
 
 | 制作者の画像 | 既登録モデル |
 | --- | --- |

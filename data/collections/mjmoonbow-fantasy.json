@@ -19,8 +19,8 @@
       "license_name": "CC0 1.0 Universal",
       "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
       "verification": "official_binary_inspected_rights_conflict_not_archived",
-      "checked_at": "2026-10-08",
-      "notes": "実VRM 0.xを取得・検査したが、埋込licenseName=Redistribution_Prohibitedは配布元CC0表示と矛盾するため権利保留、NAS未保存。"
+      "checked_at": "2026-10-14",
+      "notes": "実VRM 0.xを取得・検査した記録あり。既存記録のupstream fixed commitは6af59479c61ab13b6caa96a9b915498489f2b9cd、path=fantasy%C2%B4/dragons/dragon%202.vrm、size=7,468,144 bytes、git blob SHA=775e3093f35d65a6955f3b8844ddc71424a4d837。埋込licenseName=Redistribution_Prohibitedは配布元のCC0表示と矛盾するためrights-conflict hold、NAS未保存。2026-10-14 B84 (source IDs109-111): pinned repository READMEはcollectionをfree-to-use CC0と表示し、LICENSEは権利を保有する範囲でのCC0適用を記す。READMEはStableDiffusion/TripoSRによる作成とMixamoによるrigを記載するが、個別ファイルの全構成要素に対する権利者権限までは確認できない。公式VRM 0.0 specではlicenseNameはRedistribution / Modifications Licenseの項目で、Redistribution_Prohibitedは再配布条件の値。したがって埋込値だけを私的な非公開構造検査用コピー/保管の禁止と解釈しない。一方、repository-level CC0表示だけから当該VRMの全構成要素に対する権限や独立した長期保管許可も推定しないため、statusは変更せずrights-conflict holdを維持。年齢を推測せず、年齢未記載を中立検査禁止の根拠にしていない。B84で再取得・描画・NAS保存なし。"
     },
     {
       "id": "mjmoonbow-dragon-3-dbede1e",

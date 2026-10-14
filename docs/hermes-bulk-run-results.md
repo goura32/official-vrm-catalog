@@ -1117,3 +1117,11 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - B35 hold `pike-steam-rabbit`のitem4468213を公開ページで再確認（source ID13）。無料offerは25.1 MB ZIPと表示されるが、ページ確認のみで配布ファイル取得・再検査・描画はしていない。本文はダウンロード時の規約同意、利用者自身によるデータバックアップ、商品を使うモデル等の無料/商用利用と配布を許可し、未改変データ再配布を禁止。改変データ再配布・credit無表記・用途に迷う場合は相談対象と記載。
 - バックアップ条項は通常の許諾用途におけるバックアップを想定する根拠になるが、独立した非公開技術検査用の一時複製/長期保管まで明示的に許可すると断定できない。商用/アバター利用の許可や原本再配布の制限だけを私的保存禁止へ読み替えず、反対にその条項だけで技術検査用copyの許可とも推論しない。`rights_unverified_hold`を維持。ページに数値年齢/age gateは見当たらず、年齢は推測せず、中立検査を年齢不記載だけで禁止しない。
 - B36既存のVRM/hash記録と、腕がT字に見えず顔がゴーグルで隠れるためプレビュー条件未達だった所見は変更なし。verification・shape scope・NAS indexは変更せず、NAS書込みなし。全1,297 ID一意、raw rights-conflict 129/`rights_unverified_hold` 219、B35 hold29現行内訳（認証16/権利未確認9/矛盾1/非人型1/NAS隔離2）は不変。RDC/GitHub Actions・追加テスト不使用。
+
+## B80：mariVudo minamoの商用・改変矛盾と私的検査/保管軸の分離（2026-10-14）
+
+- 開始時`main`/`origin/main`は`d6fe30364d381cf80850dca876ab2b6eeba4eeea`で一致しworktree clean。read-only `verify_nas.py`は487 ZIP/974 WebP、2,168,476,533 ZIP bytes、`ok:true`/`errors:[]`。`index.jsonl`は487 rows/548,641 bytes、SHA-256 `0bf57c18c66a14caaa79578f8865f2d8242df49a4a2e7cb7b68e19c7c1ec3a9f`。
+- 読み取り専用の権限監査では`/mnt/hdd`・`/mnt/hdd/vrm`・models/previewsが0777、index 0600、lock mode000。確認pathにnamed/default ACLなし。NFSv3 `rw,sec=sys,local_lock=none`、exportsはprivate IPv4 `/24`限定・wildcardなし。server-side ACL、UID/GID mapping、squash、user isolationはclientから確認できず、非公開隔離を証明できないため新規保存停止を維持。chmod/chown、NAS/ACL/NFS設定変更、NAS書込みなし。
+- BOOTH item6728662の現行ページは無料通常版ZIPを示し、配布対象を`minamo.vrm`と明記。法人/個人商用利用、改変、SNS/VRサービス/収益化を含む動画配信利用を許可し、暴力/性的/政治・宗教表現、再配布、自作発言および作者が不適切と判断する行為を禁止する（citation source ID102）。
+- 既存VRM metadataの`commercialUsage=personalNonProfit`と`modification=prohibited`はページ許可と各利用軸で矛盾し、`allowRedistribution=false`は再配布禁止と整合するためrights-conflictを維持。商用・改変・再配布条件から私的保存禁止を推論しない一方、商品ページには非公開の中立的技術検査用複製・独立した長期保管の明示条件がなく、保存許可も推定しない。作者判断による広い「不適切」条項の射程も未確定。
+- 数値年齢/age gateはページに見当たらず、年齢未記載だけで中立・非性的な構造検査/T-poseを禁止しない。今回はページ確認のみで、既存VRMの再取得・追加検査/描画・NAS保存なし。catalog verification・shape scope・NAS artifactsに変更なし。全catalog raw labelsはrights-conflict 129、`rights_unverified_hold` 219で、129/219件の全件個別根拠監査は未完。RDC/GitHub Actions・追加テスト不使用。

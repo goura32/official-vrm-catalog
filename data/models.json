@@ -821,8 +821,8 @@
       "license_name": "作者BOOTH商品ページ内の利用条件",
       "license_url": "https://booth.pm/ja/items/6728662",
       "verification": "official_binary_inspected_rights_conflict_not_archived",
-      "checked_at": "2026-10-10",
-      "notes": "無料ファイル: minamo.zip。中にminamo.vrmを収録。公開説明は個人商用・法人可、改変可、再配布禁止だが、実VRMの埋込commercialUsage=personalNonProfit、modification=prohibited、allowRedistribution=false、authors=undefinedと矛盾したため権利保留。実取得SHA-256=a7c547632113667bd7719873fef3a2b2b9da76d2dea1543dd495752ca56f0c2f。プレビュー生成・NAS保存は行わない。",
+      "checked_at": "2026-10-14",
+      "notes": "無料ファイル: minamo.zip。中にminamo.vrmを収録。公開説明は個人商用・法人可、改変可、再配布禁止だが、実VRMの埋込commercialUsage=personalNonProfit、modification=prohibited、allowRedistribution=false、authors=undefinedと矛盾したため権利保留。実取得SHA-256=a7c547632113667bd7719873fef3a2b2b9da76d2dea1543dd495752ca56f0c2f。プレビュー生成・NAS保存は行わない。2026-10-14 (B80) 公開BOOTH item6728662を再確認（citation source ID102）。商品ページは法人/個人商用利用、色変更・改変、SNS/VRサービス/動画配信（収益化を含む）での利用を許可する一方、暴力/性的/政治・宗教表現、再配布、自作発言を禁止し、その他不適切と判断する行為も禁止。既存metadataとの差は商用利用・改変の各利用軸で維持し、再配布禁止はallowRedistribution=falseと整合。ページに個人的な非公開構造検査や独立した長期保管の明示条件はなく、許可/禁止を推定しない。数値年齢/age gateの記載は確認できず、年齢未記載だけで中立・非性的な構造検査を禁止しない。追加取得・再描画・NAS保存なし。rights-conflictを維持。",
       "distribution_filename": "minamo.zip"
     },
     {

@@ -901,7 +901,7 @@
       "license_url": "https://booth.pm/ja/items/4911831",
       "verification": "official_binary_inspected_rights_conflict_not_archived",
       "checked_at": "2026-10-10",
-      "notes": "0円の「モデル単体」にType01.vrmを掲載。公開説明は商用・改変可、再販禁止だが、実VRMの埋込commercialUssageName=Disallow・licenseName=Redistribution_Prohibitedと矛盾したため権利保留。実取得SHA-256=fe6d2975b22ad1cf04151320c6db345cf54239ca0a46a6f1fc8f92ef92a27b6b。NAS保存・プレビュー生成は行わない。商品ページの利用・改変・商用利用可および再販禁止は各利用行為の条件で、私的技術検査用複製・長期保管の許可/禁止を示さない。ページにその保存条件は明示されていないため、NAS保存は引き続き行わない。",
+      "notes": "0円の「モデル単体」にType01.vrmを掲載。公開説明は商用・改変可、再販禁止だが、実VRMの埋込commercialUssageName=Disallow・licenseName=Redistribution_Prohibitedと矛盾したため権利保留。実取得SHA-256=fe6d2975b22ad1cf04151320c6db345cf54239ca0a46a6f1fc8f92ef92a27b6b。NAS保存・プレビュー生成は行わない。B78（2026-10-14）に商品ページを再確認（source ID14）：無料allType.zipと8種の個別無料VRMを掲載し、支援版と無料版は同一ファイルと明記。cluster/VRC等での利用、モデル/名前の改変、商用利用を許可し、再販のみ控えるよう記載。これは埋込commercialUssageName=Disallowと商用軸で直接矛盾する。再販制限と広いRedistribution_Prohibitedの適用範囲は別軸で、非再販の再配布許可は確認できず保留。個人的な非公開構造検査/複製/長期保管条件は明示されず、許可・禁止を推定しない。法律・条例・公序良俗に反する行為と政治/宗教にかかわる表現での使用は禁止、クレジットは任意。数値年齢・age gateの記載なし。中立構造検査/Tポーズは年齢不記載だけで禁止せず、B78では追加取得・再検査・描画・NAS保存なし。verification/hash/shape scope/NAS状態は不変。",
       "distribution_filename": "Type01.vrm"
     },
     {
@@ -921,7 +921,7 @@
       "license_url": "https://booth.pm/ja/items/4911831",
       "verification": "official_binary_inspected_rights_conflict_not_archived",
       "checked_at": "2026-10-10",
-      "notes": "0円の「モデル単体」にType01sotai.vrmを掲載。公開説明は商用・改変可、再販禁止だが、実VRMの埋込commercialUssageName=Disallow・licenseName=Redistribution_Prohibitedと矛盾したため権利保留。実取得SHA-256=2b7db8aaa48e929bf73f85466ee7b30cbe6872f362a2ce81da571e85092402ff。NAS保存・プレビュー生成は行わない。商品ページの利用・改変・商用利用可および再販禁止は各利用行為の条件で、私的技術検査用複製・長期保管の許可/禁止を示さない。ページにその保存条件は明示されていないため、NAS保存は引き続き行わない。",
+      "notes": "0円の「モデル単体」にType01sotai.vrmを掲載。公開説明は商用・改変可、再販禁止だが、実VRMの埋込commercialUssageName=Disallow・licenseName=Redistribution_Prohibitedと矛盾したため権利保留。実取得SHA-256=2b7db8aaa48e929bf73f85466ee7b30cbe6872f362a2ce81da571e85092402ff。NAS保存・プレビュー生成は行わない。B78（2026-10-14）に商品ページを再確認（source ID14）：無料allType.zipと8種の個別無料VRMを掲載し、支援版と無料版は同一ファイルと明記。cluster/VRC等での利用、モデル/名前の改変、商用利用を許可し、再販のみ控えるよう記載。これは埋込commercialUssageName=Disallowと商用軸で直接矛盾する。再販制限と広いRedistribution_Prohibitedの適用範囲は別軸で、非再販の再配布許可は確認できず保留。個人的な非公開構造検査/複製/長期保管条件は明示されず、許可・禁止を推定しない。法律・条例・公序良俗に反する行為と政治/宗教にかかわる表現での使用は禁止、クレジットは任意。数値年齢・age gateの記載なし。中立構造検査/Tポーズは年齢不記載だけで禁止せず、B78では追加取得・再検査・描画・NAS保存なし。verification/hash/shape scope/NAS状態は不変。",
       "distribution_filename": "Type01sotai.vrm"
     },
     {
@@ -940,7 +940,7 @@
       "license_url": "https://booth.pm/ja/items/4911831",
       "verification": "official_binary_inspected_rights_conflict_not_archived",
       "checked_at": "2026-10-10",
-      "notes": "0円の「モデル単体」にType02.vrmを掲載。公開説明は商用・改変可、再販禁止だが、実VRMの埋込commercialUssageName=Disallow・licenseName=Redistribution_Prohibitedと矛盾したため権利保留。実取得SHA-256=6105f05a75bf61bcf30cdd8c7e7e003ff7c21fde6e18ce0f8b72b2922094c4c2。NAS保存・プレビュー生成は行わない。商品ページの利用・改変・商用利用可および再販禁止は各利用行為の条件で、私的技術検査用複製・長期保管の許可/禁止を示さない。ページにその保存条件は明示されていないため、NAS保存は引き続き行わない。",
+      "notes": "0円の「モデル単体」にType02.vrmを掲載。公開説明は商用・改変可、再販禁止だが、実VRMの埋込commercialUssageName=Disallow・licenseName=Redistribution_Prohibitedと矛盾したため権利保留。実取得SHA-256=6105f05a75bf61bcf30cdd8c7e7e003ff7c21fde6e18ce0f8b72b2922094c4c2。NAS保存・プレビュー生成は行わない。B78（2026-10-14）に商品ページを再確認（source ID14）：無料allType.zipと8種の個別無料VRMを掲載し、支援版と無料版は同一ファイルと明記。cluster/VRC等での利用、モデル/名前の改変、商用利用を許可し、再販のみ控えるよう記載。これは埋込commercialUssageName=Disallowと商用軸で直接矛盾する。再販制限と広いRedistribution_Prohibitedの適用範囲は別軸で、非再販の再配布許可は確認できず保留。個人的な非公開構造検査/複製/長期保管条件は明示されず、許可・禁止を推定しない。法律・条例・公序良俗に反する行為と政治/宗教にかかわる表現での使用は禁止、クレジットは任意。数値年齢・age gateの記載なし。中立構造検査/Tポーズは年齢不記載だけで禁止せず、B78では追加取得・再検査・描画・NAS保存なし。verification/hash/shape scope/NAS状態は不変。",
       "distribution_filename": "Type02.vrm"
     },
     {
@@ -960,7 +960,7 @@
       "license_url": "https://booth.pm/ja/items/4911831",
       "verification": "official_binary_inspected_rights_conflict_not_archived",
       "checked_at": "2026-10-10",
-      "notes": "0円の「モデル単体」にType02sotai.vrmを掲載。公開説明は商用・改変可、再販禁止だが、実VRMの埋込commercialUssageName=Disallow・licenseName=Redistribution_Prohibitedと矛盾したため権利保留。実取得SHA-256=065e7828f2317e5f9f294534d0ffa0e2f659c27dc5090c86445181af8b0b8cb0。NAS保存・プレビュー生成は行わない。商品ページの利用・改変・商用利用可および再販禁止は各利用行為の条件で、私的技術検査用複製・長期保管の許可/禁止を示さない。ページにその保存条件は明示されていないため、NAS保存は引き続き行わない。",
+      "notes": "0円の「モデル単体」にType02sotai.vrmを掲載。公開説明は商用・改変可、再販禁止だが、実VRMの埋込commercialUssageName=Disallow・licenseName=Redistribution_Prohibitedと矛盾したため権利保留。実取得SHA-256=065e7828f2317e5f9f294534d0ffa0e2f659c27dc5090c86445181af8b0b8cb0。NAS保存・プレビュー生成は行わない。B78（2026-10-14）に商品ページを再確認（source ID14）：無料allType.zipと8種の個別無料VRMを掲載し、支援版と無料版は同一ファイルと明記。cluster/VRC等での利用、モデル/名前の改変、商用利用を許可し、再販のみ控えるよう記載。これは埋込commercialUssageName=Disallowと商用軸で直接矛盾する。再販制限と広いRedistribution_Prohibitedの適用範囲は別軸で、非再販の再配布許可は確認できず保留。個人的な非公開構造検査/複製/長期保管条件は明示されず、許可・禁止を推定しない。法律・条例・公序良俗に反する行為と政治/宗教にかかわる表現での使用は禁止、クレジットは任意。数値年齢・age gateの記載なし。中立構造検査/Tポーズは年齢不記載だけで禁止せず、B78では追加取得・再検査・描画・NAS保存なし。verification/hash/shape scope/NAS状態は不変。",
       "distribution_filename": "Type02sotai.vrm"
     },
     {
@@ -979,7 +979,7 @@
       "license_url": "https://booth.pm/ja/items/4911831",
       "verification": "official_binary_inspected_rights_conflict_not_archived",
       "checked_at": "2026-10-10",
-      "notes": "0円の「モデル単体」にType03.vrmを掲載。公開説明は商用・改変可、再販禁止だが、実VRMの埋込commercialUssageName=Disallow・licenseName=Redistribution_Prohibitedと矛盾したため権利保留。実取得SHA-256=d20b5823d5633c0b45d7b7b8b963d7a1620ba431717aeaf45b65ec25ff8a328e。NAS保存・プレビュー生成は行わない。商品ページの利用・改変・商用利用可および再販禁止は各利用行為の条件で、私的技術検査用複製・長期保管の許可/禁止を示さない。ページにその保存条件は明示されていないため、NAS保存は引き続き行わない。",
+      "notes": "0円の「モデル単体」にType03.vrmを掲載。公開説明は商用・改変可、再販禁止だが、実VRMの埋込commercialUssageName=Disallow・licenseName=Redistribution_Prohibitedと矛盾したため権利保留。実取得SHA-256=d20b5823d5633c0b45d7b7b8b963d7a1620ba431717aeaf45b65ec25ff8a328e。NAS保存・プレビュー生成は行わない。B78（2026-10-14）に商品ページを再確認（source ID14）：無料allType.zipと8種の個別無料VRMを掲載し、支援版と無料版は同一ファイルと明記。cluster/VRC等での利用、モデル/名前の改変、商用利用を許可し、再販のみ控えるよう記載。これは埋込commercialUssageName=Disallowと商用軸で直接矛盾する。再販制限と広いRedistribution_Prohibitedの適用範囲は別軸で、非再販の再配布許可は確認できず保留。個人的な非公開構造検査/複製/長期保管条件は明示されず、許可・禁止を推定しない。法律・条例・公序良俗に反する行為と政治/宗教にかかわる表現での使用は禁止、クレジットは任意。数値年齢・age gateの記載なし。中立構造検査/Tポーズは年齢不記載だけで禁止せず、B78では追加取得・再検査・描画・NAS保存なし。verification/hash/shape scope/NAS状態は不変。",
       "distribution_filename": "Type03.vrm"
     },
     {
@@ -999,7 +999,7 @@
       "license_url": "https://booth.pm/ja/items/4911831",
       "verification": "official_binary_inspected_rights_conflict_not_archived",
       "checked_at": "2026-10-10",
-      "notes": "0円の「モデル単体」にType03sotai.vrmを掲載。公開説明は商用・改変可、再販禁止だが、実VRMの埋込commercialUssageName=Disallow・licenseName=Redistribution_Prohibitedと矛盾したため権利保留。実取得SHA-256=5a65d93c968a3e1c7a79ddfbe24f5435a99b55a2d0f2269b914b63c3c6a3033a。NAS保存・プレビュー生成は行わない。商品ページの利用・改変・商用利用可および再販禁止は各利用行為の条件で、私的技術検査用複製・長期保管の許可/禁止を示さない。ページにその保存条件は明示されていないため、NAS保存は引き続き行わない。",
+      "notes": "0円の「モデル単体」にType03sotai.vrmを掲載。公開説明は商用・改変可、再販禁止だが、実VRMの埋込commercialUssageName=Disallow・licenseName=Redistribution_Prohibitedと矛盾したため権利保留。実取得SHA-256=5a65d93c968a3e1c7a79ddfbe24f5435a99b55a2d0f2269b914b63c3c6a3033a。NAS保存・プレビュー生成は行わない。B78（2026-10-14）に商品ページを再確認（source ID14）：無料allType.zipと8種の個別無料VRMを掲載し、支援版と無料版は同一ファイルと明記。cluster/VRC等での利用、モデル/名前の改変、商用利用を許可し、再販のみ控えるよう記載。これは埋込commercialUssageName=Disallowと商用軸で直接矛盾する。再販制限と広いRedistribution_Prohibitedの適用範囲は別軸で、非再販の再配布許可は確認できず保留。個人的な非公開構造検査/複製/長期保管条件は明示されず、許可・禁止を推定しない。法律・条例・公序良俗に反する行為と政治/宗教にかかわる表現での使用は禁止、クレジットは任意。数値年齢・age gateの記載なし。中立構造検査/Tポーズは年齢不記載だけで禁止せず、B78では追加取得・再検査・描画・NAS保存なし。verification/hash/shape scope/NAS状態は不変。",
       "distribution_filename": "Type03sotai.vrm"
     },
     {
@@ -1018,7 +1018,7 @@
       "license_url": "https://booth.pm/ja/items/4911831",
       "verification": "official_binary_inspected_rights_conflict_not_archived",
       "checked_at": "2026-10-10",
-      "notes": "0円の「モデル単体」にType04.vrmを掲載。公開説明は商用・改変可、再販禁止だが、実VRMの埋込commercialUssageName=Disallow・licenseName=Redistribution_Prohibitedと矛盾したため権利保留。実取得SHA-256=50ccccaa180021c8dce649a3cda27b1a6c4fd792431ee9ec8ea2cb499b8b5a3c。NAS保存・プレビュー生成は行わない。商品ページの利用・改変・商用利用可および再販禁止は各利用行為の条件で、私的技術検査用複製・長期保管の許可/禁止を示さない。ページにその保存条件は明示されていないため、NAS保存は引き続き行わない。",
+      "notes": "0円の「モデル単体」にType04.vrmを掲載。公開説明は商用・改変可、再販禁止だが、実VRMの埋込commercialUssageName=Disallow・licenseName=Redistribution_Prohibitedと矛盾したため権利保留。実取得SHA-256=50ccccaa180021c8dce649a3cda27b1a6c4fd792431ee9ec8ea2cb499b8b5a3c。NAS保存・プレビュー生成は行わない。B78（2026-10-14）に商品ページを再確認（source ID14）：無料allType.zipと8種の個別無料VRMを掲載し、支援版と無料版は同一ファイルと明記。cluster/VRC等での利用、モデル/名前の改変、商用利用を許可し、再販のみ控えるよう記載。これは埋込commercialUssageName=Disallowと商用軸で直接矛盾する。再販制限と広いRedistribution_Prohibitedの適用範囲は別軸で、非再販の再配布許可は確認できず保留。個人的な非公開構造検査/複製/長期保管条件は明示されず、許可・禁止を推定しない。法律・条例・公序良俗に反する行為と政治/宗教にかかわる表現での使用は禁止、クレジットは任意。数値年齢・age gateの記載なし。中立構造検査/Tポーズは年齢不記載だけで禁止せず、B78では追加取得・再検査・描画・NAS保存なし。verification/hash/shape scope/NAS状態は不変。",
       "distribution_filename": "Type04.vrm"
     },
     {
@@ -1038,7 +1038,7 @@
       "license_url": "https://booth.pm/ja/items/4911831",
       "verification": "official_binary_inspected_rights_conflict_not_archived",
       "checked_at": "2026-10-10",
-      "notes": "0円の「モデル単体」にType04sotai.vrmを掲載。公開説明は商用・改変可、再販禁止だが、実VRMの埋込commercialUssageName=Disallow・licenseName=Redistribution_Prohibitedと矛盾したため権利保留。実取得SHA-256=db05f15d1d4224345c184340e4cf780b9092837bcd411da1c5b2e0ce817988c1。NAS保存・プレビュー生成は行わない。商品ページの利用・改変・商用利用可および再販禁止は各利用行為の条件で、私的技術検査用複製・長期保管の許可/禁止を示さない。ページにその保存条件は明示されていないため、NAS保存は引き続き行わない。",
+      "notes": "0円の「モデル単体」にType04sotai.vrmを掲載。公開説明は商用・改変可、再販禁止だが、実VRMの埋込commercialUssageName=Disallow・licenseName=Redistribution_Prohibitedと矛盾したため権利保留。実取得SHA-256=db05f15d1d4224345c184340e4cf780b9092837bcd411da1c5b2e0ce817988c1。NAS保存・プレビュー生成は行わない。B78（2026-10-14）に商品ページを再確認（source ID14）：無料allType.zipと8種の個別無料VRMを掲載し、支援版と無料版は同一ファイルと明記。cluster/VRC等での利用、モデル/名前の改変、商用利用を許可し、再販のみ控えるよう記載。これは埋込commercialUssageName=Disallowと商用軸で直接矛盾する。再販制限と広いRedistribution_Prohibitedの適用範囲は別軸で、非再販の再配布許可は確認できず保留。個人的な非公開構造検査/複製/長期保管条件は明示されず、許可・禁止を推定しない。法律・条例・公序良俗に反する行為と政治/宗教にかかわる表現での使用は禁止、クレジットは任意。数値年齢・age gateの記載なし。中立構造検査/Tポーズは年齢不記載だけで禁止せず、B78では追加取得・再検査・描画・NAS保存なし。verification/hash/shape scope/NAS状態は不変。",
       "distribution_filename": "Type04sotai.vrm"
     },
     {

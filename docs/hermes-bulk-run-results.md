@@ -1104,3 +1104,9 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - 埋込`allowedUserName=OnlyAuthor`は公式VRM 0.0 schema上「アバターとして利用できるユーザー」を制限する値で、ページのVRSNS個人利用許可とアバター利用軸で矛盾。`Redistribution_Prohibited`はページの再配布禁止と整合する。いずれもファイルの個人非公開保存を禁止する根拠にはしない。一方、非公開の構造検査/複製/長期保管は規約に列挙されず、未列挙用途は作者照会とされるため、許可・禁止のどちらも推定しない。このページ解釈から法令上の例外/許諾も判断しない。
 - 年齢不記載だけを中立構造検査/Tポーズ表示の禁止理由にしないが、未列挙用途の照会が未了のためB77では追加検査・Tポーズ生成・再取得を行わず、NAS保存なし。verification/shape scope/NAS indexに変更なし。権利矛盾はアバター利用範囲に限定して維持。
 - B77 NASを読み取り専用で再確認：`verify_nas.py`は487 ZIP/974 WebP、2,168,476,533 bytes、`ok:true`・`errors:[]`。index 487 rows/548,641 bytes・基準SHA-256は不変。NFSv3 `rw,sec=sys,local_lock=none`、確認pathにnamed/default ACLなし、exportsは`192.168.1.0/24`限定。client-visible親directoryは0777で、サーバー側利用者隔離は未証明のため、新規保存停止を維持。NAS index/artifacts、mode、ACL、NFS設定は変更していない。
+
+## B78：BOOTH「あまね Type-1〜4」の商用・再販・私的保管軸を分離（2026-10-14）
+
+- 開始時`main`/`origin/main`はB77 commit `db80ad3cf939f696c5c5a29392030ddc5ed6814b`で一致、worktree clean。権利矛盾129 recordsのsource URL群からBOOTH item4911831（8 variants）を選び、公開商品ページを再確認（source ID14）。無料allType ZIP（52.2 MB）と8種の個別無料VRMを掲載し、100円の支援版と無料版は同一ファイルと表示。今回はリンクをクリックせず、追加取得・再検査・描画なし。
+- 商品ページはcluster/VRC等での利用、モデル/名前の改変、商用利用を許可し、「再販のみ」控えるよう記載。既存8 VRMの`commercialUssageName=Disallow`とは商用利用軸で直接矛盾する。一方、ページの再販制限とmetadataの広い`Redistribution_Prohibited`は適用範囲を同一視せず、非再販の再配布許可も推定しない。いずれも私的な非公開構造検査・複製・長期保管の許可/禁止を示さず、ページにもその条件は明記されない。
+- 法律・条例・公序良俗に反する行為、政治/宗教にかかわる表現での利用は禁止。クレジットは任意。ページ本文/表示に数値年齢・age gateは見当たらず、年齢を推測しない。年齢不記載だけで中立構造検査/Tポーズを禁止しない。verification/既存SHA-256/shape scope/NAS indexは変更なし。NAS保存停止を維持。

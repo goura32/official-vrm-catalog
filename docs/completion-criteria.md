@@ -1,6 +1,6 @@
 # 完成条件・未保存モデルの扱い（2026-10-14）
 
-この文書は、**カタログの完成**と**NASへの人型VRM収集の完了**を分けて判定するための方針。正本は`data/models.json`、`data/collections/*.json`、`data/download-scope.json`。以下の現行値はB77（2026-10-14）時点であり、B35の混合ZIP hold29再評価・14 ID照合、B36の権利/NAS再評価、B37〜B77の用途別レビューを反映する。履歴値は実績レポートを参照する。
+この文書は、**カタログの完成**と**NASへの人型VRM収集の完了**を分けて判定するための方針。正本は`data/models.json`、`data/collections/*.json`、`data/download-scope.json`。以下の現行値はB78（2026-10-14）時点であり、B35の混合ZIP hold29再評価・14 ID照合、B36の権利/NAS再評価、B37〜B78の用途別レビューを反映する。履歴値は実績レポートを参照する。
 
 ## 完成の定義
 
@@ -9,7 +9,7 @@
 - **未保存の正確な管理**：権利未確定・人型でない・ページ不存在・取得制限・要会員認証・ID対応不明・VRoid Studio書き出し専用などは、根拠と再開条件があれば保留・除外でよい。**1,297件すべてをNAS保存することは完成条件にしない**。一方、無償取得可能な人型VRMを、推測上の「ZIP同梱ファイル」を理由に見落とさない。
 - **作業の終了**：現行方針で実行可能な対象が無くなり、残件が理由別に記録されている状態を「現時点の収集フェーズ完了」と呼ぶ。技術的に未検査のものを「実VRM検証済み」に変更しない。保留の解除は**新しい作者根拠・利用条件・正規ログイン・モデル対応資料**がある場合だけ行う。
 
-## B77時点の排他的内訳（2026-10-14）
+## B78時点の排他的内訳（2026-10-14）
 
 | R1/R2/R3以外の797 ID | 件数 | 扱い |
 | --- | ---: | --- |
@@ -29,9 +29,9 @@
 | 公式メタデータのみ・リポジトリ掲載のみ | 5 | 実ファイル未検証のまま記録 |
 | **合計** | **797** | **区分は重複しない** |
 
-注：この797件の排他的内訳と、1,297件全体の`verification`生ラベルCounterは別集計。B36時点の`rights_unverified_hold` 237件は履歴値。B68は218件/130件、B74〜B77現在は`rights_unverified_hold` 219件/`official_binary_inspected_rights_conflict_not_archived` 129件。B73では、現行UV Licenseが成人向け性的利用を許可する一方、暴力利用の許可は確認できず、暴力禁止metadataとの矛盾を裏付ける根拠がないと確認し、旧noteを誤りとして1件を未確認へ再分類した。残る未確認/矛盾の個別根拠監査は未完であり、監査完了を意味しない。B77時点のraw labelは`rights_unverified_hold` 219、`official_binary_inspected_rights_conflict_not_archived` 129、`official_binary_inspected_embedded_rights_conflict_not_archived` 3（R1/R2側）、`official_free_download_auth_required_not_verified` 17（BOOTH 16＋ENRAI/note 1）、`official_hub_auth_required` 16。ラベル値だけで排他的区分を作らず、checkpoint・取得元・NAS indexで分類する。詳細は[B77実機結果](hermes-bulk-run-results.md)。
+注：この797件の排他的内訳と、1,297件全体の`verification`生ラベルCounterは別集計。B36時点の`rights_unverified_hold` 237件は履歴値。B68は218件/130件、B74〜B78現在は`rights_unverified_hold` 219件/`official_binary_inspected_rights_conflict_not_archived` 129件。B73では、現行UV Licenseが成人向け性的利用を許可する一方、暴力利用の許可は確認できず、暴力禁止metadataとの矛盾を裏付ける根拠がないと確認し、旧noteを誤りとして1件を未確認へ再分類した。残る未確認/矛盾の個別根拠監査は未完であり、監査完了を意味しない。B78時点のraw labelは`rights_unverified_hold` 219、`official_binary_inspected_rights_conflict_not_archived` 129、`official_binary_inspected_embedded_rights_conflict_not_archived` 3（R1/R2側）、`official_free_download_auth_required_not_verified` 17（BOOTH 16＋ENRAI/note 1）、`official_hub_auth_required` 16。ラベル値だけで排他的区分を作らず、checkpoint・取得元・NAS indexで分類する。詳細は[B78実機結果](hermes-bulk-run-results.md)。
 
-B75で確認したVRoid Studio個別規約（source ID97）は、第12・13条で出力物の利用を含有コンテンツの個別ライセンスに従わせ、個別条件の表示がない提供コンテンツについて複製・アーカイブ等を含む標準ライセンスを定める。公式ガイドは、特別表示のない提供モデルについて出力モデルデータをVRoid Studio以外のソフトウェアで編集・利用する例も示す（source ID96）。この範囲から、第7条のソフト利用/解析制限を独立ツールによる出力VRMの中立検査の一律禁止とは読まない。一方、特定VRM内の素材/個別表示や第三者条件が未確認なら、全体の私的保管許可にも一律禁止にも一般化しない。B76ではitem4136312の公開条件と埋込`commercialUssageName=Disallow`の商用範囲矛盾をrights-conflictのまま維持し、再配布制限と私的保存条件を別軸で記録した（source ID98）。B77ではitem4921493の`OnlyAuthor`/個人VRSNS条件をアバター利用軸の矛盾として維持。ページは未列挙用途を作者照会とし、公序良俗に反するコンテンツへの使用禁止は具体的な用途/内容ごとに確認。個人的な非公開検査/複製/保管の許可は確認できないため推定せず保留。年齢の未記載だけでは中立検査/Tポーズを禁止せず、商品名の衣装表記から年齢を推測しない（source IDs99,101）。status/label集計は変更なし。詳細は[B77実機結果](hermes-bulk-run-results.md)。
+B75で確認したVRoid Studio個別規約（source ID97）は、第12・13条で出力物の利用を含有コンテンツの個別ライセンスに従わせ、個別条件の表示がない提供コンテンツについて複製・アーカイブ等を含む標準ライセンスを定める。公式ガイドは、特別表示のない提供モデルについて出力モデルデータをVRoid Studio以外のソフトウェアで編集・利用する例も示す（source ID96）。この範囲から、第7条のソフト利用/解析制限を独立ツールによる出力VRMの中立検査の一律禁止とは読まない。一方、特定VRM内の素材/個別表示や第三者条件が未確認なら、全体の私的保管許可にも一律禁止にも一般化しない。B76ではitem4136312の公開条件と埋込`commercialUssageName=Disallow`の商用範囲矛盾をrights-conflictのまま維持し、再配布制限と私的保存条件を別軸で記録した（source ID98）。B77ではitem4921493の`OnlyAuthor`/個人VRSNS条件をアバター利用軸の矛盾として維持。ページは未列挙用途を作者照会とし、公序良俗に反するコンテンツへの使用禁止は具体的な用途/内容ごとに確認。個人的な非公開検査/複製/保管の許可は確認できないため推定せず保留。年齢の未記載だけでは中立検査/Tポーズを禁止せず、商品名の衣装表記から年齢を推測しない（source IDs99,101）。B78ではitem4911831の「商用利用等ご自由」「再販のみ控える」を再確認し、埋込commercialUssageName=Disallowとの商用軸矛盾を維持。再販とRedistribution_Prohibitedの対象差、私的な非公開検査/複製/保管の許否は推定せず、法律/条例/公序良俗・政治宗教表現の制限を個別判断する記録とした（source ID14）。status/label集計は変更なし。詳細は[B78実機結果](hermes-bulk-run-results.md)。
 
 ### 年齢記載に関するB68補助トリアージ
 

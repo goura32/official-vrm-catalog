@@ -1,6 +1,6 @@
 # 完成条件・未保存モデルの扱い（2026-10-14）
 
-この文書は、**カタログの完成**と**NASへの人型VRM収集の完了**を分けて判定するための方針。正本は`data/models.json`、`data/collections/*.json`、`data/download-scope.json`。以下の現行値はB64（2026-10-14）時点であり、B35の混合ZIP再評価・14 ID照合、B36の権利/NAS再評価、B37〜B64の用途別レビューを反映する。履歴値は実績レポートを参照する。
+この文書は、**カタログの完成**と**NASへの人型VRM収集の完了**を分けて判定するための方針。正本は`data/models.json`、`data/collections/*.json`、`data/download-scope.json`。以下の現行値はB68（2026-10-14）時点であり、B35の混合ZIP hold29再評価・14 ID照合、B36の権利/NAS再評価、B37〜B68の用途別レビューを反映する。履歴値は実績レポートを参照する。
 
 ## 完成の定義
 
@@ -9,27 +9,31 @@
 - **未保存の正確な管理**：権利未確定・人型でない・ページ不存在・取得制限・要会員認証・ID対応不明・VRoid Studio書き出し専用などは、根拠と再開条件があれば保留・除外でよい。**1,297件すべてをNAS保存することは完成条件にしない**。一方、無償取得可能な人型VRMを、推測上の「ZIP同梱ファイル」を理由に見落とさない。
 - **作業の終了**：現行方針で実行可能な対象が無くなり、残件が理由別に記録されている状態を「現時点の収集フェーズ完了」と呼ぶ。技術的に未検査のものを「実VRM検証済み」に変更しない。保留の解除は**新しい作者根拠・利用条件・正規ログイン・モデル対応資料**がある場合だけ行う。
 
-## B64時点の排他的内訳（2026-10-14）
+## B68時点の排他的内訳（2026-10-14）
 
 | R1/R2/R3以外の797 ID | 件数 | 扱い |
 | --- | ---: | --- |
 | NAS保存 | 157 | 全体487 ZIP・974 WebP。NAS実機の次回確認が正本 |
 | 非人型（実体8・作者索引1・商品ページ60） | 69 | 登録は保持、NASへは保存しない |
 | 埋込権利矛盾 | 130 | 公開条件とVRM metadataの不一致を示す。商用/再配布/アバター利用の制限だけで私的保存禁止と推論せず、計画行為ごとに照合。関連条件が未解決なら保留 |
-| 利用条件・許諾未確認 | 222 | 権利・取得・複製/保存条件の不足を個別確認。年齢設定未記載だけでは中立な非性的技術検査を止めない。独立した権利/形状/対応/実際の年齢ゲート等が未解決なら保留 |
+| 利用条件・許諾未確認 | 218 | 権利・取得・複製/保存条件の不足を個別確認。年齢設定未記載だけでは中立な非性的技術検査を止めない。独立した権利/形状/対応/実際の年齢ゲート等が未解決なら保留 |
 | ライセンス複製許諾確認済み・NAS隔離未確認 | 2 | `youkihi-recruit-suit`、`youkihi-long-black-hair`: CC BY 4.0の複製許諾を確認。NASの実効的な第三者隔離を確認できないため保存保留 |
 | カタログIDと物理VRMの対応不明 | 14 | ZIP内メンバー・作者による対応資料で再確認 |
-| 「混合ZIP」のみを理由にした配布範囲外 | 0 | B35で41 IDを再評価。保存3、非人型9、当初hold29。現在も全件未アーカイブ。B51 `neoneko-leo`、B53 `sakurabido-hapicchi`、B54 `branshop-nao`、B55 `neoneko-ngii`、B56 `ratenosu-untitled`、B57 `neoneko-nolt`、B58 `neoneko-roa`、B59 `neoneko-romuru`、B60 `neoneko-shitakee`、B61 `neoneko-shoki-avatar-2`、B63 `neoneko-tsukiyomi-akane`、B64 `sakurabido-megumicchi`は公式無料URLの認証待ちへ分類 |
+| 「混合ZIP」のみを理由にした配布範囲外 | 0 | B35で41 IDを再評価。保存3、非人型9、当初hold29は全件個別再評価済みだが未アーカイブ。混合形式のみを除外理由にせず、別途の権利・認証・形状・対応条件を維持する。B51 `neoneko-leo`、B53 `sakurabido-hapicchi`、B54 `branshop-nao`、B55 `neoneko-ngii`、B56 `ratenosu-untitled`、B57 `neoneko-nolt`、B58 `neoneko-roa`、B59 `neoneko-romuru`、B60 `neoneko-shitakee`、B61 `neoneko-shoki-avatar-2`、B63 `neoneko-tsukiyomi-akane`、B64 `sakurabido-megumicchi`、B65 `propofol7-satake-nagisa`、B66 `sakurabido-mirucchi`、B67 `tatougai-oninoko-kiri`、B68 `yumenonakaya-rem-lowpoly`は公式無料URLの認証待ちへ分類 |
 | 別ホストへのリダイレクト拒否 | 2 | 正規取得根拠なしに迂回しない |
 | `dweb.link`ブロック・未取得 | 141 | 未要求132と429終端9を含む。再アクセス禁止 |
-| BOOTH認証待ち | 12 | B34の145件は状態遷移済み。B51 `neoneko-leo`、B53 `sakurabido-hapicchi`、B54 `branshop-nao`、B55 `neoneko-ngii`、B56 `ratenosu-untitled`、B57 `neoneko-nolt`、B58 `neoneko-roa`、B59 `neoneko-romuru`、B60 `neoneko-shitakee`、B61 `neoneko-shoki-avatar-2`、B63 `neoneko-tsukiyomi-akane`、B64 `sakurabido-megumicchi`。B63はB28の12商品/12代表probe集計（12件302）、B64はB13の12商品/17 ID・14代表probe集計（14件302）に含まれる。双方とも個別response rowがなく、再probeせず既存記録を再照合 |
+| BOOTH認証待ち | 16 | B34の145件は状態遷移済み。B51 `neoneko-leo`、B53 `sakurabido-hapicchi`、B54 `branshop-nao`、B55 `neoneko-ngii`、B56 `ratenosu-untitled`、B57 `neoneko-nolt`、B58 `neoneko-roa`、B59 `neoneko-romuru`、B60 `neoneko-shitakee`、B61 `neoneko-shoki-avatar-2`、B63 `neoneko-tsukiyomi-akane`、B64 `sakurabido-megumicchi`、B65 `propofol7-satake-nagisa`、B66 `sakurabido-mirucchi`、B67 `tatougai-oninoko-kiri`、B68 `yumenonakaya-rem-lowpoly`。B63はB28の12商品/12代表probe集計（12件302）、B64はB13の12商品/17 ID・14代表probe集計（14件302）に含まれる。B65/B66/B67/B68は個別の匿名HEADで302を確認。過去の集計に個別response rowがないものは再probeせず既存記録を再照合 |
 | 別サービスで正規認証が必要 | 17 | VRoid Hub16、ENRAI/note 1 |
 | 商品ページ404 | 3 | 公式の移転先など新根拠を待つ |
 | VRoid Studioからのエクスポート専用 | 23 | 直接VRM配布とは区別。後日アプリ実機操作で確認 |
 | 公式メタデータのみ・リポジトリ掲載のみ | 5 | 実ファイル未検証のまま記録 |
 | **合計** | **797** | **区分は重複しない** |
 
-注：この797件の排他的内訳と、1,297件全体の`verification`生ラベルCounterは別集計。B64時点のraw labelは`rights_unverified_hold` 222、`official_binary_inspected_rights_conflict_not_archived` 130、`official_binary_inspected_embedded_rights_conflict_not_archived` 3（R1/R2側）、`official_free_download_auth_required_not_verified` 13（BOOTH 12＋ENRAI/note 1）、`official_hub_auth_required` 16。ラベル値だけで排他的区分を作らず、checkpoint・取得元・NAS indexで分類する。詳細は[B64実機結果](hermes-bulk-run-results.md)。
+注：この797件の排他的内訳と、1,297件全体の`verification`生ラベルCounterは別集計。B36時点の`rights_unverified_hold` 237件は履歴値で、B68現在は218件。状態遷移後も未確認218件と権利矛盾130件の個別根拠監査は未完であり、監査完了を意味しない。B68時点のraw labelは`rights_unverified_hold` 218、`official_binary_inspected_rights_conflict_not_archived` 130、`official_binary_inspected_embedded_rights_conflict_not_archived` 3（R1/R2側）、`official_free_download_auth_required_not_verified` 17（BOOTH 16＋ENRAI/note 1）、`official_hub_auth_required` 16。ラベル値だけで排他的区分を作らず、checkpoint・取得元・NAS indexで分類する。詳細は[B68実機結果](hermes-bulk-run-results.md)。
+
+### 年齢記載に関するB68補助トリアージ
+
+`rights_unverified_hold` 218件のnotesをキーワード走査したところ、117件に年齢不明/未記載の記述、81件に年齢表現と保留表現の併記があった。これは検索語の重なりを数えたトリアージで、年齢が唯一の保留理由だと判定した件数ではない。81件のうち80件には、同じ記録内にアクセス・規約・メンバー対応・形状など別の未確認記述もあった（残る1件は形状未判定を含む）。B68では、年齢不明を中立検査の理由に結び付けていた11件のnotesを訂正したが、verification状態・保存範囲は変更していない。残りの年齢/外見関連表現は全件個別確認が未完。年齢を外見・身長・名前・タグから推測せず、年齢の未記載だけで中立・非性的構造検査/Tポーズを禁止しない。これらの訂正は取得、複製、私的長期保管の許諾を与えるものではない。
 
 B59 `neoneko-romuru`の再評価履歴はB59実機結果を参照。B60 `neoneko-shitakee`は無料ZIPのページ掲載と混合package内のVRM listingを確認したが、別の500円支援offerとは区別した。利用・改変可と販売/原本譲渡/転売禁止を行為別に記録し、これらを私的保存禁止と読み替えない。私的な中立検査・一時複製・長期保管は明示されず、許可/禁止を推定しない。数値年齢/age gateは見当たらず、年齢不記載だけでは中立検査を止めない。無料URLの無認証HEADは302 sign-inのため主状態をBOOTH認証待ちへ変更。私的保存権利、物理member対応、shapeは独立に未解決/未確認。根拠source IDs50/51、詳細はB60実機結果。
 
@@ -40,10 +44,18 @@ B62履歴：`neoneko-tofu-seijin`は公式プレビューの実形状を根拠�
 B63 `neoneko-tsukiyomi-akane`は公式ページで無料ZIP（20.5 MB）、VRM 0.0（14.2 MB）、`.vroid`を掲載し、別500円支援variantとは分けた。作者は使用/改変使用・髪型/衣装変更を認める一方、改変物販売・原本譲渡・転売を禁止。これらを私的保存禁止とは扱わないが、非公開技術検査・一時複製・長期保管の明示条件もなく、保存許可は推定しない。ページ本文に数値年齢/age gateは見当たらず、年齢を推定せず、年齢不記載だけでは中立検査/Tポーズを止めない。公式四面プレビューで頭/胴/両腕/両脚が見えるため人型候補へ追加。実VRM/member対応は未確認。B28の既存checkpointは本IDを含む12商品/12代表probeの集計12件302を記録し、商品別response rowはない。B63では再probe/ログイン/ダウンロードをせず、この既存根拠に基づき主状態をBOOTH認証待ちへ更新。非公開保存条件は独立して未解決。根拠source IDs59-62、詳細はB63実機結果。
 B64 `sakurabido-megumicchi`は公式ページ上でアバター/Vtuber/個人・個人商用/法人利用と改変を許可し、再配布を禁止。私的技術検査・一時複製・長期保管は明示されず、保存許可/禁止は推定しない。詳細FANBOXリンクは無認証HEAD 404で本文未確認。ページの50フォロワー記念はキャラクター年齢を示さず、年齢不記載だけでは中立検査を止めない。後ろ向き全身previewが頭/胴/両腕/両脚を示すため人型候補へ追加したが、実VRM/物理memberは未確認。B13の認証probeは集計14件302で個別response rowなしのため再probeしない。主状態はBOOTH認証待ち、私的保存条件は独立に未解決。根拠source IDs63-66、詳細はB64実機結果。
 
+B65履歴 `propofol7-satake-nagisa`（B35 review30/41・hold20/29）は公開商品ページと説明書Ver0.4、公式previewを確認。無料96.8 MB ZIPとVRMの掲載、Humanoid骨格の記載はあるが、物理ZIP/member・実VRM形状/内容は未確認。ページの「青年」は非数値タグで、年齢推定なし。旧B35の年齢理由を撤回し、年齢の未記載/非数値タグだけで中立・非性的構造検査/Tポーズを禁止しない。匿名HEAD 302はBOOTH sign-inへ遷移。ログイン/GET/取得なし。VN3 PDF viewerは匿名状態で「Sign in」を表示し全文未確認。アバター利用条件と私的技術検査・一時複製・長期保管は別軸で、保存許可も禁止も推定しない。candidateは`official_free_download_auth_required_not_verified`へ更新、shape scope変更・NAS保存なし。根拠source IDs67-70、[B65実機結果](hermes-bulk-run-results.md)。B35 holdの未着手は`sakurabido-mirucchi`（review34/41・hold24/29）、`tatougai-oninoko-kiri`（review36/41・hold26/29）、`yumenonakaya-rem-lowpoly`（review41/41・hold29/29）の3件。次は`sakurabido-mirucchi`。
+
+B66 `sakurabido-mirucchi`（B35 review34/41・hold24/29）は、無料20.2 MB ZIPとVRoid/VRM/READMEのページ記載、アバター/Vtuber・個人/商用・法人利用・改変・性的/暴力的表現の許可、再配布禁止、法人クレジット条件を確認した。再配布制限を私的保存禁止とは解釈しない。FANBOX詳細規約は匿名404、私的検査/複製/長期保管条件は未確認。数値年齢/実際の年齢ゲートは確認できず、年齢推定なし。年齢の未記載だけで中立・非性的構造検査/Tポーズを禁止しない。公式背面全身previewが頭・胴・両腕・両脚を示すためhumanoid候補へ追加したが、実VRM/T-poseは未検査。無料URL匿名HEADは302 sign-in、ログイン/GET/取得なし。主状態をBOOTH認証待ちへ更新、`download_url:null`、NAS保存なし。B66時点の全1,297件raw verification labelsは`rights_unverified_hold` 220、`official_free_download_auth_required_not_verified` 15（BOOTH14＋ENRAI/note1）。排他的797件の内訳は上表。B35 hold29は全件未アーカイブ、未着手は`tatougai-oninoko-kiri`（review36/41・hold26/29）と`yumenonakaya-rem-lowpoly`（review41/41・hold29/29）の2件。次は`tatougai-oninoko-kiri`。根拠source IDs66, 71-74、[B66実機結果](hermes-bulk-run-results.md)。
+
+B67 `tatougai-oninoko-kiri`（B35 review36/41・hold26/29）は公式BOOTH item5189443の無料25.7 MB ZIPとVRM 0.0 member名を確認したが、物理ZIP/memberは未取得。無料版は個人/商用利用とクレジット付き再配布を許可し、有償版の再配布は禁止。これらを私的保存条件へ読み替えず、非公開技術検査・一時複製・長期保管はページに明記されないため許可/禁止を推定しない。商品ページは列挙外の利用について作者への相談を求める。数値年齢/実際の年齢ゲートは本文で見つからず、年齢未記載だけでは中立・非性的検査/Tポーズを禁じない。公式の基本無料coverは頭・胴・両腕・両脚・足を示し、文字が下半身の一部に重なるが人型候補の形状根拠として十分。有償版と明記された別画像は無料版の形状根拠に使わない。これにより人型候補へ追加し、shape scopeは607/231/459。T-pose・実VRM・物理memberは未検査。匿名HEADは302 sign-in、未ログイン/GET/取得/NAS保存なし。状態はBOOTH認証待ち。B67時点で残る未着手候補は`yumenonakaya-rem-lowpoly`で、B68に再評価。根拠source IDs75-80、[B67実機結果](hermes-bulk-run-results.md)。
+
+B68 `yumenonakaya-rem-lowpoly`（BOOTH item7296492、B35 review41/41・hold29/29）は無料`Rem_ver0.01.zip`（3.31 MB）と内容物欄のVRM/UnityPackage/blend/PNG/FBXを確認。ページはVN3規約PDFをリンクするが本文は取得不能で、private technical inspection・一時複製・長期保管の条件は未確認。混合ZIPは単独除外理由でなく、保存許可/禁止を推定しない。商品文の「睡眠不足のおとこのこ」は数値年齢/age gateではなく、年齢を推測しない。年齢未記載だけで中立・非性的検査/Tポーズを禁じない。公式前後全身previewは頭・胴・両腕・両脚・足を示し人型候補を支持するが、腕は下向きでT-poseではない。無料URL匿名HEADは302 sign-in。ログイン/GET/取得/実VRM検査/NAS保存なし。主状態はBOOTH認証待ち、私的保存条件は別軸で未解決。B35 hold29は29/29再評価済み・NAS収録0。内訳は認証待ち16、権利未確認9、rights conflict1、非人型1、NAS隔離hold2。797件の現行排他的内訳は権利矛盾130・条件未確認218・BOOTH認証待ち16（他区分は上表）；全1,297件raw auth labelは17（BOOTH16＋ENRAI/note1）。130件の矛盾・218件の未確認群の個別根拠監査は未完で、一括解除しない。shape scopeは608/231/458。根拠source IDs81-84、[B68実機結果](hermes-bulk-run-results.md)。
+
 この797件の表は単一の主状態による排他的集計であり、未解決の権利軸すべてを網羅する重複なしの件数ではない。B53 `sakurabido-hapicchi`は認証待ちへ分類したが、個人的な非公開技術検査・一時複製・長期保管の許諾範囲は別途未解決のまま記録する。商用利用、アバター/Vtuber利用、再配布の制限だけから私的保存の禁止を推論しない。B54 `branshop-nao`はUVライセンスの個人商用/派生物配布/成人向け表現の条項を各軸で記録し、派生物配布許可を元VRMの再配布許可へ拡張しない。非公開技術検査・長期保管は明示されず、禁止・許可いずれも推定しない。無料URLがsign-inへ302するため取得認証待ちへ分類し、権利軸を独立に未解決とする。成人向け表現条項はモデル年齢の根拠ではなく、数値年齢不記載だけで中立検査を禁止しない。B55 `neoneko-ngii`は使用/改変使用を許可し、改変物販売・原本譲渡・転売を禁止する。販売/移転の禁止を私的保存禁止とは解釈せず、非公開技術検査/長期保管の明示もないため許可を推定しない。年齢・形状を説明や外観ラベルから推測せず、年齢不記載だけで中立検査を禁止しない。
 
 
-形状の予備選別は人型候補605、非人型候補231、未判定461。NAS内で検証した件数とは別の集計。B64 `sakurabido-megumicchi`は作者の後ろ向き全身previewで頭/胴/両腕/両脚を確認できるため候補に追加したが、実VRM検査・年齢/権利確認・保存承認とは別軸である。B63 `neoneko-tsukiyomi-akane`も公式四面previewに基づく候補で、B62 `neoneko-tofu-seijin`は公式商品previewを根拠に非人型へ分類。年齢は推定せず、年齢不記載だけを中立検査の禁止理由にしない。R1/R2/R3の500件も含めた総登録は1,297件。
+形状の予備選別は人型候補608、非人型候補231、未判定458。NAS内で検証した件数とは別の集計。B64 `sakurabido-megumicchi`、B66 `sakurabido-mirucchi`、B67 `tatougai-oninoko-kiri`、B68 `yumenonakaya-rem-lowpoly`は公式全身previewを根拠に候補へ追加したが、いずれも実VRM検査・権利確認・保存承認とは別軸である。B67 coverは下半身に文字が重なるものの両脚・足が見え、有償版previewには依存しない。B68前後像は頭・胴・両腕・両脚・足を示すが、T-poseではない。B63 `neoneko-tsukiyomi-akane`も公式四面previewに基づく候補で、B62 `neoneko-tofu-seijin`は公式商品previewを根拠に非人型へ分類。年齢は推定せず、年齢不記載だけを中立検査の禁止理由にしない。R1/R2/R3の500件も含めた総登録は1,297件。
 
 ## B36の再評価（2026-10-11）
 

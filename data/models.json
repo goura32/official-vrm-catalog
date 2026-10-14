@@ -4943,7 +4943,7 @@
       "license_url": "https://booth.pm/ja/items/5094429",
       "verification": "rights_unverified_hold",
       "checked_at": "2026-10-11",
-      "notes": "公式ページの0円直接VRMは11.3 MBで、編集可能な.vroid版は有料。説明は「小動物系の少女」、身長151 cmとするが年齢は不明。改変可、再配布・自作発言禁止。商品ページの全身レンダーでは頭・胴・両腕・両脚のある人型形状を確認したが、年齢不明のため取得せず保留。"
+      "notes": "公式ページの0円直接VRMは11.3 MBで、編集可能な.vroid版は有料。説明は「小動物系の少女」、身長151 cmとするが年齢は不明。改変可、再配布・自作発言禁止。商品ページの全身レンダーでは頭・胴・両腕・両脚のある人型形状を確認したが、年齢未記載だけでは中立・非性的な構造検査/Tポーズを禁止しない（年齢を推測しない）。この訂正は正規取得・私的複製・長期保管の許諾を付与せず、個別のアクセス/私的保存条件が未解決なら保留を維持する。"
     },
     {
       "id": "nekomishouten-yuru-neko",
@@ -5279,9 +5279,9 @@
       "distribution_filename": "oninoko_kiri_free_.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5189443",
-      "verification": "rights_unverified_hold",
-      "checked_at": "2026-10-11",
-      "notes": "公式BOOTHページの無料ZIP「oninoko_kiri_free_.zip」25.7 MBは.vroid編集ソースとVRMを同梱。VRM-only配布範囲外のため取得していない。有償おまけ版は別商品。 B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: No explicit adulthood evidence in the retained product-page record; do not infer age from name, height, clothing, or appearance. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
+      "verification": "official_free_download_auth_required_not_verified",
+      "checked_at": "2026-10-14",
+      "notes": "B67 2026-10-14: Official BOOTH item 5189443 lists free ZIP oninoko_kiri_free_.zip (25.7 MB) and free VRM member oninoko_kiri00.vrm (VRM 0.0); paid add-on variants are separate. The free base permits personal/commercial use and redistribution of the free version with credit; redistribution of paid items is prohibited. These use/redistribution terms are separate from private technical inspection, temporary copying, and long-term retention, which are not specifically stated; do not infer permission or blanket prohibition. No numeric character age or actual age gate is stated; missing age alone is not a bar to neutral, nonsexual structural inspection, and age is not inferred. The official basic-free cover visibly shows head, torso, both arms, both legs, and feet despite text overlay, supporting a humanoid shape candidate; it is not T-pose evidence, and the actual VRM/member remains unverified. The separately labeled paid-version full-body example is excluded from free-version shape evidence. Anonymous HEAD to the official free ZIP returned HTTP 302 to BOOTH sign-in; redirect not followed. No GET, login, download, physical VRM/member inspection, T-pose, or NAS archive. Access remains auth-required; source IDs 75-80 and /home/ws2/.hermes/cache/scratch/vrm-b67-20261014-evidence.txt."
     },
     {
       "id": "shounokoto-kotatsu-mikan",
@@ -5535,9 +5535,9 @@
       "distribution_filename": "さくらリクオ_フリーアバター_50F_みるっち.zip",
       "license_name": "制作者BOOTH商品ページの利用条件",
       "license_url": "https://booth.pm/ja/items/5715397",
-      "verification": "rights_unverified_hold",
-      "checked_at": "2026-10-11",
-      "notes": "公式BOOTHページは0円20.2 MB ZIPを掲載し、同梱物を.vroid、VRM、READMEと明記。性的・暴力的表現を許可するがキャラクター年齢は不明。編集可能ソースを含む混合パッケージのためVRM-only取得範囲外として、取得していない。 B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: Product page gives no character age and permits sexual/violent expression; fail-closed hold. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
+      "verification": "official_free_download_auth_required_not_verified",
+      "checked_at": "2026-10-14",
+      "notes": "B35 2026-10-11の旧記録は混合ZIPを範囲外とし、年齢不明と性的/暴力的利用条件を保留理由にしたためB66で訂正。現行の公式BOOTH item5715397は無料ZIP `さくらリクオ_フリーアバター_50F_みるっち.zip` 20.2 MBとVroid/VRM/readmeを掲載。支援時にVroidを付けるとの別記載もあり、free/supportの物理内容は同一と仮定しない。商品ページはアバター/Vtuber、暴力/性的表現、個人/個人商用/法人利用、改変を許可し、再配布を禁止、法人クレジットを可能な範囲で必須とする。これらの制限だけを私的保存禁止とは解釈しない。ページは配布アバターと同じ規約としてFANBOX post5545930を案内するが、匿名取得は404で全文未確認。数値年齢/実際の年齢ゲートは確認できず、タイトルの50フォロワーから年齢を推測しない。年齢の未記載/非数値情報だけで中立・非性的構造検査/Tポーズを禁止しない。公式背面全身previewは頭/胴/両腕/両脚/足を示すためhumanoid candidateへ追加するが、T-poseではなく、実VRM shape/metadata/contentとmember-ID対応は未確認。無料URLへの匿名HEADは302でBOOTH sign-in。ログイン/GET/取得/抽出/T-pose/NAS保存なし。非公開技術検査・一時複製・長期保管の条件は未解決で、保存許可/禁止を推定しない。source IDs 66, 71-74; see B66 results/checkpoint."
     },
     {
       "id": "sakurabido-megumicchi",
@@ -5698,7 +5698,7 @@
       "license_url": "https://booth.pm/ja/items/5389330",
       "verification": "rights_unverified_hold",
       "checked_at": "2026-10-11",
-      "notes": "作者の無料ZIPに7種類のVRMアバターを含む。改変・商用利用可、再配布・作者詐称は禁止。B32 2026-10-11: ZIP内VRM 0.xを検査し人型外形を確認。女性化・胸部/まつ毛表現、年齢未記載、埋込性的利用Allowのため権利/年齢保留。抽出VRMとプレビューを削除し、NAS未保存。"
+      "notes": "作者の無料ZIPに7種類のVRMアバターを含む。改変・商用利用可、再配布・作者詐称は禁止。B32 2026-10-11: ZIP内VRM 0.xを検査し人型外形を確認。年齢未記載や埋込sexualUssageName=Allowだけでは中立・非性的な構造検査/Tポーズの禁止を意味しない。年齢を推測せず、性的用途は別に個別判断する。私的な技術検査用複製・長期保管の条件は未解決のため権利保留を維持し、抽出VRMとプレビューを削除、NAS未保存。"
     },
     {
       "id": "mujo-emoji-tokun",
@@ -6999,7 +6999,7 @@
       "license_url": "https://booth.pm/ja/items/2627819",
       "verification": "rights_unverified_hold",
       "checked_at": "2026-10-11",
-      "notes": "B34 (2026-10-11): 正規BOOTH item2627819を確認。ページはR15/下着露出の可能性を案内するがキャラクター年齢は不明。利用条件と年齢・内容適合を確認できないため取得しない。"
+      "notes": "B34 (2026-10-11): 正規BOOTH item2627819を確認。B68 age-policy correction: the R15/underwear-exposure notice is a content-specific review signal; missing/unlisted age alone does not bar neutral, nonsexual structural inspection/T-pose, and no age is inferred. Keep acquisition on hold until the actual content, any applicable age gate, and private-copy/retention conditions are individually assessed."
     },
     {
       "id": "teoteome-christmas-skirt",
@@ -7041,7 +7041,7 @@
       "license_url": "https://booth.pm/ja/items/2627819",
       "verification": "rights_unverified_hold",
       "checked_at": "2026-10-11",
-      "notes": "B34 (2026-10-11): 正規BOOTH item2627819を確認。販売者はこのピンク版をより露出が多くYouTube不適と説明し、キャラクター年齢は不明。年齢・内容適合を確認できないため取得しない。"
+      "notes": "B34 (2026-10-11): 正規BOOTH item2627819を確認。B68 age-policy correction: the page's greater-exposure/YouTube-unsuitable notice is a content-specific review signal; missing/unlisted age alone does not bar neutral, nonsexual structural inspection/T-pose, and no age is inferred. Keep acquisition on hold until the actual content, any applicable age gate, and private-copy/retention conditions are individually assessed."
     },
     {
       "id": "teoteome-gold-maid-gold",
@@ -8210,9 +8210,9 @@
       "distribution_filename": "Rem_ver0.01.zip",
       "license_name": "作者が案内する利用規約",
       "license_url": "https://drive.google.com/file/d/1MUBo3BoWZavjcnpyG3r6wASf9yjRF5dS/view",
-      "verification": "rights_unverified_hold",
-      "checked_at": "2026-10-11",
-      "notes": "¥0の無料ZIPにVRMデータ同梱の明記あり。説明本文の内容物見出しはRem_ver1.00、更新履歴はv1.01であり公開ZIP名と異なるため配布版を確定しない。商品ページで¥0配布と配布物名を確認。実ダウンロード、VRMバイナリ・挙動検証は未実施。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 2026-10-11 商品ページは無料ZIPの内容としてVRMデータに加えUnityPackage、blend、PNG texture、FBXを列挙。VRM-only ZIP条件外の混合配布物として取得前に除外。キャラクター年齢は別途未確認。 B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: No explicit adulthood evidence in the retained product-page record; do not infer age from name, height, clothing, or appearance. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
+      "verification": "official_free_download_auth_required_not_verified",
+      "checked_at": "2026-10-14",
+      "notes": "B68 2026-10-14: 公式BOOTH item7296492は¥0の`Rem_ver0.01.zip`（3.31 MB）を表示。ページ内容物見出しはRem_ver1.00、更新履歴はVRM追加・フォルダ名v1.01と異なる。VRM data/UnityPackage/blend/PNG texture/FBXを列挙した混在配布であり、混在形式だけを除外理由にしないが、物理ZIP・member・version・catalog ID対応は未確認。ページはVN3ライセンスと日本語規約PDFをリンクするが、匿名では本文を確認できず、個人的な非公開技術検査・一時複製・長期保管の条件は未解決。商用/アバター/再配布条件もPDF全文未確認のため推測しない。商品説明の「睡眠不足のおとこのこ」は数値年齢や年齢ゲートではなく、年齢を推測しない。年齢未記載だけでは中立・非性的構造検査/Tポーズを禁止しない。公式前後全身previewは頭・胴・両腕・両脚・足を示すため人型候補へ追加する根拠となる。腕は下向きでTポーズではなく、衣服を着た中立画像に明らかな性的/不適切表現は見当たらない。実VRM未検査。無料配布URLの無認証HEADは302 sign-in。redirect追従/ログイン/GET/取得/NAS保存なし。物理member対応、metadata、VRM versionは未確認。Citation source IDs81-84、evidence `/home/ws2/.hermes/cache/scratch/vrm-b68-20261014-evidence.txt`。"
     },
     {
       "id": "niumu-shinotchi",
@@ -8426,7 +8426,7 @@
       "license_url": "https://booth.pm/ja/items/4244865",
       "verification": "rights_unverified_hold",
       "checked_at": "2026-10-11",
-      "notes": "無料のClown doll A VRM版。有料版のdoll Bは収録しない。 作者ページで無料VRMと記載し、有料版のフルセットと区別。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。 2026-10-11 authenticated page: the creator permits model use and says the data should be backed up by the user, but no character age is stated for the clown doll; no file downloaded under the age/content hold rule."
+      "notes": "無料のClown doll A VRM版。有料版のdoll Bは収録しない。 作者ページで無料VRMと記載し、有料版のフルセットと区別。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。 2026-10-11 authenticated page: the creator permits model use and suggests backing up the data. No character age is stated; that absence alone does not bar neutral, nonsexual structural inspection/T-pose, and no age is inferred. This does not resolve the separately applicable acquisition, private-copy/retention, or content conditions; no file was acquired and those conditions remain under review."
     },
     {
       "id": "pike-red-dragon",
@@ -8924,7 +8924,7 @@
       "license_url": "https://booth.pm/ja/items/4899143",
       "verification": "rights_unverified_hold",
       "checked_at": "2026-10-10",
-      "notes": "作者が0円のVRMを収録するZIPと説明。VRoidチュートリアルも同梱。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。 2026-10-11 商品名/ページはSamurai Boy・少年侍と明記するが、具体的年齢および詳細な利用規約は未確認。年齢・権利確認まで取得保留。 未取得・未保存。"
+      "notes": "作者が0円のVRMを収録するZIPと説明。VRoidチュートリアルも同梱。 公開商品ページで0円の配布物を確認。実取得・ZIP内構成・GLBメタデータ・動作は未検証。 2026-10-11 商品名/ページはSamurai Boy・少年侍と明記するが、具体的年齢および詳細な利用規約は未確認。B68 age-policy correction: the product name/title is not a confirmed numeric age or age gate, and age is not inferred. Missing age alone does not bar neutral, nonsexual structural inspection/T-pose. Detailed usage and private-copy/retention conditions remain unverified, so the rights hold remains on those grounds; no file was acquired."
     },
     {
       "id": "wannpaku-hasshakusama",
@@ -9277,7 +9277,7 @@
       "license_url": "https://drive.google.com/file/d/1cIgRVAQXmGSXWKwY_krzBKAxzg4vNGnd/view",
       "verification": "rights_unverified_hold",
       "checked_at": "2026-10-11",
-      "notes": "作者が同じ無料ZIPの中にWanime_neonmoss.vrmを個別VRMとして明示。VN3規約適用。BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B32 2026-10-11: 商品ページ上の3 VRM対応は確認したが、必須リンクVN3全文を読めず年齢不明・素体版を含むため未取得。"
+      "notes": "作者が同じ無料ZIPの中にWanime_neonmoss.vrmを個別VRMとして明示。VN3規約適用。BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B32 2026-10-11: 商品ページ上の3 VRM対応の記載を確認。B68 age-policy correction: age absence alone does not bar neutral, nonsexual structural inspection/T-pose; no age is inferred. Keep the hold for the inaccessible VN3 terms and unresolved private-copy/retention conditions, along with the already-recorded access gate and model-member scope; reassess any actual age/content restriction individually。"
     },
     {
       "id": "mossinpc-wanime-relaxwear",
@@ -9297,7 +9297,7 @@
       "license_url": "https://drive.google.com/file/d/1cIgRVAQXmGSXWKwY_krzBKAxzg4vNGnd/view",
       "verification": "rights_unverified_hold",
       "checked_at": "2026-10-11",
-      "notes": "作者が同じ無料ZIPの中にWanime_relaxwear.vrmを個別VRMとして明示。VN3規約適用。BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B32 2026-10-11: 商品ページ上の3 VRM対応は確認したが、必須リンクVN3全文を読めず年齢不明・素体版を含むため未取得。"
+      "notes": "作者が同じ無料ZIPの中にWanime_relaxwear.vrmを個別VRMとして明示。VN3規約適用。BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B32 2026-10-11: 商品ページ上の3 VRM対応の記載を確認。B68 age-policy correction: age absence alone does not bar neutral, nonsexual structural inspection/T-pose; no age is inferred. Keep the hold for the inaccessible VN3 terms and unresolved private-copy/retention conditions, along with the already-recorded access gate and model-member scope; reassess any actual age/content restriction individually。"
     },
     {
       "id": "mossinpc-wanime-basebody",
@@ -9317,7 +9317,7 @@
       "license_url": "https://drive.google.com/file/d/1cIgRVAQXmGSXWKwY_krzBKAxzg4vNGnd/view",
       "verification": "rights_unverified_hold",
       "checked_at": "2026-10-11",
-      "notes": "作者が同じ無料ZIPの中にWanime_basebody.vrmを個別VRMとして明示。VN3規約適用。BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B32 2026-10-11: 商品ページ上の3 VRM対応は確認したが、必須リンクVN3全文を読めず年齢不明・素体版を含むため未取得。"
+      "notes": "作者が同じ無料ZIPの中にWanime_basebody.vrmを個別VRMとして明示。VN3規約適用。BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 B32 2026-10-11: 商品ページ上の3 VRM対応の記載を確認。B68 age-policy correction: age absence alone does not bar neutral, nonsexual structural inspection/T-pose; no age is inferred. Keep the hold for the inaccessible VN3 terms and unresolved private-copy/retention conditions, along with the already-recorded access gate and model-member scope; reassess any actual age/content restriction individually。"
     },
     {
       "id": "mossinpc-moss-normal",
@@ -9377,7 +9377,7 @@
       "license_url": "https://booth.pm/ja/items/3845065",
       "verification": "rights_unverified_hold",
       "checked_at": "2026-10-11",
-      "notes": "作者が0円で直接公開。本体と素体を別配布。素体単独での公共利用は禁止、再配布・譲渡不可。BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 2026-10-11 authenticated page: terms allow personal commercial/avatar use and prohibit redistribution; the school-uniform character's age is unstated, so no file was downloaded under the age/content hold rule."
+      "notes": "作者が0円で直接公開。本体と素体を別配布。素体単独での公共利用は禁止、再配布・譲渡不可。BOOTHの公開ページで0円とVRM配布を確認。実ダウンロード・VRM本体/ZIP内部・描画は未検証。匿名の無料ダウンロードURLはHTTP 302でBOOTHログインへ遷移したため、認証回避せず実体取得を保留。 2026-10-11 authenticated page: terms allow personal commercial/avatar use and prohibit redistribution; the character's age is unstated; missing age alone does not bar neutral, nonsexual structural inspection/T-pose, and no age is inferred. The 302 access gate and unresolved private-copy/retention conditions remain separate hold reasons; no file was downloaded."
     },
     {
       "id": "schoolroid-nadeshiko-body",
@@ -10884,9 +10884,9 @@
       "distribution_filename": "SatakeNagisa_0.4.zip",
       "license_name": "作者・権利者が案内する利用規約",
       "license_url": "https://drive.google.com/file/d/14U15diGcYLZ69mFis9sv4-Ge71rjD29v/view",
-      "verification": "rights_unverified_hold",
-      "checked_at": "2026-10-11",
-      "notes": "作者のオリジナル。無料版内容物にVRMファイルを明記。EX版のギミックやおまけを別アバターとして計上しない。VN3規約を参照。 公開商品ページの無料配布枠とVRM配布の説明を確認。実ダウンロード、ZIP内部構成、VRMバイナリ、表示は未検証。 B33 (2026-10-11): 商品ページ/配布範囲を再確認し、VRM単体の対象範囲外として未取得。詳細は docs/hermes-bulk-run-results.md のB33記録。 B35 2026-10-11: Mixed-format package is not itself a rejection reason. Fail-closed hold: BOOTH tag 青年, but no numerical/adult-only age in the product page or public creator manual; VN3 allows sexual expression, so age remains unconfirmed and download is held. Product page may list a VRM, but exact ZIP member-to-catalog-ID mapping is not physically verified. No B35 download or NAS archive; see docs/hermes-bulk-run-results.md (B35 reassessment)."
+      "verification": "official_free_download_auth_required_not_verified",
+      "checked_at": "2026-10-14",
+      "notes": "作者のオリジナル。無料版内容物にVRMファイルを明記。EX版のギミックやおまけを別アバターとして計上しない。VN3規約を参照。公開商品ページの無料配布枠とVRM配布の説明を確認。物理ZIP/member、VRMバイナリ、表示は未検証。B33 (2026-10-11): 当時はVRM単体の対象範囲外として未取得。B35 (2026-10-11): 混合ZIPは単独の除外理由ではないが、旧holdは「青年」タグと年齢未確認を理由にした。B65 (2026-10-14)で年齢理由を訂正。公式ページに「青年」タグはあるが数値年齢/年齢ゲートは確認できず、年齢を推定しない。年齢の未記載・非数値タグだけで中立・非性的な構造検査/Tポーズを禁止しない。無料版96.8 MB ZIPはVRMファイルと非可動の銃モデルを掲載し、EX版の射撃/炎ギミックは別offer。公開説明書Ver0.4 (2026/08/27) はHumanoid骨格を記載するが、リグ情報だけで外形を確定しない。公式previewは近接画像と遠景の全身画像で、両腕・両脚を同時に確認できずshape未分類。ページ/説明書はVN3ライセンスを参照するが、リンク先PDFの匿名viewerに「Sign in」が表示され全文未確認。アバター利用条件と私的技術検査・一時複製・長期保管は別軸で、私的保存の許可/禁止を推定しない。匿名HEADは302でBOOTH sign-in。ログイン、GET、取得、抽出、Tポーズ生成、NAS保存なし。現在の取得保留は認証ゲート、私的保存条件・物理member-ID対応・実VRM形状/内容は未解決。citation source IDs 67-70; details: docs/hermes-bulk-run-results.md (B65)."
     },
     {
       "id": "chicken-stickman",
@@ -11808,7 +11808,7 @@
       "license_url": "https://booth.pm/ja/items/3933882",
       "verification": "rights_unverified_hold",
       "checked_at": "2026-10-11",
-      "notes": "作者が無料配布物Suu_Valentine_1.0.zipをVRM形式のモデルとして案内。作者の商品更新欄で『VRMのみバレンタイン衣装ver』を追加と明記。通常版とは別衣装・別の無料ZIP。配布物の1.0はVRM仕様版とは限らない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 authenticated page describes the character as a 90 cm girl and does not state age; no download under the age/content hold rule."
+      "notes": "作者が無料配布物Suu_Valentine_1.0.zipをVRM形式のモデルとして案内。作者の商品更新欄で『VRMのみバレンタイン衣装ver』を追加と明記。通常版とは別衣装・別の無料ZIP。配布物の1.0はVRM仕様版とは限らない。 実取得・ZIP内容確認・バイナリ解析・表示テストは未実施。 2026-10-11 authenticated page describes the character as a 90 cm girl and does not state a numeric age; age is not inferred, and missing age alone does not bar neutral, nonsexual structural inspection/T-pose. Private-copy/retention terms, content, and the access gate remain separate unresolved checks; no download under the current rights/access hold."
     }
   ]
 }

@@ -1,6 +1,10 @@
 # NAS保存とVRMプレビュー生成
 
-2026-10-14 B75読み取り専用再確認。**本書がNAS保存方針の正本**。最新実機結果は487 ZIP/974 WebP、ZIP 2,168,476,533 bytes、`index.jsonl` 487 rows/548,641 bytes・SHA-256 `0bf57c18c66a14caaa79578f8865f2d8242df49a4a2e7cb7b68e19c7c1ec3a9f`、`verify_nas.py` `ok:true`/`errors:[]`。`/mnt/hdd` 0777 root:root、`/mnt/hdd/vrm` 0777 ws2:uucp、`models/`と`previews/` 0777 ws2:ws2、index 0600 ws2:ws2、`.index.lock` 0 bytes/mode 000。named/default ACLなし。NFSv3 `rw,sec=sys,local_lock=none`。`showmount -e`は3 exportsをprivate IPv4 /24に限定しwildcardなしと表示するが、サーバー側ACL、UID/GID mapping、root/all squash、user isolation、実効lockは未確認のため第三者隔離は未証明で、新規保存を停止。chmod/chown/ACL/NFS設定変更なし。詳細は[B75実機検証レポート](hermes-bulk-run-results.md)を参照。過去の「配布ZIP原本を残す」「zstd確定」は旧方針であり、適用しない。
+2026-10-14 B76読み取り専用再確認。**本書がNAS保存方針の正本**。最新実機結果は487 ZIP/974 WebP、ZIP 2,168,476,533 bytes、`index.jsonl` 487 rows/548,641 bytes・SHA-256 `0bf57c18c66a14caaa79578f8865f2d8242df49a4a2e7cb7b68e19c7c1ec3a9f`、`verify_nas.py` `ok:true`/`errors:[]`。`/mnt/hdd` 0777 root:root、`/mnt/hdd/vrm` 0777 ws2:uucp、`models/`と`previews/` 0777 ws2:ws2、index 0600 ws2:ws2、`.index.lock` 0 bytes/mode 000。named/default ACLなし。NFSv3 `rw,sec=sys,local_lock=none`。`showmount -e`は3 exportsをprivate IPv4 /24に限定しwildcardなしと表示するが、サーバー側ACL、UID/GID mapping、root/all squash、user isolation、実効lockは未確認のため第三者隔離は未証明で、新規保存を停止。chmod/chown/ACL/NFS設定変更なし。詳細は[B76実機検証レポート](hermes-bulk-run-results.md)を参照。過去の「配布ZIP原本を残す」「zstd確定」は旧方針であり、適用しない。
+
+### B76 読み取り専用マウント・export再確認
+
+`findmnt -T /mnt/hdd/vrm`でautofs配下のNFSv3実マウント`nas1.local:/volume1/hdd`、mount address `192.168.1.19`、`rw,sec=sys,local_lock=none`を確認。`nas1.local`は`showmount`実行時に名前解決できなかったため、観測されたmount addressへ問い合わせ、`/volume1/share`、`/volume2/ssd`、`/volume1/hdd`の3 exportがいずれも`192.168.1.0/24`限定・wildcardなしと確認した。確認6 pathの`getfacl -cp`はowner/group/otherのみで、named/default ACLなし。client-visible情報からサーバー側ACL、UID/GID mapping、squash動作、利用者隔離、実効lock enforcementは証明できない。設定・権限変更は行っていない。
 
 ## 基本原則
 

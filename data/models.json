@@ -2784,7 +2784,7 @@
       "license_url": "https://booth.pm/ja/items/4136312",
       "verification": "official_binary_inspected_rights_conflict_not_archived",
       "checked_at": "2026-10-10",
-      "notes": "0円ZIPからモブ1.vrmを実取得・検査。GLB v2/VRM 0.x、埋込author=くらんも、commercialUssageName=Disallow、licenseName=Redistribution_Prohibited、VRM SHA-256=20981902954d305eca6460cfdf1e0a51f11746d549ea0c977eaf6b6a99605641。商品ページは配信・動画の商用利用可と記載する一方、埋込値は商用利用不可のため権利矛盾として保留。人型シルエットは確認したがプレビュー/NAS保存なし。"
+      "notes": "0円ZIPからモブ1.vrmを実取得・検査。GLB v2/VRM 0.x、埋込author=くらんも、commercialUssageName=Disallow、licenseName=Redistribution_Prohibited、VRM SHA-256=20981902954d305eca6460cfdf1e0a51f11746d549ea0c977eaf6b6a99605641。BOOTH商品ページは無料版にモブ1/モブ2の2モデルを列挙し、改変/編集と配信・動画での商用利用を許可する一方、モデルの再配布/転載を禁止する（source ID98）。これはcommercialUssageName=Disallowと配信/動画の商用利用許可の範囲で矛盾するためrights-conflictを維持。再配布禁止は個人の非公開技術検査/保存禁止と同義ではないが、商品ページにその条件は明記されず、保存許可も推定しない。ページ本文に年齢/age gateの記載なし。年齢は推測せず、年齢不記載だけで中立構造検査/Tポーズ表示を禁じない。既存バイナリ検査記録を維持し、追加取得・プレビュー/NAS保存なし。"
     },
     {
       "id": "kuranmo-mob-mob2",
@@ -2804,7 +2804,7 @@
       "license_url": "https://booth.pm/ja/items/4136312",
       "verification": "official_binary_inspected_rights_conflict_not_archived",
       "checked_at": "2026-10-10",
-      "notes": "0円ZIPからモブ2.vrmを実取得・検査。GLB v2/VRM 0.x、埋込author=くらんも、commercialUssageName=Disallow、licenseName=Redistribution_Prohibited、VRM SHA-256=8b7e1c9864a89fd0bad39a74e82368ede3ad26a237e9c23535622191acfb0449。商品ページは配信・動画の商用利用可と記載する一方、埋込値は商用利用不可のため権利矛盾として保留。人型シルエットは確認したがプレビュー/NAS保存なし。"
+      "notes": "0円ZIPからモブ2.vrmを実取得・検査。GLB v2/VRM 0.x、埋込author=くらんも、commercialUssageName=Disallow、licenseName=Redistribution_Prohibited、VRM SHA-256=8b7e1c9864a89fd0bad39a74e82368ede3ad26a237e9c23535622191acfb0449。BOOTH商品ページは無料版にモブ1/モブ2の2モデルを列挙し、改変/編集と配信・動画での商用利用を許可する一方、モデルの再配布/転載を禁止する（source ID98）。これはcommercialUssageName=Disallowと配信/動画の商用利用許可の範囲で矛盾するためrights-conflictを維持。再配布禁止は個人の非公開技術検査/保存禁止と同義ではないが、商品ページにその条件は明記されず、保存許可も推定しない。ページ本文に年齢/age gateの記載なし。年齢は推測せず、年齢不記載だけで中立構造検査/Tポーズ表示を禁じない。既存バイナリ検査記録を維持し、追加取得・プレビュー/NAS保存なし。"
     },
     {
       "id": "nekko-aidin",

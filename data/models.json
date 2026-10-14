@@ -3660,7 +3660,7 @@
       "license_url": "https://booth.pm/ja/items/4921493",
       "verification": "official_binary_inspected_rights_conflict_not_archived",
       "checked_at": "2026-10-10",
-      "notes": "FD1000M.macherie-01.vrmをBOOTH認証済み無料ダウンロードから実取得・検査。GLB v2/VRM 0.x、VRM SHA-256=ab6aae3b8094e4d771fbca7193f28a8c6868cff9c50cbe90af0549eb4c7c90f1。無料版VRMは個人のVRSNS利用と動画/配信を許可、再配布禁止。埋込allowedUserName=OnlyAuthorは作者のみの利用に限定するため公開条件と矛盾。VRM SHA-256=ab6aae3b8094e4d771fbca7193f28a8c6868cff9c50cbe90af0549eb4c7c90f1 権利矛盾のためプレビュー生成・NAS保存なし。"
+      "notes": "B19（2026-10-10）にBOOTH認証済み無料配布から実取得・検査済み：FD1000M.macherie-01.vrm、23,795,192 bytes、GLB v2/VRM 0.x、SHA-256=ab6aae3b8094e4d771fbca7193f28a8c6868cff9c50cbe90af0549eb4c7c90f1。B77（2026-10-14）は商品ページとVRM 0.0 schemaを再確認（source IDs99,101）。無料版はセーラー衣装・子うさぎ衣装の2 VRM。規約はVRSNSサービスの個人利用、モデルを使ったライブ/動画配信/SNS掲載、クレジットなしを許可する一方、再配布（営利/非営利・改変の有無を問わず）と他人がダウンロードできる状態での公開と公序良俗に反するコンテンツへの使用を禁止。商用利用の明示許可は確認できず、許可と推定しない。改変許可は有償版のみ・個人利用に限り、未記載の使用は作者へ照会するよう記載。埋込allowedUserName=OnlyAuthorはアバター利用者の制限（VRM 0.0 schema）で、個人VRSNS利用を許すページ条件とこの軸で矛盾。埋込Redistribution_Prohibitedはページの再配布禁止と整合し、いずれも私的保存禁止を意味しない。個人的な非公開構造検査/複製/保管は列挙されず、作者照会条項があるため許可・禁止を推定せず保留。商品ページに数値年齢・実際の年齢ゲートはなく、「子うさぎ衣装」から年齢を推測しない。年齢未記載だけで中立検査/Tポーズを禁じないが、B77では照会前の追加検査・再取得・描画を行わず、NAS保存なし。"
     },
     {
       "id": "shiroten-macherie-rabbit",
@@ -3679,7 +3679,7 @@
       "license_url": "https://booth.pm/ja/items/4921493",
       "verification": "official_binary_inspected_rights_conflict_not_archived",
       "checked_at": "2026-10-10",
-      "notes": "FD1000M.macherie-02.vrmをBOOTH認証済み無料ダウンロードから実取得・検査。GLB v2/VRM 0.x、VRM SHA-256=813bdf3af6189d124274bc039195fb5e1729730f04f1e9e80461c50fdb81066f。無料版VRMは個人のVRSNS利用と動画/配信を許可、再配布禁止。埋込allowedUserName=OnlyAuthorは作者のみの利用に限定するため公開条件と矛盾。VRM SHA-256=813bdf3af6189d124274bc039195fb5e1729730f04f1e9e80461c50fdb81066f 権利矛盾のためプレビュー生成・NAS保存なし。"
+      "notes": "B19（2026-10-10）にBOOTH認証済み無料配布から実取得・検査済み：FD1000M.macherie-02.vrm、21,008,980 bytes、GLB v2/VRM 0.x、SHA-256=813bdf3af6189d124274bc039195fb5e1729730f04f1e9e80461c50fdb81066f。B77（2026-10-14）は商品ページとVRM 0.0 schemaを再確認（source IDs99,101）。無料版はセーラー衣装・子うさぎ衣装の2 VRM。規約はVRSNSサービスの個人利用、モデルを使ったライブ/動画配信/SNS掲載、クレジットなしを許可する一方、再配布（営利/非営利・改変の有無を問わず）と他人がダウンロードできる状態での公開と公序良俗に反するコンテンツへの使用を禁止。商用利用の明示許可は確認できず、許可と推定しない。改変許可は有償版のみ・個人利用に限り、未記載の使用は作者へ照会するよう記載。埋込allowedUserName=OnlyAuthorはアバター利用者の制限（VRM 0.0 schema）で、個人VRSNS利用を許すページ条件とこの軸で矛盾。埋込Redistribution_Prohibitedはページの再配布禁止と整合し、いずれも私的保存禁止を意味しない。個人的な非公開構造検査/複製/保管は列挙されず、作者照会条項があるため許可・禁止を推定せず保留。商品ページに数値年齢・実際の年齢ゲートはなく、「子うさぎ衣装」から年齢を推測しない。年齢未記載だけで中立検査/Tポーズを禁じないが、B77では照会前の追加検査・再取得・描画を行わず、NAS保存なし。"
     },
     {
       "id": "vtubershop-openpose-original",

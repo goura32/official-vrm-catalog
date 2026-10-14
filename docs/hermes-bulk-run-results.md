@@ -1054,3 +1054,37 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - 商品ページは私的技術検査用複製・長期保管の条件を明記しない。再配布禁止を私的保存禁止と同一視しない一方、保存許可も推定せず、4件ともNAS未保存。既存notesから外見・年齢を推定してholdする表現を除き、許諾/保存/年齢の各根拠を分離して記録した。
 - B69のYousoron 8 variantsのnotesにも、商品ページの商用/改変可・再販禁止は利用行為の条件であり、私的複製/長期保管の許可・禁止を示さない旨を追記。8件はrights-conflictのまま、status・download scope・NAS資産変更なし。
 - B69初期screenで語句欠落だった125件のうち、B69/B70/B71で計18件（8+6+4）を商品単位で確認。更新後の現行notes lexical screenではrights-conflict 130件中107件に私的保存軸の語句がなく、残る5件の明示語句も個別解釈は未完。語句欠落107件＋語句ヒット5件を、保存可否の自動判定に使わず個別監査する。次のまとまり候補はBOOTH item4935982のNaoya Model Pack 4 variant。`rights_unverified_hold`は現行218件（B36時点237件は履歴値）。取得・描画・NAS書込み・設定変更なし。
+
+## B72：Naoya Model Pack vol.1の4 variantを同一商品ページで確認（2026-10-14）
+
+- 開始時`main`/`origin/main`は`dfe854010c950e4feb6c109d3fcd0d848119efe7`で一致。NAS読み取り専用検証は487 ZIP/974 WebP、2,168,476,533 ZIP bytes、`verify_nas.py` `ok:true`/`errors:[]`、index SHA-256 `0bf57c18c66a14caaa79578f8865f2d8242df49a4a2e7cb7b68e19c7c1ec3a9f`。
+- `naoya-model-pack01-aquamarine`, `-ametrine`, `-rubellite`, `-peridot`の4件（BOOTH item4935982）を一群として確認。商品ページは無料VRM ZIPと別売り有料`.vroid` ZIPを区別し、モデルデータの改変・商用利用・有償改変/受託制作を認める一方、有料部分の再利用可能な形での再配布、政治/宗教活動、誹謗中傷を禁じ、列挙外用途は作者照会としている（citation source ID92）。既存VRM metadataの`OnlyAuthor`/`commercialUssageName=Disallow`/`Redistribution_Prohibited`とは利用許諾の射程に矛盾が残る。
+- 商用/再配布条件は各利用行為の条件であり、私的技術検査用複製・長期保管の禁止とはみなさない。ページに私的複製/保管条件は明示されず、保存許可も推定しない。4件のrights-conflict labelは維持し、notesのみ行為別に補足。新規ダウンロード・描画・Tポーズ表示・NAS保存なし。
+
+## B73：ほしうさのUV License誤読修正と個別再分類（2026-10-14）
+
+- 開始時`main`/`origin/main`は`dfe854010c950e4feb6c109d3fcd0d848119efe7`。BOOTH item2556708とページがリンクするUV Licenseを確認（citation source IDs93–94）。現行リンクは`pcu=true&ccu=true&seu=true`で、個人/法人商用利用と成人向け性的表現を許可するが、暴力表現の許可は示していない。
+- `usamimiten-hoshiusa-black`の旧note「UV Licenseが成人向け暴力表現を許可」は誤り。埋込`violentUssageName=Disallow`との矛盾は確認できないため、rights-conflictから`rights_unverified_hold`へ再分類。これは保存許諾の認定ではなく、私的な検査用複製/長期保管の条件が未確認のための保留。既存ZIPは削除済みで、新規取得・NAS保存なし。
+- `usamimiten-hoshiusa-pink`の埋込`allowedUserName=OnlyAuthor`/`CC_BY`と、公開された幅広い利用条件・二次配布制限との不整合は継続するためrights-conflictを維持。商用/性的利用・二次配布の条件を私的保存禁止と同一視せず、UV License/BOOTHページに私的保存条件の明記もないため許可も推定しない。両モデルとも年齢を推測せず、年齢不記載だけを中立検査/Tポーズの禁止理由にしていない。
+- B73後のraw labelsは`official_binary_inspected_rights_conflict_not_archived` 129、`rights_unverified_hold` 219（B36時点237は履歴値）。B69初期のprivate-axis語句欠落125件から、B69–B73で24商品ページ対応IDを確認・notes補正した。B73時点のlexical screenは補助的な履歴値であり、B74のnotes更新後に件数を再利用しない。語句検索は保存可否の判定に使わない。次候補として挙げたBOOTH item3871143（Cloodworks Hatsuka PC/Quest 2 variants）はB74で再評価済み。shape scopeは608/231/458のまま。NAS487 ZIP/974 WebPとindex hash不変、ACL/NFS設定変更なし。RDC/GitHub Actions不使用。
+- B35 checkpointの41 review rows（保存3、非人型9、hold29）を現行catalog labelsとNAS indexに突合。元hold29は全件NAS未収録で、現状はBOOTH認証待ち16、`rights_unverified_hold` 9、rights-conflict 1、非人型1、NAS隔離hold2。全29を一律に「許諾未確認」と扱わず、catalogの個別状態を維持。読み取り照合のみで状態変更なし。
+
+## B74：Cloodworks Hatsukaの利用許諾・metadata範囲再確認（2026-10-14）
+
+- 開始時`main`/`origin/main`は`dfe854010c950e4feb6c109d3fcd0d848119efe7`で一致。B72/B73の未コミット追補を引き継ぎ、最新ページとNASを先に読み取り確認した。
+- BOOTH item3871143の現行商品ページは無料Hatsuka ZIP（20.6 MB）にPC/Quest VRMを列挙し、改変・再配布・商用利用・再販売に特段の制限はないとする一方、VRoid Studio内包著作物の利用規約が適用されると明記し、著作権を株式会社クルード・ワークスに帰属としている（citation source ID95）。VRoid公式ガイドは提供素材がCC0ではなくpixivが権利を保持すること、特別表記のない素材には広い利用ライセンスがあること、特別表記素材には個別条件があることを説明する（source ID96）。同ガイドのソフト目的外利用/リバースエンジニアリング禁止はVRoid Studio本体に関する条項と読み、出力VRMの中立構造検査を明示的に禁じる根拠とは確認できないが、検査許可も推定しない（source ID96）。
+- 既存checkpoint `work/holiday-batch/booth-authenticated-batch-20261010-30.json`は正規無料UIからの取得、2つの実VRM member、metadata `licenseName=Other`/`otherLicenseText=パブリックドメイン（著作権放棄）`、Tポーズ/顔確認を記録する。公開条件の著作権留保・VRoid素材権利とmetadataのpublic-domain表記の適用範囲差は未解決のまま、2 IDsの`official_binary_inspected_rights_conflict_not_archived`を維持した。この権利範囲の不整合は、商用・再配布・アバター利用の禁止を私的保存禁止と誤読した判断ではない。個人的な非公開技術検査用複製・長期保管の明示条件は確認できず、保存許可/禁止を推定しない。年齢記載なしは中立検査を止める理由にせず、既存の構造/Tポーズ確認を維持。今回はページ閲覧だけで、再取得・再描画・追加NAS保存なし。
+- B35 hold29を既存checkpoint 41 rowsと現行catalog/NAS indexで再照合。全29 IDsはNAS未収録で、現行状態はBOOTH認証待ち16、`rights_unverified_hold` 9、権利矛盾1、非人型1、NAS隔離hold2。全29を一括して許諾未確認にせず、個別状態を維持。総catalogは1,297 IDs一意、shape scopeは608/231/458。全1,297 raw labelsは権利矛盾129、`rights_unverified_hold` 219。
+- B74読み取り専用NAS監査：487 ZIP/974 WebP、ZIP 2,168,476,533 bytes、`verify_nas.py` `ok:true`/`errors:[]`。`index.jsonl` 487 rows/548,641 bytes、SHA-256 `0bf57c18c66a14caaa79578f8865f2d8242df49a4a2e7cb7b68e19c7c1ec3a9f`。`/mnt/hdd`・`/mnt/hdd/vrm`・models/previewsは0777、index 0600、lock 0 bytes/mode000、確認pathにnamed/default ACLなし。NFSv3 `rw,sec=sys,local_lock=none`。`showmount -e`の3 exportsはすべてprivate IPv4 /24、wildcardなし。server-side ACL、UID/GID mapping、squash、利用者隔離、実効lockは未確認で、第三者隔離は証明できない。既存487件を保持し、新規保存停止継続。NAS書込み・chmod/chown・ACL/NFS設定変更なし。
+- Citation ledger sources95–96はそれぞれ公式BOOTH商品ページとVRoid公式ガイドに対応し、引用evidenceを登録済み。RDC/GitHub Actions不使用。
+
+## B75：最新main・NAS・B35 hold29の再確認とVRoid Studio規約範囲の補正（2026-10-14）
+
+- B75開始時に`git fetch --no-tags origin main`を実行。`main`と`origin/main`は`dfe854010c950e4feb6c109d3fcd0d848119efe7`で一致。worktreeには同一タスクのB72–B74変更が未コミットで存在したため保持し、fetch/監査で作業ファイルを上書きしていない。
+- NASは読み取り専用で実数487 ZIP/974 WebP、ZIP 2,168,476,533 bytes。`scripts/verify_nas.py --nas-root /mnt/hdd/vrm`の実行結果は487 entries/974 previews、ZIPのみ、`ok:true`/`errors:[]`。`index.jsonl`は487 rows/548,641 bytes、SHA-256 `0bf57c18c66a14caaa79578f8865f2d8242df49a4a2e7cb7b68e19c7c1ec3a9f`。既存ファイルに変更なし。
+- `stat`で`/mnt/hdd` 0777 root:root、`/mnt/hdd/vrm` 0777 ws2:uucp、models/previews 0777 ws2:ws2、index 0600 ws2:ws2。root/vrm/models/previews/index/`.index.lock`の`getfacl`ではnamed/default ACLなし。lockは0 bytes/mode 000。NFSv3 `rw,sec=sys,local_lock=none`。`showmount -e`のclient-visible結果は3 exports・wildcardなし・private IPv4範囲のみ。server-side ACL、UID/GID mapping、squash、user isolation、実効lockは未確認で、非公開性は証明できない。新規保存停止を継続し、NAS/ACL/NFS設定を変更していない。
+- B35 checkpointの41 review rowsをcurrent catalog/NAS indexにID単位で照合。初期hold29は29 unique IDsすべて現行カタログに存在しNAS未収録。現行verificationの内訳はBOOTH認証待ち16、`rights_unverified_hold` 9、rights-conflict 1、非人型1、NAS隔離hold2。全29を「許諾等未確認」や保存禁止へ一括分類せず、個別状態を維持した。
+- current catalogは1,297 IDs unique。全体のraw labelsは`official_binary_inspected_rights_conflict_not_archived` 129、`rights_unverified_hold` 219。B36の130/237は履歴値。129/219の全件個別根拠監査は未完で、キーワードscreenから許可・禁止を推定しない。年齢の未記載だけを中立構造検査/Tポーズの禁止理由にせず、実際の年齢制限や内容は別途判断する。
+- B75で公式VRoid Studio個別規約を現在のページから確認し、citation source ID97にArticle 7、11–13および改訂履歴のevidenceを登録。Article 12は出力物の利用を含有コンテンツの個別ライセンスに従わせ、Article 13は個別条件表示のない提供コンテンツについて使用・複製・アーカイブ・改変・表示を含む標準ライセンスを定める。Article 11は第三者権利/利用条件の遵守を求める。Article 7はVRoid Studio自体の目的外利用・解析行為等を規定する。これらは全出力VRMや独立ツールによる検査への一律許可/禁止を意味しない。
+- Hatsuka PC/Quest（BOOTH item3871143）の商品ページ(source95)は改変・再配布・商用利用等に特段の制限なしとしつつ、VRoid Studio内包著作物の条件適用とClood Worksの著作権帰属を明記。公式ガイド(source96)は提供コンテンツがCC0ではなくpixivが権利を保持すること、個別表示のない提供素材に広いライセンスがあることを説明する。標準ライセンスにアーカイブ権が明記される点をnotes/docsに反映したが、当該VRM内の正確な素材・個別表示とmetadataのpublic-domain表記の適用範囲は未解決のためrights-conflictを維持。商用/再配布/アバター制限を保存禁止とは扱わず、個別モデル全体への保存許可も推定しない。追加取得・再描画・NAS保存なし。
+- state/scope labelsはB75で変更なし。source IDs95–97を追記。RDC/GitHub Actions不使用、NAS書込み/権限設定変更なし。

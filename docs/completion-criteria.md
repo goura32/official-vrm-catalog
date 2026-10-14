@@ -1,6 +1,6 @@
 # 完成条件・未保存モデルの扱い（2026-10-14）
 
-この文書は、**カタログの完成**と**NASへの人型VRM収集の完了**を分けて判定するための方針。正本は`data/models.json`、`data/collections/*.json`、`data/download-scope.json`。以下の現行値はB68（2026-10-14）時点であり、B35の混合ZIP hold29再評価・14 ID照合、B36の権利/NAS再評価、B37〜B68の用途別レビューを反映する。履歴値は実績レポートを参照する。
+この文書は、**カタログの完成**と**NASへの人型VRM収集の完了**を分けて判定するための方針。正本は`data/models.json`、`data/collections/*.json`、`data/download-scope.json`。以下の現行値はB75（2026-10-14）時点であり、B35の混合ZIP hold29再評価・14 ID照合、B36の権利/NAS再評価、B37〜B75の用途別レビューを反映する。履歴値は実績レポートを参照する。
 
 ## 完成の定義
 
@@ -9,14 +9,14 @@
 - **未保存の正確な管理**：権利未確定・人型でない・ページ不存在・取得制限・要会員認証・ID対応不明・VRoid Studio書き出し専用などは、根拠と再開条件があれば保留・除外でよい。**1,297件すべてをNAS保存することは完成条件にしない**。一方、無償取得可能な人型VRMを、推測上の「ZIP同梱ファイル」を理由に見落とさない。
 - **作業の終了**：現行方針で実行可能な対象が無くなり、残件が理由別に記録されている状態を「現時点の収集フェーズ完了」と呼ぶ。技術的に未検査のものを「実VRM検証済み」に変更しない。保留の解除は**新しい作者根拠・利用条件・正規ログイン・モデル対応資料**がある場合だけ行う。
 
-## B68時点の排他的内訳（2026-10-14）
+## B75時点の排他的内訳（2026-10-14）
 
 | R1/R2/R3以外の797 ID | 件数 | 扱い |
 | --- | ---: | --- |
 | NAS保存 | 157 | 全体487 ZIP・974 WebP。NAS実機の次回確認が正本 |
 | 非人型（実体8・作者索引1・商品ページ60） | 69 | 登録は保持、NASへは保存しない |
-| 埋込権利矛盾 | 130 | 公開条件とVRM metadataの不一致を示す。商用/再配布/アバター利用の制限だけで私的保存禁止と推論せず、計画行為ごとに照合。関連条件が未解決なら保留 |
-| 利用条件・許諾未確認 | 218 | 権利・取得・複製/保存条件の不足を個別確認。年齢設定未記載だけでは中立な非性的技術検査を止めない。独立した権利/形状/対応/実際の年齢ゲート等が未解決なら保留 |
+| 埋込権利矛盾 | 129 | 公開条件とVRM metadataの不一致を示す。商用/再配布/アバター利用の制限だけで私的保存禁止と推論せず、計画行為ごとに照合。関連条件が未解決なら保留 |
+| 利用条件・許諾未確認 | 219 | 権利・取得・複製/保存条件の不足を個別確認。年齢設定未記載だけでは中立な非性的技術検査を止めない。独立した権利/形状/対応/実際の年齢ゲート等が未解決なら保留 |
 | ライセンス複製許諾確認済み・NAS隔離未確認 | 2 | `youkihi-recruit-suit`、`youkihi-long-black-hair`: CC BY 4.0の複製許諾を確認。NASの実効的な第三者隔離を確認できないため保存保留 |
 | カタログIDと物理VRMの対応不明 | 14 | ZIP内メンバー・作者による対応資料で再確認 |
 | 「混合ZIP」のみを理由にした配布範囲外 | 0 | B35で41 IDを再評価。保存3、非人型9、当初hold29は全件個別再評価済みだが未アーカイブ。混合形式のみを除外理由にせず、別途の権利・認証・形状・対応条件を維持する。B51 `neoneko-leo`、B53 `sakurabido-hapicchi`、B54 `branshop-nao`、B55 `neoneko-ngii`、B56 `ratenosu-untitled`、B57 `neoneko-nolt`、B58 `neoneko-roa`、B59 `neoneko-romuru`、B60 `neoneko-shitakee`、B61 `neoneko-shoki-avatar-2`、B63 `neoneko-tsukiyomi-akane`、B64 `sakurabido-megumicchi`、B65 `propofol7-satake-nagisa`、B66 `sakurabido-mirucchi`、B67 `tatougai-oninoko-kiri`、B68 `yumenonakaya-rem-lowpoly`は公式無料URLの認証待ちへ分類 |
@@ -29,7 +29,9 @@
 | 公式メタデータのみ・リポジトリ掲載のみ | 5 | 実ファイル未検証のまま記録 |
 | **合計** | **797** | **区分は重複しない** |
 
-注：この797件の排他的内訳と、1,297件全体の`verification`生ラベルCounterは別集計。B36時点の`rights_unverified_hold` 237件は履歴値で、B68現在は218件。状態遷移後も未確認218件と権利矛盾130件の個別根拠監査は未完であり、監査完了を意味しない。B68時点のraw labelは`rights_unverified_hold` 218、`official_binary_inspected_rights_conflict_not_archived` 130、`official_binary_inspected_embedded_rights_conflict_not_archived` 3（R1/R2側）、`official_free_download_auth_required_not_verified` 17（BOOTH 16＋ENRAI/note 1）、`official_hub_auth_required` 16。ラベル値だけで排他的区分を作らず、checkpoint・取得元・NAS indexで分類する。詳細は[B68実機結果](hermes-bulk-run-results.md)。
+注：この797件の排他的内訳と、1,297件全体の`verification`生ラベルCounterは別集計。B36時点の`rights_unverified_hold` 237件は履歴値。B68は218件/130件、B74・B75現在は`rights_unverified_hold` 219件/`official_binary_inspected_rights_conflict_not_archived` 129件。B73では、現行UV Licenseが成人向け性的利用を許可する一方、暴力利用の許可は確認できず、暴力禁止metadataとの矛盾を裏付ける根拠がないと確認し、旧noteを誤りとして1件を未確認へ再分類した。残る未確認/矛盾の個別根拠監査は未完であり、監査完了を意味しない。B75時点のraw labelは`rights_unverified_hold` 219、`official_binary_inspected_rights_conflict_not_archived` 129、`official_binary_inspected_embedded_rights_conflict_not_archived` 3（R1/R2側）、`official_free_download_auth_required_not_verified` 17（BOOTH 16＋ENRAI/note 1）、`official_hub_auth_required` 16。ラベル値だけで排他的区分を作らず、checkpoint・取得元・NAS indexで分類する。詳細は[B75実機結果](hermes-bulk-run-results.md)。
+
+B75で確認したVRoid Studio個別規約（source ID97）は、第12・13条で出力物の利用を含有コンテンツの個別ライセンスに従わせ、個別条件の表示がない提供コンテンツについて複製・アーカイブ等を含む標準ライセンスを定める。これは商用・再配布・アバター利用の制限だけから保存禁止を推論しない方針を補強するが、特定VRM内の素材/個別表示や第三者条件の確認なしに、全体の私的保管許可へ一般化しない。VRoid Studio本体の利用・解析に関する条項も、独立ツールでの出力VRM検査の包括許可/禁止とは読み替えない。
 
 ### 年齢記載に関するB68補助トリアージ
 

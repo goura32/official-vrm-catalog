@@ -270,16 +270,16 @@
         "avatar",
         "100avatars-r3"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
       "download_url": "https://arweave.net/NPQRwcWNbD74ZhKX1FEJG8jwpbbGKyQFjYQO7617V-8",
       "access_method": "direct_vrm",
       "distribution_filename": "214_CoolSpaguetti.vrm",
       "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
       "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
-      "verification": "creator_index_direct_url_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+      "verification": "official_binary_inspected_non_humanoid_not_archived",
+      "checked_at": "2026-10-15",
+      "notes": "B87 (2026-10-15): Creator-index Arweave URLから取得。GLB v2/VRM 0.x、埋込CC0を確認。実形状は麺状の物体で、独立した人型頭部・胴体・二脚を確認できず非人型。Tポーズ/顔WebPを目視し、NAS未保存。VRM SHA-256=f196556919b3ae9d6d26262362b61904424e83749d2fa37b28bde57e7caccc7e."
     },
     {
       "id": "polygonalmind-100avatars-r3-215",
@@ -577,9 +577,9 @@
       "distribution_filename": "229_CuteSaurus.vrm",
       "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
       "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
-      "verification": "creator_index_direct_binary_render_humanoid_confirmed",
-      "checked_at": "2026-10-08",
-      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。実VRMのGLB v2・VRM 0.x・埋込CC0メタデータ、ローカル描画と頭・胴体・両腕・両脚の外形を確認。頭部の向きが不安定で正面Tポーズと顔画像を同時に生成できず、プレビュー品質基準を満たさないためNAS保存保留。詳細はdocs/hermes-bulk-run-results.md。"
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-14",
+      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。実VRMのGLB v2・VRM 0.x・埋込CC0メタデータ、ローカル描画と頭・胴体・両腕・両脚の外形を確認。頭部の向きが不安定で正面Tポーズと顔画像を同時に生成できず、プレビュー品質基準を満たさないためNAS保存保留。詳細はdocs/hermes-bulk-run-results.md。 B86 2026-10-14: 既存の検証済みR3 VRMを再取得せず再利用。VRM 0.x/GLB2、SHA-256 `a5a48a0660ac7d879a4589a88ab6a50a623c712db648fa0d5fe66dfe5bbd5dbb`、埋込CC0と作者R3配布記録を再確認。全身Tポーズで頭・胴体・両腕・両脚の二足人型外形を確認。以前の顔crop不良は`--face-y-offset-frac 0.12 --face-height-frac 0.5`で修正し、頭全体を含む正面WebPを確認（顔の特徴は口のみで目は明瞭でない）。NAS個別ZIP `models/polygonalmind-100avatars-r3-229.zip` と2 WebPを保存・読み戻しhash検証。archive SHA-256 `c09e267435a40ed41014de63f46a06e7bd0f8308f976af8f2a915ce2b77b158f`、T-pose `c6eb4703086d403af8f665e2308e49c05a1d8e2be7b99a68bd24cf3f7d5a9451`、face `f8e89ee416808549cf4fc35d1a285dd52d410ebce9621fddc4fc9ffec6722d47`。全NAS verify 504 ZIP/1008 WebP、`ok:true`。local checkpoint `booth-vrm-nas-intake-20261014.jsonl`。"
     },
     {
       "id": "polygonalmind-100avatars-r3-230",
@@ -790,16 +790,16 @@
         "avatar",
         "100avatars-r3"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
       "download_url": "https://arweave.net/0o1sL5UKrtgVpAGeRhbNRR55n3WlTgd0t9sGRXwJnw8",
       "access_method": "direct_vrm",
       "distribution_filename": "240_CherryBros.vrm",
       "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
       "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
-      "verification": "creator_index_direct_url_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+      "verification": "official_binary_inspected_non_humanoid_not_archived",
+      "checked_at": "2026-10-15",
+      "notes": "B87 (2026-10-15): Creator-index Arweave URLから取得。GLB v2/VRM 0.x、埋込CC0を確認。二つのサクランボ形状に手足が付いた外形で、人型の頭部・胴体を確認できず非人型。Tポーズ/顔WebPを目視し、NAS未保存。VRM SHA-256=23c1365ac269b8c860ddda466456b74bf65492a4f7fbca91c2273900f5363dab."
     },
     {
       "id": "polygonalmind-100avatars-r3-241",
@@ -890,16 +890,16 @@
         "avatar",
         "100avatars-r3"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
       "download_url": "https://arweave.net/-ZmZDpcrrc8o5mc1sTclqfznHxpdUolfnwe6_TTRHT0",
       "access_method": "direct_vrm",
       "distribution_filename": "245_CoolUdon.vrm",
       "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
       "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
-      "verification": "creator_index_direct_url_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+      "verification": "official_binary_inspected_non_humanoid_not_archived",
+      "checked_at": "2026-10-15",
+      "notes": "B87 (2026-10-15): Creator-index Arweave URLから取得。GLB v2/VRM 0.x、埋込CC0を確認。顔のあるうどん鉢状の物体に手足が付き、人型頭部・胴体の形状ではないため非人型。Tポーズ/顔WebPを目視し、NAS未保存。VRM SHA-256=1640fa831469ac10742e6564bbb80ec3d6f52dedc401d3ee9e792a41c6c71d88."
     },
     {
       "id": "polygonalmind-100avatars-r3-246",
@@ -1090,16 +1090,16 @@
         "avatar",
         "100avatars-r3"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
       "download_url": "https://arweave.net/t3aTp6AhxfdLcq5I3HZx29wK8MFQGmDC9wPwXrHQoW0",
       "access_method": "direct_vrm",
       "distribution_filename": "255_LadyKoi.vrm",
       "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
       "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
-      "verification": "creator_index_direct_url_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+      "verification": "official_binary_inspected_non_humanoid_not_archived",
+      "checked_at": "2026-10-15",
+      "notes": "B87 (2026-10-15): Creator-index Arweave URLから取得。GLB v2/VRM 0.x、埋込CC0を確認。水生/触手状の外形で、人型の独立した両脚を確認できず非人型。Tポーズ/顔WebPを目視し、NAS未保存。VRM SHA-256=a20e3db072640b96f7d9089c1f7efd9962ce603d4a6f42d1cebe74c0e84fc9e7."
     },
     {
       "id": "polygonalmind-100avatars-r3-256",
@@ -1210,16 +1210,16 @@
         "avatar",
         "100avatars-r3"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
       "download_url": "https://arweave.net/-M047TNjC36mcEWMprML2g7rawORlVGIgD7CKvjqcfw",
       "access_method": "direct_vrm",
       "distribution_filename": "261_CoolBee.vrm",
       "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
       "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
-      "verification": "creator_index_direct_url_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+      "verification": "official_binary_inspected_shape_unresolved_not_archived",
+      "checked_at": "2026-10-15",
+      "notes": "B87 (2026-10-15): Creator-index Arweave URLから取得。GLB v2/VRM 0.x、埋込CC0を確認。二足の昆虫マスコットだが頭部と胴体を明瞭に区別できず、補正後の顔表示でも曖昧なため形状未確定・NAS未保存。VRM SHA-256=b79729ca9aabb9f1846cb7189b11f585602f0d307c748ea19e047c4ce82780a7."
     },
     {
       "id": "polygonalmind-100avatars-r3-262",
@@ -1230,16 +1230,16 @@
         "avatar",
         "100avatars-r3"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
       "download_url": "https://arweave.net/AeQDTTPAAd35wAtZ1Mgjets8Cc1GHJkHjKiR53NcVAM",
       "access_method": "direct_vrm",
       "distribution_filename": "262_EvilBook.vrm",
       "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
       "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
-      "verification": "creator_index_direct_url_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+      "verification": "official_binary_inspected_non_humanoid_not_archived",
+      "checked_at": "2026-10-15",
+      "notes": "B87 (2026-10-15): Creator-index Arweave URLから取得。GLB v2/VRM 0.x、埋込CC0を確認。本を胴体とする物体形状で、人型の頭部・胴体・両腕を確認できず非人型。Tポーズ/顔WebPを目視し、NAS未保存。VRM SHA-256=e6af084379083f37d2f2294a31f0825616369d8dff978454a6fe59a65ad4e6d1."
     },
     {
       "id": "polygonalmind-100avatars-r3-263",
@@ -1310,16 +1310,16 @@
         "avatar",
         "100avatars-r3"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
       "download_url": "https://arweave.net/qKrAwFf60cT1348kvQc7S5Nzn3fO0aNvJ8ybMx5Lu04",
       "access_method": "direct_vrm",
       "distribution_filename": "266_DogoBurger.vrm",
       "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
       "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
-      "verification": "creator_index_direct_url_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+      "verification": "creator_index_direct_binary_render_humanoid_confirmed",
+      "checked_at": "2026-10-15",
+      "notes": "B87 (2026-10-15): Arweave直接VRMはGLB v2/VRM 0.x、埋込CC0。実Tポーズで頭部・胴体・肩から伸びる両腕・両脚を確認。顔WebPを補正して目視確認。VRM SHA-256=8b352a932c990f3a9d7b57df3d801fd0744fda0fe2798c68e5bfaec027b71673。NAS ZIPとTポーズ/顔WebPを保存し、内包VRM復元SHA-256・ZIP CRC・WebP寸法/ハッシュ・index読戻しを確認。"
     },
     {
       "id": "polygonalmind-100avatars-r3-267",
@@ -1350,16 +1350,16 @@
         "avatar",
         "100avatars-r3"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
       "download_url": "https://arweave.net/GAAQYRWWqjn1dYYC8EU47yhT1CKGIjydeJgzVjq4oJo",
       "access_method": "direct_vrm",
       "distribution_filename": "268_CoolSnake.vrm",
       "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
       "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
-      "verification": "creator_index_direct_url_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+      "verification": "official_binary_inspected_non_humanoid_not_archived",
+      "checked_at": "2026-10-15",
+      "notes": "B87 (2026-10-15): Creator-index Arweave URLから取得。GLB v2/VRM 0.x、埋込CC0を確認。蛇の連続した胴体と尾で、人型の両腕・二脚を確認できず非人型。Tポーズ/顔WebPを目視し、NAS未保存。VRM SHA-256=770645ccd879b9d0d5f5297270bd6395553ea9b072a5256e02883da7b07765aa."
     },
     {
       "id": "polygonalmind-100avatars-r3-269",
@@ -1750,16 +1750,16 @@
         "avatar",
         "100avatars-r3"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
       "download_url": "https://arweave.net/8X5rbty2z91hlPByVkLIRTS9pxMyZc6KXOsHdQARUiU",
       "access_method": "direct_vrm",
       "distribution_filename": "288_Ranchu.vrm",
       "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
       "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
-      "verification": "creator_index_direct_url_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+      "verification": "official_binary_inspected_non_humanoid_not_archived",
+      "checked_at": "2026-10-15",
+      "notes": "B87 (2026-10-15): Creator-index Arweave URLから取得。GLB v2/VRM 0.x、埋込CC0を確認。上半身は人型だが下半身は魚の尾で両脚がなく非人型。Tポーズ/顔WebPを目視し、NAS未保存。VRM SHA-256=4e60df946226f3e2b9b0baca9d16a2998e92200444d1afe8428897fcf23f0e6e."
     },
     {
       "id": "polygonalmind-100avatars-r3-289",
@@ -1790,16 +1790,16 @@
         "avatar",
         "100avatars-r3"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
       "download_url": "https://arweave.net/nVqBB0cwDybmATcohrZKkgx6hVDqPKTIF2-MwNVVMdw",
       "access_method": "direct_vrm",
       "distribution_filename": "290_LilShark.vrm",
       "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
       "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
-      "verification": "creator_index_direct_url_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+      "verification": "creator_index_direct_binary_render_humanoid_confirmed",
+      "checked_at": "2026-10-15",
+      "notes": "B87 (2026-10-15): Arweave直接VRMはGLB v2/VRM 0.x、埋込CC0。実Tポーズで頭部・胴体・肩から伸びる両腕・両脚を確認。顔WebPを補正して目視確認。VRM SHA-256=f8c287c06c8403204fbf5832f598de242052bafb685447f1b81afd7f225f2def。NAS ZIPとTポーズ/顔WebPを保存し、内包VRM復元SHA-256・ZIP CRC・WebP寸法/ハッシュ・index読戻しを確認。"
     },
     {
       "id": "polygonalmind-100avatars-r3-291",
@@ -1990,16 +1990,16 @@
         "avatar",
         "100avatars-r3"
       ],
-      "vrm_version": null,
+      "vrm_version": "0.x",
       "source_url": "https://github.com/ToxSam/open-source-avatars/blob/main/data/avatars/100avatars-r3.json",
       "download_url": "https://arweave.net/SdnGu0ajq-TNVxLbenkQBgG4gPdIraWJoPHN0HY41p8",
       "access_method": "direct_vrm",
       "distribution_filename": "300_CoolPyramid.vrm",
       "license_name": "CC0 1.0 (100Avatars R3 creator-published)",
       "license_url": "https://github.com/PolygonalMind/100Avatars/releases/tag/v24.02.1",
-      "verification": "creator_index_direct_url_listed_download_untested",
-      "checked_at": "2026-10-08",
-      "notes": "Polygonal Mind制作者の100Avatars R3（201〜300）。制作者側の公開索引にVRM形式・ファイル名・Arweave直接取得URLを掲載。URLの実応答・バイナリ・表示は未検証。GitHubの前2弾とは別シリーズ。"
+      "verification": "official_binary_inspected_non_humanoid_not_archived",
+      "checked_at": "2026-10-15",
+      "notes": "B87 (2026-10-15): Creator-index Arweave URLから取得。GLB v2/VRM 0.x、埋込CC0を確認。三角錐の物体に顔・細い手足があるが、人型頭部・胴体の外形を確認できず非人型。Tポーズ/顔WebPを目視し、NAS未保存。VRM SHA-256=c8173ab81832deb5be13af1dee6d5ed9dc206f3f70a52ab52df179414a072104."
     }
   ]
 }

@@ -30,7 +30,11 @@ for path in paths:
             # Creator-indexed Arweave VRM objects have immutable extensionless paths.
             arweave_vrm = (parsed_download.netloc == "arweave.net"
                            and fullmatch(r"/[A-Za-z0-9_-]{43}", parsed_download.path))
-            assert parsed_download.path.lower().endswith(".vrm") or arweave_vrm
+            # BOOTH's official free-file endpoint is extensionless and scoped by variation_id.
+            booth_download = (parsed_download.netloc == "booth.pm"
+                              and fullmatch(r"/downloadables/\d+", parsed_download.path)
+                              and fullmatch(r"variation_id=\d+", parsed_download.query))
+            assert parsed_download.path.lower().endswith(".vrm") or arweave_vrm or booth_download
         assert item["vrm_version"] in ("0.x", "1.0", None)
         if "distribution_size_bytes" in item:
             assert type(item["distribution_size_bytes"]) is int and item["distribution_size_bytes"] > 0

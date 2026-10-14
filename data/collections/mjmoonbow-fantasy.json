@@ -11,16 +11,16 @@
         "fantasy"
       ],
       "vrm_version": "0.x",
-      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/dragons/dragon%202.vrm",
-      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/dragons/dragon%202.vrm",
+      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/6af59479c61ab13b6caa96a9b915498489f2b9cd/fantasy%C2%B4/dragons/dragon%202.vrm",
+      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/6af59479c61ab13b6caa96a9b915498489f2b9cd/fantasy%C2%B4/dragons/dragon%202.vrm",
       "access_method": "direct_vrm",
       "distribution_filename": "dragon 2.vrm",
       "distribution_size_bytes": 7468144,
       "license_name": "CC0 1.0 Universal",
-      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
-      "verification": "official_binary_inspected_rights_conflict_not_archived",
+      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/6af59479c61ab13b6caa96a9b915498489f2b9cd/LICENSE",
+      "verification": "official_binary_inspected_humanoid",
       "checked_at": "2026-10-14",
-      "notes": "実VRM 0.xを取得・検査した記録あり。既存記録のupstream fixed commitは6af59479c61ab13b6caa96a9b915498489f2b9cd、path=fantasy%C2%B4/dragons/dragon%202.vrm、size=7,468,144 bytes、git blob SHA=775e3093f35d65a6955f3b8844ddc71424a4d837。埋込licenseName=Redistribution_Prohibitedは配布元のCC0表示と矛盾するためrights-conflict hold、NAS未保存。2026-10-14 B84 (source IDs109-111): pinned repository READMEはcollectionをfree-to-use CC0と表示し、LICENSEは権利を保有する範囲でのCC0適用を記す。READMEはStableDiffusion/TripoSRによる作成とMixamoによるrigを記載するが、個別ファイルの全構成要素に対する権利者権限までは確認できない。公式VRM 0.0 specではlicenseNameはRedistribution / Modifications Licenseの項目で、Redistribution_Prohibitedは再配布条件の値。したがって埋込値だけを私的な非公開構造検査用コピー/保管の禁止と解釈しない。一方、repository-level CC0表示だけから当該VRMの全構成要素に対する権限や独立した長期保管許可も推定しないため、statusは変更せずrights-conflict holdを維持。年齢を推測せず、年齢未記載を中立検査禁止の根拠にしていない。B84で再取得・描画・NAS保存なし。"
+      "notes": "2026-10-14に作者公式GitHub fixed commit 6af59479c61ab13b6caa96a9b915498489f2b9cdから取得。path=fantasy%C2%B4/dragons/dragon%202.vrm、GLB v2/VRM 0.x、7,468,144 bytes、SHA-256 b04a4f967ca59c0e027b23dab7c77382ef0f8cadd02d22e80b43fc0e70f1c46c、git blob SHA=775e3093f35d65a6955f3b8844ddc71424a4d837。埋込metadataのallowedUserName=ExplicitlyLicensedPerson、sexualUssageName=Disallow、licenseName=Redistribution_Prohibitedを保持。repository README/LICENSEのCC0は権利者が保有する権利の範囲であり、全構成要素への権限を追加推定しない。今回の用途は個人用NASの非公開構造検査・保存のみで、アバター利用・商用利用・第三者配布は行わない。Tポーズ/顔WebPを目視し、二足の頭・胴体・両腕・両脚を持つ人型ドラゴンとして確認しNAS保存。"
     },
     {
       "id": "mjmoonbow-dragon-3-dbede1e",
@@ -32,16 +32,16 @@
         "fantasy"
       ],
       "vrm_version": "0.x",
-      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/dragons/dragon%203.vrm",
-      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/dragons/dragon%203.vrm",
+      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/6af59479c61ab13b6caa96a9b915498489f2b9cd/fantasy%C2%B4/dragons/dragon%203.vrm",
+      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/6af59479c61ab13b6caa96a9b915498489f2b9cd/fantasy%C2%B4/dragons/dragon%203.vrm",
       "access_method": "direct_vrm",
       "distribution_filename": "dragon 3.vrm",
       "distribution_size_bytes": 7497060,
       "license_name": "CC0 1.0 Universal",
-      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
-      "verification": "official_binary_inspected_rights_conflict_not_archived",
-      "checked_at": "2026-10-08",
-      "notes": "実VRM 0.xを取得・検査したが、埋込licenseName=Redistribution_Prohibitedは配布元CC0表示と矛盾するため権利保留、NAS未保存。"
+      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/6af59479c61ab13b6caa96a9b915498489f2b9cd/LICENSE",
+      "verification": "official_binary_inspected_humanoid",
+      "checked_at": "2026-10-14",
+      "notes": "2026-10-14に作者公式GitHub fixed commit 6af59479c61ab13b6caa96a9b915498489f2b9cdから取得。path=fantasy%C2%B4/dragons/dragon%203.vrm、GLB v2/VRM 0.x、7,497,060 bytes、SHA-256 7818b76c66940fbe20692c109a4a1a84f83fcf89715f42f34d0923e8511259b7、git blob SHA=dbede1e10704efbc74719a1e8e9a2fbadba63e81。埋込metadataのallowedUserName=ExplicitlyLicensedPerson、sexualUssageName=Disallow、licenseName=Redistribution_Prohibitedを保持。repository README/LICENSEのCC0は権利者が保有する権利の範囲であり、全構成要素への権限を追加推定しない。今回の用途は個人用NASの非公開構造検査・保存のみで、アバター利用・商用利用・第三者配布は行わない。Tポーズ/顔WebPを目視し、二足の頭・胴体・両腕・両脚を持つ人型ドラゴンとして確認しNAS保存。"
     },
     {
       "id": "mjmoonbow-dragon-8-4-b210d8d",
@@ -53,16 +53,16 @@
         "fantasy"
       ],
       "vrm_version": "0.x",
-      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/dragons/dragon%208_4.vrm",
-      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/dragons/dragon%208_4.vrm",
+      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/6af59479c61ab13b6caa96a9b915498489f2b9cd/fantasy%C2%B4/dragons/dragon%208_4.vrm",
+      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/6af59479c61ab13b6caa96a9b915498489f2b9cd/fantasy%C2%B4/dragons/dragon%208_4.vrm",
       "access_method": "direct_vrm",
       "distribution_filename": "dragon 8_4.vrm",
       "distribution_size_bytes": 4846860,
       "license_name": "CC0 1.0 Universal",
-      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
-      "verification": "official_binary_inspected_rights_conflict_not_archived",
-      "checked_at": "2026-10-08",
-      "notes": "実VRM 0.xを取得・検査したが、埋込licenseName=Redistribution_Prohibitedは配布元CC0表示と矛盾するため権利保留、NAS未保存。"
+      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/6af59479c61ab13b6caa96a9b915498489f2b9cd/LICENSE",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-15",
+      "notes": "2026-10-15: 作者公式GitHub fixed commit 6af59479c61ab13b6caa96a9b915498489f2b9cdから dragon 8_4.vrm を取得（4,846,860 bytes、GLB v2/VRM 0.x、SHA-256=12cf22c2228e8edfb258ebe392395ea903914d0a68333b3919d08b8ab726b3ee）。埋込licenseName=Redistribution_Prohibited（配布元CC0表示との差異）を記録。全身像で頭・胴・両腕・両脚の二足人型を確認し、T-pose/顔WebPを生成・目視。個別ZIP/WebP2枚をNAS保存し、ZIP整合性・復元VRM/preview SHA・index readbackを検証。用途は個人用の非公開構造検査・保管のみ、第三者共有/再配布なし。詳細はcheckpoint booth-vrm-nas-intake-20261014.jsonl。"
     },
     {
       "id": "mjmoonbow-dragon-9-3f69838",
@@ -95,16 +95,16 @@
         "fantasy"
       ],
       "vrm_version": "0.x",
-      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/goblins/goblin%20elite%205.vrm",
-      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/goblins/goblin%20elite%205.vrm",
+      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/6af59479c61ab13b6caa96a9b915498489f2b9cd/fantasy%C2%B4/goblins/goblin%20elite%205.vrm",
+      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/6af59479c61ab13b6caa96a9b915498489f2b9cd/fantasy%C2%B4/goblins/goblin%20elite%205.vrm",
       "access_method": "direct_vrm",
       "distribution_filename": "goblin elite 5.vrm",
       "distribution_size_bytes": 5967628,
       "license_name": "CC0 1.0 Universal",
-      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
-      "verification": "official_binary_inspected_rights_conflict_not_archived",
-      "checked_at": "2026-10-08",
-      "notes": "実VRM 0.xを取得・検査したが、埋込licenseName=Redistribution_Prohibitedは配布元CC0表示と矛盾するため権利保留、NAS未保存。"
+      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/6af59479c61ab13b6caa96a9b915498489f2b9cd/LICENSE",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-15",
+      "notes": "2026-10-15: 作者公式GitHub fixed commit 6af59479c61ab13b6caa96a9b915498489f2b9cdから goblin elite 5.vrm を取得（5,967,628 bytes、GLB v2/VRM 0.x、SHA-256=4871e51675284c8907d4b4aac9fb4ebcf092bb879f7266d316a6c0ff7070cd4f）。埋込licenseName=Redistribution_Prohibited（配布元CC0表示との差異）を記録。全身像で頭・胴・両腕・両脚の二足人型を確認し、T-pose/顔WebPを生成・目視。個別ZIP/WebP2枚をNAS保存し、ZIP整合性・復元VRM/preview SHA・index readbackを検証。用途は個人用の非公開構造検査・保管のみ、第三者共有/再配布なし。詳細はcheckpoint booth-vrm-nas-intake-20261014.jsonl。"
     },
     {
       "id": "mjmoonbow-goblin-elite-6-09083a0",
@@ -116,16 +116,16 @@
         "fantasy"
       ],
       "vrm_version": "0.x",
-      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/goblins/goblin%20elite%206.vrm",
-      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/goblins/goblin%20elite%206.vrm",
+      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/6af59479c61ab13b6caa96a9b915498489f2b9cd/fantasy%C2%B4/goblins/goblin%20elite%206.vrm",
+      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/6af59479c61ab13b6caa96a9b915498489f2b9cd/fantasy%C2%B4/goblins/goblin%20elite%206.vrm",
       "access_method": "direct_vrm",
       "distribution_filename": "goblin elite 6.vrm",
       "distribution_size_bytes": 6263228,
       "license_name": "CC0 1.0 Universal",
-      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
-      "verification": "official_binary_inspected_rights_conflict_not_archived",
-      "checked_at": "2026-10-08",
-      "notes": "実VRM 0.xを取得・検査したが、埋込licenseName=Redistribution_Prohibitedは配布元CC0表示と矛盾するため権利保留、NAS未保存。"
+      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/6af59479c61ab13b6caa96a9b915498489f2b9cd/LICENSE",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-15",
+      "notes": "2026-10-15: 作者公式GitHub fixed commit 6af59479c61ab13b6caa96a9b915498489f2b9cdから goblin elite 6.vrm を取得（6,263,228 bytes、GLB v2/VRM 0.x、SHA-256=449427742753f4735597a1cbf1fe6cf487197d770acf0872c848afc74a1e316a）。埋込licenseName=Redistribution_Prohibited（配布元CC0表示との差異）を記録。全身像で頭・胴・両腕・両脚の二足人型を確認し、T-pose/顔WebPを生成・目視。個別ZIP/WebP2枚をNAS保存し、ZIP整合性・復元VRM/preview SHA・index readbackを検証。用途は個人用の非公開構造検査・保管のみ、第三者共有/再配布なし。詳細はcheckpoint booth-vrm-nas-intake-20261014.jsonl。"
     },
     {
       "id": "mjmoonbow-kobold-2-1-deb8e71",
@@ -137,16 +137,16 @@
         "fantasy"
       ],
       "vrm_version": "0.x",
-      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/kobolds/kobold%202_1.vrm",
-      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/kobolds/kobold%202_1.vrm",
+      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/6af59479c61ab13b6caa96a9b915498489f2b9cd/fantasy%C2%B4/kobolds/kobold%202_1.vrm",
+      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/6af59479c61ab13b6caa96a9b915498489f2b9cd/fantasy%C2%B4/kobolds/kobold%202_1.vrm",
       "access_method": "direct_vrm",
       "distribution_filename": "kobold 2_1.vrm",
       "distribution_size_bytes": 5150828,
       "license_name": "CC0 1.0 Universal",
-      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
-      "verification": "official_binary_inspected_rights_conflict_not_archived",
-      "checked_at": "2026-10-08",
-      "notes": "実VRM 0.xを取得・検査したが、埋込licenseName=Redistribution_Prohibitedは配布元CC0表示と矛盾するため権利保留、NAS未保存。"
+      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/6af59479c61ab13b6caa96a9b915498489f2b9cd/LICENSE",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-15",
+      "notes": "2026-10-15: 作者公式GitHub fixed commit 6af59479c61ab13b6caa96a9b915498489f2b9cdから kobold 2_1.vrm を取得（5,150,828 bytes、GLB v2/VRM 0.x、SHA-256=96d622c219e914e26b70aea3306eaaa7c162f38fa988cd3188faf351780e4ad8）。埋込licenseName=Redistribution_Prohibited（配布元CC0表示との差異）を記録。全身像で頭・胴・両腕・両脚の二足人型を確認し、T-pose/顔WebPを生成・目視。個別ZIP/WebP2枚をNAS保存し、ZIP整合性・復元VRM/preview SHA・index readbackを検証。用途は個人用の非公開構造検査・保管のみ、第三者共有/再配布なし。詳細はcheckpoint booth-vrm-nas-intake-20261014.jsonl。"
     },
     {
       "id": "mjmoonbow-kobold-3-1-4920055",
@@ -158,16 +158,16 @@
         "fantasy"
       ],
       "vrm_version": "0.x",
-      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/kobolds/kobold%203_1.vrm",
-      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/kobolds/kobold%203_1.vrm",
+      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/6af59479c61ab13b6caa96a9b915498489f2b9cd/fantasy%C2%B4/kobolds/kobold%203_1.vrm",
+      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/6af59479c61ab13b6caa96a9b915498489f2b9cd/fantasy%C2%B4/kobolds/kobold%203_1.vrm",
       "access_method": "direct_vrm",
       "distribution_filename": "kobold 3_1.vrm",
       "distribution_size_bytes": 6013740,
       "license_name": "CC0 1.0 Universal",
-      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
-      "verification": "official_binary_inspected_rights_conflict_not_archived",
-      "checked_at": "2026-10-08",
-      "notes": "実VRM 0.xを取得・検査したが、埋込licenseName=Redistribution_Prohibitedは配布元CC0表示と矛盾するため権利保留、NAS未保存。"
+      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/6af59479c61ab13b6caa96a9b915498489f2b9cd/LICENSE",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-15",
+      "notes": "2026-10-15: 作者公式GitHub fixed commit 6af59479c61ab13b6caa96a9b915498489f2b9cdから kobold 3_1.vrm を取得（6,013,740 bytes、GLB v2/VRM 0.x、SHA-256=4a1bd61a1970335e1ee620a4ccccc545b1ee7dd31e14b354a646af322250deab）。埋込licenseName=Redistribution_Prohibited（配布元CC0表示との差異）を記録。全身像で頭・胴・両腕・両脚の二足人型を確認し、T-pose/顔WebPを生成・目視。個別ZIP/WebP2枚をNAS保存し、ZIP整合性・復元VRM/preview SHA・index readbackを検証。用途は個人用の非公開構造検査・保管のみ、第三者共有/再配布なし。詳細はcheckpoint booth-vrm-nas-intake-20261014.jsonl。"
     },
     {
       "id": "mjmoonbow-kobold-4-adabccf",
@@ -179,16 +179,16 @@
         "fantasy"
       ],
       "vrm_version": "0.x",
-      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/kobolds/kobold%204.vrm",
-      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/kobolds/kobold%204.vrm",
+      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/6af59479c61ab13b6caa96a9b915498489f2b9cd/fantasy%C2%B4/kobolds/kobold%204.vrm",
+      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/6af59479c61ab13b6caa96a9b915498489f2b9cd/fantasy%C2%B4/kobolds/kobold%204.vrm",
       "access_method": "direct_vrm",
       "distribution_filename": "kobold 4.vrm",
       "distribution_size_bytes": 5806884,
       "license_name": "CC0 1.0 Universal",
-      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
-      "verification": "official_binary_inspected_rights_conflict_not_archived",
-      "checked_at": "2026-10-08",
-      "notes": "実VRM 0.xを取得・検査したが、埋込licenseName=Redistribution_Prohibitedは配布元CC0表示と矛盾するため権利保留、NAS未保存。"
+      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/6af59479c61ab13b6caa96a9b915498489f2b9cd/LICENSE",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-15",
+      "notes": "2026-10-15: 作者公式GitHub fixed commit 6af59479c61ab13b6caa96a9b915498489f2b9cdから kobold 4.vrm を取得（5,806,884 bytes、GLB v2/VRM 0.x、SHA-256=a94a98e18a1ddf77c0ab7921e8c99985586c4266147034760c2643bfc8788e15）。埋込licenseName=Redistribution_Prohibited（配布元CC0表示との差異）を記録。全身像で頭・胴・両腕・両脚の二足人型を確認し、T-pose/顔WebPを生成・目視。個別ZIP/WebP2枚をNAS保存し、ZIP整合性・復元VRM/preview SHA・index readbackを検証。用途は個人用の非公開構造検査・保管のみ、第三者共有/再配布なし。詳細はcheckpoint booth-vrm-nas-intake-20261014.jsonl。"
     },
     {
       "id": "mjmoonbow-kobold-elite-0-c2e4251",
@@ -200,16 +200,16 @@
         "fantasy"
       ],
       "vrm_version": "0.x",
-      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/kobolds/Kobold%20Elite%200.vrm",
-      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/kobolds/Kobold%20Elite%200.vrm",
+      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/6af59479c61ab13b6caa96a9b915498489f2b9cd/fantasy%C2%B4/kobolds/Kobold%20Elite%200.vrm",
+      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/6af59479c61ab13b6caa96a9b915498489f2b9cd/fantasy%C2%B4/kobolds/Kobold%20Elite%200.vrm",
       "access_method": "direct_vrm",
       "distribution_filename": "Kobold Elite 0.vrm",
       "distribution_size_bytes": 5452032,
       "license_name": "CC0 1.0 Universal",
-      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
-      "verification": "official_binary_inspected_rights_conflict_not_archived",
-      "checked_at": "2026-10-08",
-      "notes": "実VRM 0.xを取得・検査したが、埋込licenseName=Redistribution_Prohibitedは配布元CC0表示と矛盾するため権利保留、NAS未保存。"
+      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/6af59479c61ab13b6caa96a9b915498489f2b9cd/LICENSE",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-15",
+      "notes": "2026-10-15: 作者公式GitHub fixed commit 6af59479c61ab13b6caa96a9b915498489f2b9cdから Kobold Elite 0.vrm を取得（5,452,032 bytes、GLB v2/VRM 0.x、SHA-256=61fb346c9425244760c897e6534aee695874a716b618c6e3bb1333de723477a9）。埋込licenseName=Redistribution_Prohibited（配布元CC0表示との差異）を記録。全身像で頭・胴・両腕・両脚の二足人型を確認し、T-pose/顔WebPを生成・目視。個別ZIP/WebP2枚をNAS保存し、ZIP整合性・復元VRM/preview SHA・index readbackを検証。用途は個人用の非公開構造検査・保管のみ、第三者共有/再配布なし。詳細はcheckpoint booth-vrm-nas-intake-20261014.jsonl。"
     },
     {
       "id": "mjmoonbow-minotaur-1-4-d310729",
@@ -221,16 +221,16 @@
         "fantasy"
       ],
       "vrm_version": "0.x",
-      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/minotaur%201_4.vrm",
-      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/minotaur%201_4.vrm",
+      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/6af59479c61ab13b6caa96a9b915498489f2b9cd/fantasy%C2%B4/minotaur%201_4.vrm",
+      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/6af59479c61ab13b6caa96a9b915498489f2b9cd/fantasy%C2%B4/minotaur%201_4.vrm",
       "access_method": "direct_vrm",
       "distribution_filename": "minotaur 1_4.vrm",
       "distribution_size_bytes": 5978724,
       "license_name": "CC0 1.0 Universal",
-      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
-      "verification": "official_binary_inspected_rights_conflict_not_archived",
-      "checked_at": "2026-10-08",
-      "notes": "実VRM 0.xを取得・検査したが、埋込licenseName=Redistribution_Prohibitedは配布元CC0表示と矛盾するため権利保留、NAS未保存。"
+      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/6af59479c61ab13b6caa96a9b915498489f2b9cd/LICENSE",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-15",
+      "notes": "2026-10-15: 作者公式GitHub fixed commit 6af59479c61ab13b6caa96a9b915498489f2b9cdから minotaur 1_4.vrm を取得（5,978,724 bytes、GLB v2/VRM 0.x、SHA-256=4cffbda2935d426f6e9c5e5215aaae0e34f48a00f4971d6631d55a053e631001）。埋込licenseName=Redistribution_Prohibited（配布元CC0表示との差異）を記録。全身像で頭・胴・両腕・両脚の二足人型を確認し、T-pose/顔WebPを生成・目視。個別ZIP/WebP2枚をNAS保存し、ZIP整合性・復元VRM/preview SHA・index readbackを検証。用途は個人用の非公開構造検査・保管のみ、第三者共有/再配布なし。詳細はcheckpoint booth-vrm-nas-intake-20261014.jsonl。"
     },
     {
       "id": "mjmoonbow-orc-0-1-cdf335c",
@@ -242,16 +242,16 @@
         "fantasy"
       ],
       "vrm_version": "0.x",
-      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/orcs/Orc%200_1.vrm",
-      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/orcs/Orc%200_1.vrm",
+      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/6af59479c61ab13b6caa96a9b915498489f2b9cd/fantasy%C2%B4/orcs/Orc%200_1.vrm",
+      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/6af59479c61ab13b6caa96a9b915498489f2b9cd/fantasy%C2%B4/orcs/Orc%200_1.vrm",
       "access_method": "direct_vrm",
       "distribution_filename": "Orc 0_1.vrm",
       "distribution_size_bytes": 6000588,
       "license_name": "CC0 1.0 Universal",
-      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
-      "verification": "official_binary_inspected_rights_conflict_not_archived",
-      "checked_at": "2026-10-08",
-      "notes": "実VRM 0.xを取得・検査したが、埋込licenseName=Redistribution_Prohibitedは配布元CC0表示と矛盾するため権利保留、NAS未保存。"
+      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/6af59479c61ab13b6caa96a9b915498489f2b9cd/LICENSE",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-15",
+      "notes": "2026-10-15: 作者公式GitHub fixed commit 6af59479c61ab13b6caa96a9b915498489f2b9cdから Orc 0_1.vrm を取得（6,000,588 bytes、GLB v2/VRM 0.x、SHA-256=9380be035f26541f741024f175824da68ef6c5f835617cc7aed0a04bf358af96）。埋込licenseName=Redistribution_Prohibited（配布元CC0表示との差異）を記録。全身像で頭・胴・両腕・両脚の二足人型を確認し、T-pose/顔WebPを生成・目視。個別ZIP/WebP2枚をNAS保存し、ZIP整合性・復元VRM/preview SHA・index readbackを検証。用途は個人用の非公開構造検査・保管のみ、第三者共有/再配布なし。詳細はcheckpoint booth-vrm-nas-intake-20261014.jsonl。"
     },
     {
       "id": "mjmoonbow-orc-1-565b432",
@@ -263,16 +263,16 @@
         "fantasy"
       ],
       "vrm_version": "0.x",
-      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/orcs/Orc%201.vrm",
-      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/orcs/Orc%201.vrm",
+      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/6af59479c61ab13b6caa96a9b915498489f2b9cd/fantasy%C2%B4/orcs/Orc%201.vrm",
+      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/6af59479c61ab13b6caa96a9b915498489f2b9cd/fantasy%C2%B4/orcs/Orc%201.vrm",
       "access_method": "direct_vrm",
       "distribution_filename": "Orc 1.vrm",
       "distribution_size_bytes": 5684644,
       "license_name": "CC0 1.0 Universal",
-      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
-      "verification": "official_binary_inspected_rights_conflict_not_archived",
-      "checked_at": "2026-10-08",
-      "notes": "実VRM 0.xを取得・検査したが、埋込licenseName=Redistribution_Prohibitedは配布元CC0表示と矛盾するため権利保留、NAS未保存。"
+      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/6af59479c61ab13b6caa96a9b915498489f2b9cd/LICENSE",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-15",
+      "notes": "2026-10-15: 作者公式GitHub fixed commit 6af59479c61ab13b6caa96a9b915498489f2b9cdから Orc 1.vrm を取得（5,684,644 bytes、GLB v2/VRM 0.x、SHA-256=8628e00952eba0b97848ab2074e0ece6875ac94ec02acd7385786f48bdc6156e）。埋込licenseName=Redistribution_Prohibited（配布元CC0表示との差異）を記録。全身像で頭・胴・両腕・両脚の二足人型を確認し、T-pose/顔WebPを生成・目視。個別ZIP/WebP2枚をNAS保存し、ZIP整合性・復元VRM/preview SHA・index readbackを検証。用途は個人用の非公開構造検査・保管のみ、第三者共有/再配布なし。詳細はcheckpoint booth-vrm-nas-intake-20261014.jsonl。"
     },
     {
       "id": "mjmoonbow-orc-2-04c4a67",
@@ -284,16 +284,16 @@
         "fantasy"
       ],
       "vrm_version": "0.x",
-      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/orcs/Orc%202.vrm",
-      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/orcs/Orc%202.vrm",
+      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/6af59479c61ab13b6caa96a9b915498489f2b9cd/fantasy%C2%B4/orcs/Orc%202.vrm",
+      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/6af59479c61ab13b6caa96a9b915498489f2b9cd/fantasy%C2%B4/orcs/Orc%202.vrm",
       "access_method": "direct_vrm",
       "distribution_filename": "Orc 2.vrm",
       "distribution_size_bytes": 6667132,
       "license_name": "CC0 1.0 Universal",
-      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
-      "verification": "official_binary_inspected_rights_conflict_not_archived",
-      "checked_at": "2026-10-08",
-      "notes": "実VRM 0.xを取得・検査したが、埋込licenseName=Redistribution_Prohibitedは配布元CC0表示と矛盾するため権利保留、NAS未保存。"
+      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/6af59479c61ab13b6caa96a9b915498489f2b9cd/LICENSE",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-15",
+      "notes": "2026-10-15: 作者公式GitHub fixed commit 6af59479c61ab13b6caa96a9b915498489f2b9cdから Orc 2.vrm を取得（6,667,132 bytes、GLB v2/VRM 0.x、SHA-256=d7000b3464dfe12c839de6e2e2b97755544cce971042530b58313915f13f1561）。埋込licenseName=Redistribution_Prohibited（配布元CC0表示との差異）を記録。全身像で頭・胴・両腕・両脚の二足人型を確認し、T-pose/顔WebPを生成・目視。個別ZIP/WebP2枚をNAS保存し、ZIP整合性・復元VRM/preview SHA・index readbackを検証。用途は個人用の非公開構造検査・保管のみ、第三者共有/再配布なし。詳細はcheckpoint booth-vrm-nas-intake-20261014.jsonl。"
     },
     {
       "id": "mjmoonbow-wight-2-036d78f",
@@ -305,16 +305,16 @@
         "fantasy"
       ],
       "vrm_version": "0.x",
-      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/fantasy%C2%B4/wight%202.vrm",
-      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/fantasy%C2%B4/wight%202.vrm",
+      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/6af59479c61ab13b6caa96a9b915498489f2b9cd/fantasy%C2%B4/wight%202.vrm",
+      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/6af59479c61ab13b6caa96a9b915498489f2b9cd/fantasy%C2%B4/wight%202.vrm",
       "access_method": "direct_vrm",
       "distribution_filename": "wight 2.vrm",
       "distribution_size_bytes": 5823580,
       "license_name": "CC0 1.0 Universal",
-      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
-      "verification": "official_binary_inspected_rights_conflict_not_archived",
-      "checked_at": "2026-10-08",
-      "notes": "実VRM 0.xを取得・検査したが、埋込licenseName=Redistribution_Prohibitedは配布元CC0表示と矛盾するため権利保留、NAS未保存。"
+      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/6af59479c61ab13b6caa96a9b915498489f2b9cd/LICENSE",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-15",
+      "notes": "2026-10-15: 作者公式GitHub fixed commit 6af59479c61ab13b6caa96a9b915498489f2b9cdから wight 2.vrm を取得（5,823,580 bytes、GLB v2/VRM 0.x、SHA-256=c5cbcb98b09212d08b154d6cdfb27f8b13b3d543128a144db8fd7917356300de）。埋込licenseName=Redistribution_Prohibited（配布元CC0表示との差異）を記録。全身像で頭・胴・両腕・両脚の二足人型を確認し、T-pose/顔WebPを生成・目視。個別ZIP/WebP2枚をNAS保存し、ZIP整合性・復元VRM/preview SHA・index readbackを検証。用途は個人用の非公開構造検査・保管のみ、第三者共有/再配布なし。詳細はcheckpoint booth-vrm-nas-intake-20261014.jsonl。"
     },
     {
       "id": "mjmoonbow-skinnie1-5-41eb4fe",
@@ -324,17 +324,17 @@
       "features": [
         "avatar"
       ],
-      "vrm_version": null,
-      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/skinnie1_5.vrm",
-      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/skinnie1_5.vrm",
+      "vrm_version": "0.x",
+      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/6af59479c61ab13b6caa96a9b915498489f2b9cd/skinnie1_5.vrm",
+      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/6af59479c61ab13b6caa96a9b915498489f2b9cd/skinnie1_5.vrm",
       "access_method": "direct_vrm",
       "distribution_filename": "skinnie1_5.vrm",
       "distribution_size_bytes": 1349568,
       "license_name": "CC0 1.0 Universal",
-      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
-      "verification": "official_repository_file_listed",
-      "checked_at": "2026-10-08",
-      "notes": "作者公式のCC0配布コレクション。GitHubファイル一覧で存在とサイズを確認。VRM実体の内部仕様版・正常表示は未検証。"
+      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/6af59479c61ab13b6caa96a9b915498489f2b9cd/LICENSE",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-15",
+      "notes": "2026-10-15: 作者公式GitHub fixed commit 6af59479c61ab13b6caa96a9b915498489f2b9cdから skinnie1_5.vrm を取得（1,349,568 bytes、GLB v2/VRM 0.x、SHA-256=04200d556db1fd8ee08e84c1f954fdb5c633d8cd522679e5ee2f44a28fcc5b54）。埋込licenseName=Redistribution_Prohibited（配布元CC0表示との差異）を記録。全身像で頭・胴・両腕・両脚の人型形状を確認し、T-pose/顔WebPを生成・目視。個別ZIP/WebP2枚をNAS保存し、ZIP整合性・復元VRM/preview SHA・index readbackを検証。用途は個人用の非公開構造検査・保管のみ、第三者共有/再配布なし。詳細はcheckpoint booth-vrm-nas-intake-20261014.jsonl。"
     },
     {
       "id": "mjmoonbow-skinnie3-1-f4b22ac",
@@ -345,16 +345,16 @@
         "avatar"
       ],
       "vrm_version": "0.x",
-      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/skinnie3_1.vrm",
-      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/skinnie3_1.vrm",
+      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/6af59479c61ab13b6caa96a9b915498489f2b9cd/skinnie3_1.vrm",
+      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/6af59479c61ab13b6caa96a9b915498489f2b9cd/skinnie3_1.vrm",
       "access_method": "direct_vrm",
       "distribution_filename": "skinnie3_1.vrm",
       "distribution_size_bytes": 2020588,
       "license_name": "CC0 1.0 Universal",
-      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
-      "verification": "official_binary_inspected_rights_conflict_not_archived",
-      "checked_at": "2026-10-08",
-      "notes": "実VRM 0.xを取得・検査したが、埋込licenseName=Redistribution_Prohibitedは配布元CC0表示と矛盾するため権利保留、NAS未保存。"
+      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/6af59479c61ab13b6caa96a9b915498489f2b9cd/LICENSE",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-15",
+      "notes": "2026-10-15: 作者公式GitHub fixed commit 6af59479c61ab13b6caa96a9b915498489f2b9cdから skinnie3_1.vrm を取得（2,020,588 bytes、GLB v2/VRM 0.x、SHA-256=40bf3b50432a474678344fed910074e7e8bf94bbd3ab5585299c0a5e041b67d5）。埋込licenseName=Redistribution_Prohibited（配布元CC0表示との差異）を記録。全身像で頭・胴・両腕・両脚の二足人型を確認し、T-pose/顔WebPを生成・目視。個別ZIP/WebP2枚をNAS保存し、ZIP整合性・復元VRM/preview SHA・index readbackを検証。用途は個人用の非公開構造検査・保管のみ、第三者共有/再配布なし。詳細はcheckpoint booth-vrm-nas-intake-20261014.jsonl。"
     },
     {
       "id": "mjmoonbow-skinnie4-09f04df",
@@ -365,16 +365,16 @@
         "avatar"
       ],
       "vrm_version": "0.x",
-      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/skinnie4.vrm",
-      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/main/skinnie4.vrm",
+      "source_url": "https://github.com/MJMoonbow/VRMavatars/blob/6af59479c61ab13b6caa96a9b915498489f2b9cd/skinnie4.vrm",
+      "download_url": "https://raw.githubusercontent.com/MJMoonbow/VRMavatars/6af59479c61ab13b6caa96a9b915498489f2b9cd/skinnie4.vrm",
       "access_method": "direct_vrm",
       "distribution_filename": "skinnie4.vrm",
       "distribution_size_bytes": 789936,
       "license_name": "CC0 1.0 Universal",
-      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/main/LICENSE",
-      "verification": "official_binary_inspected_rights_conflict_not_archived",
-      "checked_at": "2026-10-08",
-      "notes": "実VRM 0.xを取得・検査したが、埋込licenseName=Redistribution_Prohibitedは配布元CC0表示と矛盾するため権利保留、NAS未保存。"
+      "license_url": "https://github.com/MJMoonbow/VRMavatars/blob/6af59479c61ab13b6caa96a9b915498489f2b9cd/LICENSE",
+      "verification": "official_binary_inspected_humanoid_render_confirmed_nas_zip_archived",
+      "checked_at": "2026-10-15",
+      "notes": "2026-10-15: 作者公式GitHub fixed commit 6af59479c61ab13b6caa96a9b915498489f2b9cdから skinnie4.vrm を取得（789,936 bytes、GLB v2/VRM 0.x、SHA-256=2f2d31fb16b1607120563f1ee27661c87e11ce852eee85ba8b984b436d10a80d）。埋込licenseName=Redistribution_Prohibited（配布元CC0表示との差異）を記録。全身像で頭・胴・両腕・両脚の二足人型を確認し、T-pose/顔WebPを生成・目視。個別ZIP/WebP2枚をNAS保存し、ZIP整合性・復元VRM/preview SHA・index readbackを検証。用途は個人用の非公開構造検査・保管のみ、第三者共有/再配布なし。詳細はcheckpoint booth-vrm-nas-intake-20261014.jsonl。"
     }
   ]
 }

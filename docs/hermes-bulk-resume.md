@@ -1,94 +1,28 @@
-# Hermes Agent 一括実機継続指示（BOOTH認証済みChromeプロファイル）
+# Hermes Agent 継続作業指示（個人用VRMカタログ）
 
-本指示は2026-10-14のB78追補確認に基づく。新規取得作業の開始時は必ず`origin/main`をfetchし、最新main・NAS索引・ローカルcheckpointを先に確認する。B33〜B78の履歴とB51/B53/B54/B55/B56/B57/B58/B59/B60/B61/B62/B63/B64/B65/B66/B67/B68/B69/B70/B71/B72/B73/B74/B75/B76/B77/B78詳細は`docs/hermes-bulk-run-results.md`を参照。
+**2026-10-14更新。** これは現行の実行指示。B01〜B84の詳しい実績は[実機検証履歴](hermes-bulk-run-results.md)に保存し、本書では繰り返さない。**目的は、正規に無料入手できる人型VRMを個人用NASへ集めること。細かな権利監査やNASの隔離調査を主作業にしない。** 過去の「NFSの管理者隔離が未証明なので新規保存停止」「独立した長期保管許諾が明記されないので保存停止」は現行の一律停止条件としては採用しない。利用規約・法令に反する取得を許す趣旨ではない。
 
-B78開始時`main`/`origin/main`は`db80ad3cf939f696c5c5a29392030ddc5ed6814b`で一致し、B77追補push済み・worktree clean。NASは直近のread-only verifierで487 ZIP/974 WebP、ZIP bytes 2,168,476,533、index 487 rows/548,641 bytes・SHA-256 `0bf57c18c66a14caaa79578f8865f2d8242df49a4a2e7cb7b68e19c7c1ec3a9f`、`ok:true`/`errors:[]`。client-visible directoriesは0777、index 0600、lock 0 bytes/mode 000、確認pathにnamed/default ACLなし。NFSv3 `rw,sec=sys,local_lock=none`、3 exportsはprivate IPv4 /24・wildcardなしだがserver-side isolation未証明のため新規保存停止。B35 checkpointの41 review rowsからhold29をID単位で再照合し、全29件NAS未収録、現状は認証待ち16・`rights_unverified_hold` 9・rights-conflict 1・非人型1・NAS隔離hold2。全1,297 IDs一意、raw labelは権利矛盾129・`rights_unverified_hold` 219（B36の237件は履歴値）で、残余の個別根拠監査は未完。B75はVRoid Studio個別規約（source ID97）第12・13条の条件付き出力利用と標準の提供コンテンツのアーカイブ権を記録し、特定VRM内素材/個別条件が不明なら全体への一律許可・禁止に一般化しない。B76はBOOTH item4136312の`kuranmo-mob-mob1`/`mob2`について、配信/動画商用利用可とmetadata commercial-disallowの範囲矛盾を維持し、再配布禁止と個人的な非公開検査/複製/保管条件を別軸で記録した（source ID98）。ページ上に年齢/age gate・私的保存条件の記載なし。未記載だけで中立検査/Tポーズを禁止せず、保存許可も推定しない。次は未完の権利矛盾/利用条件未確認を商品source_url単位で選び、取得/技術検査/私的複製・保管/アバター利用/商用/再配布を別軸で確認する。実際の年齢制限・不適切内容は個別判断する。B77ではBOOTH item4921493の無料VRMについて、ページ上のVRSNS個人利用/配信許可と埋込`OnlyAuthor`のアバター利用軸の矛盾を維持。再配布禁止と私的保存は別軸だが、個人的な非公開検査/複製/保管は未列挙で作者照会条項があるため許可・禁止を推定しない。公序良俗に反するコンテンツへの使用も禁止され、具体的な用途/内容は個別判断。商用利用も明示許可なし。年齢情報なしから年齢を推定せず、未列挙用途の確認前に追加検査/再取得/Tポーズ/NAS保存なし（source IDs99,101）。B78ではitem4911831の公開条件を再確認。商用許可と埋込commercial disallowの矛盾を維持し、「再販のみ」と`Redistribution_Prohibited`は適用範囲を分離。私的検査/複製/保管の可否は推定せず、法律等・公序良俗・政治宗教表現の制限を個別判断。数値年齢なしから推測せず、追加取得/再検査/描画/NAS保存なし（source ID14）。詳細はresultsのB69–B78。
+## 開始点（B84時点の記録）
 
-B62履歴：B35 hold `neoneko-tofu-seijin`（BOOTH item5101910、per-model review 25/41）を商品プレビューから非人型予備分類した。実ZIP/VRMは未取得。詳細はsource IDs55-58とB62 checkpoint `work/holiday-batch/booth-mixed-zip-reassessment-20261014-b62.json`。
-B63ではB35 hold `neoneko-tsukiyomi-akane`（BOOTH item5036417、per-model review 26/41、hold29中16番目）を再評価。公式ページは無料`月詠赤音.zip`（20.5 MB）とVRM 0.0/14.2 MB、`.vroid`を掲載し、別500円支援variantはページ上で内容不変と説明。作者は使用/改変使用と髪型・衣装変更を認める一方、改変物販売・原本譲渡・転売を禁じる。これは私的保存禁止を意味しないが、非公開技術検査/一時複製/長期保管の明示条件もなく、許可/禁止を推定しない。ページ本文に数値年齢/age gateは見当たらず、年齢を推定せず、年齢不記載だけで中立検査/Tポーズを止めない。公式四面プレビューは頭・胴・両腕・両脚を示すため人型候補へ追加。実VRM/物理member対応/年齢は未確認。B28 checkpointには本IDを含む12商品/12代表probeの集計12件302 loginがあるが商品別response rowはないため再probeせず、既存根拠を明記して主状態をauth-requiredへ整理。ログイン/ダウンロード/VRM検査/NAS保存なし。source IDs59-62、checkpoint `work/holiday-batch/booth-mixed-zip-reassessment-20261014-b63.json`。
-B63 NAS read-only auditは487 ZIP/974 WebP、ZIP 2,168,476,533 bytes、index 487 rows/548,641 bytes・SHA-256 `0bf57c18c66a14caaa79578f8865f2d8242df49a4a2e7cb7b68e19c7c1ec3a9f`。`/mnt/hdd` 0777 root:root、`/mnt/hdd/vrm` 0777 ws2:uucp、models/previews 0777 ws2:ws2、index 0600、lock 0 bytes/mode000。確認pathにnamed/default ACLなし。autofs配下NFSv3 `rw,sec=sys,local_lock=none`、HDD exportを含む3 exportsはprivate IPv4 /24限定、wildcardなし。サーバー側ACL/UID-GID mapping/squash/user isolation/effective lock未確認のため第三者隔離は未証明。既存資産維持、新規保存停止。NAS書込み・chmod/chown/ACL/NFS変更なし。
+- GitHub `main` の確認済み基準は `94a52773558d203dc81b62a458a35c04d00ea2b7`。作業時は最新`origin/main`をfetchし、ローカル未コミット変更とcheckpointを尊重する。
+- NASは**487 ZIP・974 WebP**、ZIP合計**2,168,476,533 bytes**。索引SHA-256 `0bf57c18c66a14caaa79578f8865f2d8242df49a4a2e7cb7b68e19c7c1ec3a9f`、read-only `verify_nas.py` は`ok:true, errors:[]`。既存全487件を保護。NAS上で実数が増えていれば実体を優先し再度照合する。
+- カタログ**1,297 ID**。現行ラベルで権利矛盾129、未確認219、BOOTH等の認証待ちやNAS隔離保留など別ラベルあり。これらは**保存不可の断定ではなく以前の調査結果**。既存notes・出典を残し、根拠のない一括ラベル書き換えはしない。
+- B84は`mjmoonbow-dragon-2-775e309`の文書・権利表示をレビューしただけで、ダウンロード・NAS保存なし。B35以前のチェックポイントを再実行しない。
 
-B64ではB35 hold `sakurabido-megumicchi`（item5689713、review33/41・hold23/29）を再評価。無料ZIP14.8 MBとVroid/VRM/readmeは商品ページ記載のみで、無料版/支援版の同一性・物理member・VRM-ID対応は未確認。アバター等の利用/改変可、再配布不可を記録し、私的検査/一時複製/長期保存の許諾を推定せず権利保留軸は維持。FANBOX詳細規約は無認証HEAD 404で本文未取得。50フォロワー記念から年齢を推定せず、年齢不記載だけで中立検査/Tポーズを禁じない。作者の後ろ向き全身previewは人型候補を支持するが、VRM/Tポーズ未検査。既存B13 checkpointは12商品・17 ID・14 probeすべて302 loginを記録し個別response rowなし。本IDを認証待ちへ整理し、gate再probe/ログイン/ダウンロード/NAS保存は行わず。source IDs63-66、checkpoint `work/holiday-batch/booth-mixed-zip-reassessment-20261014-b64.json`。B64 read-only NAS再監査は487 ZIP/974 WebP、ZIP 2,168,476,533 bytes、index hash `0bf57c18c66a14caaa79578f8865f2d8242df49a4a2e7cb7b68e19c7c1ec3a9f`、verifier `ok:true`/`errors:[]`。mode/ACL/NFS確認値はB63 baselineと同一。server-side隔離未証明のため新規保存停止、NAS/権限/NFS変更なし。B64は継続中handoffを先行処理したため、B35順27–29番の`pike-aurora`/`pike-moon-night`/`pike-steam-rabbit`はB36/B40で個別再評価済み。次の未再評価B35 holdは`propofol7-satake-nagisa`（review30/41・hold20/29）。
+## 最優先：取得・実物検査・NAS保存
 
-B65履歴 (2026-10-14): `propofol7-satake-nagisa`（B35 review30/41・hold20/29）の公開ページ、creator manual、previewを確認。無料96.8 MB ZIP/VRM掲載とHumanoid骨格は確認したが、匿名HEADは302 sign-in、実ZIP/member・VRM未取得。年齢タグ「青年」は数値年齢ではないため年齢推定なし。B35の年齢理由を訂正し、年齢未記載/非数値タグだけで中立・非性的構造検査/Tポーズを止めない。VN3 PDF viewerは匿名状態でSign inを表示し、私的技術検査・複製・長期保管条件は未確認。アバター利用等の条件と私的保存を別軸で扱い、許可/禁止を推定しない。主状態は`official_free_download_auth_required_not_verified`、shape scope変更・NAS保存なし。source IDs67-70、根拠抜粋 `/home/ws2/.hermes/cache/scratch/vrm-b65-20261014-evidence.txt`。B65個別JSON checkpointは作成済みと確認できず、結果本文とこの根拠抜粋を参照。最新main/origin SHA `3498d6560335d7a05721fcd94d5487ee99becbdd`。NAS read-only再確認は487 ZIP/974 WebP、index SHA-256 `0bf57c18c66a14caaa79578f8865f2d8242df49a4a2e7cb7b68e19c7c1ec3a9f`で不変。サーバー側隔離未証明のため新規保存停止。B35 holdの未着手は`sakurabido-mirucchi`（review34/41・hold24/29）、`tatougai-oninoko-kiri`（review36/41・hold26/29）、`yumenonakaya-rem-lowpoly`（review41/41・hold29/29）の3件。次は`sakurabido-mirucchi`（B65時点）。
+1. 取得済み・未保存モデルのうち、**公式/作者が正規の無料VRM配布をしており、人型の可能性があるID**を優先する。特に、検証・描画まで済んでいてNAS隔離だけが保留理由の2 ID `youkihi-recruit-suit` / `youkihi-long-black-hair` を、現行の保存条件に従い最初に確認する。作業ファイルが既にない場合は正規無料配布手段だけで再取得する。
+2. 次に、正規BOOTHログインが使える場合は、認証待ち候補と既存の保留から**実際にVRMが無料で取得できるもの**を商品単位でまとめる。別サービス認証は勝手に転用しない。公式GitHub上のファイルも正規配布根拠があるものを対象にする。記録がある候補を優先し、作者・商品ページの反復調査は最小限。
+3. **アバター利用不可、商用不可、改変不可、再配布不可、年齢設定の記載なし、私的長期保存の特別な許諾文がない、配布元と埋込VRM権利表示が食い違う**という理由だけで、正規取得したファイルの**個人用の非公開技術検査・複製**を自動的に不可としない。これらの情報はnotesに残すが、毎回独立した法的鑑定を要求しない。明示的な取得・複製禁止や実際の利用規約上の制限に当たる場合は遵守し、判断できなければそのIDだけ保留する。違法な入手、認証/年齢ゲートの回避、有料版の無断取得はしない。
+4. 単一の無料ZIPに編集ソース等が同梱されても、**VRMだけを抽出**し、本人用NASには`model.vrm`1体を収めたZIPとTポーズ・顔WebPを保存する。VRM 0.x/1.0や色・版・商品ID・memberを混同しない。形状は実VRMで確認し、非人型はNASに保存しない。Tポーズや顔の撮影に失敗したモデルは推測画像で代用せず、理由を記録。
+5. **今あるNASのディレクトリmode 0777やNFSv3 `sec=sys`だけで作業を停止しない。** この個人利用の環境の運用リスクはユーザーが承知しており、追加のサーバー隔離証明を収集の前提にしない。とはいえ、LAN上の他利用者から絶対に見えないとは断言しない。権限・ACL・export・既存保存物の変更は求められていないので行わない。NASが正しくマウントされ書込み可能で、保存スクリプトが通常どおり動くことだけ確認する。
+6. 過去のHTTP 429ホスト（`dweb.link`を含む）の再要求や迂回をしない。正規サイトの利用制限を守り、カート/決済への操作は行わない。Cookie・パスワード・認証付きURLはログ/Gitに残さない。NASのVRM/ZIP/WebPもGitHubにpushしない。
 
-B66 (2026-10-14): `sakurabido-mirucchi`（BOOTH item5715397、B35 review34/41・hold24/29）の公式ページは無料20.2 MB ZIPとVRoid/VRM/readmeを掲載。利用条件はアバター/Vtuber、個人・個人商用・法人、改変、暴力/性的表現を許可し、再配布を禁止、法人creditを可能範囲で求める。これらは私的保存禁止とは同義でないが、非公開検査/一時複製/長期保管条件は明記なし。詳細FANBOXは匿名404。年齢/実年齢ゲートを確認できず年齢推測なし。年齢未記載だけで中立検査/T-poseを禁じない。公式背面全身previewを根拠にhumanoid候補へ追加、実VRM/T-pose未検査。無料URL匿名HEADは302 sign-in。ログイン/GET/取得/NAS保存なし。状態`official_free_download_auth_required_not_verified`、download_url null。B35 hold29は全件未アーカイブ、未着手はTatougai（review36/41・hold26/29）とYume（review41/41・hold29/29）の2件、次はTatougai。形状606/231/460、排他的797件の権利矛盾130・条件未確認220・BOOTH認証待ち14。source IDs66,71-74、checkpoint `work/holiday-batch/booth-mixed-zip-reassessment-20261014-b66.json`。
+## 完了処理（最小限）
 
+- 保存は`scripts/archive_vrm.py --format zip --confirm-humanoid`、実体検査は`scripts/inspect_vrm.py`を利用。ZIP内外のSHA-256、カタログID、WebP2枚を確認。既存の同一IDを上書きせず、NASの最終`verify_nas.py`を一度実行する。過去の487件が維持されているか確認する。
+- 正本JSON、download-scope、レポートは**実際に取得・検査・分類が変わった分だけ**更新。保留や権利の過去記録を勝手に「解決済み」にしない。不要な追加レビュー・定型監査の繰り返し・テスト追加をしない。既存の`validate.py`、既存テスト、`git diff --check`を必要範囲で実行しcommit/push。
+- 直列または低並列でサイトへ負荷をかけず、途中結果はローカルcheckpointに保存。作業報告は**今回の新規取得件数、NAS純増、保存できなかった技術的理由、最新累計、監査結果、コミット**を中心に簡潔な日本語で出す。
+- **RDC、GitHub Actionsは使用しない**。不必要な管理者権限変更を行わない。
 
-B67 (2026-10-14): `tatougai-oninoko-kiri`（BOOTH item5189443、B35 review36/41・hold26/29）の公式ページは無料ZIP `oninoko_kiri_free_.zip` 25.7 MBとVRM 0.0の`oninoko_kiri00.vrm`を掲載。無償版の個人/商用利用とクレジット付き再配布は許可され、有償版の再配布は禁止。これらの条件から私的保存可否を推定せず、非公開技術検査/一時複製/長期保管は明記なし、ページは列挙外利用の相談を求める。年齢数値/実際の年齢ゲートは本文検索で見つからず、年齢不記載だけで中立・非性的検査/T-poseを禁じない。基本無料coverは頭・胴・両腕・両脚・足を示し、人型候補へ追加。文字が下半身に重なるが形状判断には十分で、有償版と表示された別の全身previewは無料版の分類に使わない。T-pose・実VRMは未検査。無料download URLへの匿名HEADは302 sign-in、redirect追従/ログイン/GET/取得なし。verificationを`official_free_download_auth_required_not_verified`へ更新し、`download_url:null`、shape scopeを607/231/459、NAS未保存。B35 hold29は全件未アーカイブで、B67時点の未着手は`yumenonakaya-rem-lowpoly`（review41/41・hold29/29）の1件。NAS verifierは487 ZIP/974 WebP、`ok:true`/`errors:[]`。根拠source IDs75-80、checkpoint `work/holiday-batch/booth-mixed-zip-reassessment-20261014-b67.json`、evidence `/home/ws2/.hermes/cache/scratch/vrm-b67-20261014-evidence.txt`。全件rights-conflict130/terms-unverified群の根拠監査は未完了。RDC/GitHub Actions不使用。
-
-B68 (2026-10-14): `yumenonakaya-rem-lowpoly`（BOOTH item7296492、B35 review41/41・hold29/29）は無料`Rem_ver0.01.zip`（3.31 MB）を表示し、ページ内容物はVRM/UnityPackage/blend/PNG/FBXの混合配布。配布名・本文見出しRem_ver1.00・更新履歴v1.01は一致しない。混合ZIPだけを除外理由にしない。商品ページはVN3規約PDFをリンクするが匿名では本文を読めず、private technical inspection・一時複製・長期保管条件は未解決。商品説明の「睡眠不足のおとこのこ」は数値年齢/age gateではなく年齢を推測しない。年齢未記載だけでは中立・非性的検査/T-poseを禁じない。公式前後全身previewは人型形状を支持するが腕が下向きでT-poseではなく、実VRM未検査。無料URL匿名HEADは302 sign-in、redirect追従/ログイン/GET/取得なし。主状態を`official_free_download_auth_required_not_verified`へ更新し、`download_url:null`、shape scopeは608/231/458、私的保存条件は別軸で未解決、NAS未保存。B35 hold29は29/29再評価済み・NAS収録0（BOOTH認証待ち16、権利未確認9、rights conflict1、非人型1、NAS隔離hold2）。現在797件の排他的partitionは権利矛盾130、条件未確認218、BOOTH認証待ち16ほか。全1,297件raw auth label17（BOOTH16＋ENRAI/note1）。NAS verifierは487 ZIP/974 WebP、`ok:true`/`errors:[]`。次の順は、年齢語と保留語が同居するnotesのID別確認（B68 keyword screen 81件には訂正済み11件を含み、年齢が唯一の保留理由だと判定した件数ではない）→権利矛盾130件・条件未確認218件の行為別根拠監査。年齢未記載だけを中立・非性的検査の禁止理由にしない。商用/アバター/再配布制限を私的保存禁止へ一括変換しない。詳細：source IDs81-84、checkpoint `work/holiday-batch/booth-mixed-zip-reassessment-20261014-b68.json`、evidence `/home/ws2/.hermes/cache/scratch/vrm-b68-20261014-evidence.txt`。RDC/GitHub Actions不使用。
-
-以下のB49〜B62各記録は履歴スナップショットであり、記載当時の件数・状態は現行値ではない。現行値は本書冒頭および`docs/completion-criteria.md`を参照。
-
-B49ではB35 hold `shounokoto-kotatsu-mikan`（BOOTH item6686224）の公式無料ZIPを一時取得して同梱VN3規約を確認。個人/法人の営利・非営利利用と許諾範囲内の複製は認められるが、規約外利用には事前の明示許諾が必要。未改変再配布禁止は保存禁止とは同義でないものの、私的な中立構造検査/長期保管の明示許諾は確認できず`rights_unverified_hold`を維持。ページにモデル年齢/ゲートはなく、年齢不記載を理由に保留していない。規約上ダウンロードは同意とみなされ、未成年者は事前の法定代理人同意が必要だが、利用者側条件は未確認。VRM memberは抽出・metadata検査・描画せず、ZIP/PDFをscratchから削除。B35 hold29は全件未アーカイブ。形状603/230/464、権利矛盾130・利用条件等未確認235・NAS隔離hold2、物理対応不明14は不変。
-B50ではB35 hold `mxu-suu-vrm`（BOOTH item3933882）の公式ページを確認。通常VRM ZIPとVRC/Valentine別offerがあり、通常offerは`.vroid`とセットアップ済みVRMを同梱する混合package。商用/改変可・再配布/販売不可・VRChat clone/public upload可は別々の利用軸であり、公開VRoidHub uploadは再配布扱い。再配布禁止だけを保存禁止とは扱わない。一方、ページはダウンロードを同意とみなし、非公開技術検査/長期保管を明示しないため取得せず`rights_unverified_hold`。身長約90cm/女の子表記から年齢を推定せず、年齢不記載のみを中立検査の禁止理由にしない。物理VRM/shape未検査。B35 hold29は全件未アーカイブ。形状603/230/464、権利矛盾130・利用条件等未確認235・NAS隔離hold2、物理対応不明14は不変。
-
-B51ではB35 hold `neoneko-leo`（BOOTH item6505161）を再評価。無料offerは`レオ.zip`（23.1 MB）で、ページは`レオ_v1.09.vrm`と`レオ_素体.vroid`、仕様VRM 0.0を掲載。ページの利用表示は使用/改造使用OK、改変物販売/原本譲渡/転売NG。販売・譲渡制限だけを保存禁止とは扱わないが、非公開検査/長期保管は明示されず、許可も推定しない。商品説明は「少年」で数値年齢は記載なし。年齢を推測せず、年齢不記載だけで中立構造検査/Tポーズを止めない。公式無料URLの認証なし・redirect追従なしGETは302 Location `https://booth.pm/users/sign_in`。ログイン/ダウンロードは行わず、`official_free_download_auth_required_not_verified`へ再分類。物理member-ID対応、metadata、shape/Tポーズは未確認。B35旧age-reviewの年齢理由と混合ZIP除外を訂正。B35 hold29は全件未アーカイブ。形状603/230/464、権利矛盾130、利用条件等未確認234、BOOTH認証待ち1、他サービス認証17、NAS隔離hold2、物理対応不明14は計797。根拠source ID35/36、B51 checkpointは`work/holiday-batch/booth-mixed-zip-reassessment-20261013-b51.json`。
-
-B53ではB35 hold `sakurabido-hapicchi`（BOOTH item4979735）を現行公式ページで再確認。0円ZIP「さくらリクオ_フリーアバター_はぴっち.zip」17.2 MBにVroidファイル・VRM・readmeを記載。作者表示はアバター/個人/個人商用/法人利用と改変OK、Vtuber利用/再配布NG、暴力・性的表現OK、creditは可能な範囲。これらの利用・再配布条件を私的保存禁止とは扱わないが、非公開技術検査/一時複製/長期保管は明示されず、許可/禁止どちらも推定しない。数値年齢/年齢ゲートは確認できず、年齢不記載だけを中立検査の禁止理由にしない。商品サムネイルは頭・胴・両腕までで両脚がなく、全身形状未確認。公式無料download URLへ認証なしHEADを1回行い、302 sign-inを確認。ログイン/GET/ダウンロード/VRM検査なし。主状態を`rights_unverified_hold`から`official_free_download_auth_required_not_verified`へ更新し、私的保存の権利軸は独立に未解決と記録。shape候補603/非人型230/未判定464は不変。B35 hold29は全件未アーカイブ。797件の排他的主状態は権利矛盾130、利用条件等未確認233、BOOTH認証待ち2、他サービス認証17、NAS隔離hold2、物理対応不明14で797。source ID39/40、checkpointは`work/holiday-batch/booth-mixed-zip-reassessment-20261014-b53.json`。
-
-B53 NAS read-only auditは487 ZIP/974 WebP、ZIP bytes 2,168,476,533、`verify_nas.py` `ok:true`/`errors:[]`。index 548,641 bytes、SHA-256 `0bf57c18c66a14caaa79578f8865f2d8242df49a4a2e7cb7b68e19c7c1ec3a9f`。root/models/previews 0777、index0600、`.index.lock` 0 bytes/mode000、named/default ACLなし。`findmnt`はNFSv3 `rw,sec=sys,local_lock=none`。`showmount -e`は3 exportsをprivate IPv4 /24に限定しwildcardなしと表示したが、server ACL/UID-GID mapping/squash/利用者単位の隔離/実効lockは未確認。NAS既存資産を保護し、新規保存停止継続。chmod/chown/ACL/NFS変更なし。
-
-B51 NAS read-only auditは487 ZIP/974 WebP、`verify_nas.py` `ok:true`/`errors:[]`、ZIP bytes 2,168,476,533。index 548,641 bytes/SHA-256 `0bf57c18c66a14caaa79578f8865f2d8242df49a4a2e7cb7b68e19c7c1ec3a9f`。root/models/previews 0777、index 0600、`.index.lock` 0 bytes/mode 000、named/default ACLなし。`findmnt`は`nas1.local:/volume1/hdd`のNFSv3 `rw,sec=sys,local_lock=none`を確認。`showmount -e`は3 exportsをprivate IPv4 /24に限りwildcardなしと表示したが、これは第三者/ユーザー隔離を証明しない。NAS server ACL、UID/GID mapping、squash、個別client allowlist、実効lock制御は未確認。NASの既存資産/権限は変更せず、新規保存停止を継続する。年齢設定未記載だけを中立・非性的検査の禁止理由にしない。
-
-B54ではB35 hold `branshop-nao`（BOOTH item6595645）を公式公開ページ・リンク先UVライセンスで再確認。無料`Nao_Contents.zip`（9.16 MB）にVRM形式モデルを掲示するが、実ZIP/VRMは未取得。利用条件は個人商用・二次著作物配布・成人向け表現などの軸別許可であり、再配布制限を私的保存禁止とは扱わず、DDWから未改変VRM配布許可も推定しない。非公開の中立技術検査・長期保管は明示されず、許可/禁止いずれも推定しない。数値年齢/年齢ゲートは確認できず、年齢不記載や成人向け表現条項だけで年齢を推定しない。公式download URLの無認証・追従なしHEADはHTTP/2 302 sign-in。認証/cookie/redirect follow/GET/取得/VRM検査なし。catalog verificationを`official_free_download_auth_required_not_verified`へ更新し、私的保存権利と形状scopeは別途未解決・未判定を維持。citation source IDs21/22/41、checkpoint `work/holiday-batch/booth-mixed-zip-reassessment-20261014-b54.json`。
-
-B55ではB35 hold `neoneko-ngii`（BOOTH item6254853）を再評価。無料828 KB ZIPのページ掲載情報・利用表示を記録したが、公式download URLの匿名HEADは302 sign-in。取得/ログイン/VRM解析なし。販売/譲渡制限を保存禁止とは扱わず、私的な中立検査・一時複製・長期保管は明示されないため許可も推定しない。数値年齢/age gateなしと確認し、キノコ説明・寸法から年齢/shapeを推測しない。主状態は`official_free_download_auth_required_not_verified`、shape unclassified、私的保存の権利軸は独立に未解決。source IDs42/43、checkpoint `work/holiday-batch/booth-mixed-zip-reassessment-20261014-b55.json`。
-
-B56ではB35 hold `ratenosu-untitled`（BOOTH item1571536）の過去B52調査をカタログへ反映した。公式ページは無料`無題 .zip`（33.1 MB）と別の`無題_おまけ .zip`（5.24 MB）を表示し、主packageにVRM/Unitypackage/Blend/PSDを記載する。作者の販売・未改造再配布制限だけを私的保存禁止とは扱わないが、個人的な非公開技術検査/一時複製/長期保管の明示許諾もなく、許可を推定しない。年齢/age gateはページに見当たらず、商品名から成年を推測しない。無料主package URLへの無認証・redirect追従なしHEADは302 sign-in。GET/ログイン/取得/VRM検査なし。catalog statusは`official_free_download_auth_required_not_verified`、私的保存権利は独立して未解決、shape unclassified。checkpoint `work/holiday-batch/booth-mixed-zip-reassessment-20261014-b56.json`、source IDs37/38。
-
-B57ではB35 hold `neoneko-nolt`（BOOTH item7933453）を再評価。無料`Nolt_ノルト_.zip`（22.9 MB）と別の「店長のおこづかい」500円offerを公式ページで確認。使用/改変使用OK、改変物販売/原本譲渡/転売NGだが、これらを私的保存禁止へ読み替えず、非公開検査/一時複製/長期保管の許可も推定しない。年齢不記載だけで中立検査を止めず、年齢を推測しない。download URLの匿名・cookieなし・redirect追従なしHEADは302 sign-in。未ログイン・未取得・shape/member対応未確認。主状態をBOOTH認証待ちへ変更し、私的保存権利は独立に未解決。source IDs44/45、checkpoint `work/holiday-batch/booth-mixed-zip-reassessment-20261014-b57.json`。
-B58ではB35 hold `neoneko-roa`（BOOTH item5108925）を再評価。無料`ロア.zip`（18.9 MB）にVRM 0.0と`.vroid`を掲載し、別の500円offerも表示。物理ZIP/VRMは未取得。使用/改変使用OK、改変物販売/原本譲渡/転売NGだが、これらを私的保存禁止へ読み替えず、非公開検査/一時複製/長期保管の許可も推定しない。数値年齢/age gateは確認できず、年齢不記載だけで中立検査を止めない。無料download URLの匿名・cookieなし・redirect追従なしHEADは302 sign-in。未ログイン・未取得・shape/member対応未確認。主状態をBOOTH認証待ちへ変更し、私的保存権利は独立に未解決。source IDs46/47、checkpoint `work/holiday-batch/booth-mixed-zip-reassessment-20261014-b58.json`。
-
-B59ではB35 hold `neoneko-romuru`（BOOTH item7933498）を再評価。無料`ロムル.zip`（22.8 MB）ページはVRM 0.0と編集用`.vroid`を掲載し、別の500円支援offerは分けて扱う。使用/改造使用OK、改変物販売/原本譲渡/転売NGを別軸で記録し、これらを私的保存禁止とは解釈しない。個人的な非公開中立技術検査/一時複製/長期保管は明示されず、許可/禁止を推定しない。数値年齢・年齢制限/age gateは確認できず、年齢不記載だけで中立構造検査/Tポーズを止めない。無料URLの認証/cookieなし・redirect追従なしHEADは302 sign-in。ログイン/GET/取得/VRM解析なし。物理member-ID対応とshapeは未確認。主状態は`official_free_download_auth_required_not_verified`、私的保存権利は独立して未解決。B35 hold29全件未アーカイブ。source IDs48/49、checkpoint `work/holiday-batch/booth-mixed-zip-reassessment-20261014-b59.json`。
-
-B59の読み取り専用NAS verifier/index再確認は487 ZIP/974 WebP、2,168,476,533 bytes、index 487行/548,641 bytes・SHA-256 `0bf57c18c66a14caaa79578f8865f2d8242df49a4a2e7cb7b68e19c7c1ec3a9f`、candidate absent、`verify_nas.py` `ok:true`/`errors:[]`。権限/ACL/NFSの詳細値は同日B58読み取り監査から変更なしの前提で再使用し、B59では再プローブしていない。B58監査ではroot/models/previews 0777、index 0600、lock mode 000、named/default ACLなし、NFSv3 `rw,sec=sys,local_lock=none`、3 exportsはprivate IPv4 /24表示。実効server-side隔離・UID/GID mapping/squash/利用者別隔離/lockは未確認。新規NAS保存停止、chmod/chown/ACL/NFS設定変更なし。現行797件は権利矛盾130、利用条件等未確認227、BOOTH認証待ち8、他サービス認証17、物理対応不明14。B35 hold29は全件未アーカイブ。次の候補へ進む前に最新main・NAS・checkpointを再確認し、認証ゲートを迂回しない。
-
-## 状況：認証障壁が部分的に解消
-
-ユーザーがChromeに正規ログインし、Hermesは`browser.use_real_profile: true`、実プロファイルをコピーしたローカルブラウザーセッション`booth-real-profile-local-2`を起動できた。BOOTHトップページでログイン済みアカウントメニューを画面確認。カタログID `pixellangel-dolly-devil` のパイロットは2026-10-10に実取得・検査・Tポーズ/顔確認・NAS保存まで完了。パイロット後にBOOTH認証済み32バッチを実施した。パスワード・Cookie・トークン・認証付き一時ダウンロードURLは表示、記録、リポジトリ追加、チャット出力を禁止。Cookieを手動抽出・curl等へ転送して認証を代用しない。
-
-**履歴スナップショット（2026-10-11、B40時点）**：
-- カタログ計1,297件。R1/R2/R3以外の797件は、NAS保存157、非人型68（実体8・作者索引1・商品ページ59）、埋込権利矛盾129、年齢/利用条件等の未確認238、モデル対応未確定14、混合ZIPのみを理由とした範囲外0、別host拒否2、`dweb.link`恒久ブロック/未試行141、BOOTH認証待ち0、別途未検証1（ENRAI燕・note.com会員登録ゲート）、VRoid Hub認証待ち16、商品ページ404 3、VRoid Studioエクスポート専用23、公式メタデータ/リポジトリのみ5。合計797。
-- B35は41 ID/35商品を再評価し、3 IDを2商品の正規無料混合ZIPからVRMのみ抽出して保存、9 IDを既存レンダー根拠で非人型、29 IDを独立根拠不足で保留とした。B36ではそのうち`pike-aurora`の中立Tポーズ/顔をローカル確認したがNAS隔離未確認のため未保存、`pike-steam-rabbit`はプレビュー条件未達で未保存。年齢未記載だけは停止理由としない。14 IDは既存検査記録と照合したが一対一マッピングは0件で、14すべて対応不明のまま維持。
-- NASは487 ZIP・974 WebP、未圧縮VRM 3,925,815,073 bytes、ZIP 2,168,476,533 bytes、WebP 15,210,140 bytes、削減率44.7637%。`verify_nas.py`は`ok:true, errors:[]`。B35開始時484行の索引SHA群は全行一致し、旧355件の保護対象SHA-256は`4970dab415f5ca7c730aaaf6ece0e490888c2cdf9789252c3e0208b459501f19`で不変。
-- B33 checkpointは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261011-33.json`。B34 checkpointは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-authenticated-batch-20261011-34.json`（`batch34_checkpointed_partial`）。B35 checkpointは`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-mixed-zip-batch-20261011-35.json`。権利/年齢保留・保存済みIDは新しい根拠なしに再取得しない。
-- B36ではNASファイル・索引を書き換えていない。B38〜B40の権利再評価もカタログメタデータ・文書だけで、NASファイル・索引・権限に変更なし。`collection-policy.md`の「年齢未記載だけで中立技術検査を止めない」方針と[NAS読み取り専用監査](nas-storage.md)を優先する。487件の既存保存は保持し、第三者アクセスを排除できると確認されるまで新規保存しない。
-
-## B35結果：混合ZIP再評価と対応不明ID照合
-
-現在の方針では、無料の正規ZIPに`.vroid`、Blender、FBX、PSD、Unitypackage等が混在していても、混合形式だけでは除外しない。B35では同一商品URLの重複取得を避け、41 ID/35商品を一件ずつ再評価した。正規無料UIで取得したのは2 ZIP（67,186,856 bytes）だけで、3 IDを物理VRM・埋込メタデータ・年齢/規約・全身形状・プレビューまで確認してNASへ保存した。残る29 IDは独立した年齢/権利/モデル対応/物理形状の不足があり保留。9 IDは非人型として保存しない。混合ZIPそのものは、いずれのhold理由にも用いない。
-
-1. 41 IDの混合ZIP再評価はB35で完了。`official_product_page_scope_excluded_not_archived`/`official_package_inspected_scope_excluded_not_archived`の対象は0 ID。29 IDは新しい権利・年齢・対応・形状根拠が得られるまで保留し、9非人型IDは取得しない。
-2. 対応不明14 IDは既存checkpoint/manifest照合を完了したが全件保留のまま。5 IDには物理VRM記録があり、2 IDにはパッケージ内の複数VRM一覧、7 IDには商品ページ根拠があるものの、いずれも一対一対応を証明しない。別の作者根拠・一意なmember対応資料なしに再取得・再割当てしない。
-3. 新しい正式な根拠が届いた場合だけ、最新版main・NAS監査・B35 checkpointから再開する。混合ZIPでは正規の無料UIから一時取得し、許諾済み・年齢適合・物理member対応済みの人型VRMだけ抽出する。zip bomb上限とパス逸脱検査を継続し、元ZIP/source/VRoid/textureをNASへ保存しない。
-4. HTTP 429を返したホストへ再要求せず、`dweb.link`141 IDを別ゲートウェイで迂回しない。BOOTH認証待ちは0。ENRAI/note1、VRoid Hub16、VRoid Studio export23は別作業として保留。権利矛盾129・許諾未確認238は新しい根拠なしに再取得しない。
-5. 実作業の区切りでNAS全件`verify_nas.py`、B35開始484件の行ハッシュと旧355件の不変性、`validate.py`、既存テスト、`git diff --check`を確認する。GitHub Actions/RDCを使わない。
-
-以下のB34/B35記述は履歴であり、B36のNAS privacy gateを上書きしない。現時点の未解決作業は、NAS管理者による実効隔離の確認、個別権利/対応/形状hold、および上記の認証/エクスポート案件。新しい根拠がないまま過去のページ確認・ZIP取得を再実行しない。
-
-## 継続実行手順（認証済みBOOTH結果）
-
-### A. 前提の安全確認
-
-1. Git最新main、ローカル未コミット変更、実NASマウント（`findmnt -T /mnt/hdd/vrm`）、現在のNAS `index.jsonl`、checkpointを照合。`python3 scripts/verify_nas.py --nas-root /mnt/hdd/vrm`を実行して現時点の保存済み件数を確定する。開始時の全index行とSHA-256をローカルに記録。**B36監査ではmode 0777の親ディレクトリ、NFSv3 `sec=sys`、サーバー側隔離未確認のため、NAS管理者が第三者アクセスを実効的に排除できると確認するまで新規NAS保存を行わない。** `chmod`/`chown`やNAS/NFS設定変更は禁止。355件/484件は過去baseline、現在保護する実体は487 ZIP/974 WebP。
-2. `booth-real-profile-local-2`の生存とBOOTHログイン状態を**画面で**再確認。ログインが消えていたらユーザー本人の正規ログインが必要と記録し、Cookieコピーや認証回避をしない。BOOTH・各ショップの規約、ページの無料配布条件を確認し、サイトが自動取得を認めない場合は処理を停止して報告する。
-
-### B. 完了済みパイロット（再取得しない）
-
-- 2026-10-10に`pixellangel-dolly-devil`（`https://booth.pm/ja/items/4795020`）の無料`dolly_devil.vrm`を正規UIから取得し、権利・VRM実体・人型・Tポーズ・顔を確認してNASへ保存済み。有料の`.vroid`は取得していない。保存済みIDの再ダウンロードや上書きは禁止。
-
-### C. B34実行履歴（再実行禁止）
-
-- B34は105商品ページ（候補navigation 113回）、無料UI操作4回、物理VRM9件検査、転送36,591,848 bytes、NAS新規保存1件、145状態遷移を記録した。B34開始145 IDすべてに状態遷移があり、BOOTH認証待ちは0、別途未検証のENRAI燕1 IDは未完了のまま維持。B34時点の詳細は`docs/hermes-bulk-run-results.md`に残す。
-- B34作業中に候補外item IDを誤って一度開き404となったが、ページ件数に含めず再試行・代替URL確認をしていない。この履歴は監査用であり、再アクセスしない。
-- B34の権利/年齢保留・対応不明・範囲外・非人型は、B35で明示的に再評価したID以外を再取得対象へ戻さない。BOOTHや別サービスの認証を推測・迂回しない。
-
-### D. 最終処理
-
-NAS全件`verify_nas.py`で`ok:true, errors:[]`、B35開始時484行と旧355件の索引行・ファイル実体が不変であることを確認。全797 IDの排他的状態を再計算し、認証待ち・新規保存数・hold理由を明記する。モデル対応未確定は権利/年齢保留と別集計する。正本JSON、`data/download-scope.json`、`docs/hermes-bulk-run-results.md`、必要に応じて本指示書を更新。最低限の`scripts/validate.py`、既存テスト、`git diff --check`後に作業内容だけをcommit/push。GitHub Actions/RDCを使用せず、NAS上のVRM/ZIP/WebP、ログ、ユーザー認証情報をGitHubへpushしない。
-
-**日本語の最終報告**：ログインとダウンロードの成功可否、パイロット結果、今回処理した商品/ID数、ダウンロード成功・失敗、人型/非人型/権利保留/画像保留、NAS新規・累計件数、ZIP容量と圧縮率、NAS監査、旧355件不変性、797 IDの内訳、commit SHA・再開チェックポイントと次回必要なユーザー操作。未実施は成功と書かない。
-
-**この文書は実行用指示であり、記載しただけでモデルはダウンロードされていない。**
+本書の更新だけで実機取得・NAS保存が行われたわけではない。

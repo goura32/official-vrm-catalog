@@ -11201,8 +11201,8 @@
       "license_name": "CC0 1.0 Universal (Numinia作者公開データ)",
       "license_url": "https://github.com/PabloFMM/numinia-digital-goods-data/blob/main/LICENSE",
       "verification": "official_binary_inspected_rights_conflict_not_archived",
-      "checked_at": "2026-10-08",
-      "notes": "Numinia公開索引ではCC0だが、実VRMはGLB v2/VRM 0.x、埋込licenseName=CC_BYと確認。配布元表示と埋込権利情報が矛盾するため権利保留、NAS未保存。"
+      "checked_at": "2026-10-14",
+      "notes": "Numinia公開索引ではCC0だが、実VRMはGLB v2/VRM 0.x、埋込licenseName=CC_BYと確認。配布元表示と埋込権利情報が矛盾するため権利保留、NAS未保存。 2026-10-14 (B81): upstream main SHA 952a01987b2adefe305864956d59e8bf8cc9e5de。公式indexはactive/public/CC0/creator=PabloFMM、repository LICENSEもCC0。既存binary検査の埋込CC_BYはVRM公式mappingでCC BY 4.0。CC BY 4.0は複製を明示許諾し、帰属表示条件はLicensed Materialを共有する場合に適用。したがって権利者権限が有効なら、非公開の構造検査用コピーには複製許諾の根拠があり、CC0/CC_BYの表示差だけを保存禁止と解さない。長期保管の独立条項は未確認。CC0はAffirmerが保有する権利の範囲に限られ、権利者権限・全素材の由来は独立確認されていないため、無条件の保存許可とはせずrights-conflictを維持。商用/アバター利用・公開再配布は今回判断しない。バイナリ再取得/再解析/描画/NAS保存なし。詳細はdocs/hermes-bulk-run-results.mdのB81節。"
     },
     {
       "id": "numinia-avatar-arla",
@@ -11221,8 +11221,8 @@
       "license_name": "CC0 1.0 Universal (Numinia作者公開データ)",
       "license_url": "https://github.com/PabloFMM/numinia-digital-goods-data/blob/main/LICENSE",
       "verification": "official_binary_inspected_rights_conflict_not_archived",
-      "checked_at": "2026-10-08",
-      "notes": "Numinia公開索引ではCC0だが、実VRMはGLB v2/VRM 0.x、埋込licenseName=CC_BYと確認。配布元表示と埋込権利情報が矛盾するため権利保留、NAS未保存。"
+      "checked_at": "2026-10-14",
+      "notes": "Numinia公開索引ではCC0だが、実VRMはGLB v2/VRM 0.x、埋込licenseName=CC_BYと確認。配布元表示と埋込権利情報が矛盾するため権利保留、NAS未保存。 2026-10-14 (B81): upstream main SHA 952a01987b2adefe305864956d59e8bf8cc9e5de。公式indexはactive/public/CC0/creator=PabloFMM、repository LICENSEもCC0。Arla descriptionはVRM asset uploaded via Numinia Adminと記すが、権利者権限を独立には証明しない。既存binary検査の埋込CC_BYはVRM公式mappingでCC BY 4.0。CC BY 4.0は複製を明示許諾し、帰属表示条件はLicensed Materialを共有する場合に適用。したがって権利者権限が有効なら、非公開の構造検査用コピーには複製許諾の根拠があり、CC0/CC_BYの表示差だけを保存禁止と解さない。長期保管の独立条項は未確認。CC0はAffirmerが保有する権利の範囲に限られ、権利者権限・全素材の由来は独立確認されていないため、無条件の保存許可とはせずrights-conflictを維持。商用/アバター利用・公開再配布は今回判断しない。バイナリ再取得/再解析/描画/NAS保存なし。詳細はdocs/hermes-bulk-run-results.mdのB81節。"
     },
     {
       "id": "bizava-toma-b",

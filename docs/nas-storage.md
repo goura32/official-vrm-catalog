@@ -1,5 +1,9 @@
 # NAS保存とVRMプレビュー生成
 
+**2026-10-14 現行運用**：ユーザーの目的は個人用VRM収集。新規保存の前提は正規入手、NASマウント/書込み可、モデル形状・形式・WebP・ハッシュの通常検証のみ。既存のNFSv3/`0777`に関する監査結果は履歴として残すが、追加のサーバー側隔離確認ができないこと**だけ**で保存を停止しない。LAN上の他利用者から見えないという保証をしているわけではない。ユーザーが依頼していないchmod/chown/ACL/exportの変更や、反復的な権限監査はしない。NAS上の既存487件を保護し、GitHubへモデル実体はpushしない。実行判断は[Hermes継続指示](hermes-bulk-resume.md)を優先。
+
+## 過去のB84アクセス権限監査（履歴、保存停止条件ではない）
+
 2026-10-14 B84読み取り専用再確認。**本書がNAS保存方針の正本**。最新実機結果は487 ZIP/974 WebP、ZIP 2,168,476,533 bytes、`index.jsonl` 487 rows/548,641 bytes・SHA-256 `0bf57c18c66a14caaa79578f8865f2d8242df49a4a2e7cb7b68e19c7c1ec3a9f`、`verify_nas.py` `ok:true`/`errors:[]`。`/mnt/hdd` 0777 root:root、`/mnt/hdd/vrm` 0777 ws2:uucp、`models/`と`previews/` 0777 ws2:ws2、index 0600 ws2:ws2、`.index.lock` mode 000。確認pathにnamed/default ACLなし。実mountはautofs配下のNFSv3 `nas1.local:/volume1/hdd`、`rw,sec=sys,local_lock=none`。`showmount -e`は3 exportsをprivate IPv4 /24に限定しwildcardなしと表示するが、サーバー側ACL、UID/GID mapping、root/all squash、user isolation、実効lockは未確認のため第三者隔離は未証明で、新規保存を停止。chmod/chown/ACL/NFS設定変更なし。詳細は[B84実機検証レポート](hermes-bulk-run-results.md)を参照。過去の「配布ZIP原本を残す」「zstd確定」は旧方針であり、適用しない。
 
 ### B77 読み取り専用マウント・export再確認

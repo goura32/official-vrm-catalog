@@ -2994,8 +2994,8 @@
       "license_name": "作者BOOTH商品ページ記載の利用条件",
       "license_url": "https://booth.pm/ja/items/6649467",
       "verification": "official_binary_inspected_rights_conflict_not_archived",
-      "checked_at": "2026-10-10",
-      "notes": "0円VRMを実取得・検査。GLB v2/VRM 0.x、埋込author=avalon、allowedUserName=OnlyAuthor、commercialUssageName=Disallow、licenseName=Redistribution_Prohibited、VRM SHA-256=d54d06313fa40c6c8ec23bff8dbfdb6c493b90c5b870ffaced5cdf3b16a9b894。商品説明は無料版アバターの商用利用を許可する一方、埋込値は作者のみ・商用不可のため権利矛盾として保留。プレビュー/NAS保存なし。"
+      "checked_at": "2026-10-14",
+      "notes": "0円VRMを実取得・検査。GLB v2/VRM 0.x、埋込author=avalon、allowedUserName=OnlyAuthor、commercialUssageName=Disallow、licenseName=Redistribution_Prohibited、VRM SHA-256=d54d06313fa40c6c8ec23bff8dbfdb6c493b90c5b870ffaced5cdf3b16a9b894。商品説明は無料版アバターの商用利用を許可する一方、埋込値は作者のみ・商用不可のため権利矛盾として保留。プレビュー/NAS保存なし。2026-10-14再確認（source ID108）：商品ページは無料版VRMを示し、メタバース/動画配信のアバター利用、法人・個人の商用利用、改変を許可する一方、キャラクター/改変キャラクターの再配布・販売、性的/暴力表現等を禁止。既存metadataのallowedUserName=OnlyAuthorとcommercialUssageName=Disallowはアバター利用・商用利用の各軸でページと矛盾し、licenseName=Redistribution_Prohibitedは再配布制限と整合。公式VRM schema上、allowedUserNameはアバターを実行できる利用者、commercialUssageNameは商用利用の条件を表す（source ID101）。これらのアバター/商用/再配布制限だけを私的な中立構造検査用コピー/保管の禁止へ読み替えない。他方、商品ページに技術検査用の非公開複製・独立した長期保管の明示許諾はなく、保存許可も推定せずrights-conflictを維持。数値年齢/age gateの明示なし。年齢を推測せず、未記載だけで中立検査/Tポーズを禁じない。今回は再取得・描画・NAS保存なし。"
     },
     {
       "id": "shopperch-hiiragi",

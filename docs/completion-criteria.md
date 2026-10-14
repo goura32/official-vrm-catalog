@@ -31,7 +31,7 @@
 
 注：この797件の排他的内訳と、1,297件全体の`verification`生ラベルCounterは別集計。B36時点の`rights_unverified_hold` 237件は履歴値。B68は218件/130件、B74・B75現在は`rights_unverified_hold` 219件/`official_binary_inspected_rights_conflict_not_archived` 129件。B73では、現行UV Licenseが成人向け性的利用を許可する一方、暴力利用の許可は確認できず、暴力禁止metadataとの矛盾を裏付ける根拠がないと確認し、旧noteを誤りとして1件を未確認へ再分類した。残る未確認/矛盾の個別根拠監査は未完であり、監査完了を意味しない。B75時点のraw labelは`rights_unverified_hold` 219、`official_binary_inspected_rights_conflict_not_archived` 129、`official_binary_inspected_embedded_rights_conflict_not_archived` 3（R1/R2側）、`official_free_download_auth_required_not_verified` 17（BOOTH 16＋ENRAI/note 1）、`official_hub_auth_required` 16。ラベル値だけで排他的区分を作らず、checkpoint・取得元・NAS indexで分類する。詳細は[B75実機結果](hermes-bulk-run-results.md)。
 
-B75で確認したVRoid Studio個別規約（source ID97）は、第12・13条で出力物の利用を含有コンテンツの個別ライセンスに従わせ、個別条件の表示がない提供コンテンツについて複製・アーカイブ等を含む標準ライセンスを定める。これは商用・再配布・アバター利用の制限だけから保存禁止を推論しない方針を補強するが、特定VRM内の素材/個別表示や第三者条件の確認なしに、全体の私的保管許可へ一般化しない。VRoid Studio本体の利用・解析に関する条項も、独立ツールでの出力VRM検査の包括許可/禁止とは読み替えない。
+B75で確認したVRoid Studio個別規約（source ID97）は、第12・13条で出力物の利用を含有コンテンツの個別ライセンスに従わせ、個別条件の表示がない提供コンテンツについて複製・アーカイブ等を含む標準ライセンスを定める。公式ガイドは、特別表示のない提供モデルについて出力モデルデータをVRoid Studio以外のソフトウェアで編集・利用する例も示す（source ID96）。この範囲から、第7条のソフト利用/解析制限を独立ツールによる出力VRMの中立検査の一律禁止とは読まない。一方、特定VRM内の素材/個別表示や第三者条件が未確認なら、全体の私的保管許可にも一律禁止にも一般化しない。
 
 ### 年齢記載に関するB68補助トリアージ
 

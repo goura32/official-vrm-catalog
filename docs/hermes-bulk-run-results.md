@@ -1110,3 +1110,10 @@ R1/R2のローカル再開・監査チェックポイント（GitHubへは含め
 - 開始時`main`/`origin/main`はB77 commit `db80ad3cf939f696c5c5a29392030ddc5ed6814b`で一致、worktree clean。権利矛盾129 recordsのsource URL群からBOOTH item4911831（8 variants）を選び、公開商品ページを再確認（source ID14）。無料allType ZIP（52.2 MB）と8種の個別無料VRMを掲載し、100円の支援版と無料版は同一ファイルと表示。今回はリンクをクリックせず、追加取得・再検査・描画なし。
 - 商品ページはcluster/VRC等での利用、モデル/名前の改変、商用利用を許可し、「再販のみ」控えるよう記載。既存8 VRMの`commercialUssageName=Disallow`とは商用利用軸で直接矛盾する。一方、ページの再販制限とmetadataの広い`Redistribution_Prohibited`は適用範囲を同一視せず、非再販の再配布許可も推定しない。いずれも私的な非公開構造検査・複製・長期保管の許可/禁止を示さず、ページにもその条件は明記されない。
 - 法律・条例・公序良俗に反する行為、政治/宗教にかかわる表現での利用は禁止。クレジットは任意。ページ本文/表示に数値年齢・age gateは見当たらず、年齢を推測しない。年齢不記載だけで中立構造検査/Tポーズを禁止しない。verification/既存SHA-256/shape scope/NAS indexは変更なし。NAS保存停止を維持。
+
+## B79：Steam Rabbitのバックアップ条項と私的検査保存の区別（2026-10-14）
+
+- 開始時`main`/`origin/main`は`e0dfec07f56bcfdab957dcc440152f5092dba7df`で一致、worktree clean。最新のread-only NAS verifierは487 ZIP/974 WebP、ZIP bytes 2,168,476,533、`ok:true`/`errors:[]`。indexは487 rows/548,641 bytes、SHA-256 `0bf57c18c66a14caaa79578f8865f2d8242df49a4a2e7cb7b68e19c7c1ec3a9f`。確認pathは親/モデル/preview directories 0777、index 0600、lock mode 000、named/default ACLなし。NFSv3 `rw,sec=sys,local_lock=none`、exportsはprivate IPv4 `/24`限定・wildcardなし。server-side user isolation未証明のため新規保存停止、NAS設定変更なし。
+- B35 hold `pike-steam-rabbit`のitem4468213を公開ページで再確認（source ID13）。無料offerは25.1 MB ZIPと表示されるが、ページ確認のみで配布ファイル取得・再検査・描画はしていない。本文はダウンロード時の規約同意、利用者自身によるデータバックアップ、商品を使うモデル等の無料/商用利用と配布を許可し、未改変データ再配布を禁止。改変データ再配布・credit無表記・用途に迷う場合は相談対象と記載。
+- バックアップ条項は通常の許諾用途におけるバックアップを想定する根拠になるが、独立した非公開技術検査用の一時複製/長期保管まで明示的に許可すると断定できない。商用/アバター利用の許可や原本再配布の制限だけを私的保存禁止へ読み替えず、反対にその条項だけで技術検査用copyの許可とも推論しない。`rights_unverified_hold`を維持。ページに数値年齢/age gateは見当たらず、年齢は推測せず、中立検査を年齢不記載だけで禁止しない。
+- B36既存のVRM/hash記録と、腕がT字に見えず顔がゴーグルで隠れるためプレビュー条件未達だった所見は変更なし。verification・shape scope・NAS indexは変更せず、NAS書込みなし。全1,297 ID一意、raw rights-conflict 129/`rights_unverified_hold` 219、B35 hold29現行内訳（認証16/権利未確認9/矛盾1/非人型1/NAS隔離2）は不変。RDC/GitHub Actions・追加テスト不使用。

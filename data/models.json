@@ -4134,8 +4134,8 @@
       "license_name": "作者BOOTHの商品説明・利用規約",
       "license_url": "https://booth.pm/ja/items/4065831",
       "verification": "official_binary_inspected_rights_conflict_not_archived",
-      "checked_at": "2026-10-10",
-      "notes": "BOOTHの表示済み無料ダウンロードから取得・検査。VRM 0.x、SHA-256=ac298d1333c0fa4b540820b7418e1182966af3c5746f29e9116ecdc5e167ba3b。埋込allowedUserName=OnlyAuthorとOther permission URLのallowed_to_use_user=everyoneが不整合で、商品説明の利用許諾とも一致を確認できないため権利保留。プレビュー/NAS保存なし、一時VRMを削除。"
+      "checked_at": "2026-10-14",
+      "notes": "BOOTHの表示済み無料ダウンロードから取得・検査。VRM 0.x、SHA-256=ac298d1333c0fa4b540820b7418e1182966af3c5746f29e9116ecdc5e167ba3b。埋込allowedUserName=OnlyAuthorとOther permission URLのallowed_to_use_user=everyoneが不整合で、商品説明の利用許諾とも一致を確認できないため権利保留。プレビュー/NAS保存なし、一時VRMを削除。2026-10-14再確認（source ID107）：商品ページはゲーム/VRChat/clusterでのアバター使用と配信を認め、転売等の商用利用を禁止。既存B28 metadataのOnlyAuthor/everyone差はアバター利用条件の矛盾であり、それだけから非公開構造検査用コピー/保存の禁止とは推論しない。VRM schemaのallowedUserNameはアバターを実行できる利用者条件、otherPermissionUrlは追加条件へのリンク（source ID101）。他方、ページと保存済み条件記録に非公開技術検査・独立した長期保管の明示条項はなく、許可も推定せずrights-conflict維持。redistribution=disallowも私的コピー禁止と同一視しない。数値年齢/age gateの明示なし。年齢を推測せず、年齢不記載だけで中立構造検査/Tポーズを禁じない。今回は再取得・描画・NAS保存なし。"
     },
     {
       "id": "teoteome-unisex-boy",

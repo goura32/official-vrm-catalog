@@ -1,6 +1,6 @@
 # Hermes Agent 継続作業指示（個人用VRMカタログ）
 
-**2026-10-15更新。** これは現行の実行指示。B01〜B85の詳しい実績は[実機検証履歴](hermes-bulk-run-results.md)に保存し、本書では繰り返さない。**目的は、正規に無料入手できる人型VRMを個人用NASへ集めること。細かな権利監査やNASの隔離調査を主作業にしない。** 過去の「NFSの管理者隔離が未証明なので新規保存停止」「独立した長期保管許諾が明記されないので保存停止」は現行の一律停止条件としては採用しない。利用規約・法令に反する取得を許す趣旨ではない。
+**2026-10-15更新。** これは現行の実行指示。B01〜B86の詳しい実績は[実機検証履歴](hermes-bulk-run-results.md)に保存し、本書では繰り返さない。**目的は、正規に無料入手できる人型VRMを個人用NASへ集めること。細かな権利監査やNASの隔離調査を主作業にしない。** 過去の「NFSの管理者隔離が未証明なので新規保存停止」「独立した長期保管許諾が明記されないので保存停止」は現行の一律停止条件としては採用しない。利用規約・法令に反する取得を許す趣旨ではない。
 
 ## B84開始点（履歴）
 
@@ -9,12 +9,20 @@
 - カタログ**1,297 ID**。現行ラベルで権利矛盾129、未確認219、BOOTH等の認証待ちやNAS隔離保留など別ラベルあり。これらは**保存不可の断定ではなく以前の調査結果**。既存notes・出典を残し、根拠のない一括ラベル書き換えはしない。
 - B84は`mjmoonbow-dragon-2-775e309`の文書・権利表示をレビューしただけで、ダウンロード・NAS保存なし。B35以前のチェックポイントを再実行しない。
 
-## B85終了時の最新状態（2026-10-15）
+## B85終了時（履歴：2026-10-15）
 
 - B85開始時のNASは487 ZIP・974 WebP（ZIP 2,168,476,533 bytes、index SHA-256 `0bf57c18c66a14caaa79578f8865f2d8242df49a4a2e7cb7b68e19c7c1ec3a9f`）。終了時は686 ZIP・1,372 WebP、ZIP 4,070,462,418 bytes、index SHA-256 `59d737d104b21a584fa1f41d9fe20a301eb776a45571084955b51bdbe9b4a96f`。全件`verify_nas.py`は686 entries/1,372 previews、`ok:true`、`errors:[]`、全形式ZIP。
 - B85で人型VRMを199件新規保存（+398 WebP）。開始時487行を現在のindexから時刻で再構成したSHA-256が開始checkpointと一致し、既存行の不変を確認。199件すべて`humanoid_confirmed_by_operator`。全ID・SHA・サイズ・供給元数は`/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/nas-batch-summary-487-to-686-20261015.json`。優先Aの`youkihi-recruit-suit`/`youkihi-long-black-hair`も保存済み。
 - 現行scopeは642候補、未保存49件（VRoid Hub認証待ち16、公式export-only 23、rights conflict 6、権利未確認3、対応付け不明1）。未保存候補の`download_url`直接リンクは0件。ユーザー指定のBOOTH認証待ち16件とは異なり、現状の16件はVRoid Hub認証待ち。
 - 作業開始時のmain/origin SHAは`d7f993a99b35ba2f9e2961bf97dfc297391fa36d`。次回は`origin/main`をfetchし、実測index・このresume文書・checkpointを再確認する。
+
+## B86終了時の最新状態（2026-10-15）
+
+- B86開始時は686 ZIP・1,372 WebP、index SHA-256 `59d737d104b21a584fa1f41d9fe20a301eb776a45571084955b51bdbe9b4a96f`。`lillian-nanaka`を1件追加し、終了時687 ZIP・1,374 WebP、ZIP合計4,084,974,896 bytes、preview合計23,615,484 bytes、index SHA-256 `2fae05399faeb40fcd8689e7d61c260d9ea81cc8fdb5fa78bba99ac85e29ed53`。新規IDは`lillian-nanaka`、VRM 0.x、血のりなしvariant。
+- NAS readbackでZIP CRC、sole `model.vrm`、VRM SHA/size、T-pose/face WebP SHA/寸法を照合。開始686行の再構成SHA-256は`59d737d104b21a584fa1f41d9fe20a301eb776a45571084955b51bdbe9b4a96f`で一致。全件`verify_nas.py`: 687 entries・1,374 previews、ZIPのみ、`ok:true`、`errors:[]`。
+- B86後の未保存候補48件：VRoid Hub認証待ち16、公式export-only 23、rights conflict 6、権利未確認2、対応付け不明1。直接download URLは0件。認証待ち16件はBOOTHではなくVRoid Hubのため、BOOTHログインを別サービスへ転用しない。既存認証済みVRoid Hub profileの利用許可がない限り取得保留。
+- `lillian-nanaka`の同一無料ZIPはB48で取得済みだったことが今回のUI転送後に判明。archive SHA-256一致をcheckpointに記録し、以後同商品を再取得しない。
+- 継続checkpoint: `/home/ws2/.local/state/official-vrm-catalog/work/holiday-batch/booth-vrm-nas-intake-20261014.jsonl`。B86単独summaryは`nas-batch-summary-686-to-687-20261015.json`。
 
 ## 最優先：取得・実物検査・NAS保存
 
